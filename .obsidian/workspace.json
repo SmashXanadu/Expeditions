@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "index.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -163,8 +163,8 @@
   "lastOpenFiles": [
     "Uncharted Waters/0 About/About Uncharted Waters.md",
     "index.md",
-    "README.md",
     "Uncharted Waters/0 To Do.md",
+    "README.md",
     "Uncharted Waters/hexgrid.png",
     "Uncharted Waters/GM Resources/Session Structure.md",
     "Uncharted Waters/GM Resources/Running an Excursion.md",
