@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Uncharted Waters/0 To Do.md",
-                "mode": "source",
+                "file": "index.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Uncharted Waters/0 To Do.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Uncharted Waters/0 To Do.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Uncharted Waters/0 To Do.md"
+                "file": "index.md"
               }
             }
           }
@@ -161,7 +161,10 @@
   },
   "active": "76d54c662cf73db1",
   "lastOpenFiles": [
+    "Uncharted Waters/0 About/About Uncharted Waters.md",
     "index.md",
+    "README.md",
+    "Uncharted Waters/0 To Do.md",
     "Uncharted Waters/hexgrid.png",
     "Uncharted Waters/GM Resources/Session Structure.md",
     "Uncharted Waters/GM Resources/Running an Excursion.md",
@@ -175,10 +178,8 @@
     "Uncharted Waters/Characters",
     "Uncharted Waters/1 Assets/Music.md",
     "Uncharted Waters/1 Assets",
-    "Uncharted Waters/0 About/About Uncharted Waters.md",
     "Uncharted Waters/0 About/About Open Table.md",
     "Uncharted Waters/0 About",
-    "Uncharted Waters/0 To Do.md",
     "Uncharted Waters/Systems/Downtime Activities/Training.md",
     "Uncharted Waters/Systems/Downtime Activities/Player Communication.md",
     "Uncharted Waters/Systems/Downtime Activities/Trade.md",

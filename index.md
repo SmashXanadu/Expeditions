@@ -1,1 +1,1 @@
-[Getting Started](About%20Uncharted%20Waters.md)
+[[About Uncharted Waters]]
