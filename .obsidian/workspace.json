@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "a3b8c92a735adb26",
+    "type": "split",
+    "children": [
+      {
+        "id": "1cc866336bc457f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "338260843797eafc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0fd7477214c60170",
+    "type": "split",
+    "children": [
+      {
+        "id": "986121741c46ea0b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bad5ecad3b1a4aa8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b239a31ecd13509b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2ba2f3f5a9f1a890",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "883784671e8587d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "285c407a80c0ce10",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aae7d4eb0ecc38f3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "74e05de7fce4b875",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b0d7105b68b2bfa5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8fec9293fddcd367",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "338260843797eafc",
+  "lastOpenFiles": [
+    "Legal.md",
+    "Player's Guide/Creating a character/Races/Tiefling.md",
+    "Player's Guide/Creating a character/Races/Halfling.md",
+    "Player's Guide/Creating a character/Races/Human.md",
+    "Player's Guide/Creating a character/Races/Half-Orc.md",
+    "Player's Guide/Creating a character/Races/Half-Elf.md",
+    "Player's Guide/Creating a character/Races/Elf.md",
+    "Player's Guide/Creating a character/Races/Gnome.md",
+    "Player's Guide/Creating a character/Races/Dwarf.md",
+    "Player's Guide/Creating a character/Races/Dragonborn.md",
+    "Player's Guide/Creating a character/Races/# Racial Traits.md",
+    "Player's Guide/Creating a character/Classes/Wizard.md",
+    "Player's Guide/Creating a character/Classes/Rogue.md",
+    "Player's Guide/Creating a character/Classes/Warlock.md",
+    "Player's Guide/Creating a character/Classes/Sorcerer.md",
+    "Player's Guide/Creating a character/Classes/Ranger.md",
+    "Player's Guide/Creating a character/Classes/Paladin.md",
+    "Player's Guide/Creating a character/Classes/Monk.md",
+    "Player's Guide/Creating a character/Classes/Fighter.md",
+    "Player's Guide/Creating a character/Classes/Druid.md",
+    "Player's Guide/Creating a character/Classes/Barbarian.md",
+    "Player's Guide/Creating a character/Classes/Cleric.md",
+    "Player's Guide/Creating a character/Classes/Bard.md",
+    "Player's Guide/Creating a character/Characterizations/Inspiration.md",
+    "Player's Guide/Creating a character/Characterizations/Multiclassing.md",
+    "Player's Guide/Creating a character/Characterizations/Languages.md",
+    "Player's Guide/Creating a character/Races",
+    "Player's Guide/Creating a character/Premade Characters",
+    "Player's Guide/Creating a character/Classes",
+    "Player's Guide/Creating a character/Characterizations",
+    "Player's Guide/Gameplay",
+    "Player's Guide/Equipment",
+    "Player's Guide/Creating a character",
+    "Player's Guide",
+    "Facilitator's Guide",
+    "Rules Compendium/Treasure"
+  ]
+}
