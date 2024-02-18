@@ -1,0 +1,11 @@
+Alchemist
+Blacksmith
+Chef
+Enchanter
+Leatherworker
+Artificer
+Jeweller
+Tailor
+Fisherman
+Archaeologist
+Poisoner

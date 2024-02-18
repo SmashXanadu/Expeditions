@@ -1,2 +1,7 @@
 # Legacy5e
-[[Player Quick Start Guide]]
+
+System Rules
+
+Open Table Rules
+
+Bitter Badger Player Portal

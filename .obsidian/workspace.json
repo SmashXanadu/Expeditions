@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "76d54c662cf73db1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "index.md"
               }
             }
           }
@@ -146,43 +159,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "338260843797eafc",
+  "active": "76d54c662cf73db1",
   "lastOpenFiles": [
-    "Legal.md",
-    "README.md",
-    "Player's Guide/Creating a character/Races/Tiefling.md",
-    "Player's Guide/Creating a character/Races/Halfling.md",
-    "Player's Guide/Creating a character/Races/Human.md",
-    "Player's Guide/Creating a character/Races/Half-Orc.md",
-    "Player's Guide/Creating a character/Races/Half-Elf.md",
-    "Player's Guide/Creating a character/Races/Elf.md",
-    "Player's Guide/Creating a character/Races/Gnome.md",
-    "Player's Guide/Creating a character/Races/Dwarf.md",
-    "Player's Guide/Creating a character/Races/Dragonborn.md",
-    "Player's Guide/Creating a character/Races/# Racial Traits.md",
-    "Player's Guide/Creating a character/Classes/Wizard.md",
-    "Player's Guide/Creating a character/Classes/Rogue.md",
-    "Player's Guide/Creating a character/Classes/Warlock.md",
-    "Player's Guide/Creating a character/Classes/Sorcerer.md",
-    "Player's Guide/Creating a character/Classes/Ranger.md",
-    "Player's Guide/Creating a character/Classes/Paladin.md",
-    "Player's Guide/Creating a character/Classes/Monk.md",
-    "Player's Guide/Creating a character/Classes/Fighter.md",
-    "Player's Guide/Creating a character/Classes/Druid.md",
-    "Player's Guide/Creating a character/Classes/Barbarian.md",
-    "Player's Guide/Creating a character/Classes/Cleric.md",
-    "Player's Guide/Creating a character/Classes/Bard.md",
-    "Player's Guide/Creating a character/Characterizations/Inspiration.md",
-    "Player's Guide/Creating a character/Characterizations/Multiclassing.md",
-    "Player's Guide/Creating a character/Races",
-    "Player's Guide/Creating a character/Premade Characters",
-    "Player's Guide/Creating a character/Classes",
-    "Player's Guide/Creating a character/Characterizations",
-    "Player's Guide/Gameplay",
-    "Player's Guide/Equipment",
-    "Player's Guide/Creating a character",
-    "Player's Guide",
-    "Facilitator's Guide",
-    "Rules Compendium/Treasure"
+    "Uncharted Waters/hexgrid.png",
+    "index.md",
+    "Uncharted Waters/GM Resources/Session Structure.md",
+    "Uncharted Waters/GM Resources/Running an Excursion.md",
+    "Uncharted Waters/GM Resources",
+    "Uncharted Waters/Facilities/0 Facility Ideas.md",
+    "Uncharted Waters/Facilities",
+    "Uncharted Waters/Encounters/0 Encounter Ideas.md",
+    "Uncharted Waters/Encounters",
+    "Uncharted Waters/Characters/0 Players.md",
+    "Uncharted Waters/Characters/0 Hall of Heroes.md",
+    "Uncharted Waters/Characters",
+    "Uncharted Waters/1 Assets/Music.md",
+    "Uncharted Waters/1 Assets",
+    "Uncharted Waters/0 About/About Uncharted Waters.md",
+    "Uncharted Waters/0 About/About Open Table.md",
+    "Uncharted Waters/0 About",
+    "Uncharted Waters/0 To Do.md",
+    "Uncharted Waters/Systems/Downtime Activities/Training.md",
+    "Uncharted Waters/Systems/Downtime Activities/Player Communication.md",
+    "Uncharted Waters/Systems/Downtime Activities/Trade.md",
+    "Uncharted Waters/Systems/Downtime Activities/NPC Communication.md",
+    "Uncharted Waters/Systems/Downtime Activities/NPC Missions.md",
+    "Uncharted Waters/Systems/Downtime Activities/Minor Character Missions.md",
+    "Uncharted Waters/Systems/Downtime Activities/Level Up.md",
+    "Uncharted Waters/Systems/Downtime Activities/Crafting.md",
+    "Uncharted Waters/Systems/Downtime Activities/0 Downtime Activities.md",
+    "Uncharted Waters/Systems/Waygate Crystals.md",
+    "Uncharted Waters/Systems/Travel.md",
+    "Uncharted Waters/Systems/Downtime Activities",
+    "Uncharted Waters/Systems/Cataloguing.md",
+    "Uncharted Waters/Systems",
+    "Uncharted Waters/NPCs/The Emerald Dawn",
+    "Uncharted Waters/NPCs/NPC Template.md",
+    "Uncharted Waters/NPCs",
+    "Uncharted Waters/Locations/0 Location Ideas.md"
   ]
 }
