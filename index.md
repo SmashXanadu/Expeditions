@@ -5,7 +5,7 @@
 layout: default
 ---
 
-[System Rules]({{ site.baseurl }}{% link Rules.md %})
+[System Rules]({{ site.baseurl }}{% link Legacy%205e/Rules.md %})
 
 Index.md test
 
