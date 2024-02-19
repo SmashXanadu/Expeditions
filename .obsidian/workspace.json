@@ -159,12 +159,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "76d54c662cf73db1",
+  "active": "bad5ecad3b1a4aa8",
   "lastOpenFiles": [
-    "Uncharted Waters/0 About/About Uncharted Waters.md",
-    "index.md",
-    "Uncharted Waters/0 To Do.md",
+    "Gemfile.lock",
+    "Gemfile",
+    "_posts/2024-02-19-welcome-to-jekyll.markdown",
+    "_posts/0000-00-00-welcome-to-jekyll.markdown.erb",
+    "_posts",
+    "index.markdown",
+    "about.markdown",
+    "404.html",
     "README.md",
+    "index.md",
+    "Uncharted Waters/0 About/About Uncharted Waters.md",
+    "Uncharted Waters/0 To Do.md",
     "Uncharted Waters/hexgrid.png",
     "Uncharted Waters/GM Resources/Session Structure.md",
     "Uncharted Waters/GM Resources/Running an Excursion.md",
@@ -175,11 +183,8 @@
     "Uncharted Waters/Encounters",
     "Uncharted Waters/Characters/0 Players.md",
     "Uncharted Waters/Characters/0 Hall of Heroes.md",
-    "Uncharted Waters/Characters",
     "Uncharted Waters/1 Assets/Music.md",
-    "Uncharted Waters/1 Assets",
     "Uncharted Waters/0 About/About Open Table.md",
-    "Uncharted Waters/0 About",
     "Uncharted Waters/Systems/Downtime Activities/Training.md",
     "Uncharted Waters/Systems/Downtime Activities/Player Communication.md",
     "Uncharted Waters/Systems/Downtime Activities/Trade.md",
@@ -191,12 +196,7 @@
     "Uncharted Waters/Systems/Downtime Activities/0 Downtime Activities.md",
     "Uncharted Waters/Systems/Waygate Crystals.md",
     "Uncharted Waters/Systems/Travel.md",
-    "Uncharted Waters/Systems/Downtime Activities",
     "Uncharted Waters/Systems/Cataloguing.md",
-    "Uncharted Waters/Systems",
-    "Uncharted Waters/NPCs/The Emerald Dawn",
-    "Uncharted Waters/NPCs/NPC Template.md",
-    "Uncharted Waters/NPCs",
-    "Uncharted Waters/Locations/0 Location Ideas.md"
+    "Uncharted Waters/NPCs/NPC Template.md"
   ]
 }
