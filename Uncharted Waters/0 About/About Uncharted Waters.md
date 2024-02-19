@@ -1,4 +1,14 @@
+---
+layout: default
+title: Uncharted Waters
+permalink: /UnchartedWaters/
+---
+
+
+
 **Uncharted Waters** is an **Open Table** style RPG campaign based on sea exploration and adventuring.
+
+What is an open table, etc.
 
 **Location:** Players initially set sail fromthe port of Waterdeep into the _uncharted waters_ of the **Western Ocean** of the Forgotten Realms.
 
