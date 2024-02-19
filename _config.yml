@@ -13,6 +13,7 @@ include:
 - ISSUE_TEMPLATE.md
 - PULL_REQUEST_TEMPLATE.md
 remote_theme: pages-themes/merlot@v0.2.0
+markdown: kramdown
 lsi: false
 safe: true
 source: /Legacy5e
