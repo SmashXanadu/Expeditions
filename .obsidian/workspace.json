@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "76d54c662cf73db1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
+                "file": "Uncharted Waters/0 GM/0 To Do.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Uncharted Waters/0 GM/0 To Do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Uncharted Waters/0 GM/0 To Do.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Uncharted Waters/0 GM/0 To Do.md"
               }
             }
           }
@@ -159,44 +146,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "76d54c662cf73db1",
+  "active": "338260843797eafc",
   "lastOpenFiles": [
-    "README.md",
+    "Uncharted Waters/about.md",
+    "Uncharted Waters/UnchartedWaters.md",
     "index.md",
-    "Legacy 5e/About Legacy 5e.md",
-    "about.md",
+    "README.md",
+    "Uncharted Waters/0 GM/Downtime Activity Ideas.md",
+    "Uncharted Waters Toolbox/Systems/Downtime Activities/Training.md",
+    "Uncharted Waters/0 GM/Cataloguing.md",
+    "Uncharted Waters Toolbox/Systems/Downtime Activities/Trade.md",
+    "Uncharted Waters Toolbox/Systems/Downtime Activities/Player Communication.md",
+    "Uncharted Waters Toolbox/Systems/Downtime Activities/NPC Missions.md",
+    "Uncharted Waters Toolbox/Systems/Downtime Activities/NPC Communication.md",
+    "Uncharted Waters Toolbox/Systems/Downtime Activities/Minor Character Missions.md",
+    "Uncharted Waters Toolbox/Systems/Downtime Activities/Level Up.md",
+    "Uncharted Waters Toolbox/Systems/Downtime Activities/Crafting.md",
+    "Uncharted Waters Toolbox/Systems/Downtime Activities/0 Downtime Activities.md",
+    "Uncharted Waters/0 GM/Encounter Ideas.md",
+    "Uncharted Waters/Locations/The Emerald Dawn/The Emerald Dawn.md",
+    "Uncharted Waters/Locations/Locations.md",
+    "Uncharted Waters/0 GM/Location Ideas.md",
+    "Uncharted Waters/0 GM/NPC Template.md",
+    "Uncharted Waters/0 GM/Facility Ideas.md",
+    "Uncharted Waters/0 GM/Potential Players.md",
+    "Uncharted Waters/0 GM/0 To Do.md",
+    "Uncharted Waters/0 GM",
+    "Uncharted Waters/0 GM/Travel.md",
+    "Uncharted Waters/0 GM/Waygate Crystals.md",
+    "Rules/Rules.md",
+    "Uncharted Waters/Locations/The Emerald Dawn",
+    "Uncharted Waters Toolbox",
+    "Legacy 5e Book/Open Table Campaign Guide",
+    "Uncharted Waters/hexgrid.png",
+    "Legacy 5e Book",
+    "{{site.baseurl}}",
     "Gemfile.lock",
     "Gemfile",
     "_posts/2024-02-19-welcome-to-jekyll.markdown",
-    "_posts/0000-00-00-welcome-to-jekyll.markdown.erb",
-    "_posts",
-    "index.markdown",
-    "about.markdown",
-    "404.html",
-    "Uncharted Waters/0 About/About Uncharted Waters.md",
-    "Uncharted Waters/0 To Do.md",
-    "Uncharted Waters/hexgrid.png",
-    "Uncharted Waters/GM Resources/Session Structure.md",
-    "Uncharted Waters/GM Resources/Running an Excursion.md",
-    "Uncharted Waters/GM Resources",
-    "Uncharted Waters/Facilities/0 Facility Ideas.md",
-    "Uncharted Waters/Facilities",
-    "Uncharted Waters/Encounters/0 Encounter Ideas.md",
-    "Uncharted Waters/Characters/0 Players.md",
-    "Uncharted Waters/Characters/0 Hall of Heroes.md",
-    "Uncharted Waters/1 Assets/Music.md",
-    "Uncharted Waters/0 About/About Open Table.md",
-    "Uncharted Waters/Systems/Downtime Activities/Training.md",
-    "Uncharted Waters/Systems/Downtime Activities/Player Communication.md",
-    "Uncharted Waters/Systems/Downtime Activities/Trade.md",
-    "Uncharted Waters/Systems/Downtime Activities/NPC Communication.md",
-    "Uncharted Waters/Systems/Downtime Activities/NPC Missions.md",
-    "Uncharted Waters/Systems/Downtime Activities/Minor Character Missions.md",
-    "Uncharted Waters/Systems/Downtime Activities/Level Up.md",
-    "Uncharted Waters/Systems/Downtime Activities/Crafting.md",
-    "Uncharted Waters/Systems/Downtime Activities/0 Downtime Activities.md",
-    "Uncharted Waters/Systems/Waygate Crystals.md",
-    "Uncharted Waters/Systems/Travel.md",
-    "Uncharted Waters/Systems/Cataloguing.md"
+    "_posts/0000-00-00-welcome-to-jekyll.markdown.erb"
   ]
 }

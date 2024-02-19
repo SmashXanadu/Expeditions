@@ -1,7 +1,23 @@
 ---
 layout: default
-title: UnchartedWaters
+title: Uncharted Waters
 permalink: /UnchartedWaters/
 ---
 
-Links to many sub section pages of campaign stuff goes here
+[Rules]({{site.baseurl}}/Rules)
+
+[The Emerald Dawn]({{site.baseurl}}/UnchartedWaters/TheEmeraldDawn/)
+
+[Other Locations]({{site.baseurl}}/UnchartedWaters/Locations/)
+
+Player Resources
+	[Characters]({{site.baseurl}}/UnchartedWaters/Characters/)
+	Pre-Generated Character Sheets
+			
+     
+
+
+
+
+
+[What is Uncharted Waters?]({{site.baseurl}}/UnchartedWaters/About)

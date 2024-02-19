@@ -1,5 +1,6 @@
 *Bring it all together*
 
+- Make rules summary reflecting unchanged 5e SRD content
 - Create Level 1 Pregens of Every Class
 	- Quick Character Creation Sheets
 		Templatized Character Creation (1 page each) any stat benefits summarized in top corner.
@@ -35,3 +36,8 @@
 - Plan when and how to 'unlock' additional 5e compatible content
 	- Level Up Advanced 5e
 	- Tales of the Valiant
+- Update index page
+- Update README for GitHub front page content
+- Update Rules/about
+- Update Uncharted Waters/about
+- Share with prospective players to get interest

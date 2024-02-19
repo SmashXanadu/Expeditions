@@ -1,1 +1,0 @@
-Clocks system for downtime activities that take a long time to accomplish or advance
