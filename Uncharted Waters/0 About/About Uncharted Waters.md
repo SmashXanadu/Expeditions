@@ -1,10 +1,8 @@
 ---
 layout: default
-title: Uncharted Waters
-permalink: /UnchartedWaters/
+title: About Uncharted Waters
+permalink: /UnchartedWaters/About
 ---
-
-
 
 **Uncharted Waters** is an **Open Table** style RPG campaign based on sea exploration and adventuring.
 

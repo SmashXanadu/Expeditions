@@ -159,8 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bad5ecad3b1a4aa8",
+  "active": "76d54c662cf73db1",
   "lastOpenFiles": [
+    "README.md",
+    "index.md",
     "Legacy 5e/About Legacy 5e.md",
     "about.md",
     "Gemfile.lock",
@@ -171,8 +173,6 @@
     "index.markdown",
     "about.markdown",
     "404.html",
-    "README.md",
-    "index.md",
     "Uncharted Waters/0 About/About Uncharted Waters.md",
     "Uncharted Waters/0 To Do.md",
     "Uncharted Waters/hexgrid.png",

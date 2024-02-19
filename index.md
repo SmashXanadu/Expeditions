@@ -5,6 +5,9 @@
 layout: default
 ---
 
+[System Rules]({% link Rules.md %})
+[Uncharted Waters]({% link UnchartedWaters.md %})
+
 Index.md test
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
