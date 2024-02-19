@@ -33,19 +33,19 @@ github_username:  jekyll
 theme: minima
 plugins:
   - jekyll-feed
-- jekyll-relative-links
-- jekyll-remote-theme
+  - jekyll-relative-links
+  - jekyll-remote-theme
 relative_links:
  enabled: true
  collections: true
 include:
-- CONTRIBUTING.md
-- README.md
-- LICENSE.md
-- COPYING.md
-- CODE_OF_CONDUCT.md
-- ISSUE_TEMPLATE.md
-- PULL_REQUEST_TEMPLATE.md
+  - CONTRIBUTING.md
+  - README.md
+  - LICENSE.md
+  - COPYING.md
+  - CODE_OF_CONDUCT.md
+  - ISSUE_TEMPLATE.md
+  - PULL_REQUEST_TEMPLATE.md
 remote_theme: pages-themes/merlot@v0.2.0
 markdown: kramdown
 lsi: false
