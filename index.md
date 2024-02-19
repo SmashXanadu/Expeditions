@@ -9,7 +9,7 @@ layout: default
 
 [Link to a page]({{ site.baseurl }}{% link about.md %})
 
-[Sub Dir File]({{site.baseurl}}/Rules/about.md)
+[Sub Dir File]({{site.baseurl}}/Rules/About.md)
 
 Index.md test
 
