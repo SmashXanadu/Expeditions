@@ -11,8 +11,6 @@ layout: default
 
 Brief description of the overall project, what is uncharted waters, vs legacy 5e, etc etc.
 
-New Player? Start Here
-
 [What is Uncharted Waters?]({{site.baseurl}}/UnchartedWaters/About)
 
 [What is Legacy 5e?]({{site.baseurl}}/Rules/About)

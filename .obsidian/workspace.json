@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Uncharted Waters/0 GM/0 To Do.md",
+                "file": "Uncharted Waters/0 GM/Unlockables/Unlockable Ideas.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Uncharted Waters/0 GM/0 To Do.md",
+                "file": "Uncharted Waters/0 GM/Unlockables/Unlockable Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Uncharted Waters/0 GM/0 To Do.md",
+                "file": "Uncharted Waters/0 GM/Unlockables/Unlockable Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Uncharted Waters/0 GM/0 To Do.md"
+                "file": "Uncharted Waters/0 GM/Unlockables/Unlockable Ideas.md"
               }
             }
           }
@@ -148,42 +148,42 @@
   },
   "active": "338260843797eafc",
   "lastOpenFiles": [
-    "Uncharted Waters/about.md",
-    "Uncharted Waters/UnchartedWaters.md",
-    "index.md",
-    "README.md",
-    "Uncharted Waters/0 GM/Downtime Activity Ideas.md",
-    "Uncharted Waters Toolbox/Systems/Downtime Activities/Training.md",
-    "Uncharted Waters/0 GM/Cataloguing.md",
-    "Uncharted Waters Toolbox/Systems/Downtime Activities/Trade.md",
-    "Uncharted Waters Toolbox/Systems/Downtime Activities/Player Communication.md",
-    "Uncharted Waters Toolbox/Systems/Downtime Activities/NPC Missions.md",
-    "Uncharted Waters Toolbox/Systems/Downtime Activities/NPC Communication.md",
-    "Uncharted Waters Toolbox/Systems/Downtime Activities/Minor Character Missions.md",
-    "Uncharted Waters Toolbox/Systems/Downtime Activities/Level Up.md",
-    "Uncharted Waters Toolbox/Systems/Downtime Activities/Crafting.md",
-    "Uncharted Waters Toolbox/Systems/Downtime Activities/0 Downtime Activities.md",
-    "Uncharted Waters/0 GM/Encounter Ideas.md",
-    "Uncharted Waters/Locations/The Emerald Dawn/The Emerald Dawn.md",
-    "Uncharted Waters/Locations/Locations.md",
-    "Uncharted Waters/0 GM/Location Ideas.md",
-    "Uncharted Waters/0 GM/NPC Template.md",
-    "Uncharted Waters/0 GM/Facility Ideas.md",
-    "Uncharted Waters/0 GM/Potential Players.md",
     "Uncharted Waters/0 GM/0 To Do.md",
-    "Uncharted Waters/0 GM",
-    "Uncharted Waters/0 GM/Travel.md",
-    "Uncharted Waters/0 GM/Waygate Crystals.md",
+    "Rules/Summary.md",
+    "Rules/about.md",
     "Rules/Rules.md",
-    "Uncharted Waters/Locations/The Emerald Dawn",
-    "Uncharted Waters Toolbox",
-    "Legacy 5e Book/Open Table Campaign Guide",
-    "Uncharted Waters/hexgrid.png",
-    "Legacy 5e Book",
-    "{{site.baseurl}}",
-    "Gemfile.lock",
-    "Gemfile",
-    "_posts/2024-02-19-welcome-to-jekyll.markdown",
-    "_posts/0000-00-00-welcome-to-jekyll.markdown.erb"
+    "Legacy 5e System Guides/Player's Guide/Player Quick Start Guide.md",
+    "Legacy 5e System Guides/Player's Guide/Gameplay/Combat.md",
+    "Legacy 5e System Guides/Player's Guide/Gameplay/Adventuring.md",
+    "Legacy 5e System Guides/Player's Guide/Gameplay/Abilities.md",
+    "Uncharted Waters/0 GM/Unlockables/Unlockable Ideas.md",
+    "Uncharted Waters/0 GM/Unlockables",
+    "Uncharted Waters/0 GM/Untitled.md",
+    "Rules/Character Options/Skills.md",
+    "Rules/Character Options/Premade Characters.md",
+    "Rules/Character Options/Creating a Character.md",
+    "Rules/Character Options/Equipment",
+    "Legacy 5e System Guides/Player's Guide/What is a Roleplaying Game.md",
+    "Legacy 5e System Guides/Player's Guide/Equipment/Weapons.md",
+    "Legacy 5e System Guides/Player's Guide/Equipment/Transportation.md",
+    "Legacy 5e System Guides/Player's Guide/Equipment/Trade Goods.md",
+    "Legacy 5e System Guides/Player's Guide/Equipment/Tools.md",
+    "Legacy 5e System Guides/Player's Guide/Equipment/Selling Treasure.md",
+    "Legacy 5e System Guides/Player's Guide/Equipment/Gear.md",
+    "Legacy 5e System Guides/Player's Guide/Equipment/Expenses.md",
+    "Legacy 5e System Guides/Player's Guide/Equipment/Coinage.md",
+    "Legacy 5e System Guides/Player's Guide/Equipment/Armor.md",
+    "Legacy 5e System Guides/Player's Guide/Creating a character/Races/# Racial Traits.md",
+    "Rules/Character Options/Abilities.md",
+    "Rules/Character Options/Actions/Feats.md",
+    "Rules/Character Options/Actions",
+    "Rules/Character Options/Archetype/Advanced Archetype",
+    "Rules/Character Options",
+    "Rules/Character Options/Driving Goal",
+    "Rules/Character Options/Background",
+    "Rules/Character Options/Archetype",
+    "Rules/Character Options/Heritage",
+    "Uncharted Waters/0 GM",
+    "Uncharted Waters/hexgrid.png"
   ]
 }

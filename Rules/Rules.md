@@ -3,12 +3,29 @@ layout: default
 title: Rules
 permalink: /Rules/
 ---
-
-Links to many sub section pages of rules go here
-
 ## Legacy 5e Rules
+### Rules Summary
+### Creating a Character
+#### Heritage (Race)
+#### Archetype (Class)
+##### Advanced Archetype (Subclass)
 
-## Uncharted Waters Open Table Rules
+#### Background
+#### Driving Goal
+#### Equipment
+
+
+### Abilities
+### Skills
+### Actions
+
+#### Spells
+#### Feats
+
+#### General
+
+## Uncharted Waters Rules
+### New Player's Guide
 ### Table Rules
 ### Campaign Rules
 
@@ -16,7 +33,11 @@ Links to many sub section pages of rules go here
 
 
 
-[What is Legacy 5e?]({{site.baseurl}}/Rules/About)
+
+
+
+
+[About Legacy 5e]({{site.baseurl}}/Rules/About)
 
 
 
