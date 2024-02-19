@@ -5,8 +5,8 @@
 layout: default
 ---
 
-[System Rules]({% link Rules.md %})
-[Uncharted Waters]({% link UnchartedWaters.md %})
+[System Rules]({% link Legacy%205e/Rules.md %})
+[Uncharted Waters]({% link Uncharted%20Waters/UnchartedWaters.md %})
 
 Index.md test
 
