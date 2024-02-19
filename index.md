@@ -7,7 +7,7 @@ layout: default
 
 [Link to a post]({{ site.baseurl }}{% link _posts/2024-02-19-welcome-to-jekyll.markdown %})
 [Link to a page]({{ site.baseurl }}{% link about.md %})
-[What is Legacy 5e?]({{ site.baseurl }}{% link /Legacy%205e/about.md %})
+[What is Legacy 5e?]({{ site.baseurl }}{% link Legacy%205e/Legacy%205e/about.md %})
 
 Index.md test
 
