@@ -5,8 +5,7 @@
 layout: default
 ---
 
-[System Rules]({% link Legacy%205e/Rules.md %})
-[Uncharted Waters]({% link Uncharted%20Waters/UnchartedWaters.md %})
+[System Rules]({{ site.baseurl }}{% link Rules.md %})
 
 Index.md test
 
