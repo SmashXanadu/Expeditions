@@ -5,5 +5,3 @@ permalink: /UnchartedWaters/
 ---
 
 Links to many sub section pages of campaign stuff goes here
-
-[About Uncharted Waters]({% link Uncharted%20Waters/AboutUnchartedWaters.md %})
