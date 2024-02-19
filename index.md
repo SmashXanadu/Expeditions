@@ -5,7 +5,9 @@
 layout: default
 ---
 
-[System Rules]({{ site.baseurl }}{% link Legacy%205e/Rules.md %})
+[Link to a post]({{ site.baseurl }}{% link _posts/2024-02-19-welcome-to-jekyll.markdown %})
+[Link to a page]({{ site.baseurl }}{% link Legacy%205e/about.md %})
+
 
 Index.md test
 
