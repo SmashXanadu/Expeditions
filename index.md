@@ -5,11 +5,9 @@
 layout: default
 ---
 
-[Link to a post]({{ site.baseurl }}{% link _posts/2024-02-19-welcome-to-jekyll.markdown %})
-
 [Link to a page]({{ site.baseurl }}{% link about.md %})
 
-[Sub Dir File]({{site.baseurl}}/Rules/About.md)
+[Sub Dir File]({{site.baseurl}}/Rules/About)
 
 Index.md test
 
