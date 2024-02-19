@@ -1,7 +1,7 @@
 title: Uncharted Waters
 email: williamnorton09@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Open Table Setting and Legacy 5e Rules System 
+  Open Table Campaign built on the Legacy 5e Rules System 
 baseurl: "/Legacy5e" # the subpath of your site, e.g. /blog
 url: "https://smashxanadu.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  smashxanadu

@@ -5,21 +5,13 @@
 layout: default
 ---
 
-[Link to a page]({{ site.baseurl }}{% link about.md %})
-
-[Sub Dir File]({{site.baseurl}}/Rules/About)
-
-Index.md test
-
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+[Campaign Resources]({{site.baseurl}}/UnchartedWaters)
+[Rules]({{site.baseurl}}/Rules)
 
 
-[jekyll-organization]: https://github.com/jekyll
+Brief description of the overall project, what is uncharted waters, vs legacy 5e, etc etc.
+
+New Player? Start Here
+
+[What is Uncharted Waters?]({{site.baseurl}}/UnchartedWaters/About)
+[What is Legacy 5e?]({{site.baseurl}}/Rules/About)
