@@ -4,7 +4,7 @@ title: Rules
 permalink: /Rules/
 ---
 
-[Rules Summary](({{site.baseurl}}/Rules/Summary))
+[Rules Summary]({{site.baseurl}}/Rules/Summary)
 
 ## Legacy 5e Rules
 

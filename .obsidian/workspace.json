@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/about.md",
+                "file": "Rules/Rules.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rules/about.md",
+                "file": "Rules/Rules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rules/about.md",
+                "file": "Rules/Rules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rules/about.md"
+                "file": "Rules/Rules.md"
               }
             }
           }
@@ -148,10 +148,12 @@
   },
   "active": "338260843797eafc",
   "lastOpenFiles": [
-    "Rules/Rules.md",
     "Rules/Summary.md",
     "Uncharted Waters/0 GM/Waygate Crystals.md",
     "Uncharted Waters/Characters/Characters.md",
+    "Uncharted Waters/0 GM/0 To Do.md",
+    "Rules/about.md",
+    "Rules/Rules.md",
     "Uncharted Waters/Locations/The Emerald Dawn/The Emerald Dawn.md",
     "Uncharted Waters/Locations/Locations.md",
     "Uncharted Waters/about.md",
@@ -159,8 +161,6 @@
     "index.md",
     "README.md",
     "Uncharted Waters/0 GM/Unlockables/Unlockable Ideas.md",
-    "Uncharted Waters/0 GM/0 To Do.md",
-    "Rules/about.md",
     "Legacy 5e System Guides/Player's Guide/Player Quick Start Guide.md",
     "Legacy 5e System Guides/Player's Guide/Gameplay/Combat.md",
     "Legacy 5e System Guides/Player's Guide/Gameplay/Adventuring.md",
