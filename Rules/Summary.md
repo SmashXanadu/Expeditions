@@ -1,3 +1,8 @@
+---
+layout: default
+title: Rules Summary
+permalink: /Rules/Summary/
+---
 # ABILITIES
 
 Six abilities provide a quick description of every creature's physical and mental characteristics:
