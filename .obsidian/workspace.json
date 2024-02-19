@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Uncharted Waters/0 GM/Unlockables/Unlockable Ideas.md",
+                "file": "index.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Uncharted Waters/0 GM/Unlockables/Unlockable Ideas.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Uncharted Waters/0 GM/Unlockables/Unlockable Ideas.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Uncharted Waters/0 GM/Unlockables/Unlockable Ideas.md"
+                "file": "index.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "338260843797eafc",
   "lastOpenFiles": [
+    "README.md",
+    "Uncharted Waters/0 GM/Unlockables/Unlockable Ideas.md",
     "Uncharted Waters/0 GM/0 To Do.md",
     "Rules/Summary.md",
     "Rules/about.md",
@@ -156,7 +158,6 @@
     "Legacy 5e System Guides/Player's Guide/Gameplay/Combat.md",
     "Legacy 5e System Guides/Player's Guide/Gameplay/Adventuring.md",
     "Legacy 5e System Guides/Player's Guide/Gameplay/Abilities.md",
-    "Uncharted Waters/0 GM/Unlockables/Unlockable Ideas.md",
     "Uncharted Waters/0 GM/Unlockables",
     "Uncharted Waters/0 GM/Untitled.md",
     "Rules/Character Options/Skills.md",
@@ -175,7 +176,6 @@
     "Legacy 5e System Guides/Player's Guide/Equipment/Armor.md",
     "Legacy 5e System Guides/Player's Guide/Creating a character/Races/# Racial Traits.md",
     "Rules/Character Options/Abilities.md",
-    "Rules/Character Options/Actions/Feats.md",
     "Rules/Character Options/Actions",
     "Rules/Character Options/Archetype/Advanced Archetype",
     "Rules/Character Options",
