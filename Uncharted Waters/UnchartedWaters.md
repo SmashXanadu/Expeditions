@@ -13,11 +13,7 @@ permalink: /UnchartedWaters/
 Player Resources
 	[Characters]({{site.baseurl}}/UnchartedWaters/Characters/)
 	Pre-Generated Character Sheets
+	Catalogue
 			
      
-
-
-
-
-
 [What is Uncharted Waters?]({{site.baseurl}}/UnchartedWaters/About)
