@@ -5,11 +5,9 @@
 layout: default
 ---
 
-[Campaign Resources]({{site.baseurl}}/UnchartedWaters)
+[Player Resources]({{site.baseurl}}/UnchartedWaters)
 
-[Rules]({{site.baseurl}}/Rules)
-
-Brief description of the overall project, what is uncharted waters, vs legacy 5e, etc etc.
+Brief description of the overall project and goals.
 
 [What is Uncharted Waters?]({{site.baseurl}}/UnchartedWaters/About)
 

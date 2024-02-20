@@ -10,10 +10,8 @@ permalink: /UnchartedWaters/
 
 [Other Locations]({{site.baseurl}}/UnchartedWaters/Locations/)
 
-Player Resources
-	[Characters]({{site.baseurl}}/UnchartedWaters/Characters/)
-	Pre-Generated Character Sheets
-	Catalogue
-			
+[Characters]({{site.baseurl}}/UnchartedWaters/Characters/)
+Pre-Generated Character Sheets
+Catalogue
      
 [What is Uncharted Waters?]({{site.baseurl}}/UnchartedWaters/About)

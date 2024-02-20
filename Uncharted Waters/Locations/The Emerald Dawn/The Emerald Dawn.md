@@ -5,7 +5,8 @@ permalink: /UnchartedWaters/TheEmeraldDawn/
 ---
 
 Description:
-Occupants: [Characters]({{site.baseurl}}/UnchartedWaters/Characters/), NPCs
+
+Occupants:
+
 Facilities:
-	Storage
-	Shop
+
