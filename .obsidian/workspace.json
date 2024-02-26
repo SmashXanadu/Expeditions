@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Uncharted Waters/Characters/Characters.md",
+                "file": "Uncharted Waters/0 GM/0 To Do.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Uncharted Waters/Characters/Characters.md",
+                "file": "Uncharted Waters/0 GM/0 To Do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Uncharted Waters/Characters/Characters.md",
+                "file": "Uncharted Waters/0 GM/0 To Do.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Uncharted Waters/Characters/Characters.md"
+                "file": "Uncharted Waters/0 GM/0 To Do.md"
               }
             }
           }
@@ -148,11 +148,12 @@
   },
   "active": "338260843797eafc",
   "lastOpenFiles": [
+    "Rules/Rules.md",
+    "Uncharted Waters/Characters/Characters.md",
     "Uncharted Waters/Locations/The Emerald Dawn/The Emerald Dawn.md",
     "Uncharted Waters/Locations/Locations.md",
     "Uncharted Waters/UnchartedWaters.md",
     "index.md",
-    "Rules/Rules.md",
     "Rules/Summary.md",
     "Uncharted Waters/about.md",
     "Uncharted Waters/0 GM/0 To Do.md",
@@ -166,7 +167,6 @@
     "Uncharted Waters/0 GM/Travel.md",
     "Uncharted Waters/0 GM/Waystones.md",
     "Uncharted Waters/0 GM/Unlockables/Unlockable Ideas.md",
-    "Uncharted Waters/Characters/Characters.md",
     "Legacy 5e System Guides/0 To Do.md",
     "Rules/about.md",
     "Rules/Character Options/Actions/Spells.md",

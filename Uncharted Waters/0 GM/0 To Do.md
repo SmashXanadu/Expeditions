@@ -6,7 +6,7 @@
         1. Pick Class: list Recommended Stat Array along with rules to roll
         2. Pick Race: (stat benefits summarized in corner)
         3. Pick Equipment Package
-- Create Ship NPCs
+- Create Ship NPCs (Tie to Faction)
 		- People who don't / won't / can't fight
 		- Deck of NPCs or Minis First
 		- Captain

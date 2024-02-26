@@ -15,6 +15,10 @@ When rolling for initiative at the start of combat, the highest player character
 ### Static Monster Damage
 Monsters will have a set amount of damage they do when each of their attacks succeeds and the GM will not roll monster damage.
 
+### Combat Zones
+For some combat encounters, rather than used a gridded battle map where each square represents 5 feet, we will use abstracted combat zones. Combat attack range and movement distance will be simplified into 3 zones: **Close**, **Near**, and **Far**. In one round of combat you can move 1 zone. For example, you could move from Near to Close, or from Far to Near. Range on attacks and spells will be at GM discretion, but generally much more flexible than specific distances in feet. If you want to melee attack someone, be in the same zone as them. If you want to range attack them, be within 1 zone away from them, etc.
+
+
 ***
 
 ## Uncharted Waters Rules
