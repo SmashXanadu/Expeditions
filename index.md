@@ -4,8 +4,12 @@
 
 layout: default
 ---
-This repository is made up of two major components.
+# Expeditions
+[Rules Summary]({{site.baseurl}}/Expeditions/RulesSummary) | [Full Rules](Rules.md)
 
-Expeditions is an RPG rules system in development.
+**Expeditions** is a Role Playing Game (RPG) system that focuses on maximizing how much fun can be had in a short amount of time by using just enough rules to keep things together. It uses a D20 die and should feel familiar to experienced RPG players while being easier to grasp for new players and kids.
 
-Uncharted Waters is an Open Table Campaign Setting that will house all Guide and Player facing materials.
+# **Uncharted Waters**
+[Rules]({{site.baseurl}}/UnchartedWaters/Rules) | [Locations]({{site.baseurl}}/UnchartedWaters/Locations/) | [Characters]({{site.baseurl}}/UnchartedWaters/Characters/)
+
+**Uncharted Waters** is an [Open Table]({{site.baseurl}}/UnchartedWaters/Rules/OpenTable/) campaign based on sea exploration and adventuring. 
