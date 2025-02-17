@@ -9,9 +9,8 @@ permalink: /Rules/Index/
 - Basic Rules
 - Benefits
 - Broken Equipment
-- Character
-	- Creation
-	- Progression
+- Character Creation
+- Character Progression
 - Charges
 - Combat
 - Complications
@@ -21,8 +20,8 @@ permalink: /Rules/Index/
 - Downtime Activities
 - Durability
 - Enemies
-- Equipment
-	- Sets
+- Equipment 
+- Equipment Sets
 - Evade
 - Expeditions
 - Experience
@@ -44,10 +43,10 @@ permalink: /Rules/Index/
 - Rolls
 - Size
 - Skills
-	- Checks
-	- General Skills
-	- Tracks
-	- Trade Skills
+- Skill Checks
+- Skills (General Skills)
+- Skill Tracks
+- Skills (Trade Skills)
 - Social Encounters
 - Stretch
 - Turns
