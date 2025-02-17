@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About Uncharted Waters
-permalink: /UnchartedWaters/Rules/OpenTable
+permalink: /UnchartedWaters/Rules/OpenTable/
 ---
 ### Open Table
 **We play every* week**. Unless there is an emergency or we do not meet minimum attendance, we will be playing Uncharted Waters every week on day at pm for hours.
