@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Expeditions/System Rules/Rules Summary.md",
+                "file": "Expeditions/System Rules/Rules.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rules Summary"
+              "title": "Rules"
             }
           }
         ],
@@ -178,17 +178,21 @@
   "active": "1613cd2cbff65d52",
   "lastOpenFiles": [
     "Expeditions/System Rules/Rules Index.md",
+    "Expeditions/System Rules/Rules Summary.md",
+    "README.md",
+    "index.md",
+    "UnchartedWaters/0 To Do.md",
+    "UnchartedWaters/Locations/TheEmeraldDawn.md",
+    "UnchartedWaters/Locations/Locations.md",
+    "UnchartedWaters/Characters/Characters.md",
+    "Expeditions/System Rules/Rules.md",
     "Images/GridExample.png",
     "{{site.baseurl}}/Rules.md",
     "{{site.baseurl}}/Rules 1.md",
-    "index.md",
-    "Expeditions/System Rules/Rules.md",
-    "Expeditions/System Rules/Rules Summary.md",
     "{{site.baseurl}}",
     "Expeditions/System Rules/Rules Summary - Copy.md",
     "Images/PlayerCharacters1.png",
     "Images/Guide Sea Hex Map.png",
-    "README.md",
     "Images/Player Sea Hex Map.png",
     "Images",
     "Images/PlayerCharacters4.png",
@@ -205,13 +209,10 @@
     "UnchartedWaters/Guide Materials/Rules/Cataloguing.md",
     "UnchartedWaters/Guide Materials/Rules/Open Table.md",
     "UnchartedWaters/Guide Materials/Rules/Waystones.md",
-    "UnchartedWaters/0 To Do.md",
     "Expeditions/Rules.md",
     "UnchartedWaters/About.md",
     "{{site.baseurl}}/Expeditions.md",
-    "UnchartedWaters/Characters/Characters.md",
     "{{site.baseurl}}/UnchartedWaters/Characters.md",
-    "UnchartedWaters/Guide Materials/Ship Events/Ideas.md",
     "Expeditions/Player Materials/Premade Characters",
     "UnchartedWaters/Guide Materials/Rules",
     "UnchartedWaters/Guide Materials/NPCs",

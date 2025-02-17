@@ -4,9 +4,10 @@ title: Rules Summary
 permalink: /Rules/Summary/
 ---
 # Expeditions: Rules Summary
+## Rolling Dice
 **Roll + Modifier(s) ≥ DC** is a **Success**
-If **within 2, Stretch** for Success w/ **Minor Complication**
-If **within 5, Over-Exert** for Success w/ **Major Complication**
+- If **within 2, Stretch** for Success w/ **Minor Complication**
+- If **within 5, Over-Exert** for Success w/ **Major Complication**
 
 A **Natural 1** is a Failure with a **Major Complication**
 A **Natural 20** is a Success with a **Major Benefit**
@@ -14,6 +15,7 @@ A **Natural 20** is a Success with a **Major Benefit**
 **Advantage** lets you roll twice taking the higher result.
 **Disadvantage** forces you to roll twice taking the lower result.
 
+## Combat
 **Turn Order** alternates between all players then all enemies.
 **In Turn / Initiative Order** is Highest Player **Speed** to Lowest
 
@@ -33,12 +35,11 @@ A **Natural 20** is a Success with a **Major Benefit**
 	1b) Roll **Magic** vs Enemy **Resistance** DC
 	2a) If success, **No Damage**
 	2b) If fail, **Take Damage** to **Health** and/or **Durability**
-
-**Range / Distance to Target**
-	**Close**: In the same zone as target
-	**Near**: In adjacent zone to target
-	**Far**: At least 1 zone away from target
-	**Distant**: Beyond the field of battle
+## Range / Distance to Target
+**Close**: In the same zone as target
+**Near**: In adjacent zone to target
+**Far**: At least 1 zone away from target
+**Distant**: Beyond the field of battle
 
 
 
