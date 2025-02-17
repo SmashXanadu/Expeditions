@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Expeditions/System Rules/Rules.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rules"
+              "title": "index"
             }
           }
         ]
@@ -164,9 +164,10 @@
   },
   "active": "338260843797eafc",
   "lastOpenFiles": [
-    "Expeditions/System Rules/Rules Summary.md",
-    "Expeditions/System Rules/Rules.md",
+    "UnchartedWaters/Guide Materials/Rules/Cataloguing.md",
     "index.md",
+    "Expeditions/System Rules/Rules.md",
+    "Expeditions/System Rules/Rules Summary.md",
     "Expeditions/Rules.md",
     "UnchartedWaters/About.md",
     "UnchartedWaters/0 To Do.md",
@@ -177,7 +178,6 @@
     "Untitled",
     "Guide Sea Hex Map.png",
     "UnchartedWaters/Characters/Characters.md",
-    "UnchartedWaters/Guide Materials/Rules/Cataloguing.md",
     "UnchartedWaters/Guide Materials/Rules/Waystones.md",
     "{{site.baseurl}}/UnchartedWaters/Characters.md",
     "UnchartedWaters/Guide Materials/Ship Events/Ideas.md",
