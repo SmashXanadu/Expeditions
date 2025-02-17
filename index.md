@@ -4,11 +4,8 @@
 
 layout: default
 ---
+This repository is made up of two major components.
 
-[Player Resources]({{site.baseurl}}/UnchartedWaters)
+Expeditions is an RPG rules system in development.
 
-Brief description of the overall project and goals.
-
-[What is Uncharted Waters?]({{site.baseurl}}/UnchartedWaters/About)
-
-[What is Legacy 5e?]({{site.baseurl}}/Rules/About)
+Uncharted Waters is an Open Table Campaign Setting that will house all Guide and Player facing materials.

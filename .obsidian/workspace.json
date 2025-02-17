@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Uncharted Waters/0 GM/0 To Do.md",
+                "file": "{{site.baseurl}}/UnchartedWaters/About.md",
                 "mode": "source",
-                "source": true
-              }
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "About"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Uncharted Waters/0 GM/0 To Do.md",
+                "file": "{{site.baseurl}}/UnchartedWaters/About.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for About"
             }
           },
           {
@@ -102,10 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Uncharted Waters/0 GM/0 To Do.md",
+                "file": "{{site.baseurl}}/UnchartedWaters/About.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from About"
             }
           },
           {
@@ -116,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,15 +139,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Uncharted Waters/0 GM/0 To Do.md"
-              }
+                "file": "{{site.baseurl}}/UnchartedWaters/About.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of About"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -148,42 +164,45 @@
   },
   "active": "338260843797eafc",
   "lastOpenFiles": [
-    "Rules/Rules.md",
-    "Uncharted Waters/Characters/Characters.md",
-    "Uncharted Waters/Locations/The Emerald Dawn/The Emerald Dawn.md",
-    "Uncharted Waters/Locations/Locations.md",
-    "Uncharted Waters/UnchartedWaters.md",
+    "{{site.baseurl}}/UnchartedWaters/Characters/Characters.md",
+    "{{site.baseurl}}/UnchartedWaters/Guide Materials/Rules/Cataloguing.md",
+    "{{site.baseurl}}/UnchartedWaters/Guide Materials/Rules/Open Table.md",
+    "{{site.baseurl}}/UnchartedWaters/Guide Materials/Rules/Waystones.md",
+    "{{site.baseurl}}/UnchartedWaters/About.md",
+    "{{site.baseurl}}/UnchartedWaters/Characters.md",
+    "{{site.baseurl}}/UnchartedWaters/Guide Materials/Ship Events/Ideas.md",
+    "{{site.baseurl}}/UnchartedWaters/Guide Materials/Ship Facilities/Ideas.md",
+    "{{site.baseurl}}/UnchartedWaters/Guide Materials/Player Pool.md",
+    "{{site.baseurl}}/UnchartedWaters/Locations/Locations.md",
+    "{{site.baseurl}}/UnchartedWaters/Locations/TheEmeraldDawn.md",
+    "{{site.baseurl}}/UnchartedWaters/0 To Do.md",
+    "{{site.baseurl}}/Expeditions/System Rules/Rules.md",
+    "{{site.baseurl}}/Expeditions/System Rules/Rules Summary.md",
+    "{{site.baseurl}}/Expeditions/RulesSummary.md",
+    "{{site.baseurl}}/UnchartedWaters/Guide Materials/Rules/Discord.md",
+    "{{site.baseurl}}/UnchartedWaters/Guide Materials/Rules/Open Table - Copy.md",
+    "{{site.baseurl}}/UnchartedWaters/Locations/TheEmeraldDawn 1.md",
+    "{{site.baseurl}}/UnchartedWaters/TheEmeraldDawn.md",
+    "{{site.baseurl}}/UnchartedWaters/The Emerald Dawn.md",
+    "README.md",
+    "Player Sea Hex Map.png",
     "index.md",
-    "Rules/Summary.md",
-    "Uncharted Waters/about.md",
-    "Uncharted Waters/0 GM/0 To Do.md",
-    "Uncharted Waters/0 GM/Cataloguing.md",
-    "Uncharted Waters/0 GM/Downtime Activity Ideas.md",
-    "Uncharted Waters/0 GM/Encounter Ideas.md",
-    "Uncharted Waters/0 GM/Facility Ideas.md",
-    "Uncharted Waters/0 GM/Location Ideas.md",
-    "Uncharted Waters/0 GM/NPC Template.md",
-    "Uncharted Waters/0 GM/Potential Players.md",
-    "Uncharted Waters/0 GM/Travel.md",
-    "Uncharted Waters/0 GM/Waystones.md",
-    "Uncharted Waters/0 GM/Unlockables/Unlockable Ideas.md",
-    "Legacy 5e System Guides/0 To Do.md",
-    "Rules/about.md",
-    "Rules/Character Options/Actions/Spells.md",
-    "Rules/Character Options/Actions/General.md",
-    "Rules/Character Options/Actions/Feats.md",
-    "Rules/Character Options/Skills.md",
-    "Rules/Character Options/Premade Characters.md",
-    "Uncharted Waters/0 GM/Unlockables",
-    "Rules/Character Options/Equipment",
-    "Rules/Character Options/Actions",
-    "Rules/Character Options/Archetype/Advanced Archetype",
-    "Rules/Character Options",
-    "Rules/Character Options/Driving Goal",
-    "Rules/Character Options/Background",
-    "Rules/Character Options/Archetype",
-    "Rules/Character Options/Heritage",
-    "Uncharted Waters/0 GM",
+    "Guide Sea Hex Map.png",
+    "{{site.baseurl}}/UnchartedWaters/Guide Materials/Maps/Player Sea Hex Map.md",
+    "{{site.baseurl}}/UnchartedWaters/Guide Materials/NPCs/Template.md",
+    "{{site.baseurl}}/UnchartedWaters/Guide Materials/Maps/Guide Sea Hex Map.md",
+    "{{site.baseurl}}/Expeditions/Player Materials/Premade Characters",
+    "{{site.baseurl}}/Expeditions/System Rules/Rules Summary - Copy.md",
+    "{{site.baseurl}}/UnchartedWaters/Guide Materials/Rules",
+    "{{site.baseurl}}/UnchartedWaters/Guide Materials/NPCs",
+    "{{site.baseurl}}/UnchartedWaters/Guide Materials/Ship Events",
+    "{{site.baseurl}}/UnchartedWaters/Guide Materials/Ship Facilities",
+    "Untitled",
+    "{{site.baseurl}}/Expeditions/System Rules",
+    "{{site.baseurl}}/Expeditions/Player Materials",
+    "{{site.baseurl}}/Expeditions/Guide Materials/Premade Adventures/Open Table Campaign",
+    "{{site.baseurl}}/Expeditions/Guide Materials/Premade Adventures/One Shots",
+    "Untitled.canvas",
     "Uncharted Waters/hexgrid.png"
   ]
 }

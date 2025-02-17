@@ -1,0 +1,16 @@
+- Fire 
+- Raid 
+- Icy Trails in the water (Death Knight Evidence) 
+- Magical Fog 
+- Triton Ambassadors / Merchants 
+- Sinking Ship, rescue opportunity 
+- Dragons Battling Above 
+- Strange NPC Drifting on a Lifeboat 
+- Injured pixie ambelina (faerie) could guide to faerie island 
+- Raft with an ornate chained chest containing a bunch of gold. Some of which are cursed coins 
+- Survivors of some sort of attack drifting on debris 
+- party finds a great amount of delicious blue crabs. When the party starts catching them, their horse sized mother appears. 
+- Hundreds of messages in a bottle have been washed ashore. All containing unrecognizable texts and symbols. 
+- A strange and glowing ooze slowly starts attaching itself to the hull of the ship. It seeps through the cracks, and anyone that comes in to contact with it becomes unconscious. 
+- Cult of the kraken emmisary 
+- [Encounter with the Great Pretender](https://homebrewery.naturalcrit.com/share/yTWKlAkeu)
