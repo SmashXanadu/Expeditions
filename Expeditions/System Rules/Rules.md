@@ -43,16 +43,26 @@ In order to play Expeditions you will need...
 You and a group of friends are about to embark on your first expedition where you will laugh, grow, fight, solve problems and discover secrets together.
 
 As you create a story collaboratively, the **Guide** will describe your environment and the situations you find yourself in. It is your responsibility to state what your character would do, and your **Guide** will either describe what happens...
-						or
-    ...ask you for a roll to determine what happens.
+
+or
+
+...ask you for a roll to determine what happens.
+    
 
 **Sam**: “I want to move this boulder off the road.”
+
 **Ash**: “What skill would do you want to use?”
+
 **Sam**: “I would just try to muscle it out of the way using my Strong skill.”
+
 **Ash**: “Okay, you are exceptionally strong. You move the boulder without much effort at all.”
-	**or**
+
+**or**
+	
 **Ash**: “This boulder is beyond your capability to move with strength alone.”
-	**or**
+
+**or**
+	
 **Ash**: “I’m not sure if you are strong enough to lift this, let’s roll to see...”
 
 # Resolving Dice Rolls
@@ -77,7 +87,9 @@ you may still be able to succeed in your attempt…
 - **If more than 5** away from the DC, you **Fail**.
       
 Ash: “To move the boulder, you will need to roll a 16.” 
+
 Sam: “I rolled a 13, but my Strong skill is at +2. So 15 	total. I want to stretch to make sure I succeed.”
+
 Ash: “You move the boulder, but in the process it rolls over your feet and destroys your boots.”
 
 # Flow of the Game
@@ -153,7 +165,7 @@ Each player will perform the **Standard Downtime Activities** and up to 2 **Opti
 ## Optional Downtime Activities (Choose 2)
 - **Repair**: Use a skill to attempt to repair equipment.
 - **Train**: Choose a skill. Describe what your character does in order to improve their ability. Gain 1 EXP.
-- Craft**: Use a trade skill to create or modify items
+- **Craft**: Use a trade skill to create or modify items
 - **Make Connections**: Mingle with locals, listen to rumors, gain insight to local legends, and influential NPCs.
 - **Research**: Use available resources to study and learn as much as possible about a specific topic.
 - **Work**: Take on odd jobs in the area to earn gold.
@@ -187,18 +199,22 @@ Each player will perform the **Standard Downtime Activities** and up to 2 **Opti
 **Angelic/Demonic**:
 - Gain Light, or Dark Node
 - Features: Fangs, Horns, Glowing Eyes
+
 ### Size
 **Small**:
 - +2 Sneaky, +1 Dexterous, and +2 Evade skills.
 - +2 Speed
+
 **Average**:
 - +1 to any 4 general skills.
 - +1 Evade **or**  +1 Resist
 - +1 Maximum Health
+
 **Large**:
 - +2 Strong, +1 Tough, and +1 Resist skills
 - +2 Maximum Health, -2 Speed	
 - You can equip a 2-Handed melee weapon in 1-Hand
+- 
 ## Equipment Sets
 
 **Scholar**:
