@@ -3,14 +3,15 @@ layout: default
 title: Characters
 permalink: /UnchartedWaters/Characters/
 ---
-## Active Characters
+# Characters
+## Active
 
 | **Name** | **Gold** | **Player** |
 | -------- | -------- | ---------- |
 | Test     | 100gp    | Will       |
 | Test     | 100gp    | Will       |
 
-## Inactive Characters
+## Inactive
 
 | **Name** | **Gold** | **Player** | **Status** |
 | -------- | -------- | ---------- | ---------- |
