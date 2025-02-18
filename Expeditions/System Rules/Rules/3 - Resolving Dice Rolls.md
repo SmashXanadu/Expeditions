@@ -29,4 +29,4 @@ Sam: “I rolled a 13, but my Strong skill is at +2. So 15 	total. I want to str
 
 Ash: “You move the boulder, but in the process it rolls over your feet and destroys your boots.”
 
-[Continue to **Flow of the Game]({{site.baseurl}}/Rules/4/)** 
+**[Continue to Flow of the Game]({{site.baseurl}}/Rules/4/)** 
