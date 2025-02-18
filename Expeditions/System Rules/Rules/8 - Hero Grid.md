@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Rules 8
+title: Rules - Hero Grid
 permalink: /Rules/8/
 ---
 # Hero Grid
@@ -16,4 +16,4 @@ The numbered nodes here represent what a character’s progression through the g
 
 When you unlock a node you immediately gain access to its corresponding abilities and may prepare them by writing them in your ability list.
 
-[Continue to ]({{site.baseurl}}/Rules/9/) 
+[Continue to Player Characters]({{site.baseurl}}/Rules/9/) 

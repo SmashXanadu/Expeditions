@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Rules 1
+title: Rules - About Expeditions
 permalink: /Rules/1/
 ---
 # About Expeditions
@@ -33,5 +33,5 @@ Players decide their fate by rolling to attack, evade, and everything in-between
 **Rules for Every Type of Player**
 Different versions of player facing materials tailored to fit different player types while keeping everyone playing the same game. Ex: **Novice** (Kids), **Apprentice** (New RPG Players), **Journeyman** (Standard), and **Master** (Advanced Players)
 
-[Continue to ]({{site.baseurl}}/Rules/2/) 
+[Continue to Basic Rules]({{site.baseurl}}/Rules/2/) 
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Rules 3
+title: Rules - Resolving Dice Rolls
 permalink: /Rules/3/
 ---
 # Resolving Dice Rolls
@@ -30,4 +30,4 @@ Sam: “I rolled a 13, but my Strong skill is at +2. So 15 	total. I want to str
 
 Ash: “You move the boulder, but in the process it rolls over your feet and destroys your boots.”
 
-[Continue to ]({{site.baseurl}}/Rules/4/) 
+[Continue to Flow of the Game]({{site.baseurl}}/Rules/4/) 

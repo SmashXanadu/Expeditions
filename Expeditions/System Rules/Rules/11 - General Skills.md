@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Rules 11
+title: Rules - General Skills
 permalink: /Rules/11/
 ---
 # General Skills
@@ -28,7 +28,7 @@ permalink: /Rules/11/
 
 If your character has a skill that is not represented in this list, work with your **Guide** to define a custom skill.
 
-[Continue to ]({{site.baseurl}}/Rules/12/) 
+[Continue to Tradeskills]({{site.baseurl}}/Rules/12/) 
 
 
 

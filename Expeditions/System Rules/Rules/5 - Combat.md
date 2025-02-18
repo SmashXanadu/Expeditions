@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Rules 5
+title: Rules - Combat
 permalink: /Rules/5/
 ---
 # Combat
@@ -49,4 +49,4 @@ Generally, using **Move** on your turn will allow you to move to an adjacent zon
 - Far: At least 1 zone away from target
 - Distant: Beyond the field of battle
 
-[Continue to ]({{site.baseurl}}/Rules/6/) 
+[Continue to Downtime]({{site.baseurl}}/Rules/6/) 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Rules 12
+title: Rules - Tradeskills
 permalink: /Rules/12/
 ---
 # Trade Skills
@@ -23,7 +23,7 @@ permalink: /Rules/12/
 
 If your character has a skill that is not represented in this list, work with your **Guide** to define a custom trade skill.
 
-[Continue to ]({{site.baseurl}}/Rules/13/) 
+[Continue to Rules Index]({{site.baseurl}}/Rules/Index/) 
 
 
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Rules 4
+title: Rules - Flow of the Game
 permalink: /Rules/4/
 ---
 # Flow of the Game
@@ -18,4 +18,4 @@ The next pages will describe **Combat**, which has its own specific rules that a
 
 As for those other types of encounters (**Social** and **Exploration**), your Guide will let you know in the moment how to handle these different situations by narrating, role playing as Non-Player Characters (NPCs), and calling for specific Skill Checks.
 
-[Continue to ]({{site.baseurl}}/Rules/5/) 
+[Continue to Combat]({{site.baseurl}}/Rules/5/) 

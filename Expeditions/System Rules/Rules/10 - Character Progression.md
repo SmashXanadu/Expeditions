@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Rules 10
+title: Rules - Character Progression
 permalink: /Rules/10/
 ---
 # Character Progression
@@ -30,4 +30,4 @@ If the box you check is on the **Attack & Magic** skill track and it has a circl
  
  **Gold**: Represents the amount of gold you are carrying.
 
-[Continue to ]({{site.baseurl}}/Rules/11/) 
+[Continue to General Skills]({{site.baseurl}}/Rules/11/) 

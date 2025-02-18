@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Rules 7
+title: Rules - Character Creation
 permalink: /Rules/7/
 ---
 # Character Creation
@@ -74,4 +74,4 @@ permalink: /Rules/7/
 - **Equipment**: Leather Tunic, Boots, and Pants
 - **Weapon**: Dagger
 
-[Continue to ]({{site.baseurl}}/Rules/8/) 
+[Continue to Hero Grid]({{site.baseurl}}/Rules/8/) 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Rules 9
+title: Rules - Player Characters
 permalink: /Rules/9/
 ---
 # Player Characters
@@ -32,4 +32,4 @@ permalink: /Rules/9/
 	
 ![[PlayerCharacters4.png]]
 
-[Continue to ]({{site.baseurl}}/Rules/10/) 
+[Continue to Character Progression]({{site.baseurl}}/Rules/10/) 
