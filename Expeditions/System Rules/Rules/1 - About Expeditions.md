@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Rules 1
-permalink: /Rules/1
+permalink: /Rules/1/
 ---
 # About Expeditions
 ## What is Expeditions?

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Rules 12
-permalink: /Rules/12
+permalink: /Rules/12/
 ---
 # Trade Skills
 - **Alchemist**:  Mix potions and salves with magical properties.

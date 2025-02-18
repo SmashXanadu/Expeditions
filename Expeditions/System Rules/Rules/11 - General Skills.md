@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Rules 11
-permalink: /Rules/11
+permalink: /Rules/11/
 ---
 # General Skills
 - **Careful**: You have nimble hands, patience, and attention to detail.

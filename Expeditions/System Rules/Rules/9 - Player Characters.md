@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Rules 9
-permalink: /Rules/9
+permalink: /Rules/9/
 ---
 # Player Characters
 - **Health** – Damage you can sustain before unconscious

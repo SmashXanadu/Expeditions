@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Rules 4
-permalink: /Rules/4
+permalink: /Rules/4/
 ---
 # Flow of the Game
 The game takes place in two primary “modes” of play.

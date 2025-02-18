@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Rules 2
-permalink: /Rules/2
+permalink: /Rules/2/
 ---
 # Basic Rules
 In order to play Expeditions you will need...

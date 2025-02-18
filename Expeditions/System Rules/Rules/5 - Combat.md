@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Rules 5
-permalink: /Rules/5
+permalink: /Rules/5/
 ---
 # Combat
 ## Turn Order

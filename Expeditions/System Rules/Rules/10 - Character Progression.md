@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Rules 10
-permalink: /Rules/10
+permalink: /Rules/10/
 ---
 # Character Progression
 Characters will progress primarily in two ways:

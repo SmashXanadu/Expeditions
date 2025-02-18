@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Rules 6
-permalink: /Rules/6
+permalink: /Rules/6/
 ---
 # Downtime
 In-between **Expeditions**, the game switches to a Downtime mode where things happen in a series of montages and short scenes in a more “fast-forward” style.

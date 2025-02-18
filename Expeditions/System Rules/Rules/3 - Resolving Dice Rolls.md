@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Rules 3
-permalink: /Rules/3
+permalink: /Rules/3/
 ---
 # Resolving Dice Rolls
 You and your **Guide** will discuss which **Skill** or **Ability** you will be using that is appropriate to attempt your desired action, and provide you a **Difficulty Check (DC)** value between 8 (trivial) and 25 (near impossible).

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Rules 8
-permalink: /Rules/8
+permalink: /Rules/8/
 ---
 # Hero Grid
 The Hero Grid represents the advancement of your character as you learn and grow on your adventures. 

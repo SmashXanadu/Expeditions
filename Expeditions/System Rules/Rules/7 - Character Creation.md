@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Rules 7
-permalink: /Rules/7
+permalink: /Rules/7/
 ---
 # Character Creation
 ## Steps of Character Creation
