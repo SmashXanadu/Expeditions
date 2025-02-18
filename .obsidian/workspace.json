@@ -46,9 +46,21 @@
               "icon": "lucide-file",
               "title": "1 - About Expeditions"
             }
+          },
+          {
+            "id": "3dbf9a2c1f937de0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -190,7 +202,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c218758e1e54574b",
+  "active": "bad5ecad3b1a4aa8",
   "lastOpenFiles": [
     "Expeditions/System Rules/Rules/12 - Tradeskills.md",
     "Expeditions/System Rules/Rules/11 - General Skills.md",
