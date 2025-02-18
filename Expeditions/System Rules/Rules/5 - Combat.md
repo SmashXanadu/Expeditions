@@ -1,9 +1,8 @@
 ---
 layout: default
-title: Rules - Combat
+title: Combat
 permalink: /Rules/5/
 ---
-# Combat
 ## Turn Order
 The Guide will determine whether the players or enemies have the jump. That team goes first.
 

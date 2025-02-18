@@ -1,9 +1,8 @@
 ---
 layout: default
-title: Rules - About Expeditions
+title: About Expeditions
 permalink: /Rules/1/
 ---
-# About Expeditions
 ## What is Expeditions?
 Expeditions is a Role Playing Game (RPG) system that focuses on maximizing how much fun can be had in a short amount of time by using just enough rules to keep things together. It uses a D20 die and should feel familiar to experienced RPG players while being easier to grasp for new players and kids.
 

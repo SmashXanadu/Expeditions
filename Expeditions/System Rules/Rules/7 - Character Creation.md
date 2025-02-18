@@ -1,9 +1,8 @@
 ---
 layout: default
-title: Rules - Character Creation
+title: Character Creation
 permalink: /Rules/7/
 ---
-# Character Creation
 ## Steps of Character Creation
 1. Set your **Speed** to 20.
 2. Choose one **Feature Set**. Gain the corresponding Node on the Specialty Grid and its abilities.

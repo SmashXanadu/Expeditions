@@ -1,9 +1,8 @@
 ---
 layout: default
-title: Rules - Character Progression
+title: Character Progression
 permalink: /Rules/10/
 ---
-# Character Progression
 Characters will progress primarily in two ways:
 **Gaining Experience** (EXP) and **Managing Equipment**
 

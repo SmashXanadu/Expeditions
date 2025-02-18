@@ -3,7 +3,6 @@ layout: default
 title: Rules Index
 permalink: /Rules/Index/
 ---
-# Expeditions: Rules Index
 - Abilities
 - Attack
 - Basic Rules

@@ -1,13 +1,12 @@
 ---
 layout: default
-title: Rules - Player Characters
+title: Player Characters
 permalink: /Rules/9/
 ---
-# Player Characters
 - **Health** – Damage you can sustain before unconscious
 - **Speed** – Determines your party turn order in combat
 - **Attack** – Used for physical abilities
-**- Magic** -  Used for magic abilities
+- **Magic** -  Used for magic abilities
 
 ![[/Images/PlayerCharacters1.png]]
 ## Equipment

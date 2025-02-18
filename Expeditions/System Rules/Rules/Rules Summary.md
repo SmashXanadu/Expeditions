@@ -3,7 +3,6 @@ layout: default
 title: Rules Summary
 permalink: /Rules/Summary/
 ---
-# Expeditions: Rules Summary
 ## Rolling Dice
 **Roll + Modifier(s) ≥ DC** is a **Success**
 

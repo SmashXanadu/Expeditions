@@ -1,9 +1,8 @@
 ---
 layout: default
-title: Rules - Basic Rules
+title: Basic Rules
 permalink: /Rules/2/
 ---
-# Basic Rules
 In order to play Expeditions you will need...
 				This Rules Zine
 				Pencils and pens

@@ -1,9 +1,8 @@
 ---
 layout: default
-title: Rules - General Skills
+title: General Skills
 permalink: /Rules/11/
 ---
-# General Skills
 - **Careful**: You have nimble hands, patience, and attention to detail.
 - **Charismatic**: You have a way with words and use them well.
 - **Dexterous**: You can control your body and move with confidence.

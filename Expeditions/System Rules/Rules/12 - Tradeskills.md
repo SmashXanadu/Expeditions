@@ -1,9 +1,8 @@
 ---
 layout: default
-title: Rules - Tradeskills
+title: Tradeskills
 permalink: /Rules/12/
 ---
-# Trade Skills
 - **Alchemist**:  Mix potions and salves with magical properties.
 - **Animal Handler**: Live and work in harmony with animals.
 - **Blacksmith**: Work ores and alloys into weapons and heavy armor.

@@ -1,9 +1,8 @@
 ---
 layout: default
-title: Rules - Downtime
+title: Downtime
 permalink: /Rules/6/
 ---
-# Downtime
 In-between **Expeditions**, the game switches to a Downtime mode where things happen in a series of montages and short scenes in a more “fast-forward” style.
 
 Each player will perform the **Standard Downtime Activities** and up to 2 **Optional Downtime Activities** during each downtime phase.

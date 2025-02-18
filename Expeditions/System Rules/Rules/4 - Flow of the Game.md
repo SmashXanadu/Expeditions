@@ -1,9 +1,8 @@
 ---
 layout: default
-title: Rules - Flow of the Game
+title: Flow of the Game
 permalink: /Rules/4/
 ---
-# Flow of the Game
 The game takes place in two primary “modes” of play.
 
 The **Expedition** mode sees you and your allies set out to achieve a specific objective within a limited amount of real-world time. 
