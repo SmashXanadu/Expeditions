@@ -15,4 +15,4 @@ The numbered nodes here represent what a character’s progression through the g
 
 When you unlock a node you immediately gain access to its corresponding abilities and may prepare them by writing them in your ability list.
 
-[Continue to Player Characters]({{site.baseurl}}/Rules/9/) 
+[Continue to **Player Characters]({{site.baseurl}}/Rules/9/)** 

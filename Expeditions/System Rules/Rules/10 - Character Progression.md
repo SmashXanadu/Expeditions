@@ -29,4 +29,4 @@ If the box you check is on the **Attack & Magic** skill track and it has a circl
  
  **Gold**: Represents the amount of gold you are carrying.
 
-[Continue to General Skills]({{site.baseurl}}/Rules/11/) 
+[Continue to **General Skills]({{site.baseurl}}/Rules/11/)** 

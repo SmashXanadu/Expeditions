@@ -48,4 +48,4 @@ Generally, using **Move** on your turn will allow you to move to an adjacent zon
 - Far: At least 1 zone away from target
 - Distant: Beyond the field of battle
 
-[Continue to Downtime]({{site.baseurl}}/Rules/6/) 
+[Continue to **Downtime]({{site.baseurl}}/Rules/6/)** 

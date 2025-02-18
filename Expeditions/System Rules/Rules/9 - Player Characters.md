@@ -31,4 +31,4 @@ permalink: /Rules/9/
 	
 ![[PlayerCharacters4.png]]
 
-[Continue to Character Progression]({{site.baseurl}}/Rules/10/) 
+[Continue to **Character Progression]({{site.baseurl}}/Rules/10/)** 

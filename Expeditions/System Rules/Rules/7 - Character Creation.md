@@ -73,4 +73,4 @@ permalink: /Rules/7/
 - **Equipment**: Leather Tunic, Boots, and Pants
 - **Weapon**: Dagger
 
-[Continue to Hero Grid]({{site.baseurl}}/Rules/8/) 
+[Continue to **Hero Grid]({{site.baseurl}}/Rules/8/)** 

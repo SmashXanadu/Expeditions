@@ -34,4 +34,4 @@ or
 	
 **Ash**: “I’m not sure if you are strong enough to lift this, let’s roll to see...”
 
-[Continue to Resolving Dice Rolls]({{site.baseurl}}/Rules/3/) 
+[Continue to **Resolving Dice Rolls]({{site.baseurl}}/Rules/3/)** 
