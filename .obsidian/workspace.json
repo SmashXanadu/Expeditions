@@ -25,16 +25,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Expeditions/System Rules/Rules.md",
+                "file": "UnchartedWaters/0 To Do.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rules"
+              "title": "0 To Do"
+            }
+          },
+          {
+            "id": "c218758e1e54574b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -53,7 +67,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -175,14 +190,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1613cd2cbff65d52",
+  "active": "c218758e1e54574b",
   "lastOpenFiles": [
-    "Expeditions/System Rules/Rules Index.md",
-    "Expeditions/System Rules/Rules Summary.md",
-    "Expeditions/System Rules/Rules.md",
-    "README.md",
+    "Expeditions/System Rules/Rules/2 - Basic Rules.md",
     "index.md",
+    "Expeditions/System Rules/Rules/1 - About Expeditions.md",
+    "Expeditions/System Rules/Rules/3 - Resolving Dice Rolls.md",
+    "Expeditions/System Rules/Rules/4 - Flow of the Game.md",
+    "Expeditions/System Rules/Rules/5 - Combat.md",
+    "Expeditions/System Rules/Rules/6 - Downtime.md",
+    "Expeditions/System Rules/Rules/7 - Character Creation.md",
+    "Expeditions/System Rules/Rules/8 - Hero Grid.md",
+    "Expeditions/System Rules/Rules/9 - Player Characters.md",
+    "Expeditions/System Rules/Rules/10 - Character Progression.md",
+    "Expeditions/System Rules/Rules/11 - General Skills.md",
+    "Expeditions/System Rules/Rules/12 - Tradeskills.md",
+    "Expeditions/System Rules/Rules/13 - Rules Index.md",
+    "Expeditions/System Rules/Rules/14 - Rules Summary.md",
+    "{{site.baseurl}}/Rules/Summary.md",
+    "{{site.baseurl}}/Rules",
+    "Expeditions/System Rules/Full Rules.md",
+    "Expeditions/System Rules/Mobile Rules Test/Rules p1.md",
+    "Expeditions/System Rules/Rules",
     "UnchartedWaters/0 To Do.md",
+    "README.md",
     "UnchartedWaters/Locations/TheEmeraldDawn.md",
     "UnchartedWaters/Locations/Locations.md",
     "UnchartedWaters/Characters/Characters.md",
@@ -198,28 +229,12 @@
     "Images/PlayerCharacters4.png",
     "Images/PlayerCharacters3.png",
     "Images/PlayerCharacters2.png",
-    "Expeditions/System Rules/Rules Zine/2.md",
-    "Expeditions/System Rules/Rules Zine/Back.md",
-    "Expeditions/System Rules/Rules Zine/Cover.md",
-    "Expeditions/System Rules/Rules Zine/1.md",
-    "Expeditions/System Rules/Rules Zine/1 - Copy.md",
-    "Expeditions/System Rules/Rules Zine/Cover - Copy.md",
-    "Expeditions/System Rules/Rules Zine/Rules.md",
     "Expeditions/System Rules/Rules Zine",
-    "UnchartedWaters/Guide Materials/Rules/Cataloguing.md",
-    "UnchartedWaters/Guide Materials/Rules/Open Table.md",
-    "UnchartedWaters/Guide Materials/Rules/Waystones.md",
-    "Expeditions/Rules.md",
-    "UnchartedWaters/About.md",
-    "{{site.baseurl}}/Expeditions.md",
-    "{{site.baseurl}}/UnchartedWaters/Characters.md",
     "Expeditions/Player Materials/Premade Characters",
     "UnchartedWaters/Guide Materials/Rules",
     "UnchartedWaters/Guide Materials/NPCs",
     "UnchartedWaters/Guide Materials/Ship Events",
     "UnchartedWaters/Guide Materials/Ship Facilities",
-    "Expeditions/System Rules",
-    "Expeditions/Player Materials",
     "Untitled.canvas",
     "Uncharted Waters/hexgrid.png"
   ]

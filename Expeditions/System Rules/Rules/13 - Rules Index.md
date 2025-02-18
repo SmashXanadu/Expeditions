@@ -53,6 +53,8 @@ permalink: /Rules/Index/
 - Unconscious
 - Zones
 
+[Rules Summary]({{site.baseurl}}/Rules/Summary/) 
+
 
 
 

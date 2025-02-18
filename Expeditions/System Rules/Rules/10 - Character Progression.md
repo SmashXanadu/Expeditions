@@ -1,0 +1,33 @@
+---
+layout: default
+title: Rules 10
+permalink: /Rules/10
+---
+# Character Progression
+Characters will progress primarily in two ways:
+**Gaining Experience** (EXP) and **Managing Equipment**
+
+## Gaining Experience (EXP)
+**Learn by Failure**: Whenever you fail a roll you gain an experience point. Check off the left most unchecked box on the corresponding skill track to represent this.
+
+**Train**: During Downtime you will also have the opportunity to gain experience points for specific skills.
+
+If the box you check has a “**+1**” in it, add one to the skill’s modifier. 
+
+If the box you check has a **star icon** in it, you can select and check an enhancement box on your skill card.
+
+If the box you check is on the **Attack & Magic** skill track and it has a circle in it, you get to…
+14. Select a new **Node** on the **Hero Grid**
+15. Learn the associated **4 Abilities**
+
+## Managing Equipment
+
+**Equipment**: Characters have a set number of slots to equip **Armor** and **Weapons**.
+- **Armor** Durability and Speed Penalties will vary based on the armor type (**Light**, **Medium**, or **Heavy**).
+- **Weapons** will be either held with 1 or 2 hands and will also have duribility and speed penalties. Both Armor and Weapons may have additional magical properties!
+
+ **Inventory**: Hold up to 10 non-equipped items.
+ 
+ **Gold**: Represents the amount of gold you are carrying.
+
+[Continue to ]({{site.baseurl}}/Rules/11/) 
