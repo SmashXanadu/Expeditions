@@ -3,6 +3,7 @@ layout: default
 title: Character Creation
 permalink: /Rules/7/
 ---
+# Character Creation
 ## Steps of Character Creation
 1. Set your **Speed** to 20.
 2. Choose one **Feature Set**. Gain the corresponding Node on the Specialty Grid and its abilities.
@@ -73,4 +74,4 @@ permalink: /Rules/7/
 - **Equipment**: Leather Tunic, Boots, and Pants
 - **Weapon**: Dagger
 
-**[Continue to Hero Grid]({{site.baseurl}}/Rules/8/)** 
+**[Next: Hero Grid]({{site.baseurl}}/Rules/8/)** 

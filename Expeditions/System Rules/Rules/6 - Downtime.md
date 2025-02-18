@@ -3,6 +3,7 @@ layout: default
 title: Downtime
 permalink: /Rules/6/
 ---
+# Downtime
 In-between **Expeditions**, the game switches to a Downtime mode where things happen in a series of montages and short scenes in a more “fast-forward” style.
 
 Each player will perform the **Standard Downtime Activities** and up to 2 **Optional Downtime Activities** during each downtime phase.
@@ -20,4 +21,4 @@ Each player will perform the **Standard Downtime Activities** and up to 2 **Opti
 - **Work**: Take on odd jobs in the area to earn gold.
 - **Custom Downtime Activity** (Limit 1): Describe what your character would like to do, and work through the scene with your Guide. 
 
-**[Continue to Character Creation]({{site.baseurl}}/Rules/7/)** 
+**[Next: Character Creation]({{site.baseurl}}/Rules/7/)** 

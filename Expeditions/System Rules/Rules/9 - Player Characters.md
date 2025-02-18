@@ -3,6 +3,7 @@ layout: default
 title: Player Characters
 permalink: /Rules/9/
 ---
+# Player Characters
 - **Health** – Damage you can sustain before unconscious
 - **Speed** – Determines your party turn order in combat
 - **Attack** – Used for physical abilities
@@ -31,4 +32,4 @@ permalink: /Rules/9/
 	
 ![[PlayerCharacters4.png]]
 
-**[Continue to Character Progression]({{site.baseurl}}/Rules/10/)** 
+**[Next: Character Progression]({{site.baseurl}}/Rules/10/)** 

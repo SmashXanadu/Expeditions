@@ -3,6 +3,7 @@ layout: default
 title: About
 permalink: /Rules/1/
 ---
+# About Expeditions
 ## What is Expeditions?
 Expeditions is a Role Playing Game (RPG) system that focuses on maximizing how much fun can be had in a short amount of time by using just enough rules to keep things together. It uses a D20 die and should feel familiar to experienced RPG players while being easier to grasp for new players and kids.
 
@@ -32,5 +33,5 @@ Players decide their fate by rolling to attack, evade, and everything in-between
 **Rules for Every Type of Player**
 Different versions of player facing materials tailored to fit different player types while keeping everyone playing the same game. Ex: **Novice** (Kids), **Apprentice** (New RPG Players), **Journeyman** (Standard), and **Master** (Advanced Players)
 
-**[Continue to Basic Rules]({{site.baseurl}}/Rules/2/)**
+**[Next: Basic Rules]({{site.baseurl}}/Rules/2/)**
 

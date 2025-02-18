@@ -3,6 +3,7 @@ layout: default
 title: Flow of the Game
 permalink: /Rules/4/
 ---
+# Flow of the Game
 The game takes place in two primary “modes” of play.
 
 The **Expedition** mode sees you and your allies set out to achieve a specific objective within a limited amount of real-world time. 
@@ -17,4 +18,4 @@ The next pages will describe **Combat**, which has its own specific rules that a
 
 As for those other types of encounters (**Social** and **Exploration**), your Guide will let you know in the moment how to handle these different situations by narrating, role playing as Non-Player Characters (NPCs), and calling for specific Skill Checks.
 
-**[Continue to Combat]({{site.baseurl}}/Rules/5/)** 
+**[Next: Combat]({{site.baseurl}}/Rules/5/)** 

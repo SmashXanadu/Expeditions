@@ -3,6 +3,7 @@ layout: default
 title: Combat
 permalink: /Rules/5/
 ---
+# Combat
 ## Turn Order
 The Guide will determine whether the players or enemies have the jump. That team goes first.
 
@@ -48,4 +49,4 @@ Generally, using **Move** on your turn will allow you to move to an adjacent zon
 - Far: At least 1 zone away from target
 - Distant: Beyond the field of battle
 
-**[Continue to Downtime]({{site.baseurl}}/Rules/6/)** 
+**[Next: Downtime]({{site.baseurl}}/Rules/6/)** 

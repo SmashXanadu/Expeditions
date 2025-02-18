@@ -3,6 +3,7 @@ layout: default
 title: Basic Rules
 permalink: /Rules/2/
 ---
+# Basic Rules
 In order to play Expeditions you will need...
 				This Rules Zine
 				Pencils and pens
@@ -34,4 +35,4 @@ or
 	
 **Ash**: “I’m not sure if you are strong enough to lift this, let’s roll to see...”
 
-**[Continue to Resolving Dice Rolls]({{site.baseurl}}/Rules/3/)** 
+**[Next: Resolving Dice Rolls]({{site.baseurl}}/Rules/3/)** 

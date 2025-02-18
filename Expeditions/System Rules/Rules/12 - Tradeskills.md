@@ -3,6 +3,7 @@ layout: default
 title: Tradeskills
 permalink: /Rules/12/
 ---
+# Tradeskills
 - **Alchemist**:  Mix potions and salves with magical properties.
 - **Animal Handler**: Live and work in harmony with animals.
 - **Blacksmith**: Work ores and alloys into weapons and heavy armor.
@@ -22,7 +23,7 @@ permalink: /Rules/12/
 
 If your character has a skill that is not represented in this list, work with your **Guide** to define a custom trade skill.
 
-**[Continue to Rules Index]({{site.baseurl}}/Rules/Index/)** 
+**[Next: Rules Index]({{site.baseurl}}/Rules/Index/)** 
 
 
 
