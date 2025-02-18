@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About Expeditions
+title: About
 permalink: /Rules/1/
 ---
 ## What is Expeditions?
