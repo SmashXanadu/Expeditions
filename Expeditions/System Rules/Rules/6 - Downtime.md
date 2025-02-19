@@ -21,4 +21,4 @@ Each player will perform the **Standard Downtime Activities** and up to 2 **Opti
 - **Work**: Take on odd jobs in the area to earn gold.
 - **Custom (Limit 1): Describe what your character would like to do, and work through the scene with your Guide. 
 
-**[Next: Character Creation]({{site.baseurl}}/Rules/7/)** | [Rules]({{site.baseurl}}/Rules/Index/)
+**[Next: Character Creation]({{site.baseurl}}/Rules/7/)** | [Rules]({{site.baseurl}}/Rules/Index/#rules)

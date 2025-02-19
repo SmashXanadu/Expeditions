@@ -3,8 +3,8 @@ layout: default
 title: Rules Index
 permalink: /Rules/Index/
 ---
-## Rules
-**[Summary]({{site.baseurl}}/Rules/Summary/)** 
+## [Rules](#rules)
+**[Summary]({{site.baseurl}}/Rules/Summary/#summary)** 
 1. **[About]({{site.baseurl}}/Rules/1/#about-expeditions)**
 2. **[Basic Rules]({{site.baseurl}}/Rules/2/#basic-rules)**
 3. **[Resolving Dice Rolls]({{site.baseurl}}/Rules/3/#resolving-dice-rolls)**
@@ -18,7 +18,7 @@ permalink: /Rules/Index/
 11. **[General Skills]({{site.baseurl}}/Rules/11/#general-skills)**
 12. **[Trade Skills]({{site.baseurl}}/Rules/12/#tradeskills)**
 
-## Index
+## [Index](#index)
 - **[Abilities]({{site.baseurl}}/Rules/9/#abilities)**
 - **[Attack]({{site.baseurl}}/Rules/5/#attacking)**
 - **[Benefits]({{site.baseurl}}/Rules/0/)**

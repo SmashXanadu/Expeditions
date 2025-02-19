@@ -3,6 +3,7 @@ layout: default
 title: Rules Summary
 permalink: /Rules/Summary/
 ---
+# [Summary](#summary)
 ## Rolling Dice
 **Roll + Modifier(s) ≥ DC** is a **Success**
 
@@ -50,7 +51,7 @@ A **Natural 20** is a Success with a **Major Benefit**
 
 **Distant**: Beyond the field of battle
 
- **[Rules]({{site.baseurl}}/Rules/Index/)**
+**[Rules]({{site.baseurl}}/Rules/Index/#rules)**
 
 
 

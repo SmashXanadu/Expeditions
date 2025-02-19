@@ -28,12 +28,7 @@ permalink: /Rules/11/
 
 If your character has a skill that is not represented in this list, work with your **Guide** to define a custom skill.
 
-**[Next: Tradeskills]({{site.baseurl}}/Rules/12/)** | [Rules]({{site.baseurl}}/Rules/Index/)
-
-
-
-
-
+**[Next: Tradeskills]({{site.baseurl}}/Rules/12/)** | [Rules]({{site.baseurl}}/Rules/Index/#rules)
 
 
 

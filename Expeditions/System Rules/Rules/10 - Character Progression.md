@@ -30,4 +30,4 @@ If the box you check is on the **Hero Track** and it has a circle in it, you get
  
  **Gold**: Represents the amount of gold you are carrying.
 
-**[Next: General Skills]({{site.baseurl}}/Rules/11/)** | [Rules]({{site.baseurl}}/Rules/Index/)
+**[Next: General Skills]({{site.baseurl}}/Rules/11/)** | [Rules]({{site.baseurl}}/Rules/Index/#rules)
