@@ -14,9 +14,9 @@ Each player will perform the **Standard Downtime Activities** and up to 2 **Opti
 
 ## Optional Downtime Activities (Choose 2)
 - **Repair**: Use a skill to attempt to repair equipment.
-- **Train**: Choose a skill. Describe what your character does in order to improve their ability. Gain 1 EXP.
+- **Train**: Choose a skill. Describe what your character does in order to improve it. Gain 1 EXP.
 - **Craft**: Use a trade skill to create or modify items
-- **Make Connections**: Mingle with locals, listen to rumors, gain insight to local legends, and influential NPCs.
+- **Make Connections**: Mingle with locals, listen to rumors, and gain insight into to local legends and influential NPCs.
 - **Research**: Use available resources to study and learn as much as possible about a specific topic.
 - **Work**: Take on odd jobs in the area to earn gold.
 - **Custom Downtime Activity** (Limit 1): Describe what your character would like to do, and work through the scene with your Guide. 

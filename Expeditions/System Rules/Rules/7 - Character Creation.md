@@ -6,47 +6,47 @@ permalink: /Rules/7/
 # Character Creation
 ## Steps of Character Creation
 1. Set your **Speed** to 20.
-2. Choose one **Feature Set**. Gain the corresponding Node on the Specialty Grid and its abilities.
+2. Choose one **Feature Set**. Gain the corresponding **Node** on the Hero Grid and its abilities.
 3. Choose a **Size**. Gain all corresponding benefits. 
 4. Choose a starting **Equipment Set**. Gain corresponding equipment, items, and gold.
 
 ### Feature Sets
 
 **No Exotic Features**:
-- Gain any starting Node
+- Gain **any starting Node**
 
 **Aquatic**: 
-- Gain Water Node, Underwater Breathing
+- Gain **Water** Node, Underwater Breathing
 - Features: Gills, Fins, Deep-Sea Eyes, Shimmering Skin
 
 **Bestial**:
-- Gain Animals or Shifting Node
+- Gain **Animals** or **Shifting** Node
 - +1 Dmg to Unarmed Attacks
 - Features: Fangs, Fur, Horns, Hooves, Scales
 
 **Avian**:
-- Gain Flight or Air Node
+- Gain **Flight** or Air **Node**
 - Features: Feathers, Beak, Talons, Wings
 
 **Angelic/Demonic**:
-- Gain Light, or Dark Node
+- Gain **Light**, or **Dark** Node
 - Features: Fangs, Horns, Glowing Eyes
 
 ### Size
 **Small**:
-- +2 Sneaky, +1 Dexterous, and +2 Evade skills.
-- +2 Speed
+- +2 **Sneaky**, +1 **Dexterous**, +2 **Evade**
+- +2 **Speed**
 
 **Average**:
-- +1 to any 4 general skills.
-- +1 Evade **or**  +1 Resist
-- +1 Maximum Health
+- +1 to any 4 **General Skills**.
+- +1 **Evade** **or**  +1 **Resist**
+- +1 **Maximum** **Health**
 
 **Large**:
-- +2 Strong, +1 Tough, and +1 Resist skills
-- +2 Maximum Health, -2 Speed	
+- +2 **Strong**, +1 **Tough**, +1 **Resist**
+- +2 **Maximum** **Health**
+-  -2 **Speed**	
 - You can equip a 2-Handed melee weapon in 1-Hand
-- 
 ## Equipment Sets
 
 **Scholar**:

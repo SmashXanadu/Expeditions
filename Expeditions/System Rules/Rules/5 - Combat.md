@@ -5,10 +5,10 @@ permalink: /Rules/5/
 ---
 # Combat
 ## Turn Order
-The Guide will determine whether the players or enemies have the jump. That team goes first.
+The Guide will determine whether the players or enemies "have the jump". Usually this is whichever side is choosing to initiate combat.
 
 ## Players Turn
-Each Character acts in order of their **Speed**. Higher Speed goes first, then in descending order. Players decide how to break ties.
+Each Character acts in order of their **Speed**. The character with the highest Speed goes first, then in descending order. Players decide how to break any ties.
 
 **On your turn you may** (in any order)...
  1. **Use an Ability**, do a **Skill Check**, or **Equip Gear**
@@ -36,7 +36,7 @@ If an enemy attacks you…
 ### Taking Damage
 - Decide how much damage will be taken from your health and how much will be taken from any specific equipment durability.
 - If your health ever reaches 0, you will fall **Unconscious**.	
-- If any specific equipment durability ever reaches 0, it will become Broken.
+- If any specific equipment durability ever reaches 0, it will become **Broken**.
 
 ### Zoned Combat
 During combat, the play area is broken up into clearly established spaces on a map or table called **Zones**.
@@ -44,9 +44,9 @@ During combat, the play area is broken up into clearly established spaces on a m
 Generally, using **Move** on your turn will allow you to move to an adjacent zone.
 
 **Range** to your targets is also dictated by Zones.
-- Close: In the same zone as target
-- Near: In adjacent zone to target
-- Far: At least 1 zone away from target
-- Distant: Beyond the field of battle
+- **Close**: In the same zone as target
+- **Near**: In adjacent zone to target
+- **Far**: At least 1 zone away from target
+- **Distant**: Beyond the field of battle
 
 **[Next: Downtime]({{site.baseurl}}/Rules/6/)** 

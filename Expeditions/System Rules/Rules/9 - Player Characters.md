@@ -13,13 +13,13 @@ permalink: /Rules/9/
 ## Equipment
 - Each equipped item has **Durability** that can be used instead of **Health** when taking damage.
 - Equipment can be **Repaired** up to its maximum durability.
-	If it reaches 0 Durability, it becomes **Broken**
+- If a piece of equipment reaches 0 Durability, it becomes **Broken**.
 	
 ![[/Images/PlayerCharacters2.png]]
 
 ## Abilities
 - Abilities from the **Hero Grid** will either use **Attack** or **Magic** rolls to determine success or failure.
-- All abilities will have detaled **General Rules** and **In Combat Rules** which will have additional details such as what you can target, and what range the ability works from.
+- All abilities will have detaled **General Rules** and **Combat Rules** which will have additional details such as what you can target, and what range the ability works from.
 - Abilities may cost **Charges**, which can be regained during Downtime with the Rest option, or by other specific Abilities and Magical Items.
 
 ![[PlayerCharacters3.png]]

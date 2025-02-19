@@ -6,9 +6,9 @@ permalink: /Rules/8/
 # Hero Grid
 The Hero Grid represents the advancement of your character as you learn and grow on your adventures. 
 
-You will start with a single node unlocked during the character creation process. Over time you will gain enough experience points on the Attack & Magic skill track to reach certain boxes that will allow you to unlock additional nodes up to a maximum of 5.
+You will start with a single node unlocked during the character creation process. Over time you will gain enough experience points on the **Hero Track** to reach certain boxes that will allow you to unlock additional nodes up to a maximum of 5.
 
-When you unlock a node on the Hero Grid, it must be linked by to the large central node or linked to a node that you have unlocked already. 
+When you unlock a node on the Hero Grid, it must be linked to the large central node or linked to a node that you have unlocked already. 
 
 The numbered nodes here represent what a character’s progression through the grid could look like.
 

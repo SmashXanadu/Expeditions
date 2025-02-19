@@ -7,7 +7,7 @@ permalink: /Rules/10/
 Characters will progress primarily in two ways:
 **Gaining Experience** (EXP) and **Managing Equipment**
 
-## Gaining Experience (EXP)
+## Gaining Experience
 **Learn by Failure**: Whenever you fail a roll you gain an experience point. Check off the left most unchecked box on the corresponding skill track to represent this.
 
 **Train**: During Downtime you will also have the opportunity to gain experience points for specific skills.
@@ -16,9 +16,9 @@ If the box you check has a “**+1**” in it, add one to the skill’s modifier
 
 If the box you check has a **star icon** in it, you can select and check an enhancement box on your skill card.
 
-If the box you check is on the **Attack & Magic** skill track and it has a circle in it, you get to…
-14. Select a new **Node** on the **Hero Grid**
-15. Learn the associated **4 Abilities**
+If the box you check is on the **Hero Track** and it has a circle in it, you get to…
+1. Select a new **Node** on the **Hero Grid**
+2. Learn the associated **4 Abilities**
 
 ## Managing Equipment
 
