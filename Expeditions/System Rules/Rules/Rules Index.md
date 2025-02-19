@@ -4,7 +4,8 @@ title: Rules
 permalink: /Rules/Index/
 ---
 ## [Rules](#rules)
-**[Rules Summary]({{site.baseurl}}/Rules/Summary/#summary)** 
+**[Rules Summary]({{site.baseurl}}/Rules/Summary/#summary)**  | **[Player Resources]({{site.baseurl}}/Rules/Summary/#summary)** 
+
 1. **[About]({{site.baseurl}}/Rules/1/#about-expeditions)**
 2. **[Basic Rules]({{site.baseurl}}/Rules/2/#basic-rules)**
 3. **[Resolving Dice Rolls]({{site.baseurl}}/Rules/3/#resolving-dice-rolls)**
