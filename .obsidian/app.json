@@ -1,4 +1,5 @@
 {
-  "promptDelete": false,
-  "alwaysUpdateLinks": true
+  "promptDelete": true,
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": true
 }
