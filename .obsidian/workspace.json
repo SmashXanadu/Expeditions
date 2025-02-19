@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 To Do.md",
+                "file": "Expeditions/Player Resources/Player Resources Index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0 To Do"
+              "title": "Player Resources Index"
             }
           }
         ]
@@ -165,23 +165,32 @@
   },
   "active": "94f93929d95f4c53",
   "lastOpenFiles": [
+    "Expeditions/System Rules/Rules/8 - Hero Grid.md",
+    "Expeditions/System Rules/Rules/4 - Flow of the Game.md",
+    "Expeditions/Player Resources/Player Resources Index.md",
+    "images/HeroGridSheet.png",
+    "images/SkillSheet.png",
+    "images/CharacterSheet.png",
+    "images/EquipmentSheet.png",
+    "images/Hero Grid Sheet.png",
+    "images/Skill Sheet.png",
+    "images/AbilitySheet.png",
+    "Expeditions/System Rules/Rules/Rules Index.md",
+    "Expeditions/Player Resources",
+    "Expeditions/System Rules/Rules/Rules Index - Copy.md",
+    "Expeditions/System Rules/Rules/0 - Missing Rule.md",
+    "0 To Do.md",
     "index.md",
     "Expeditions/System Rules/Rules/9 - Player Characters.md",
-    "Expeditions/System Rules/Rules/8 - Hero Grid.md",
-    "0 To Do.md",
     "images/GridExample.png",
     "images/PlayerCharacters4.png",
     "Expeditions/System Rules/Rules/1 - About Expeditions.md",
-    "Expeditions/System Rules/Rules/0 - Missing Rule.md",
     "Expeditions/System Rules/Rules/2 - Basic Rules.md",
     "images/PlayerCharacters1.png",
-    "Expeditions/System Rules/Rules/Rules Index.md",
-    "images/Guide Sea Hex Map.png",
     "Expeditions/System Rules/Rules/7 - Character Creation.md",
     "Expeditions/System Rules/Rules/6 - Downtime.md",
     "Expeditions/System Rules/Rules/3 - Resolving Dice Rolls.md",
     "Expeditions/System Rules/Rules/5 - Combat.md",
-    "Expeditions/System Rules/Rules/4 - Flow of the Game.md",
     "UnchartedWaters/Uncharted Waters Index.md",
     "UnchartedWaters/Locations/Locations.md",
     "UnchartedWaters/Locations/TheEmeraldDawn.md",
@@ -192,23 +201,15 @@
     "UnchartedWaters/Guide Materials/Ship Facilities/Ideas.md",
     "UnchartedWaters/Guide Materials/Ship Events/Ideas.md",
     "UnchartedWaters/Guide Materials/Maps/Player Sea Hex Map.md",
-    "Expeditions/System Rules/Rules/Rules Summary.md",
-    "Expeditions/System Rules/Rules/11 - General Skills.md",
-    "Expeditions/System Rules/Rules/12 - Tradeskills.md",
     "{{site.baseurl}}/UnchartedWaters",
     "{{site.baseurl}}/Rules",
     "Expeditions/Guide Materials/Premade Adventures/Open Table Campaigns/Uncharted Waters",
     "Expeditions/Guide Materials/Premade Adventures/Open Table Campaigns/The Shatterlands",
     "Expeditions/System Rules/Rules",
     "{{site.baseurl}}",
-    "images/Player Sea Hex Map.png",
     "images",
-    "images/PlayerCharacters3.png",
-    "images/PlayerCharacters2.png",
     "Expeditions/System Rules/Rules Zine",
     "Expeditions/Player Resources/Premade Characters",
-    "UnchartedWaters/Guide Materials/Rules",
-    "Untitled.canvas",
-    "Uncharted Waters/hexgrid.png"
+    "Untitled.canvas"
   ]
 }

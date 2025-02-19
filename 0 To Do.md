@@ -2,7 +2,6 @@
   *Bring it all together*
 
 ## Expeditions
-- Squash Commits into Version 1
 - Resources section correct link with links to print material download locations (g drive?)
 ## Uncharted Waters
 - Create Ship NPCs (Tie to Faction)
