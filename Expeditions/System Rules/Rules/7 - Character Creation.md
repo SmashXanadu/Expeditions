@@ -47,6 +47,7 @@ permalink: /Rules/7/
 - +2 **Maximum** **Health**
 -  -2 **Speed**	
 - You can equip a 2-Handed melee weapon in 1-Hand
+
 ## [Equipment Sets](#equipment-sets)
 
 **Scholar**:
@@ -74,4 +75,4 @@ permalink: /Rules/7/
 - **Equipment**: Leather Tunic, Boots, and Pants
 - **Weapon**: Dagger
 
-**[Next: Hero Grid]({{site.baseurl}}/Rules/8/)** | [Rules Index]({{site.baseurl}}/Rules/Index/)
+**[Next: Hero Grid]({{site.baseurl}}/Rules/8/)** | [Rules]({{site.baseurl}}/Rules/Index/)

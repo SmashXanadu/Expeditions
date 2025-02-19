@@ -29,4 +29,4 @@ Different versions of player facing materials tailored to fit different player t
 
 
 # **What is Uncharted Waters?**
-**Uncharted Waters** is an Open Table Campaign based on sea exploration and adventuring. 
+**Uncharted Waters** is an Open Table Campaign based on sea exploration and adventuring. using the **Expeditions** rules system. Players set sail from the mainland into the _uncharted waters_ of the **Western Sea**.

@@ -18,4 +18,4 @@ The next pages will describe **Combat**, which has its own specific rules that a
 
 As for those other types of encounters (**Social** and **Exploration**), your Guide will let you know in the moment how to handle these different situations by narrating, role playing as Non-Player Characters (NPCs), and calling for specific Skill Checks.
 
-**[Next: Combat]({{site.baseurl}}/Rules/5/)** | [Rules Index]({{site.baseurl}}/Rules/Index/)
+**[Next: Combat]({{site.baseurl}}/Rules/5/)** | [Rules]({{site.baseurl}}/Rules/Index/)

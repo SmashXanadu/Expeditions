@@ -50,7 +50,7 @@ A **Natural 20** is a Success with a **Major Benefit**
 
 **Distant**: Beyond the field of battle
 
-**[Rules Index]({{site.baseurl}}/Rules/Index/)** 
+ **[Rules]({{site.baseurl}}/Rules/Index/)**
 
 
 

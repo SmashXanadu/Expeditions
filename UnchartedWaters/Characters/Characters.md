@@ -18,3 +18,19 @@ permalink: /UnchartedWaters/Characters/
 | Test     | 100gp    | Will       | Dead       |
 | Test     | 100gp    | Will       | Retired    |
 
+
+LauraLee
+Adam
+	Erin
+	Christian
+Adrienne
+	Josh
+Nate
+	Nicole
+	Donald
+Harrison
+	Lauren
+Joe Ballard
+	David
+	Craig
+	Andrew

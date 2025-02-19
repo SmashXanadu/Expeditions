@@ -24,12 +24,12 @@ As you create a story collaboratively, the **Guide** will describe your environm
 >
 >**Ash**: “Okay, you are exceptionally strong. You move the boulder without much effort at all.”
 >
->	**or**
->	
+>**or**
+>
 >**Ash**: “This boulder is beyond your capability to move with strength alone.”
 >
->	**or**
->	
+>**or**
+>
 >**Ash**: “I’m not sure if you are strong enough to lift this, let’s roll to see...”
 
-**[Next: Resolving Dice Rolls]({{site.baseurl}}/Rules/3/)** | [Rules Index]({{site.baseurl}}/Rules/Index/)
+**[Next: Resolving Dice Rolls]({{site.baseurl}}/Rules/3/)** | [Rules]({{site.baseurl}}/Rules/Index/)
