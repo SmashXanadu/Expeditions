@@ -65,6 +65,6 @@ permalink: /Rules/Index/
 - **[Unconscious]({{site.baseurl}}/Rules/0/#missing-rule)**
 - **[Zone]({{site.baseurl}}/Rules/5/#zoned-combat)**
 
-[Submit an Edit, Correction, or Idea](https://github.com/SmashXanadu/Expeditions/issues/new)
+[Submit an Edit, Correction, or Idea in GitLab](https://github.com/SmashXanadu/Expeditions/issues/new) or E-Mail ExpeditionsRPG@pm.me
 
 [Project Home]({{site.baseurl}})
