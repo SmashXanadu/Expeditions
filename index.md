@@ -5,7 +5,7 @@
 layout: default
 ---
 # Expeditions
-**[Rules]({{site.baseurl}}/Rules/1/) | [Rules Summary]({{site.baseurl}}/Rules/Summary/) | [Index]({{site.baseurl}}/Rules/Index/)** 
+**[Rules]({{site.baseurl}}/Rules/Index/)**
 
 **Expeditions** is a Role Playing Game (RPG) system that focuses on maximizing how much fun can be had in a short amount of time by using just enough rules to keep things together. It uses a D20 die and should feel familiar to experienced RPG players while being easier to grasp for new players and kids.
 # Uncharted Waters

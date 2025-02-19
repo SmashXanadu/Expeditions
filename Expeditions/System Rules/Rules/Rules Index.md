@@ -3,19 +3,22 @@ layout: default
 title: Rules Index
 permalink: /Rules/Index/
 ---
-## Rules Sections
-1. **[About]({{site.baseurl}}/Rules/1/)**
-2. **[Basic Rules]({{site.baseurl}}/Rules/2/)**
+## Rules
+- **[Rules Summary]({{site.baseurl}}/Rules/Summary/)** 
+  
+1. **[About]({{site.baseurl}}/Rules/1/#about-expeditions)**
+2. **[Basic Rules]({{site.baseurl}}/Rules/2/#basic-rules)**
 3. **[Resolving Dice Rolls]({{site.baseurl}}/Rules/3/#resolving-dice-rolls)**
-4. **[Flow of the Game]({{site.baseurl}}/Rules/4/)**
-5. **[Combat]({{site.baseurl}}/Rules/5/)**
-6. **[Downtime]({{site.baseurl}}/Rules/6/)**
-7. **[Character Creation]({{site.baseurl}}/Rules/7/)**
-8. **[Hero Grid]({{site.baseurl}}/Rules/8/)**
-9. **[Player Characters]({{site.baseurl}}/Rules/9/)**
-10. **[Character Progression]({{site.baseurl}}/Rules/10/)**
-11. **[General Skills]({{site.baseurl}}/Rules/11/)**
-12. **[Trade Skills]({{site.baseurl}}/Rules/12/)**
+4. **[Flow of the Game]({{site.baseurl}}/Rules/4/#flow-of-the-game)**
+5. **[Combat]({{site.baseurl}}/Rules/5/#combat)**
+6. **[Downtime]({{site.baseurl}}/Rules/6/#downtime)**
+7. **[Character Creation]({{site.baseurl}}/Rules/7/#character-creation)**
+8. **[Hero Grid]({{site.baseurl}}/Rules/8/#hero-grid)**
+9. **[Player Characters]({{site.baseurl}}/Rules/9/#player-characters)**
+10. **[Character Progression]({{site.baseurl}}/Rules/10/#character-progression)**
+11. **[General Skills]({{site.baseurl}}/Rules/11/#general-skills)**
+12. **[Trade Skills]({{site.baseurl}}/Rules/12/#tradeskills)**
+
 ## Index
 - **[Abilities]({{site.baseurl}}/Rules/9/#abilities)**
 - **[Attack]({{site.baseurl}}/Rules/5/#attacking)**
@@ -62,18 +65,3 @@ permalink: /Rules/Index/
 - **[Turns]({{site.baseurl}}/Rules/5/#turn-order)**
 - **[Unconscious]({{site.baseurl}}/Rules/0/)**
 - **[Zone]({{site.baseurl}}/Rules/5/#zoned-combat)**
-
-**[Rules Summary]({{site.baseurl}}/Rules/Summary/)** 
-
-
-
-
-
-
-
-
-
-
-
-
-
