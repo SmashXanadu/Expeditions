@@ -1,6 +1,6 @@
  *Bring it all together*
-Get Images Working (gitlab externally hosted?)
-Resources section corect link with links to print material download locations
+Host images externally and link to them
+Resources section corect link with links to print material download locations (g drive?)
 Squash Commits into Version 1
 - Create Ship NPCs (Tie to Faction)
 		- People who don't / won't / can't fight
