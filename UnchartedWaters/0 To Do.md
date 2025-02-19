@@ -1,5 +1,5 @@
  *Bring it all together*
-Get Images Working
+Get Images Working (gitlab externally hosted?)
 Resources section with links to print material download locations
 Squash Commits into Version 1
 - Create Ship NPCs (Tie to Faction)
