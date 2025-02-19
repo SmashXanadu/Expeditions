@@ -4,65 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1cc866336bc457f7",
+        "id": "fa9d9a2386b6009c",
         "type": "tabs",
         "children": [
           {
-            "id": "338260843797eafc",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/GridExample.png"
-              },
-              "icon": "lucide-image",
-              "title": "GridExample"
-            }
-          },
-          {
-            "id": "1613cd2cbff65d52",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UnchartedWaters/0 To Do.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "0 To Do"
-            }
-          },
-          {
-            "id": "c218758e1e54574b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "0f00024d91c91003",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Expeditions/Guide Materials/Premade Adventures/Open Table Campaigns/The Shatterlands.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Shatterlands"
-            }
-          },
-          {
-            "id": "1c4782708323d3eb",
+            "id": "94f93929d95f4c53",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -75,8 +21,7 @@
               "title": "8 - Hero Grid"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -218,21 +163,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1c4782708323d3eb",
+  "active": "bad5ecad3b1a4aa8",
   "lastOpenFiles": [
-    "Expeditions/images/GridExample.png",
-    "Expeditions/System Rules/Rules/8 - Hero Grid.md",
-    "0 To Do.md",
-    "Expeditions/System Rules/Rules/Rules Index.md",
-    "Expeditions/images/Guide Sea Hex Map.png",
+    "images/GridExample.png",
     "index.md",
+    "0 To Do.md",
+    "images/PlayerCharacters4.png",
+    "Expeditions/System Rules/Rules/1 - About Expeditions.md",
+    "Expeditions/System Rules/Rules/0 - Missing Rule.md",
+    "Expeditions/System Rules/Rules/2 - Basic Rules.md",
+    "images/PlayerCharacters1.png",
+    "Expeditions/System Rules/Rules/8 - Hero Grid.md",
+    "Expeditions/System Rules/Rules/Rules Index.md",
+    "images/Guide Sea Hex Map.png",
     "Expeditions/System Rules/Rules/7 - Character Creation.md",
     "Expeditions/System Rules/Rules/6 - Downtime.md",
     "Expeditions/System Rules/Rules/3 - Resolving Dice Rolls.md",
-    "Expeditions/System Rules/Rules/2 - Basic Rules.md",
     "Expeditions/System Rules/Rules/5 - Combat.md",
     "Expeditions/System Rules/Rules/4 - Flow of the Game.md",
-    "Expeditions/System Rules/Rules/1 - About Expeditions.md",
     "UnchartedWaters/Uncharted Waters Index.md",
     "UnchartedWaters/Locations/Locations.md",
     "UnchartedWaters/Locations/TheEmeraldDawn.md",
@@ -246,19 +194,16 @@
     "Expeditions/System Rules/Rules/Rules Summary.md",
     "Expeditions/System Rules/Rules/11 - General Skills.md",
     "Expeditions/System Rules/Rules/12 - Tradeskills.md",
-    "Expeditions/System Rules/Rules/0 - Missing Rule.md",
     "{{site.baseurl}}/UnchartedWaters",
     "{{site.baseurl}}/Rules",
     "Expeditions/Guide Materials/Premade Adventures/Open Table Campaigns/Uncharted Waters",
     "Expeditions/Guide Materials/Premade Adventures/Open Table Campaigns/The Shatterlands",
     "Expeditions/System Rules/Rules",
     "{{site.baseurl}}",
-    "Expeditions/images/PlayerCharacters1.png",
-    "Expeditions/images/Player Sea Hex Map.png",
-    "Expeditions/images",
-    "Expeditions/images/PlayerCharacters4.png",
-    "Expeditions/images/PlayerCharacters3.png",
-    "Expeditions/images/PlayerCharacters2.png",
+    "images/Player Sea Hex Map.png",
+    "images",
+    "images/PlayerCharacters3.png",
+    "images/PlayerCharacters2.png",
     "Expeditions/System Rules/Rules Zine",
     "Expeditions/Player Resources/Premade Characters",
     "UnchartedWaters/Guide Materials/Rules",
