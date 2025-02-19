@@ -12,7 +12,7 @@ When you unlock a node on the Hero Grid, it must be linked to the large central 
 
 The numbered nodes here represent what a character’s progression through the grid could look like.
 
-![[https://github.com/SmashXanadu/Expeditions/tree/main/Images/GridExample.png]]
+[[GridExample.png|Hero Grid Example]]
 
 When you unlock a node you immediately gain access to its corresponding abilities and may prepare them by writing them in your ability list.
 

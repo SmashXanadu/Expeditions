@@ -9,13 +9,13 @@ permalink: /Rules/9/
 - **Attack** – Used for physical abilities
 - **Magic** -  Used for magic abilities
 
-![[/Images/PlayerCharacters1.png]]
+![[PlayerCharacters1.png]]
 ## [Equipment](#equipment)
 - Each equipped item has **Durability** that can be used instead of **Health** when taking damage.
 - Equipment can be **Repaired** up to its maximum durability.
 - If a piece of equipment reaches 0 Durability, it becomes **Broken**.
 	
-![[/Images/PlayerCharacters2.png]]
+![[PlayerCharacters2.png]]
 
 ## [Abilities](#abilities)
 - Abilities from the **Hero Grid** will either use **Attack** or **Magic** rolls to determine success or failure.
