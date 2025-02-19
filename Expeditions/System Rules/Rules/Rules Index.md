@@ -39,10 +39,10 @@ permalink: /Rules/Index/
 - Range
 - Resist
 - Resolving Dice Rolls
-- Rolls
-- Size
-- Skills
-- Skill Checks
+- [Rolls]({{site.baseurl}}/Rules/3/#resolving-dice-rolls)
+- [Size]({{site.baseurl}}/Rules/3#resolving-dice-rolls)
+- [Skills]({{site.baseurl}}/Rules/3#resolving-dice-rolls/)
+- [Skill Checks]({{site.baseurl}}/Rules/3/#resolving-dice-rolls/)
 - Skills (General Skills)
 - Skill Tracks
 - Skills (Trade Skills)

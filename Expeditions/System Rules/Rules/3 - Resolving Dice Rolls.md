@@ -3,7 +3,7 @@ layout: default
 title: Resolving Dice Rolls
 permalink: /Rules/3/
 ---
-# Resolving Dice Rolls
+# [Resolving Dice Rolls](#resolving-dice-rolls)
 You and your **Guide** will discuss which **Skill** or **Ability** you will be using that is appropriate to attempt your desired action, and provide you a **Difficulty Check (DC)** value between 8 (trivial) and 25 (near impossible).
 
 To succeed in your intended action, you must
@@ -25,7 +25,9 @@ you may still be able to succeed in your attempt…
 - **If more than 5** away from the DC, you **Fail**.
 
 >**Ash**: “To move the boulder, you will need to roll a 16.” 
+>
 >**Sam**: “I rolled a 13, but my Strong skill is at +2. So 15 	total. I want to stretch to make sure I succeed.”
+>
 >**Ash**: “You move the boulder, but in the process it rolls over your feet and destroys your boots.”
 
 **[Next: Flow of the Game]({{site.baseurl}}/Rules/4/)** 

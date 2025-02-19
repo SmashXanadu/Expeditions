@@ -17,12 +17,19 @@ As you create a story collaboratively, the **Guide** will describe your environm
 ...ask you for a roll to determine what happens.
 
 >**Sam**: “I want to move this boulder off the road.”
+>
 >**Ash**: “What skill would do you want to use?”
+>
 >**Sam**: “I would just try to muscle it out of the way using my Strong skill.”
+>
 >**Ash**: “Okay, you are exceptionally strong. You move the boulder without much effort at all.”
+>
 >	**or**
+>	
 >**Ash**: “This boulder is beyond your capability to move with strength alone.”
+>
 >	**or**
+>	
 >**Ash**: “I’m not sure if you are strong enough to lift this, let’s roll to see...”
 
 **[Next: Resolving Dice Rolls]({{site.baseurl}}/Rules/3/)** 
