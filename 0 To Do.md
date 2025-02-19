@@ -1,7 +1,10 @@
- *Bring it all together*
-Host images externally and link to them
-Resources section corect link with links to print material download locations (g drive?)
-Squash Commits into Version 1
+# To Do 
+  *Bring it all together*
+
+## Expeditions
+- Squash Commits into Version 1
+- Resources section correct link with links to print material download locations (g drive?)
+## Uncharted Waters
 - Create Ship NPCs (Tie to Faction)
 		- People who don't / won't / can't fight
 		- Deck of NPCs or Minis First

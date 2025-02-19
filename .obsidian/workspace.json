@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "0 To Do.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "0 To Do"
             }
           }
         ]
@@ -165,11 +165,11 @@
   },
   "active": "94f93929d95f4c53",
   "lastOpenFiles": [
+    "index.md",
     "Expeditions/System Rules/Rules/9 - Player Characters.md",
     "Expeditions/System Rules/Rules/8 - Hero Grid.md",
     "0 To Do.md",
     "images/GridExample.png",
-    "index.md",
     "images/PlayerCharacters4.png",
     "Expeditions/System Rules/Rules/1 - About Expeditions.md",
     "Expeditions/System Rules/Rules/0 - Missing Rule.md",
