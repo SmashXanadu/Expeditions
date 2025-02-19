@@ -14,6 +14,8 @@ The numbered nodes here represent what a character’s progression through the g
 
 ![[/Expeditions/images/GridExample.png]]
 
+![[https://github.com/SmashXanadu/Expeditions/blob/main/Expeditions/images/GridExample.png]]
+
 When you unlock a node you immediately gain access to its corresponding abilities and may prepare them by writing them in your ability list.
 
 **[Next: Player Characters]({{site.baseurl}}/Rules/9/)** | [Rules]({{site.baseurl}}/Rules/Index/#rules)
