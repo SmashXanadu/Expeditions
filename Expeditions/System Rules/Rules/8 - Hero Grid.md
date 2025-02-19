@@ -14,7 +14,9 @@ The numbered nodes here represent what a character’s progression through the g
 
 ![[/Expeditions/images/GridExample.png]]
 
-![[https://github.com/SmashXanadu/Expeditions/blob/main/Expeditions/images/GridExample.png]]
+<img src="https://github.com/SmashXanadu/Expeditions/blob/main/Expeditions/images/GridExample.png" alt="Hero Grid Example">
+
+<img src="/Expeditions/images/GridExample.png" alt="Hero Grid Example">
 
 When you unlock a node you immediately gain access to its corresponding abilities and may prepare them by writing them in your ability list.
 
