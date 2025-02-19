@@ -3,28 +3,28 @@ layout: default
 title: Player Characters
 permalink: /Rules/9/
 ---
-# Player Characters
+# [Player Characters](#player-characters)
 - **Health** – Damage you can sustain before unconscious
 - **Speed** – Determines your party turn order in combat
 - **Attack** – Used for physical abilities
 - **Magic** -  Used for magic abilities
 
 ![[/Images/PlayerCharacters1.png]]
-## Equipment
+## [Equipment](#equipment)
 - Each equipped item has **Durability** that can be used instead of **Health** when taking damage.
 - Equipment can be **Repaired** up to its maximum durability.
 - If a piece of equipment reaches 0 Durability, it becomes **Broken**.
 	
 ![[/Images/PlayerCharacters2.png]]
 
-## Abilities
+## [Abilities](#abilities)
 - Abilities from the **Hero Grid** will either use **Attack** or **Magic** rolls to determine success or failure.
 - All abilities will have detailed **General Rules** and **Combat Rules** which will have additional details such as what you can target, and what range the ability works from.
 - Abilities may cost **Charges**, which can be regained during Downtime with the Rest option, or by other specific Abilities and Magical Items.
 
 ![[PlayerCharacters3.png]]
 
-## Skills
+## [Skills](#skills)
 - All characters will have a **Maximum of 12 Skills**.
 - **Evade** & **Resist** are rolled to avoid incoming attacks.
 - **General Skills** & **Trade Skills** may be used on checks in or out of combat
@@ -32,4 +32,4 @@ permalink: /Rules/9/
 	
 ![[PlayerCharacters4.png]]
 
-**[Next: Character Progression]({{site.baseurl}}/Rules/10/)** 
+**[Next: Character Progression]({{site.baseurl}}/Rules/10/)** | [Rules Index]({{site.baseurl}}/Rules/Index/)

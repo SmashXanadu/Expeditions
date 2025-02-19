@@ -3,54 +3,65 @@ layout: default
 title: Rules Index
 permalink: /Rules/Index/
 ---
-- Abilities
-- Attack
-- Basic Rules
-- Benefits
-- Broken Equipment
-- Character Creation
-- Character Progression
-- Charges
-- Combat
-- Complications
-- Damage
-- Distance
-- Difficulty Check
-- Downtime Activities
-- Durability
-- Enemies
-- Equipment 
-- Equipment Sets
-- Evade
-- Expeditions
-- Experience
-- Exploration
-- Flow of the Game
-- Gold
-- Guide
-- Health
-- Hero Grid
-- Inventory
-- Magic
-- Move
-- Node
-- Over-Exert
-- Player Characters
-- Range
-- Resist
-- Resolving Dice Rolls
-- [Rolls]({{site.baseurl}}/Rules/3/#resolving-dice-rolls)
-- [Size]({{site.baseurl}}/Rules/3#resolving-dice-rolls)
-- [Skills]({{site.baseurl}}/Rules/3#resolving-dice-rolls/)
-- [Skill Checks]({{site.baseurl}}/Rules/3/#resolving-dice-rolls/)
-- Skills (General Skills)
-- Skill Tracks
-- Skills (Trade Skills)
-- Social Encounters
-- Stretch
-- Turns
-- Unconscious
-- Zones
+## Rules Sections
+1. **[About]({{site.baseurl}}/Rules/1/)**
+2. **[Basic Rules]({{site.baseurl}}/Rules/2/)**
+3. **[Resolving Dice Rolls]({{site.baseurl}}/Rules/3/#resolving-dice-rolls)**
+4. **[Flow of the Game]({{site.baseurl}}/Rules/4/)**
+5. **[Combat]({{site.baseurl}}/Rules/5/)**
+6. **[Downtime]({{site.baseurl}}/Rules/6/)**
+7. **[Character Creation]({{site.baseurl}}/Rules/7/)**
+8. **[Hero Grid]({{site.baseurl}}/Rules/8/)**
+9. **[Player Characters]({{site.baseurl}}/Rules/9/)**
+10. **[Character Progression]({{site.baseurl}}/Rules/10/)**
+11. **[General Skills]({{site.baseurl}}/Rules/11/)**
+12. **[Trade Skills]({{site.baseurl}}/Rules/12/)**
+## Index
+- **[Abilities]({{site.baseurl}}/Rules/9/#abilities)**
+- **[Attack]({{site.baseurl}}/Rules/5/#attacking)**
+- **[Benefits]({{site.baseurl}}/Rules/0/)**
+- **[Broken Equipment]({{site.baseurl}}/Rules/0/)**
+- **[Characters]({{site.baseurl}}/Rules/9/)**
+- **[Character Creation]({{site.baseurl}}/Rules/7/)**
+- **[Character Progression]({{site.baseurl}}/Rules/10/)**
+- **[Charges]({{site.baseurl}}/Rules/9/#abilities)**
+- **[Combat]({{site.baseurl}}/Rules/5/)**
+- **[Complications]({{site.baseurl}}/Rules/0/)**
+- **[Damage]({{site.baseurl}}/Rules//#taking-damage)**
+- **[Distance]({{site.baseurl}}/Rules/5/#zoned-combat)**
+- **[Difficulty Check]({{site.baseurl}}/Rules/3/#resolving-dice-rolls)**
+- **[Downtime]({{site.baseurl}}/Rules/6/)**
+- **[Durability]({{site.baseurl}}/Rules/9/#equipment)**
+- **[Enemies]({{site.baseurl}}/Rules/5/#enemy-turn)**
+- **[Equipment ]({{site.baseurl}}/Rules/9/#equipment)**
+- **[Equipment Sets]({{site.baseurl}}/Rules/7/#equipment-sets)**
+- **[Evade]({{site.baseurl}}/Rules/9/#skills)**
+- **[Expedition]({{site.baseurl}}/Rules/4/)**
+- **[Experience]({{site.baseurl}}/Rules/10/#gaining-experience)**
+- **[Exploration]({{site.baseurl}}/Rules/4/)**
+- **[Gold]({{site.baseurl}}/Rules/10/#managing-equipment)**
+- **[Guide]({{site.baseurl}}/Rules/2/)**
+- **[Health]({{site.baseurl}}/Rules/9/#player-characters)**
+- **[Hero Grid]({{site.baseurl}}/Rules/8/)**
+- **[Inventory]({{site.baseurl}}/Rules/10/#managing-equipment)**
+- **[Magic]({{site.baseurl}}/Rules/9/#player-characters)**
+- **[Move]({{site.baseurl}}/Rules/5/#zoned-combat)**
+- **[Node]({{site.baseurl}}/Rules/8/)**
+- **[Over-Exert]({{site.baseurl}}/Rules/3/#resolving-dice-rolls)**
+- **[Range]({{site.baseurl}}/Rules/5/#zoned-combat)**
+- **[Resist]({{site.baseurl}}/Rules/9/#skills)**
+- **[Rolls]({{site.baseurl}}/Rules/3/#resolving-dice-rolls)**
+- **[Size]({{site.baseurl}}/Rules/7/#size)**
+- **[Skills]({{site.baseurl}}/Rules/9/#skills)**
+- **[Skill Checks]({{site.baseurl}}/Rules/3/#resolving-dice-rolls)**
+- **[Skills (General Skills)]({{site.baseurl}}/Rules/11/)**
+- **[Skill Tracks]({{site.baseurl}}/Rules/9/#skills)**
+- **[Skills (Trade Skills)]({{site.baseurl}}/Rules/12/)**
+- **[Social Encounters]({{site.baseurl}}/Rules/4/)**
+- **[Stretch]({{site.baseurl}}/Rules/3/#resolving-dice-rolls)**
+- **[Turns]({{site.baseurl}}/Rules/5/#turn-order)**
+- **[Unconscious]({{site.baseurl}}/Rules/0/)**
+- **[Zone]({{site.baseurl}}/Rules/5/#zoned-combat)**
 
 **[Rules Summary]({{site.baseurl}}/Rules/Summary/)** 
 

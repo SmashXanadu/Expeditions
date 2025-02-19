@@ -3,11 +3,11 @@ layout: default
 title: Character Progression
 permalink: /Rules/10/
 ---
-# Character Progression
+# [Character Progression](#character-progression)
 Characters will progress primarily in two ways:
 **Gaining Experience** (EXP) and **Managing Equipment**
 
-## Gaining Experience
+## [Gaining Experience](#gaining-experience)
 **Learn by Failure**: Whenever you fail a roll you gain an experience point. Check off the left most unchecked box on the corresponding skill track to represent this.
 
 **Train**: During Downtime you will also have the opportunity to gain experience points for specific skills.
@@ -20,7 +20,7 @@ If the box you check is on the **Hero Track** and it has a circle in it, you get
 1. Select a new **Node** on the **Hero Grid**
 2. Learn the associated **4 Abilities**
 
-## Managing Equipment
+## [Managing Equipment](#managing-equipment)
 
 **Equipment**: Characters have a set number of slots to equip **Armor** and **Weapons**.
 - **Armor** Durability and Speed Penalties will vary based on the armor type (**Light**, **Medium**, or **Heavy**).
@@ -30,4 +30,4 @@ If the box you check is on the **Hero Track** and it has a circle in it, you get
  
  **Gold**: Represents the amount of gold you are carrying.
 
-**[Next: General Skills]({{site.baseurl}}/Rules/11/)** 
+**[Next: General Skills]({{site.baseurl}}/Rules/11/)** | [Rules Index]({{site.baseurl}}/Rules/Index/)

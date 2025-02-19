@@ -3,7 +3,7 @@ layout: default
 title: General Skills
 permalink: /Rules/11/
 ---
-# General Skills
+# [General Skills](#general-skills)
 - **Careful**: You have nimble hands, patience, and attention to detail.
 - **Charismatic**: You have a way with words and use them well.
 - **Dexterous**: You can control your body and move with confidence.
@@ -28,7 +28,7 @@ permalink: /Rules/11/
 
 If your character has a skill that is not represented in this list, work with your **Guide** to define a custom skill.
 
-**[Next: Tradeskills]({{site.baseurl}}/Rules/12/)** 
+**[Next: Tradeskills]({{site.baseurl}}/Rules/12/)** | [Rules Index]({{site.baseurl}}/Rules/Index/)
 
 
 

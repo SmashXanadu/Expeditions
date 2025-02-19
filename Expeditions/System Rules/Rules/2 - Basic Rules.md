@@ -32,4 +32,4 @@ As you create a story collaboratively, the **Guide** will describe your environm
 >	
 >**Ash**: “I’m not sure if you are strong enough to lift this, let’s roll to see...”
 
-**[Next: Resolving Dice Rolls]({{site.baseurl}}/Rules/3/)** 
+**[Next: Resolving Dice Rolls]({{site.baseurl}}/Rules/3/)** | [Rules Index]({{site.baseurl}}/Rules/Index/)

@@ -3,14 +3,14 @@ layout: default
 title: Character Creation
 permalink: /Rules/7/
 ---
-# Character Creation
+# [Character Creation](#character-creation)
 ## Steps of Character Creation
 1. Set your **Speed** to 20.
 2. Choose one **Feature Set**. Gain the corresponding **Node** on the Hero Grid and its abilities.
 3. Choose a **Size**. Gain all corresponding benefits. 
 4. Choose a starting **Equipment Set**. Gain corresponding equipment, items, and gold.
 
-### Feature Sets
+### [Feature Sets](#feature-sets)
 
 **No Exotic Features**:
 - Gain **any starting Node**
@@ -32,7 +32,7 @@ permalink: /Rules/7/
 - Gain **Light**, or **Dark** Node
 - Features: Fangs, Horns, Glowing Eyes
 
-### Size
+### [Size](#size)
 **Small**:
 - +2 **Sneaky**, +1 **Dexterous**, +2 **Evade**
 - +2 **Speed**
@@ -47,7 +47,7 @@ permalink: /Rules/7/
 - +2 **Maximum** **Health**
 -  -2 **Speed**	
 - You can equip a 2-Handed melee weapon in 1-Hand
-## Equipment Sets
+## [Equipment Sets](#equipment-sets)
 
 **Scholar**:
 - **Inventory**: 2 Gold, Journal, Books, Magic Scrolls, Specimen Containers
@@ -74,4 +74,4 @@ permalink: /Rules/7/
 - **Equipment**: Leather Tunic, Boots, and Pants
 - **Weapon**: Dagger
 
-**[Next: Hero Grid]({{site.baseurl}}/Rules/8/)** 
+**[Next: Hero Grid]({{site.baseurl}}/Rules/8/)** | [Rules Index]({{site.baseurl}}/Rules/Index/)

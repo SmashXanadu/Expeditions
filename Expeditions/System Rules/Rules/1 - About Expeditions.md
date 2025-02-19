@@ -33,5 +33,5 @@ Players decide their fate by rolling to attack, evade, and everything in-between
 **Rules for Every Type of Player**
 Different versions of player facing materials tailored to fit different player types while keeping everyone playing the same game. Ex: **Novice** (Kids), **Apprentice** (New RPG Players), **Journeyman** (Standard), and **Master** (Advanced Players)
 
-**[Next: Basic Rules]({{site.baseurl}}/Rules/2/)**
+**[Next: Basic Rules]({{site.baseurl}}/Rules/2/)** | [Rules Index]({{site.baseurl}}/Rules/Index/)
 
