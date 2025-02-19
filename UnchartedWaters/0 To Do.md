@@ -1,4 +1,7 @@
  *Bring it all together*
+Get Images Working
+Resources section with links to print material download locations
+Squash Commits into Version 1
 - Create Ship NPCs (Tie to Faction)
 		- People who don't / won't / can't fight
 		- Deck of NPCs or Minis First

@@ -66,3 +66,5 @@ permalink: /Rules/Index/
 - **[Zone]({{site.baseurl}}/Rules/5/#zoned-combat)**
 
 [Submit an Edit, Correction, or Idea](https://github.com/SmashXanadu/Expeditions/issues/new)
+
+[Project Home]({{site.baseurl}})
