@@ -13,7 +13,10 @@ When you unlock a node on the Hero Grid, it must be linked to the large central 
 The numbered nodes here represent what a character’s progression through the grid could look like.
 
 [[/images/GridExample.png|Hero Grid Example]]
-[Link to Hero Grid](images/GridExample.png "Hero Grid Link Example")
+
+[Link to Hero Grid](/images/GridExample.png "Hero Grid Link Example")
+
+[[GridExample.png]]
 
 When you unlock a node you immediately gain access to its corresponding abilities and may prepare them by writing them in your ability list.
 
