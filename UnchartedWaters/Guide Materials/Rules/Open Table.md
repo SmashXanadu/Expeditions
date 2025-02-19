@@ -18,4 +18,7 @@ If you would like to be a member of our Open Table, you will be given access to 
 
 Open Table events will be posted in discord with 2-5 available spots per week.
 
+**[Back to Uncharted Waters]({{site.baseurl}}/UnchartedWaters/Index/)**
+
+
 
