@@ -3,7 +3,7 @@ layout: default
 title: Rules Summary
 permalink: /Rules/Summary/
 ---
-# [Summary](#summary)
+# [Rules Summary](#summary)
 ## Rolling Dice
 **Roll + Modifier(s) ≥ DC** is a **Success**
 

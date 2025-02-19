@@ -10,9 +10,6 @@
 	- Magical person on the boat has a number of crystals, or can create these crystals from magical objects
 	- These crystals act as fast travel points back to the large crystal on the emerald dawn
 	- When players go on an excursion, if they do not return within 2 hours of real time they will be recalled to the Emerald Dawn
-- Update index page
-- Update README for GitHub front page content
-- Update Rules and Rules Summary
 - Share with prospective players to get interest
 
 

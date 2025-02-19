@@ -4,7 +4,7 @@ title: Rules
 permalink: /Rules/Index/
 ---
 ## [Rules](#rules)
-**[Summary]({{site.baseurl}}/Rules/Summary/#summary)** 
+**[Rules Summary]({{site.baseurl}}/Rules/Summary/#summary)** 
 1. **[About]({{site.baseurl}}/Rules/1/#about-expeditions)**
 2. **[Basic Rules]({{site.baseurl}}/Rules/2/#basic-rules)**
 3. **[Resolving Dice Rolls]({{site.baseurl}}/Rules/3/#resolving-dice-rolls)**
@@ -29,7 +29,7 @@ permalink: /Rules/Index/
 - **[Charges]({{site.baseurl}}/Rules/9/#abilities)**
 - **[Combat]({{site.baseurl}}/Rules/5/#combat)**
 - **[Complications]({{site.baseurl}}/Rules/0/#missing-rule)**
-- **[Damage]({{site.baseurl}}/Rules//#taking-damage)**
+- **[Damage]({{site.baseurl}}/Rules/5/#taking-damage)**
 - **[Distance]({{site.baseurl}}/Rules/5/#zoned-combat)**
 - **[Difficulty Check]({{site.baseurl}}/Rules/3/#resolving-dice-rolls)**
 - **[Downtime]({{site.baseurl}}/Rules/6/#downtime)**
@@ -44,11 +44,11 @@ permalink: /Rules/Index/
 - **[Gold]({{site.baseurl}}/Rules/10/#managing-equipment)**
 - **[Guide]({{site.baseurl}}/Rules/2/)**
 - **[Health]({{site.baseurl}}/Rules/9/#player-characters)**
-- **[Hero Grid]({{site.baseurl}}/Rules/8/)**
+- **[Hero Grid]({{site.baseurl}}/Rules/8/#hero-grid)**
 - **[Inventory]({{site.baseurl}}/Rules/10/#managing-equipment)**
 - **[Magic]({{site.baseurl}}/Rules/9/#player-characters)**
 - **[Move]({{site.baseurl}}/Rules/5/#zoned-combat)**
-- **[Node]({{site.baseurl}}/Rules/8/)**
+- **[Node]({{site.baseurl}}/Rules/8/#hero-grid)**
 - **[Over-Exert]({{site.baseurl}}/Rules/3/#resolving-dice-rolls)**
 - **[Range]({{site.baseurl}}/Rules/5/#zoned-combat)**
 - **[Resist]({{site.baseurl}}/Rules/9/#skills)**
@@ -56,11 +56,13 @@ permalink: /Rules/Index/
 - **[Size]({{site.baseurl}}/Rules/7/#size)**
 - **[Skills]({{site.baseurl}}/Rules/9/#skills)**
 - **[Skill Checks]({{site.baseurl}}/Rules/3/#resolving-dice-rolls)**
-- **[Skills (General Skills)]({{site.baseurl}}/Rules/11/)**
+- **[Skills (General Skills)]({{site.baseurl}}/Rules/11/#general-skills)**
 - **[Skill Tracks]({{site.baseurl}}/Rules/9/#skills)**
-- **[Skills (Trade Skills)]({{site.baseurl}}/Rules/12/)**
+- **[Skills (Trade Skills)]({{site.baseurl}}/Rules/12/#tradeskills)**
 - **[Social Encounters]({{site.baseurl}}/Rules/4/#social-and-exploration)**
 - **[Stretch]({{site.baseurl}}/Rules/3/#resolving-dice-rolls)**
 - **[Turns]({{site.baseurl}}/Rules/5/#turn-order)**
 - **[Unconscious]({{site.baseurl}}/Rules/0/#missing-rule)**
 - **[Zone]({{site.baseurl}}/Rules/5/#zoned-combat)**
+
+[Submit an Edit, Correction, or Idea](https://github.com/SmashXanadu/Expeditions/issues/new)
