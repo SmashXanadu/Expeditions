@@ -3,8 +3,8 @@ email: williamnorton09@pm.me
 description: >- # this means to ignore newlines until "baseurl:"
   Uncharted Waters
 baseurl: "/Expeditions" # the subpath of your site, e.g. /blog
-url: "https://smashxanadu.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  smashxanadu
+# url: "https://smashxanadu.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+# github_username:  smashxanadu
 
 # Build settings
 plugins:
