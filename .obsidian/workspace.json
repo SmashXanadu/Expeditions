@@ -67,12 +67,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Expeditions/System Rules/Rules/2 - Basic Rules.md",
+                "file": "Expeditions/System Rules/Rules/3 - Resolving Dice Rolls.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 - Basic Rules"
+              "title": "3 - Resolving Dice Rolls"
             }
           }
         ],
@@ -220,6 +220,7 @@
   },
   "active": "1c4782708323d3eb",
   "lastOpenFiles": [
+    "Expeditions/System Rules/Rules/2 - Basic Rules.md",
     "Expeditions/System Rules/Rules/1 - About Expeditions.md",
     "Expeditions/System Rules/Rules/Rules Summary.md",
     "Expeditions/System Rules/Rules/Rules Index.md",
@@ -233,7 +234,6 @@
     "Expeditions/System Rules/Rules/5 - Combat.md",
     "Expeditions/System Rules/Rules/4 - Flow of the Game.md",
     "Expeditions/System Rules/Rules/3 - Resolving Dice Rolls.md",
-    "Expeditions/System Rules/Rules/2 - Basic Rules.md",
     "index.md",
     "Expeditions/System Rules/Full Rules.md",
     "UnchartedWaters/Characters/Characters.md",
