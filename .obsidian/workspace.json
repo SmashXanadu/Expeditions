@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Expeditions/Player Resources/Player Resources Index.md",
+                "file": "Expeditions/Player Resources/Abilities.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Player Resources Index"
+              "title": "Abilities"
             }
           }
         ]
@@ -165,8 +165,15 @@
   },
   "active": "94f93929d95f4c53",
   "lastOpenFiles": [
-    "0 To Do.md",
+    "Expeditions/System Rules/Rules/Rules Index.md",
+    "Expeditions/Player Resources/Abilities.md",
+    "UnchartedWaters/Characters/Characters.md",
+    "Expeditions/Player Resources/Player Resources Index - Copy.md",
+    "Expeditions/System Rules/Rules/Rules Summary.md",
+    "index.md",
     "Expeditions/Player Resources/Player Resources Index.md",
+    "images/AbilitySheet.png",
+    "0 To Do.md",
     "Expeditions/System Rules/Rules/8 - Hero Grid.md",
     "Expeditions/System Rules/Rules/4 - Flow of the Game.md",
     "images/HeroGridSheet.png",
@@ -175,12 +182,9 @@
     "images/EquipmentSheet.png",
     "images/Hero Grid Sheet.png",
     "images/Skill Sheet.png",
-    "images/AbilitySheet.png",
-    "Expeditions/System Rules/Rules/Rules Index.md",
     "Expeditions/Player Resources",
     "Expeditions/System Rules/Rules/Rules Index - Copy.md",
     "Expeditions/System Rules/Rules/0 - Missing Rule.md",
-    "index.md",
     "Expeditions/System Rules/Rules/9 - Player Characters.md",
     "images/GridExample.png",
     "images/PlayerCharacters4.png",
@@ -194,13 +198,10 @@
     "UnchartedWaters/Uncharted Waters Index.md",
     "UnchartedWaters/Locations/Locations.md",
     "UnchartedWaters/Locations/TheEmeraldDawn.md",
-    "UnchartedWaters/Characters/Characters.md",
     "UnchartedWaters/Guide Materials/Rules/Open Table.md",
     "UnchartedWaters/Guide Materials/Rules/Cataloguing.md",
     "UnchartedWaters/Guide Materials/Rules/Waystones.md",
     "UnchartedWaters/Guide Materials/Ship Facilities/Ideas.md",
-    "UnchartedWaters/Guide Materials/Ship Events/Ideas.md",
-    "UnchartedWaters/Guide Materials/Maps/Player Sea Hex Map.md",
     "{{site.baseurl}}/UnchartedWaters",
     "{{site.baseurl}}/Rules",
     "Expeditions/Guide Materials/Premade Adventures/Open Table Campaigns/Uncharted Waters",
