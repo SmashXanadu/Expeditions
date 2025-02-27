@@ -165,8 +165,11 @@
   },
   "active": "94f93929d95f4c53",
   "lastOpenFiles": [
-    "Expeditions/System Rules/Rules/Rules Index.md",
+    "images/HeroGridSheet.png",
+    "images/Guide Sea Hex Map.png",
+    "images/ps5006.tmp",
     "Expeditions/Player Resources/Abilities.md",
+    "Expeditions/System Rules/Rules/Rules Index.md",
     "UnchartedWaters/Characters/Characters.md",
     "Expeditions/Player Resources/Player Resources Index - Copy.md",
     "Expeditions/System Rules/Rules/Rules Summary.md",
@@ -176,7 +179,6 @@
     "0 To Do.md",
     "Expeditions/System Rules/Rules/8 - Hero Grid.md",
     "Expeditions/System Rules/Rules/4 - Flow of the Game.md",
-    "images/HeroGridSheet.png",
     "images/SkillSheet.png",
     "images/CharacterSheet.png",
     "images/EquipmentSheet.png",
@@ -201,7 +203,6 @@
     "UnchartedWaters/Guide Materials/Rules/Open Table.md",
     "UnchartedWaters/Guide Materials/Rules/Cataloguing.md",
     "UnchartedWaters/Guide Materials/Rules/Waystones.md",
-    "UnchartedWaters/Guide Materials/Ship Facilities/Ideas.md",
     "{{site.baseurl}}/UnchartedWaters",
     "{{site.baseurl}}/Rules",
     "Expeditions/Guide Materials/Premade Adventures/Open Table Campaigns/Uncharted Waters",
@@ -210,7 +211,6 @@
     "{{site.baseurl}}",
     "images",
     "Expeditions/System Rules/Rules Zine",
-    "Expeditions/Player Resources/Premade Characters",
     "Untitled.canvas"
   ]
 }
