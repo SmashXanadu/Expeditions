@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Abilities"
             }
+          },
+          {
+            "id": "05db7874c264d147",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Expeditions/System Rules/Rules/8 - Hero Grid.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "8 - Hero Grid"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -163,8 +178,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "94f93929d95f4c53",
+  "active": "05db7874c264d147",
   "lastOpenFiles": [
+    "Expeditions/Player Resources/Player Resources Index.md",
+    "Expeditions/System Rules/Rules/0 - Missing Rule.md",
     "images/HeroGridSheet.png",
     "images/Guide Sea Hex Map.png",
     "images/ps5006.tmp",
@@ -174,7 +191,6 @@
     "Expeditions/Player Resources/Player Resources Index - Copy.md",
     "Expeditions/System Rules/Rules/Rules Summary.md",
     "index.md",
-    "Expeditions/Player Resources/Player Resources Index.md",
     "images/AbilitySheet.png",
     "0 To Do.md",
     "Expeditions/System Rules/Rules/8 - Hero Grid.md",
@@ -186,13 +202,11 @@
     "images/Skill Sheet.png",
     "Expeditions/Player Resources",
     "Expeditions/System Rules/Rules/Rules Index - Copy.md",
-    "Expeditions/System Rules/Rules/0 - Missing Rule.md",
     "Expeditions/System Rules/Rules/9 - Player Characters.md",
     "images/GridExample.png",
     "images/PlayerCharacters4.png",
     "Expeditions/System Rules/Rules/1 - About Expeditions.md",
     "Expeditions/System Rules/Rules/2 - Basic Rules.md",
-    "images/PlayerCharacters1.png",
     "Expeditions/System Rules/Rules/7 - Character Creation.md",
     "Expeditions/System Rules/Rules/6 - Downtime.md",
     "Expeditions/System Rules/Rules/3 - Resolving Dice Rolls.md",
