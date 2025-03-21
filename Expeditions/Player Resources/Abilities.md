@@ -12,13 +12,13 @@ This list is a preview of the [Ability List Master Spreadsheet](https://docs.goo
 | Feint                       | 1 Handed Weapons                   |                                           |
 | Careful Strikes             | 1 Handed Weapons                   |                                           |
 | Double Strike               | 1 Handed Weapons                   |                                           |
-| Wide Arc                    | 2 Handed Weapons                   |                                           |
+| Arc Swing                   | 2 Handed Weapons                   |                                           |
 | Cleave                      | 2 Handed Weapons                   |                                           |
-| Push                        | 2 Handed Weapons                   |                                           |
-| Brutal Strike               | 2 Handed Weapons                   |                                           |
+| Brutal Blow                 | 2 Handed Weapons                   |                                           |
+| Smash                       | 2 Handed Weapons                   |                                           |
 | Ricochet                    | Ranged Weapons                     |                                           |
-| Hit Weakspot                | Ranged Weapons                     |                                           |
-| Provide Cover               | Ranged Weapons                     |                                           |
+| Expose                      | Ranged Weapons                     |                                           |
+| Covering Fire               | Ranged Weapons                     |                                           |
 | Lock On                     | Ranged Weapons                     |                                           |
 | Disarming Slam              | Shields                            |                                           |
 | Reflect Spell               | Shields                            |                                           |
@@ -108,7 +108,7 @@ This list is a preview of the [Ability List Master Spreadsheet](https://docs.goo
 | Displace Earth              | Earth                              |                                           |
 | Landslide                   | Earth                              |                                           |
 | Earthen Armor               | Earth                              |                                           |
-| Be the Flame                | Fire                               |                                           |
+| Living Flame                | Fire                               |                                           |
 | Ignite                      | Fire                               |                                           |
 | Wall of Fire                | Fire                               |                                           |
 | Control Flames              | Fire                               |                                           |
@@ -200,10 +200,10 @@ This list is a preview of the [Ability List Master Spreadsheet](https://docs.goo
 | Mind Blast                  | Psychic                            |                                           |
 | Mind Control                | Psychic                            |                                           |
 | Telekinesis                 | Psychic                            |                                           |
-| Beast                       | Shapeshifting                      |                                           |
-| Flying                      | Shapeshifting                      |                                           |
-| Water                       | Shapeshifting                      |                                           |
-| Impersonate                 | Shapeshifting                      |                                           |
+| Animal Form                 | Shifting                           |                                           |
+| Aquatic Form                | Shifting                           |                                           |
+| Flying Form                 | Shifting                           |                                           |
+| Impersonate                 | Shifting                           |                                           |
 | Lightning Storm             | Storm                              |                                           |
 | Thunder                     | Storm                              |                                           |
 | Blizzard                    | Storm                              |                                           |

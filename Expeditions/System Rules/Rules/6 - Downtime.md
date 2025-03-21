@@ -19,6 +19,6 @@ Each player will perform the **Standard Downtime Activities** and up to 2 **Opti
 - **Make Connections**: Mingle with locals, listen to rumors, and gain insight into to local legends and influential NPCs.
 - **Research**: Use available resources to study and learn as much as possible about a specific topic.
 - **Work**: Take on odd jobs in the area to earn gold.
-- **Custom (Limit 1): Describe what your character would like to do, and work through the scene with your Guide. 
+- **Custom** (Limit 1): Describe what your character would like to do, and work through the scene with your Guide. 
 
 **[Next: Character Creation]({{site.baseurl}}/Rules/7/)** | [Rules]({{site.baseurl}}/Rules/Index/#rules)
