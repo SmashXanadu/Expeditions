@@ -1,15 +1,9 @@
 ---
 layout: default
 title: Ability List
-permalink: /PlayerResources/Abilities/Template/
+permalink: /PlayerResources/AbilityList/
 ---
-## Ability Name
-**Type:** [Attack or Magic]
-**Hero Node:** [Node it belongs to]
-**Charges:** [Number of times the ability can be used before needing to recharge, or "N/A" if none]
-
-[Description of any passive benefits]
-**Expend a Charge** to [Detailed description of how this ability functions in combat]
+## [Ability List](#ability-list)
 
 ## Riposte
 **Type:** Attack
@@ -113,13 +107,15 @@ You are able to use your ranged attacks to provide a distraction to assist your 
 ## Lock On
 **Type:** Attack
 **Hero Node:** Ranged Weapons
-**Charges:** N/A
+**Charges:** 3
 
 You pursue your target with deadly focus.
 
-None
 **Expend a Charge** to attack an enemy with a Ranged Weapon with Advantage. You have Advantage an all future Ranged Weapon attacks against this target until they die, or until you Lock On to a different target.
 
+------------------------------------------------
+## **Anything below this line has not been reformatted.**
+------------------------------------------------
 ## Disarming Slam
 **Type:** Attack
 **Hero Node:** Shields
@@ -202,7 +198,7 @@ None
 
 ## Execute
 **Type:** Attack
-**Hero Node:** Axe 1 Handed Weapons
+**Hero Node:** Axe
 **Charges:** N/A
 
 Ability Text
@@ -212,7 +208,7 @@ None
 
 ## Versatile
 **Type:** Attack
-**Hero Node:** Axe 1 Handed Weapons
+**Hero Node:** Axe
 **Charges:** N/A
 
 +2 to attack rolls when throwing an axe.
@@ -222,7 +218,7 @@ None
 
 ## Bleed
 **Type:** Attack
-**Hero Node:** Axe 2 Handed Weapons
+**Hero Node:** Axe
 **Charges:** N/A
 
 Ability Text
@@ -232,7 +228,7 @@ None
 
 ## Decapitate
 **Type:** Attack
-**Hero Node:** Axe 2 Handed Weapons
+**Hero Node:** Axe
 **Charges:** N/A
 
 Ability Text
@@ -322,7 +318,7 @@ None
 
 ## Double Shot
 **Type:** Attack
-**Hero Node:** Crossbow Dual Wield
+**Hero Node:** Crossbow Specialist
 **Charges:** N/A
 
 Ability Text
@@ -332,7 +328,7 @@ None
 
 ## Quickdraw
 **Type:** Attack
-**Hero Node:** Crossbow Dual Wield
+**Hero Node:** Crossbow Specialist
 **Charges:** N/A
 
 Ability Text
@@ -342,7 +338,7 @@ None
 
 ## Penetrating Shot
 **Type:** Attack
-**Hero Node:** Crossbow Ranged Weapons
+**Hero Node:** Crossbow Specialist
 **Charges:** N/A
 
 Ability Text
@@ -352,7 +348,7 @@ None
 
 ## Point Blank
 **Type:** Attack
-**Hero Node:** Crossbow Ranged Weapons
+**Hero Node:** Crossbow Specialist
 **Charges:** N/A
 
 Ability Text
@@ -402,7 +398,7 @@ None
 
 ## Parry
 **Type:** Attack
-**Hero Node:** Dual Wield 1 Handed Weapons
+**Hero Node:** Dual Wield
 **Charges:** N/A
 
 Ability Text
@@ -412,7 +408,7 @@ None
 
 ## Flurry
 **Type:** Attack
-**Hero Node:** Dual Wield 1 Handed Weapons
+**Hero Node:** Dual Wield
 **Charges:** N/A
 
 Ability Text
@@ -422,7 +418,7 @@ None
 
 ## Strafing Strikes
 **Type:** Attack
-**Hero Node:** Dual Wield Crossbow
+**Hero Node:** Dual Wield
 **Charges:** N/A
 
 Ability Text
@@ -432,7 +428,7 @@ None
 
 ## Whirlwind
 **Type:** Attack
-**Hero Node:** Dual Wield Crossbow
+**Hero Node:** Dual Wield
 **Charges:** N/A
 
 Make an attack roll against all enemies in your zone.
@@ -482,7 +478,7 @@ None
 
 ## Thump
 **Type:** Attack
-**Hero Node:** Mace 1 Handed Weapons
+**Hero Node:** Mace
 **Charges:** N/A
 
 Ability Text
@@ -492,7 +488,7 @@ None
 
 ## Bone Breaker
 **Type:** Attack
-**Hero Node:** Mace 1 Handed Weapons
+**Hero Node:** Mace
 **Charges:** N/A
 
 Ability Text
@@ -502,7 +498,7 @@ None
 
 ## Concuss
 **Type:** Attack
-**Hero Node:** Mace 2 Handed Weapons
+**Hero Node:** Mace
 **Charges:** N/A
 
 Successful attacks interrupt any ongoing magical effects being maintained by your target.
@@ -512,7 +508,7 @@ None
 
 ## Crushing Blow
 **Type:** Attack
-**Hero Node:** Mace 2 Handed Weapons
+**Hero Node:** Mace
 **Charges:** N/A
 
 Attack. Successful attacks against breakable objects deal double damage.
@@ -522,7 +518,7 @@ None
 
 ## Reach
 **Type:** Attack
-**Hero Node:** Spear 1 Handed Weapons
+**Hero Node:** Spear
 **Charges:** N/A
 
 Ability Text
@@ -532,7 +528,7 @@ None
 
 ## Piercing Strike
 **Type:** Attack
-**Hero Node:** Spear 1 Handed Weapons
+**Hero Node:** Spear
 **Charges:** N/A
 
 Ability Text
@@ -542,7 +538,7 @@ None
 
 ## Impale
 **Type:** Attack
-**Hero Node:** Spear 2 Handed Weapons
+**Hero Node:** Spear
 **Charges:** N/A
 
 Ability Text
@@ -552,7 +548,7 @@ None
 
 ## Pin Down
 **Type:** Attack
-**Hero Node:** Spear 2 Handed Weapons
+**Hero Node:** Spear
 **Charges:** N/A
 
 Ability Text
@@ -602,7 +598,7 @@ None
 
 ## Glancing Blows
 **Type:** Attack
-**Hero Node:** Sword 1 Handed Weapons
+**Hero Node:** Sword
 **Charges:** N/A
 
 Missing an attack with a sword deals half damage rounded down.
@@ -612,7 +608,7 @@ None
 
 ## Rend
 **Type:** Attack
-**Hero Node:** Sword 1 Handed Weapons
+**Hero Node:** Sword
 **Charges:** N/A
 
 Ability Text
@@ -622,7 +618,7 @@ None
 
 ## Whirlwind
 **Type:** Attack
-**Hero Node:** Sword 2 Handed Weapons
+**Hero Node:** Sword
 **Charges:** N/A
 
 Ability Text
@@ -632,7 +628,7 @@ None
 
 ## Blade Dance
 **Type:** Attack
-**Hero Node:** Sword 2 Handed Weapons
+**Hero Node:** Sword
 **Charges:** N/A
 
 Ability Text
@@ -642,7 +638,7 @@ None
 
 ## Barrage
 **Type:** Attack
-**Hero Node:** Throwing Weapons Ranged Weapons
+**Hero Node:** Throwing
 **Charges:** N/A
 
 Ability Text
@@ -652,7 +648,7 @@ None
 
 ## Aerial Assault
 **Type:** Attack
-**Hero Node:** Throwing Weapons Ranged Weapons
+**Hero Node:** Throwing
 **Charges:** N/A
 
 Gain advantage on attacks with Throwing Weapons when your entire body is in mid air and higher than your target.
@@ -662,7 +658,7 @@ None
 
 ## Subtle Throw
 **Type:** Attack
-**Hero Node:** Throwing Weapons Unarmored
+**Hero Node:** Throwing
 **Charges:** N/A
 
 Ability Text
@@ -672,7 +668,7 @@ None
 
 ## Deadly Accuracy
 **Type:** Attack
-**Hero Node:** Throwing Weapons Unarmored
+**Hero Node:** Throwing
 **Charges:** N/A
 
 Ability Text
@@ -682,7 +678,7 @@ None
 
 ## Grip of the Titans
 **Type:** Attack
-**Hero Node:** Titan 2 Handed Weapons
+**Hero Node:** Titan
 **Charges:** N/A
 
 You can hold a 2-Handed weapon in one hand. Attacks with a 2-Hander will critical hit on rolls of 19 and 20.
@@ -692,7 +688,7 @@ Allows one-handed use of 2-handed weapons.
 
 ## Colossus Cleave
 **Type:** Attack
-**Hero Node:** Titan 2 Handed Weapons
+**Hero Node:** Titan
 **Charges:** N/A
 
 Gain 1 max HP. When there are more enemies than allies in your zone...
@@ -702,7 +698,7 @@ Gain 1 max HP. When there are more enemies than allies in your zone...
 
 ## Trample
 **Type:** Attack
-**Hero Node:** Titan Shields
+**Hero Node:** Titan
 **Charges:** N/A
 
 Deal 1 damage to each enemy in a zone that you move through this turn.
@@ -712,7 +708,7 @@ None
 
 ## Seismic Smash
 **Type:** Attack
-**Hero Node:** Titan Shields
+**Hero Node:** Titan
 **Charges:** N/A
 
 Damage all in zone, push 1 zone away.
@@ -722,7 +718,7 @@ None
 
 ## Guardian's Bond
 **Type:** Attack
-**Hero Node:** Protector Shields
+**Hero Node:** Protector
 **Charges:** N/A
 
 You and adjacent Ally get defensive benefit
@@ -732,7 +728,7 @@ None
 
 ## Challenging Shout
 **Type:** Attack
-**Hero Node:** Protector Shields
+**Hero Node:** Protector
 **Charges:** N/A
 
 Ability Text
@@ -742,7 +738,7 @@ None
 
 ## Intercept
 **Type:** Attack
-**Hero Node:** Protector Unarmored
+**Hero Node:** Protector
 **Charges:** N/A
 
 When an ally within 1 zone from you gets attacked, you can move to them and roll defense in their place.
@@ -752,7 +748,7 @@ None
 
 ## Rallying Cry
 **Type:** Attack
-**Hero Node:** Protector Unarmored
+**Hero Node:** Protector
 **Charges:** N/A
 
 When you critically hit an enemy, allies in your zone may heal 1. Allies in same zone get advantage on attacks this round. Until your next turn?
@@ -1196,7 +1192,7 @@ None
 
 ## Vampiric Touch
 **Type:** Magic
-**Hero Node:** Blood Dark
+**Hero Node:** Blood
 **Charges:** N/A
 
 Heal 1 damage on any successful attack or melee range offensive spell.
@@ -1206,7 +1202,7 @@ None
 
 ## Coagulate
 **Type:** Magic
-**Hero Node:** Blood Dark
+**Hero Node:** Blood
 **Charges:** N/A
 
 Ability Text
@@ -1216,7 +1212,7 @@ None
 
 ## Bend Blood
 **Type:** Magic
-**Hero Node:** Blood Water
+**Hero Node:** Blood
 **Charges:** N/A
 
 Ability Text
@@ -1226,7 +1222,7 @@ None
 
 ## Siphon Life
 **Type:** Magic
-**Hero Node:** Blood Water
+**Hero Node:** Blood
 **Charges:** N/A
 
 Ability Text
@@ -1236,7 +1232,7 @@ None
 
 ## Withering Touch
 **Type:** Magic
-**Hero Node:** Decay Earth
+**Hero Node:** Decay
 **Charges:** N/A
 
 Ability Text
@@ -1246,7 +1242,7 @@ None
 
 ## Acid Spray
 **Type:** Magic
-**Hero Node:** Decay Earth
+**Hero Node:** Decay
 **Charges:** N/A
 
 Ability Text
@@ -1256,7 +1252,7 @@ None
 
 ## Plague Bloom
 **Type:** Magic
-**Hero Node:** Decay Nature
+**Hero Node:** Decay
 **Charges:** N/A
 
 Ability Text
@@ -1266,7 +1262,7 @@ None
 
 ## Poison Cloud
 **Type:** Magic
-**Hero Node:** Decay Nature
+**Hero Node:** Decay
 **Charges:** N/A
 
 Ability Text
@@ -1276,7 +1272,7 @@ None
 
 ## Shock
 **Type:** Magic
-**Hero Node:** Electricity Air
+**Hero Node:** Electricity
 **Charges:** N/A
 
 Ability Text
@@ -1286,7 +1282,7 @@ None
 
 ## Live Wire
 **Type:** Magic
-**Hero Node:** Electricity Air
+**Hero Node:** Electricity
 **Charges:** N/A
 
 You are a conduit for electricity.
@@ -1296,7 +1292,7 @@ User becomes a conduit for electricity.
 
 ## Overload
 **Type:** Magic
-**Hero Node:** Electricity Explosion
+**Hero Node:** Electricity
 **Charges:** N/A
 
 Ability Text
@@ -1306,7 +1302,7 @@ None
 
 ## Lightning Bolt
 **Type:** Magic
-**Hero Node:** Electricity Storm
+**Hero Node:** Electricity
 **Charges:** N/A
 
 Ability Text
@@ -1316,7 +1312,7 @@ None
 
 ## Disrupting Blast
 **Type:** Magic
-**Hero Node:** Explosion Electricity
+**Hero Node:** Explosion
 **Charges:** N/A
 
 Ability Text
@@ -1326,7 +1322,7 @@ None
 
 ## Sonic Boom
 **Type:** Magic
-**Hero Node:** Explosion Electricity
+**Hero Node:** Explosion
 **Charges:** N/A
 
 Ability Text
@@ -1336,7 +1332,7 @@ None
 
 ## Fireball
 **Type:** Magic
-**Hero Node:** Explosion Fire
+**Hero Node:** Explosion
 **Charges:** N/A
 
 Ability Text
@@ -1346,7 +1342,7 @@ None
 
 ## Living Bomb
 **Type:** Magic
-**Hero Node:** Explosion Fire
+**Hero Node:** Explosion
 **Charges:** N/A
 
 Ability Text
@@ -1436,7 +1432,7 @@ None
 
 ## Overgrowth
 **Type:** Magic
-**Hero Node:** Growth Nature
+**Hero Node:** Growth
 **Charges:** N/A
 
 Ability Text
@@ -1446,7 +1442,7 @@ None
 
 ## Flourish
 **Type:** Magic
-**Hero Node:** Growth Nature
+**Hero Node:** Growth
 **Charges:** N/A
 
 Ability Text
@@ -1456,7 +1452,7 @@ None
 
 ## Temporal Seed
 **Type:** Magic
-**Hero Node:** Growth Renewal
+**Hero Node:** Growth
 **Charges:** N/A
 
 Ability Text
@@ -1466,7 +1462,7 @@ None
 
 ## Living Barricade
 **Type:** Magic
-**Hero Node:** Growth Renewal
+**Hero Node:** Growth
 **Charges:** N/A
 
 Ability Text
@@ -1476,7 +1472,7 @@ None
 
 ## Frost Lance
 **Type:** Magic
-**Hero Node:** Ice Storm
+**Hero Node:** Ice
 **Charges:** N/A
 
 Ability Text
@@ -1486,7 +1482,7 @@ None
 
 ## Hail
 **Type:** Magic
-**Hero Node:** Ice Storm
+**Hero Node:** Ice
 **Charges:** N/A
 
 Ability Text
@@ -1496,7 +1492,7 @@ None
 
 ## Freeze
 **Type:** Magic
-**Hero Node:** Ice Water
+**Hero Node:** Ice
 **Charges:** N/A
 
 Ability Text
@@ -1506,7 +1502,7 @@ None
 
 ## Shatter
 **Type:** Magic
-**Hero Node:** Ice Water
+**Hero Node:** Ice
 **Charges:** N/A
 
 Ability Text
@@ -1536,7 +1532,7 @@ None
 
 ## Lycanthropy
 **Type:** Magic
-**Hero Node:** Moon Dark
+**Hero Node:** Moon
 **Charges:** N/A
 
 Ability Text
@@ -1546,7 +1542,7 @@ None
 
 ## Lunar Tides
 **Type:** Magic
-**Hero Node:** Moon Water
+**Hero Node:** Moon
 **Charges:** N/A
 
 Ability Text
@@ -1596,7 +1592,7 @@ None
 
 ## Surge of Vitality
 **Type:** Magic
-**Hero Node:** Renewal Growth
+**Hero Node:** Renewal
 **Charges:** N/A
 
 Ability Text
@@ -1606,7 +1602,7 @@ None
 
 ## Rejuvenating Aura
 **Type:** Magic
-**Hero Node:** Renewal Growth
+**Hero Node:** Renewal
 **Charges:** N/A
 
 Ability Text
@@ -1616,7 +1612,7 @@ None
 
 ## Call to the Light
 **Type:** Magic
-**Hero Node:** Renewal Light
+**Hero Node:** Renewal
 **Charges:** N/A
 
 Ability Text
@@ -1626,7 +1622,7 @@ None
 
 ## Luminous Embrace
 **Type:** Magic
-**Hero Node:** Renewal Light
+**Hero Node:** Renewal
 **Charges:** N/A
 
 Ability Text
@@ -1636,7 +1632,7 @@ None
 
 ## Whispers with the Dead
 **Type:** Magic
-**Hero Node:** Spirit Dark
+**Hero Node:** Spirit
 **Charges:** N/A
 
 Ability Text
@@ -1646,7 +1642,7 @@ None
 
 ## Haunt
 **Type:** Magic
-**Hero Node:** Spirit Dark
+**Hero Node:** Spirit
 **Charges:** N/A
 
 Ability Text
@@ -1656,7 +1652,7 @@ None
 
 ## Spiritual Counsel
 **Type:** Magic
-**Hero Node:** Spirit Light
+**Hero Node:** Spirit
 **Charges:** N/A
 
 Ability Text
@@ -1666,7 +1662,7 @@ None
 
 ## Ethereal Guardian
 **Type:** Magic
-**Hero Node:** Spirit Light
+**Hero Node:** Spirit
 **Charges:** N/A
 
 Ability Text
@@ -1676,7 +1672,7 @@ None
 
 ## Comet
 **Type:** Magic
-**Hero Node:** Star Earth
+**Hero Node:** Star
 **Charges:** N/A
 
 Ability Text
@@ -1686,7 +1682,7 @@ None
 
 ## Starfall
 **Type:** Magic
-**Hero Node:** Star Earth
+**Hero Node:** Star
 **Charges:** N/A
 
 Ability Text
@@ -1696,7 +1692,7 @@ None
 
 ## Meteor Storm
 **Type:** Magic
-**Hero Node:** Star Fire
+**Hero Node:** Star
 **Charges:** N/A
 
 Ability Text
@@ -1706,7 +1702,7 @@ None
 
 ## Star Surge
 **Type:** Magic
-**Hero Node:** Star Fire
+**Hero Node:** Star
 **Charges:** N/A
 
 Ability Text
@@ -1716,7 +1712,7 @@ None
 
 ## Sun Beam
 **Type:** Magic
-**Hero Node:** Sun Light
+**Hero Node:** Sun
 **Charges:** N/A
 
 Ability Text
@@ -1726,7 +1722,7 @@ None
 
 ## Daylight
 **Type:** Magic
-**Hero Node:** Sun Light
+**Hero Node:** Sun
 **Charges:** N/A
 
 Ability Text
@@ -1736,7 +1732,7 @@ None
 
 ## Solar Flare
 **Type:** Magic
-**Hero Node:** Sun Nature
+**Hero Node:** Sun
 **Charges:** N/A
 
 Ability Text
@@ -1746,7 +1742,7 @@ None
 
 ## Warm
 **Type:** Magic
-**Hero Node:** Sun Nature
+**Hero Node:** Sun
 **Charges:** N/A
 
 Ability Text
@@ -1796,7 +1792,7 @@ None
 
 ## Sunder Earth
 **Type:** Magic
-**Hero Node:** Volcanic Earth
+**Hero Node:** Volcanic
 **Charges:** N/A
 
 Ability Text
@@ -1806,7 +1802,7 @@ None
 
 ## Earthquake
 **Type:** Magic
-**Hero Node:** Volcanic Earth
+**Hero Node:** Volcanic
 **Charges:** N/A
 
 Ability Text
@@ -1816,7 +1812,7 @@ None
 
 ## Lava Spray
 **Type:** Magic
-**Hero Node:** Volcanic Fire
+**Hero Node:** Volcanic
 **Charges:** N/A
 
 Ability Text
@@ -1826,7 +1822,7 @@ None
 
 ## Eruption
 **Type:** Magic
-**Hero Node:** Volcanic Fire
+**Hero Node:** Volcanic
 **Charges:** N/A
 
 Ability Text
@@ -1962,7 +1958,7 @@ While impersonating someone, you have Advantage on all Social rolls against thei
 
 ## Lightning Storm
 **Type:** Magic
-**Hero Node:** Storm Electricity
+**Hero Node:** Storm
 **Charges:** N/A
 
 Ability Text
@@ -1972,7 +1968,7 @@ None
 
 ## Tempest
 **Type:** Magic
-**Hero Node:** Storm Electricity
+**Hero Node:** Storm
 **Charges:** N/A
 
 Ability Text
@@ -1982,7 +1978,7 @@ None
 
 ## Blizzard
 **Type:** Magic
-**Hero Node:** Storm Ice
+**Hero Node:** Storm
 **Charges:** N/A
 
 Ability Text
@@ -1992,7 +1988,7 @@ None
 
 ## Absolute Zero
 **Type:** Magic
-**Hero Node:** Storm Ice
+**Hero Node:** Storm
 **Charges:** N/A
 
 Ability Text
@@ -2113,930 +2109,6 @@ None
 ## Spacial Blink
 **Type:** Magic
 **Hero Node:** Portals
-**Charges:** N/A
-
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
-
-------------------------------------------------
-
-## Skills
-
-## Meticulous Crafter
-**Type:** Skill
-**Hero Node:** General Careful
-**Charges:** N/A
-
-Unfazed if focused but also unaware.
-
-User is unfazed when focused.
-**Expend a Charge** to  [Combat Effect Description - Implies a trade-off between focus and awareness]
-
-## Delicate Disassembler
-**Type:** Skill
-**Hero Node:** General Careful
-**Charges:** N/A
-
-Can study things for understanding given time to reflect.
-
-Enhanced understanding through reflection.
-**Expend a Charge** to  [Combat Effect Description - Likely out of combat skill]
-
-## Uncanny Balance
-**Type:** Skill
-**Hero Node:** General Careful
-**Charges:** N/A
-
-Able to perform acrobatics and other feats that require balance.
-
-Enhanced balance and acrobatic ability.
-**Expend a Charge** to  [Combat Effect Description - May provide bonuses to related checks]
-
-## Steady Hand
-**Type:** Skill
-**Hero Node:** General Careful
-**Charges:** N/A
-
-Next action done with advantage.
-
-None
-**Expend a Charge** to  Grants advantage on the next action.
-
-## Community Builder
-**Type:** Skill
-**Hero Node:** General Charismatic
-**Charges:** N/A
-
-Target becomes enfatuated.
-
-None
-**Expend a Charge** to  Causes a target to become infatuated.
-
-## Old Friends
-**Type:** Skill
-**Hero Node:** General Charismatic
-**Charges:** N/A
-
-Target forms a bond of friendship that wains over time.
-
-None
-**Expend a Charge** to  Creates a temporary bond of friendship.
-
-## Storyteller
-**Type:** Skill
-**Hero Node:** General Charismatic
-**Charges:** N/A
-
-Next attempt to persuade is given.
-
-None
-**Expend a Charge** to  Enhances the next persuasion attempt.
-
-## Silver Tongue
-**Type:** Skill
-**Hero Node:** General Charismatic
-**Charges:** N/A
-
-Next speech is done with advantage on group.
-
-None
-**Expend a Charge** to  Grants advantage on speeches affecting a group.
-
-## Uncanny Agility
-**Type:** Skill
-**Hero Node:** General Dextrous
-**Charges:** N/A
-
-No minus when using off-hand/foot.
-
-Negates penalties for off-hand/foot use.
-**Expend a Charge** to  Improves combat effectiveness with off-hand/foot.
-
-## Graceful
-**Type:** Skill
-**Hero Node:** General Dextrous
-**Charges:** N/A
-
-Able to dance and learn new athletic related skills easily.
-
-Enhanced ability to learn athletic skills.
-**Expend a Charge** to  [Combat Effect Description - May provide bonuses to related checks]
-
-## Nimble Fingers
-**Type:** Skill
-**Hero Node:** General Dextrous
-**Charges:** N/A
-
-Able to avoid physical danger with advantage.
-
-None
-**Expend a Charge** to  Provides advantage on avoiding physical danger.
-
-## Acrobatics
-**Type:** Skill
-**Hero Node:** General Dextrous
-**Charges:** N/A
-
-Can perform acrobatics with advantage.
-
-None
-**Expend a Charge** to  Grants advantage on acrobatics checks.
-
-## Momentum
-**Type:** Skill
-**Hero Node:** General Evade
-**Charges:** N/A
-
-Advantage on next defense.
-
-None
-**Expend a Charge** to  Grants advantage on the next defense roll.
-
-## Disengage
-**Type:** Skill
-**Hero Node:** General Evade
-**Charges:** N/A
-
-Leave combat without suffering hit.
-
-None
-**Expend a Charge** to  Allows safe withdrawal from combat.
-
-## Predictable
-**Type:** Skill
-**Hero Node:** General Evade
-**Charges:** N/A
-
-Move physicaly from one space to another.
-
-None
-**Expend a Charge** to  Allows a movement action.
-
-## Counter Attack
-**Type:** Skill
-**Hero Node:** General Evade
-**Charges:** N/A
-
-Cause disadvantage.
-
-None
-**Expend a Charge** to  Causes disadvantage to an enemy.
-
-## Pathfinder
-**Type:** Skill
-**Hero Node:** General Explorer
-**Charges:** N/A
-
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
-
-## Lorefinder
-**Type:** Skill
-**Hero Node:** General Explorer
-**Charges:** N/A
-
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
-
-## Discovery
-**Type:** Skill
-**Hero Node:** General Explorer
-**Charges:** N/A
-
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
-
-## Surveyor
-**Type:** Skill
-**Hero Node:** General Explorer
-**Charges:** N/A
-
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
-
-## Blurring Speed
-**Type:** Skill
-**Hero Node:** General Fast
-**Charges:** N/A
-
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
-
-## Instinctive Reflexes
-**Type:** Skill
-**Hero Node:** General Fast
-**Charges:** N/A
-
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
-
-## Fleet Footed
-**Type:** Skill
-**Hero Node:** General Fast
-**Charges:** N/A
-
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
-
-## Quick Decision
-**Type:** Skill
-**Hero Node:** General Fast
-**Charges:** N/A
-
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
-
-## Reputation
-**Type:** Skill
-**Hero Node:** General Intimidating
-**Charges:** N/A
-
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
-
-## Firm Negotiation
-**Type:** Skill
-**Hero Node:** General Intimidating
-**Charges:** N/A
-
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
-
-## Undeniable Authority
-**Type:** Skill
-**Hero Node:** General Intimidating
-**Charges:** N/A
-
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
-
-## Unbreakable Will
-**Type:** Skill
-**Hero Node:** General Intimidating
-**Charges:** N/A
-
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
-
-## Calming Aura
-**Type:** Skill
-**Hero Node:** General Kind
-**Charges:** N/A
-
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
-
-## Empathetic Connection
-**Type:** Skill
-**Hero Node:** General Kind
-**Charges:** N/A
-
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
-
-## Mediator
-**Type:** Skill
-**Hero Node:** General Kind
-**Charges:** N/A
-
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
-
-## Fast Friends
-**Type:** Skill
-**Hero Node:** General Kind
-**Charges:** N/A
-
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
-
-## Inspiring Presence
-**Type:** Skill
-**Hero Node:** General Leader
-**Charges:** N/A
-
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
-
-## Tactical Insight
-**Type:** Skill
-**Hero Node:** General Leader
-**Charges:** N/A
-
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
-
-## Strategic Planning
-**Type:** Skill
-**Hero Node:** General Leader
-**Charges:** N/A
-
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
-
-## Commander
-**Type:** Skill
-**Hero Node:** General Leader
-**Charges:** N/A
-
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
-
-## Close Call
-**Type:** Skill
-**Hero Node:** General Lucky
-**Charges:** N/A
-
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
-
-## Chance Encounter
-**Type:** Skill
-**Hero Node:** General Lucky
-**Charges:** N/A
-
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
-
-## Good Fortune
-**Type:** Skill
-**Hero Node:** General Lucky
-**Charges:** N/A
-
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
-
-## Serendipity
-**Type:** Skill
-**Hero Node:** General Lucky
-**Charges:** N/A
-
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
-
-## Divide and Conquer
-**Type:** Skill
-**Hero Node:** General Manipulator
-**Charges:** N/A
-
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
-
-## Master of Disguise
-**Type:** Skill
-**Hero Node:** General Manipulator
-**Charges:** N/A
-
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
-
-## Subtle Influence
-**Type:** Skill
-**Hero Node:** General Manipulator
-**Charges:** N/A
-
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
-
-## Information Broker
-**Type:** Skill
-**Hero Node:** General Manipulator
-**Charges:** N/A
-
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
-
-## Analyze
-**Type:** Skill
-**Hero Node:** General Observant
-**Charges:** N/A
-
-Roll to gain information about your target. HP, tactics, disposition, etc.
-
-None
-**Expend a Charge** to  Allows the user to gain information about a target.
-
-## Heightened Senses
-**Type:** Skill
-**Hero Node:** General Observant
-**Charges:** N/A
-
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
-
-## Hidden Details
-**Type:** Skill
-**Hero Node:** General Observant
-**Charges:** N/A
-
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
-
-## Awareness
-**Type:** Skill
-**Hero Node:** General Observant
-**Charges:** N/A
-
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
-
-## Captivating Performance
-**Type:** Skill
-**Hero Node:** General Performer
-**Charges:** N/A
-
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
-
-## Distracting Display
-**Type:** Skill
-**Hero Node:** General Performer
-**Charges:** N/A
-
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
-
-## Emotional Resonance
-**Type:** Skill
-**Hero Node:** General Performer
-**Charges:** N/A
-
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
-
-## Artistic Inspiration
-**Type:** Skill
-**Hero Node:** General Performer
-**Charges:** N/A
-
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
-
-## Botanical Identification
-**Type:** Skill
-**Hero Node:** General Poisoner
-**Charges:** N/A
-
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
-
-## Venom Extraction
-**Type:** Skill
-**Hero Node:** General Poisoner
-**Charges:** N/A
-
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
-
-## Remedies
-**Type:** Skill
-**Hero Node:** General Poisoner
-**Charges:** N/A
-
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
-
-## Undetectable Concoctions
-**Type:** Skill
-**Hero Node:** General Poisoner
-**Charges:** N/A
-
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
-
-## Adaptive Immunity
-**Type:** Skill
-**Hero Node:** General Resist
-**Charges:** N/A
-
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
-
-## Endure
-**Type:** Skill
-**Hero Node:** General Resist
-**Charges:** N/A
-
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
-
-## Mental Fortitude
-**Type:** Skill
-**Hero Node:** General Resist
-**Charges:** N/A
-
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
-
-## Absorb
-**Type:** Skill
-**Hero Node:** General Resist
-**Charges:** N/A
-
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
-
-## Looter
-**Type:** Skill
-**Hero Node:** General Scavenger
-**Charges:** N/A
-
-Interacts with loot rolls.
-
-None
-**Expend a Charge** to  Modifies loot rolls.
-
-## Salvage Specialist
-**Type:** Skill
-**Hero Node:** General Scavenger
-**Charges:** N/A
-
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
-
-## Resourceful Repurposing
-**Type:** Skill
-**Hero Node:** General Scavenger
-**Charges:** N/A
-
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
-
-## Hidden Stashes
-**Type:** Skill
-**Hero Node:** General Scavenger
-**Charges:** N/A
-
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
-
-## Logical Deduction
-**Type:** Skill
-**Hero Node:** General Smart
-**Charges:** N/A
-
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
-
-## Rapid Analysis
-**Type:** Skill
-**Hero Node:** General Smart
-**Charges:** N/A
-
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
-
-## Innovate
-**Type:** Skill
-**Hero Node:** General Smart
-**Charges:** N/A
-
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
-
-## Magic Theory
-**Type:** Skill
-**Hero Node:** General Smart
-**Charges:** N/A
-
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
-
-## Shadow Meld
-**Type:** Skill
-**Hero Node:** General Stealthy
-**Charges:** N/A
-
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
-
-## Silent Movement
-**Type:** Skill
-**Hero Node:** General Stealthy
-**Charges:** N/A
-
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
-
-## Ambush Mastery
-**Type:** Skill
-**Hero Node:** General Stealthy
-**Charges:** N/A
-
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
-
-## Infiltrator
-**Type:** Skill
-**Hero Node:** General Stealthy
-**Charges:** N/A
-
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
-
-## Brute Force
-**Type:** Skill
-**Hero Node:** General Strong
-**Charges:** N/A
-
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
-
-## Destroyer
-**Type:** Skill
-**Hero Node:** General Strong
-**Charges:** N/A
-
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
-
-## Unbreakable Grip
-**Type:** Skill
-**Hero Node:** General Strong
-**Charges:** N/A
-
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
-
-## Heavy Lifting
-**Type:** Skill
-**Hero Node:** General Strong
-**Charges:** N/A
-
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
-
-## Tracker
-**Type:** Skill
-**Hero Node:** General Survivalist
-**Charges:** N/A
-
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
-
-## Wilderness Lore
-**Type:** Skill
-**Hero Node:** General Survivalist
-**Charges:** N/A
-
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
-
-## Forager
-**Type:** Skill
-**Hero Node:** General Survivalist
-**Charges:** N/A
-
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
-
-## Find Shelter
-**Type:** Skill
-**Hero Node:** General Survivalist
-**Charges:** N/A
-
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
-
-## Pickpocket
-**Type:** Skill
-**Hero Node:** General Thief
-**Charges:** N/A
-
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
-
-## Lockpicker
-**Type:** Skill
-**Hero Node:** General Thief
-**Charges:** N/A
-
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
-
-## Forgery
-**Type:** Skill
-**Hero Node:** General Thief
-**Charges:** N/A
-
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
-
-## Criminal Network
-**Type:** Skill
-**Hero Node:** General Thief
-**Charges:** N/A
-
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
-
-## Iron Skin
-**Type:** Skill
-**Hero Node:** General Tough
-**Charges:** N/A
-
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
-
-## Stamina
-**Type:** Skill
-**Hero Node:** General Tough
-**Charges:** N/A
-
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
-
-## Pain Tolerance
-**Type:** Skill
-**Hero Node:** General Tough
-**Charges:** N/A
-
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
-
-## Unbreakable
-**Type:** Skill
-**Hero Node:** General Tough
-**Charges:** N/A
-
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
-
-## Agent of Chaos
-**Type:** Skill
-**Hero Node:** General Trickster
-**Charges:** N/A
-
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
-
-## Improvisation
-**Type:** Skill
-**Hero Node:** General Trickster
-**Charges:** N/A
-
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
-
-## Logic Traps
-**Type:** Skill
-**Hero Node:** General Trickster
-**Charges:** N/A
-
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
-
-## Master of Mischief
-**Type:** Skill
-**Hero Node:** General Trickster
 **Charges:** N/A
 
 Ability Text

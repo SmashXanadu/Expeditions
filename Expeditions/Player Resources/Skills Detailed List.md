@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Skills Detailed
+title: Skills Detailed List
 permalink: /PlayerResources/SkillsDetailed/
 ---
 ## [Skills Detailed List](#skill-list)
