@@ -5,14 +5,6 @@ permalink: /PlayerResources/Abilities/AbilityList/
 ---
 ## [Ability List](#ability-list)
 
-## Ability Name
-**Type:** [Attack or Magic]
-**Hero Node:** [Node it belongs to]
-**Charges:** [Number of times the ability can be used before needing to recharge, or "N/A" if none]
-
-[Description of any passive benefits]
-**Expend a Charge** to [Detailed description of how this ability functions in combat]
-
 ## Riposte
 **Type:** Attack
 **Hero Node:** 1 Handed Weapons

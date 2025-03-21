@@ -24,7 +24,7 @@ permalink: /Rules/11/
 - **Thief**: You can make things things disappear… into your pockets.
 - **Tough**: You can tolerate pain and discomfort that others can’t.
 - **Trickster**: You know how to fool others into seeing your truth. 
-- **Wise**: You know from experience how to handle most situations.
+- **Wise**: You know from experience how to handle most situations.
 
 If your character has a skill that is not represented in this list, work with your **Guide** to define a custom skill.
 

@@ -3,925 +3,264 @@ layout: default
 title: Skills Detailed
 permalink: /PlayerResources/SkillsDetailed/
 ---
-## [Skill List](#skill-list)
+## [Skills Detailed List](#skill-list)
 
-## Meticulous Crafter
-**Type:** Skill
-**Hero Node:** General Careful
-**Charges:** N/A
+## Careful
+You have nimble hands, patience, and attention to detail.
 
-Unfazed if focused but also unaware.
+**Example Actions**: 
 
-User is unfazed when focused.
-**Example Actions**: [Combat Effect Description - Implies a trade-off between focus and awareness]
+**Skill Up Options**:
+- Meticulous Crafter
+- Delicate Disassembler
+- Uncanny Balance
+- Steady Hand
 
-## Delicate Disassembler
-**Type:** Skill
-**Hero Node:** General Careful
-**Charges:** N/A
+## Charismatic
+You have a way with words and use them well.
 
-Can study things for understanding given time to reflect.
+**Example Actions**: 
 
-Enhanced understanding through reflection.
-**Example Actions**: [Combat Effect Description - Likely out of combat skill]
+**Skill Up Options**:
+- Community Builder
+- Old Friends
+- Storyteller
+- Silver Tongue
 
-## Uncanny Balance
-**Type:** Skill
-**Hero Node:** General Careful
-**Charges:** N/A
+## Dexterous
+You can control your body and move with confidence.
 
-Able to perform acrobatics and other feats that require balance.
+**Example Actions**: 
 
-Enhanced balance and acrobatic ability.
-**Example Actions**: [Combat Effect Description - May provide bonuses to related checks]
+**Skill Up Options**:
+- Uncanny Agility
+- Graceful
+- Nimble Fingers
+- Acrobatics
 
-## Steady Hand
-**Type:** Skill
-**Hero Node:** General Careful
-**Charges:** N/A
+## Evade
 
-Next action done with advantage.
+**Example Actions**: 
 
-None
-**Example Actions**: Grants advantage on the next action.
+**Skill Up Options**:
+- Momentum
+- Disengage
+- Predictable
+- Counter Attack
+## Explorer
+You have a natural sense of direction in the unknown.
 
-## Community Builder
-**Type:** Skill
-**Hero Node:** General Charismatic
-**Charges:** N/A
+**Example Actions**: 
 
-Target becomes enfatuated.
+**Skill Up Options**:
+- Pathfinder
+- Lorefinder
+- Discovery
+- Surveyor
 
-None
-**Example Actions**: Causes a target to become infatuated.
+## Fast
+You have near instant reaction time and move quickly.
 
-## Old Friends
-**Type:** Skill
-**Hero Node:** General Charismatic
-**Charges:** N/A
+**Example Actions**: 
 
-Target forms a bond of friendship that wains over time.
+**Skill Up Options**:
+- Blurring Speed
+- Instinctive Reflexes
+- Fleet Footed
+- Quick Decision
 
-None
-**Example Actions**: Creates a temporary bond of friendship.
+## Intimidating
+You make people fear what you are capable of.
 
-## Storyteller
-**Type:** Skill
-**Hero Node:** General Charismatic
-**Charges:** N/A
+**Example Actions**: 
 
-Next attempt to persuade is given.
+**Skill Up Options**:
+- Have a Reputation
+- Firm Negotiation
+- Undeniable Authority
+- Unbreakable Will
 
-None
-**Example Actions**: Enhances the next persuasion attempt.
+## Kind
+Your care and generosity toward others knows no bounds.
 
-## Silver Tongue
-**Type:** Skill
-**Hero Node:** General Charismatic
-**Charges:** N/A
+**Example Actions**: 
 
-Next speech is done with advantage on group.
+**Skill Up Options**:
+- Calming Aura
+- Empathetic Connection
+- Mediator
+- Fast Friends
 
-None
-**Example Actions**: Grants advantage on speeches affecting a group.
+## Leader
+You naturally inspire confidence and trust from others.
 
-## Uncanny Agility
-**Type:** Skill
-**Hero Node:** General Dextrous
-**Charges:** N/A
+**Example Actions**: 
 
-No minus when using off-hand/foot.
+**Skill Up Options**:
+- Inspiring Presence
+- Tactical Insight
+- Strategic Planning
+- Commander
 
-Negates penalties for off-hand/foot use.
-**Example Actions**: Improves combat effectiveness with off-hand/foot.
+## Lucky
+Somehow things always seem to work out for you.
 
-## Graceful
-**Type:** Skill
-**Hero Node:** General Dextrous
-**Charges:** N/A
+**Example Actions**: 
 
-Able to dance and learn new athletic related skills easily.
+**Skill Up Options**:
+- Close Call
+- Chance Encounter
+- Good Fortune
+- Serendipity
 
-Enhanced ability to learn athletic skills.
-**Example Actions**: [Combat Effect Description - May provide bonuses to related checks]
+## Manipulator
+You influence people to get what you want.
 
-## Nimble Fingers
-**Type:** Skill
-**Hero Node:** General Dextrous
-**Charges:** N/A
+**Example Actions**: 
 
-Able to avoid physical danger with advantage.
+**Skill Up Options**:
+- Divide and Conquer
+- Master of Disguise
+- Subtle Influence
+- Information Broker
 
-None
-**Example Actions**: Provides advantage on avoiding physical danger.
+## Observant
+Nothing gets past you. You are always on the watch.
 
-## Acrobatics
-**Type:** Skill
-**Hero Node:** General Dextrous
-**Charges:** N/A
+**Example Actions**: 
 
-Can perform acrobatics with advantage.
+**Skill Up Options**:
+- Analyze
+- Heightened Senses
+- Hidden Details
+- Awareness
 
-None
-**Example Actions**: Grants advantage on acrobatics checks.
+## Performer
+You know how to put on a show for others.
 
-## Momentum
-**Type:** Skill
-**Hero Node:** General Evade
-**Charges:** N/A
+**Example Actions**: 
 
-Advantage on next defense.
+**Skill Up Options**:
+- Captivating Performance
+- Distracting Display
+- Emotional Resonance
+- Artistic Inspiration
 
-None
-**Example Actions**: Grants advantage on the next defense roll.
+## Poisoner
 
-## Disengage
-**Type:** Skill
-**Hero Node:** General Evade
-**Charges:** N/A
+**Example Actions**: 
 
-Leave combat without suffering hit.
+**Skill Up Options**:
+- Botanical Identification
+- Venom Extraction
+- Remedies
+- Undetectable Concoctions
 
-None
-**Example Actions**: Allows safe withdrawal from combat.
+## Resist
 
-## Predictable
-**Type:** Skill
-**Hero Node:** General Evade
-**Charges:** N/A
+**Example Actions**: 
 
-Move physicaly from one space to another.
+**Skill Up Options**:
+- Adaptive Immunity
+- Endure
+- Mental Fortitude
+- Absorb
+## Scavenger
+You can find useful objects in obscure places.
 
-None
-**Example Actions**: Allows a movement action.
+**Example Actions**: 
 
-## Counter Attack
-**Type:** Skill
-**Hero Node:** General Evade
-**Charges:** N/A
+**Skill Up Options**:
+- Looter
+- Salvage Specialist
+- Resourceful Repurposing
+- Hidden Stashes
 
-Cause disadvantage.
 
-None
-**Example Actions**: Causes disadvantage to an enemy.
+## Smart
+You excel with pattern recognition and logical deduction.
 
-## Pathfinder
-**Type:** Skill
-**Hero Node:** General Explorer
-**Charges:** N/A
+**Example Actions**: 
 
-Ability Text
+**Skill Up Options**:
+- Logical Deduction
+- Rapid Analysis
+- Innovate
+- Magic Theory
 
-None
-**Example Actions**: [Combat Effect Description]
+## Sneaky
+You have nimble hands, patience, and attention to detail.
 
-## Lorefinder
-**Type:** Skill
-**Hero Node:** General Explorer
-**Charges:** N/A
+**Example Actions**: 
 
-Ability Text
+**Skill Up Options**:
+- Shadow Meld
+- Silent Movement
+- Ambush Mastery
+- Infiltrator
 
-None
-**Example Actions**: [Combat Effect Description]
+## Strong
+You can bend, lift, and crush large objects with ease.
 
-## Discovery
-**Type:** Skill
-**Hero Node:** General Explorer
-**Charges:** N/A
+**Example Actions**: 
 
-Ability Text
+**Skill Up Options**:
+- Brute Force
+- Destroyer
+- Unbreakable Grip
+- Heavy Lifting
 
-None
-**Example Actions**: [Combat Effect Description]
+## Survivalist
+You know how to get by on limited resources.
 
-## Surveyor
-**Type:** Skill
-**Hero Node:** General Explorer
-**Charges:** N/A
+**Example Actions**: 
 
-Ability Text
+**Skill Up Options**:
+- Tracker
+- Wilderness Lore
+- Forager
+- Find Shelter
 
-None
-**Example Actions**: [Combat Effect Description]
+## Thief
+You can make things things disappear… into your pockets.
 
-## Blurring Speed
-**Type:** Skill
-**Hero Node:** General Fast
-**Charges:** N/A
+**Example Actions**: 
 
-Ability Text
+**Skill Up Options**:
+- Pickpocket
+- Lockpicker
+- Forgery
+- Criminal Network
 
-None
-**Example Actions**: [Combat Effect Description]
+## Tough
+You can tolerate pain and discomfort that others can’t.
 
-## Instinctive Reflexes
-**Type:** Skill
-**Hero Node:** General Fast
-**Charges:** N/A
+**Example Actions**: 
 
-Ability Text
+**Skill Up Options**:
+- Iron Skin
+- Stamina
+- Pain Tolerance
+- Unbreakable
 
-None
-**Example Actions**: [Combat Effect Description]
+## Trickster
+You know how to fool others into seeing your truth. 
 
-## Fleet Footed
-**Type:** Skill
-**Hero Node:** General Fast
-**Charges:** N/A
+**Example Actions**: 
 
-Ability Text
+**Skill Up Options**:
+- Agent of Chaos
+- Improvisation
+- Logic Traps
+- Master of Mischief
 
-None
-**Example Actions**: [Combat Effect Description]
+## Wise
+You know from experience how to handle most situations.
 
-## Quick Decision
-**Type:** Skill
-**Hero Node:** General Fast
-**Charges:** N/A
+**Example Actions**: 
 
-Ability Text
-
-None
-**Example Actions**: [Combat Effect Description]
-
-## Reputation
-**Type:** Skill
-**Hero Node:** General Intimidating
-**Charges:** N/A
-
-Ability Text
-
-None
-**Example Actions**: [Combat Effect Description]
-
-## Firm Negotiation
-**Type:** Skill
-**Hero Node:** General Intimidating
-**Charges:** N/A
-
-Ability Text
-
-None
-**Example Actions**: [Combat Effect Description]
-
-## Undeniable Authority
-**Type:** Skill
-**Hero Node:** General Intimidating
-**Charges:** N/A
-
-Ability Text
-
-None
-**Example Actions**: [Combat Effect Description]
-
-## Unbreakable Will
-**Type:** Skill
-**Hero Node:** General Intimidating
-**Charges:** N/A
-
-Ability Text
-
-None
-**Example Actions**: [Combat Effect Description]
-
-## Calming Aura
-**Type:** Skill
-**Hero Node:** General Kind
-**Charges:** N/A
-
-Ability Text
-
-None
-**Example Actions**: [Combat Effect Description]
-
-## Empathetic Connection
-**Type:** Skill
-**Hero Node:** General Kind
-**Charges:** N/A
-
-Ability Text
-
-None
-**Example Actions**: [Combat Effect Description]
-
-## Mediator
-**Type:** Skill
-**Hero Node:** General Kind
-**Charges:** N/A
-
-Ability Text
-
-None
-**Example Actions**: [Combat Effect Description]
-
-## Fast Friends
-**Type:** Skill
-**Hero Node:** General Kind
-**Charges:** N/A
-
-Ability Text
-
-None
-**Example Actions**: [Combat Effect Description]
-
-## Inspiring Presence
-**Type:** Skill
-**Hero Node:** General Leader
-**Charges:** N/A
-
-Ability Text
-
-None
-**Example Actions**: [Combat Effect Description]
-
-## Tactical Insight
-**Type:** Skill
-**Hero Node:** General Leader
-**Charges:** N/A
-
-Ability Text
-
-None
-**Example Actions**: [Combat Effect Description]
-
-## Strategic Planning
-**Type:** Skill
-**Hero Node:** General Leader
-**Charges:** N/A
-
-Ability Text
-
-None
-**Example Actions**: [Combat Effect Description]
-
-## Commander
-**Type:** Skill
-**Hero Node:** General Leader
-**Charges:** N/A
-
-Ability Text
-
-None
-**Example Actions**: [Combat Effect Description]
-
-## Close Call
-**Type:** Skill
-**Hero Node:** General Lucky
-**Charges:** N/A
-
-Ability Text
-
-None
-**Example Actions**: [Combat Effect Description]
-
-## Chance Encounter
-**Type:** Skill
-**Hero Node:** General Lucky
-**Charges:** N/A
-
-Ability Text
-
-None
-**Example Actions**: [Combat Effect Description]
-
-## Good Fortune
-**Type:** Skill
-**Hero Node:** General Lucky
-**Charges:** N/A
-
-Ability Text
-
-None
-**Example Actions**: [Combat Effect Description]
-
-## Serendipity
-**Type:** Skill
-**Hero Node:** General Lucky
-**Charges:** N/A
-
-Ability Text
-
-None
-**Example Actions**: [Combat Effect Description]
-
-## Divide and Conquer
-**Type:** Skill
-**Hero Node:** General Manipulator
-**Charges:** N/A
-
-Ability Text
-
-None
-**Example Actions**: [Combat Effect Description]
-
-## Master of Disguise
-**Type:** Skill
-**Hero Node:** General Manipulator
-**Charges:** N/A
-
-Ability Text
-
-None
-**Example Actions**: [Combat Effect Description]
-
-## Subtle Influence
-**Type:** Skill
-**Hero Node:** General Manipulator
-**Charges:** N/A
-
-Ability Text
-
-None
-**Example Actions**: [Combat Effect Description]
-
-## Information Broker
-**Type:** Skill
-**Hero Node:** General Manipulator
-**Charges:** N/A
-
-Ability Text
-
-None
-**Example Actions**: [Combat Effect Description]
-
-## Analyze
-**Type:** Skill
-**Hero Node:** General Observant
-**Charges:** N/A
-
-Roll to gain information about your target. HP, tactics, disposition, etc.
-
-None
-**Example Actions**: Allows the user to gain information about a target.
-
-## Heightened Senses
-**Type:** Skill
-**Hero Node:** General Observant
-**Charges:** N/A
-
-Ability Text
-
-None
-**Example Actions**: [Combat Effect Description]
-
-## Hidden Details
-**Type:** Skill
-**Hero Node:** General Observant
-**Charges:** N/A
-
-Ability Text
-
-None
-**Example Actions**: [Combat Effect Description]
-
-## Awareness
-**Type:** Skill
-**Hero Node:** General Observant
-**Charges:** N/A
-
-Ability Text
-
-None
-**Example Actions**: [Combat Effect Description]
-
-## Captivating Performance
-**Type:** Skill
-**Hero Node:** General Performer
-**Charges:** N/A
-
-Ability Text
-
-None
-**Example Actions**: [Combat Effect Description]
-
-## Distracting Display
-**Type:** Skill
-**Hero Node:** General Performer
-**Charges:** N/A
-
-Ability Text
-
-None
-**Example Actions**: [Combat Effect Description]
-
-## Emotional Resonance
-**Type:** Skill
-**Hero Node:** General Performer
-**Charges:** N/A
-
-Ability Text
-
-None
-**Example Actions**: [Combat Effect Description]
-
-## Artistic Inspiration
-**Type:** Skill
-**Hero Node:** General Performer
-**Charges:** N/A
-
-Ability Text
-
-None
-**Example Actions**: [Combat Effect Description]
-
-## Botanical Identification
-**Type:** Skill
-**Hero Node:** General Poisoner
-**Charges:** N/A
-
-Ability Text
-
-None
-**Example Actions**: [Combat Effect Description]
-
-## Venom Extraction
-**Type:** Skill
-**Hero Node:** General Poisoner
-**Charges:** N/A
-
-Ability Text
-
-None
-**Example Actions**: [Combat Effect Description]
-
-## Remedies
-**Type:** Skill
-**Hero Node:** General Poisoner
-**Charges:** N/A
-
-Ability Text
-
-None
-**Example Actions**: [Combat Effect Description]
-
-## Undetectable Concoctions
-**Type:** Skill
-**Hero Node:** General Poisoner
-**Charges:** N/A
-
-Ability Text
-
-None
-**Example Actions**: [Combat Effect Description]
-
-## Adaptive Immunity
-**Type:** Skill
-**Hero Node:** General Resist
-**Charges:** N/A
-
-Ability Text
-
-None
-**Example Actions**: [Combat Effect Description]
-
-## Endure
-**Type:** Skill
-**Hero Node:** General Resist
-**Charges:** N/A
-
-Ability Text
-
-None
-**Example Actions**: [Combat Effect Description]
-
-## Mental Fortitude
-**Type:** Skill
-**Hero Node:** General Resist
-**Charges:** N/A
-
-Ability Text
-
-None
-**Example Actions**: [Combat Effect Description]
-
-## Absorb
-**Type:** Skill
-**Hero Node:** General Resist
-**Charges:** N/A
-
-Ability Text
-
-None
-**Example Actions**: [Combat Effect Description]
-
-## Looter
-**Type:** Skill
-**Hero Node:** General Scavenger
-**Charges:** N/A
-
-Interacts with loot rolls.
-
-None
-**Example Actions**: Modifies loot rolls.
-
-## Salvage Specialist
-**Type:** Skill
-**Hero Node:** General Scavenger
-**Charges:** N/A
-
-Ability Text
-
-None
-**Example Actions**: [Combat Effect Description]
-
-## Resourceful Repurposing
-**Type:** Skill
-**Hero Node:** General Scavenger
-**Charges:** N/A
-
-Ability Text
-
-None
-**Example Actions**: [Combat Effect Description]
-
-## Hidden Stashes
-**Type:** Skill
-**Hero Node:** General Scavenger
-**Charges:** N/A
-
-Ability Text
-
-None
-**Example Actions**: [Combat Effect Description]
-
-## Logical Deduction
-**Type:** Skill
-**Hero Node:** General Smart
-**Charges:** N/A
-
-Ability Text
-
-None
-**Example Actions**: [Combat Effect Description]
-
-## Rapid Analysis
-**Type:** Skill
-**Hero Node:** General Smart
-**Charges:** N/A
-
-Ability Text
-
-None
-**Example Actions**: [Combat Effect Description]
-
-## Innovate
-**Type:** Skill
-**Hero Node:** General Smart
-**Charges:** N/A
-
-Ability Text
-
-None
-**Example Actions**: [Combat Effect Description]
-
-## Magic Theory
-**Type:** Skill
-**Hero Node:** General Smart
-**Charges:** N/A
-
-Ability Text
-
-None
-**Example Actions**: [Combat Effect Description]
-
-## Shadow Meld
-**Type:** Skill
-**Hero Node:** General Stealthy
-**Charges:** N/A
-
-Ability Text
-
-None
-**Example Actions**: [Combat Effect Description]
-
-## Silent Movement
-**Type:** Skill
-**Hero Node:** General Stealthy
-**Charges:** N/A
-
-Ability Text
-
-None
-**Example Actions**: [Combat Effect Description]
-
-## Ambush Mastery
-**Type:** Skill
-**Hero Node:** General Stealthy
-**Charges:** N/A
-
-Ability Text
-
-None
-**Example Actions**: [Combat Effect Description]
-
-## Infiltrator
-**Type:** Skill
-**Hero Node:** General Stealthy
-**Charges:** N/A
-
-Ability Text
-
-None
-**Example Actions**: [Combat Effect Description]
-
-## Brute Force
-**Type:** Skill
-**Hero Node:** General Strong
-**Charges:** N/A
-
-Ability Text
-
-None
-**Example Actions**: [Combat Effect Description]
-
-## Destroyer
-**Type:** Skill
-**Hero Node:** General Strong
-**Charges:** N/A
-
-Ability Text
-
-None
-**Example Actions**: [Combat Effect Description]
-
-## Unbreakable Grip
-**Type:** Skill
-**Hero Node:** General Strong
-**Charges:** N/A
-
-Ability Text
-
-None
-**Example Actions**: [Combat Effect Description]
-
-## Heavy Lifting
-**Type:** Skill
-**Hero Node:** General Strong
-**Charges:** N/A
-
-Ability Text
-
-None
-**Example Actions**: [Combat Effect Description]
-
-## Tracker
-**Type:** Skill
-**Hero Node:** General Survivalist
-**Charges:** N/A
-
-Ability Text
-
-None
-**Example Actions**: [Combat Effect Description]
-
-## Wilderness Lore
-**Type:** Skill
-**Hero Node:** General Survivalist
-**Charges:** N/A
-
-Ability Text
-
-None
-**Example Actions**: [Combat Effect Description]
-
-## Forager
-**Type:** Skill
-**Hero Node:** General Survivalist
-**Charges:** N/A
-
-Ability Text
-
-None
-**Example Actions**: [Combat Effect Description]
-
-## Find Shelter
-**Type:** Skill
-**Hero Node:** General Survivalist
-**Charges:** N/A
-
-Ability Text
-
-None
-**Example Actions**: [Combat Effect Description]
-
-## Pickpocket
-**Type:** Skill
-**Hero Node:** General Thief
-**Charges:** N/A
-
-Ability Text
-
-None
-**Example Actions**: [Combat Effect Description]
-
-## Lockpicker
-**Type:** Skill
-**Hero Node:** General Thief
-**Charges:** N/A
-
-Ability Text
-
-None
-**Example Actions**: [Combat Effect Description]
-
-## Forgery
-**Type:** Skill
-**Hero Node:** General Thief
-**Charges:** N/A
-
-Ability Text
-
-None
-**Example Actions**: [Combat Effect Description]
-
-## Criminal Network
-**Type:** Skill
-**Hero Node:** General Thief
-**Charges:** N/A
-
-Ability Text
-
-None
-**Example Actions**: [Combat Effect Description]
-
-## Iron Skin
-**Type:** Skill
-**Hero Node:** General Tough
-**Charges:** N/A
-
-Ability Text
-
-None
-**Example Actions**: [Combat Effect Description]
-
-## Stamina
-**Type:** Skill
-**Hero Node:** General Tough
-**Charges:** N/A
-
-Ability Text
-
-None
-**Example Actions**: [Combat Effect Description]
-
-## Pain Tolerance
-**Type:** Skill
-**Hero Node:** General Tough
-**Charges:** N/A
-
-Ability Text
-
-None
-**Example Actions**: [Combat Effect Description]
-
-## Unbreakable
-**Type:** Skill
-**Hero Node:** General Tough
-**Charges:** N/A
-
-Ability Text
-
-None
-**Example Actions**: [Combat Effect Description]
-
-## Agent of Chaos
-**Type:** Skill
-**Hero Node:** General Trickster
-**Charges:** N/A
-
-Ability Text
-
-None
-**Example Actions**: [Combat Effect Description]
-
-## Improvisation
-**Type:** Skill
-**Hero Node:** General Trickster
-**Charges:** N/A
-
-Ability Text
-
-None
-**Example Actions**: [Combat Effect Description]
-
-## Logic Traps
-**Type:** Skill
-**Hero Node:** General Trickster
-**Charges:** N/A
-
-Ability Text
-
-None
-**Example Actions**: [Combat Effect Description]
-
-## Master of Mischief
-**Type:** Skill
-**Hero Node:** General Trickster
-**Charges:** N/A
-
-Ability Text
-
-None
-**Example Actions**: [Combat Effect Description]
-
+**Skill Up Options**:
+- Guidance
+- Understanding
+- Inner Calm
+- Wisdom of the Ages
