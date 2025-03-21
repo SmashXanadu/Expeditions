@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Expeditions/System Rules/Rules/Rules Index.md",
+                "file": "Expeditions/Player Resources/Abilities/Ability List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rules Index"
+              "title": "Ability List"
             }
           }
         ],
@@ -180,11 +180,12 @@
   },
   "active": "05db7874c264d147",
   "lastOpenFiles": [
-    "Expeditions/Player Resources/Ability List.md",
     "Expeditions/System Rules/Rules/Rules Index.md",
+    "Expeditions/Player Resources/Abilities/Ability List.md",
+    "Expeditions/Player Resources/Player Resources Index.md",
+    "Expeditions/Player Resources/Abilities",
     "Expeditions/Player Resources/Skills Detailed List.md",
     "Expeditions/Player Resources/Abilities/Node Name - Ability Name.md",
-    "Expeditions/Player Resources/Player Resources Index.md",
     "Expeditions/System Rules/Rules/11 - General Skills.md",
     "{{site.baseurl}}/PlayerResources/Abilities.md",
     "{{site.baseurl}}/PlayerResources",
@@ -213,7 +214,6 @@
     "images/Guide Sea Hex Map.png",
     "images/ps5006.tmp",
     "UnchartedWaters/Characters/Characters.md",
-    "Expeditions/Player Resources/Player Resources Index - Copy.md",
     "images/AbilitySheet.png",
     "images/SkillSheet.png",
     "images/CharacterSheet.png",
@@ -225,7 +225,6 @@
     "images/PlayerCharacters4.png",
     "{{site.baseurl}}/UnchartedWaters",
     "{{site.baseurl}}/Rules",
-    "Expeditions/Guide Materials/Premade Adventures/Open Table Campaigns/Uncharted Waters",
     "Untitled.canvas"
   ]
 }

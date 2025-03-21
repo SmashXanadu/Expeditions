@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ability List
-permalink: /PlayerResources/AbilityList/
+permalink: /PlayerResources/Abilities/AbilityList/
 ---
 ## [Ability List](#ability-list)
 
