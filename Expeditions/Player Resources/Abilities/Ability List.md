@@ -107,13 +107,15 @@ You are able to use your ranged attacks to provide a distraction to assist your 
 ## Lock On
 **Type:** Attack
 **Hero Node:** Ranged Weapons
-**Charges:** N/A
+**Charges:** 3
 
 You pursue your target with deadly focus.
 
-None
 **Expend a Charge** to attack an enemy with a Ranged Weapon with Advantage. You have Advantage an all future Ranged Weapon attacks against this target until they die, or until you Lock On to a different target.
 
+------------------------------------------------
+## **Anything below this line has not been reformatted.**
+------------------------------------------------
 ## Disarming Slam
 **Type:** Attack
 **Hero Node:** Shields
@@ -196,7 +198,7 @@ None
 
 ## Execute
 **Type:** Attack
-**Hero Node:** Axe 1 Handed Weapons
+**Hero Node:** Axe
 **Charges:** N/A
 
 Ability Text
@@ -206,7 +208,7 @@ None
 
 ## Versatile
 **Type:** Attack
-**Hero Node:** Axe 1 Handed Weapons
+**Hero Node:** Axe
 **Charges:** N/A
 
 +2 to attack rolls when throwing an axe.
@@ -216,7 +218,7 @@ None
 
 ## Bleed
 **Type:** Attack
-**Hero Node:** Axe 2 Handed Weapons
+**Hero Node:** Axe
 **Charges:** N/A
 
 Ability Text
@@ -226,7 +228,7 @@ None
 
 ## Decapitate
 **Type:** Attack
-**Hero Node:** Axe 2 Handed Weapons
+**Hero Node:** Axe
 **Charges:** N/A
 
 Ability Text
@@ -316,7 +318,7 @@ None
 
 ## Double Shot
 **Type:** Attack
-**Hero Node:** Crossbow Dual Wield
+**Hero Node:** Crossbow Specialist
 **Charges:** N/A
 
 Ability Text
@@ -326,7 +328,7 @@ None
 
 ## Quickdraw
 **Type:** Attack
-**Hero Node:** Crossbow Dual Wield
+**Hero Node:** Crossbow Specialist
 **Charges:** N/A
 
 Ability Text
@@ -336,7 +338,7 @@ None
 
 ## Penetrating Shot
 **Type:** Attack
-**Hero Node:** Crossbow Ranged Weapons
+**Hero Node:** Crossbow Specialist
 **Charges:** N/A
 
 Ability Text
@@ -346,7 +348,7 @@ None
 
 ## Point Blank
 **Type:** Attack
-**Hero Node:** Crossbow Ranged Weapons
+**Hero Node:** Crossbow Specialist
 **Charges:** N/A
 
 Ability Text
@@ -396,7 +398,7 @@ None
 
 ## Parry
 **Type:** Attack
-**Hero Node:** Dual Wield 1 Handed Weapons
+**Hero Node:** Dual Wield
 **Charges:** N/A
 
 Ability Text
@@ -406,7 +408,7 @@ None
 
 ## Flurry
 **Type:** Attack
-**Hero Node:** Dual Wield 1 Handed Weapons
+**Hero Node:** Dual Wield
 **Charges:** N/A
 
 Ability Text
@@ -416,7 +418,7 @@ None
 
 ## Strafing Strikes
 **Type:** Attack
-**Hero Node:** Dual Wield Crossbow
+**Hero Node:** Dual Wield
 **Charges:** N/A
 
 Ability Text
@@ -426,7 +428,7 @@ None
 
 ## Whirlwind
 **Type:** Attack
-**Hero Node:** Dual Wield Crossbow
+**Hero Node:** Dual Wield
 **Charges:** N/A
 
 Make an attack roll against all enemies in your zone.
@@ -476,7 +478,7 @@ None
 
 ## Thump
 **Type:** Attack
-**Hero Node:** Mace 1 Handed Weapons
+**Hero Node:** Mace
 **Charges:** N/A
 
 Ability Text
@@ -486,7 +488,7 @@ None
 
 ## Bone Breaker
 **Type:** Attack
-**Hero Node:** Mace 1 Handed Weapons
+**Hero Node:** Mace
 **Charges:** N/A
 
 Ability Text
@@ -496,7 +498,7 @@ None
 
 ## Concuss
 **Type:** Attack
-**Hero Node:** Mace 2 Handed Weapons
+**Hero Node:** Mace
 **Charges:** N/A
 
 Successful attacks interrupt any ongoing magical effects being maintained by your target.
@@ -506,7 +508,7 @@ None
 
 ## Crushing Blow
 **Type:** Attack
-**Hero Node:** Mace 2 Handed Weapons
+**Hero Node:** Mace
 **Charges:** N/A
 
 Attack. Successful attacks against breakable objects deal double damage.
@@ -516,7 +518,7 @@ None
 
 ## Reach
 **Type:** Attack
-**Hero Node:** Spear 1 Handed Weapons
+**Hero Node:** Spear
 **Charges:** N/A
 
 Ability Text
@@ -526,7 +528,7 @@ None
 
 ## Piercing Strike
 **Type:** Attack
-**Hero Node:** Spear 1 Handed Weapons
+**Hero Node:** Spear
 **Charges:** N/A
 
 Ability Text
@@ -536,7 +538,7 @@ None
 
 ## Impale
 **Type:** Attack
-**Hero Node:** Spear 2 Handed Weapons
+**Hero Node:** Spear
 **Charges:** N/A
 
 Ability Text
@@ -546,7 +548,7 @@ None
 
 ## Pin Down
 **Type:** Attack
-**Hero Node:** Spear 2 Handed Weapons
+**Hero Node:** Spear
 **Charges:** N/A
 
 Ability Text
@@ -596,7 +598,7 @@ None
 
 ## Glancing Blows
 **Type:** Attack
-**Hero Node:** Sword 1 Handed Weapons
+**Hero Node:** Sword
 **Charges:** N/A
 
 Missing an attack with a sword deals half damage rounded down.
@@ -606,7 +608,7 @@ None
 
 ## Rend
 **Type:** Attack
-**Hero Node:** Sword 1 Handed Weapons
+**Hero Node:** Sword
 **Charges:** N/A
 
 Ability Text
@@ -616,7 +618,7 @@ None
 
 ## Whirlwind
 **Type:** Attack
-**Hero Node:** Sword 2 Handed Weapons
+**Hero Node:** Sword
 **Charges:** N/A
 
 Ability Text
@@ -626,7 +628,7 @@ None
 
 ## Blade Dance
 **Type:** Attack
-**Hero Node:** Sword 2 Handed Weapons
+**Hero Node:** Sword
 **Charges:** N/A
 
 Ability Text
@@ -636,7 +638,7 @@ None
 
 ## Barrage
 **Type:** Attack
-**Hero Node:** Throwing Weapons Ranged Weapons
+**Hero Node:** Throwing
 **Charges:** N/A
 
 Ability Text
@@ -646,7 +648,7 @@ None
 
 ## Aerial Assault
 **Type:** Attack
-**Hero Node:** Throwing Weapons Ranged Weapons
+**Hero Node:** Throwing
 **Charges:** N/A
 
 Gain advantage on attacks with Throwing Weapons when your entire body is in mid air and higher than your target.
@@ -656,7 +658,7 @@ None
 
 ## Subtle Throw
 **Type:** Attack
-**Hero Node:** Throwing Weapons Unarmored
+**Hero Node:** Throwing
 **Charges:** N/A
 
 Ability Text
@@ -666,7 +668,7 @@ None
 
 ## Deadly Accuracy
 **Type:** Attack
-**Hero Node:** Throwing Weapons Unarmored
+**Hero Node:** Throwing
 **Charges:** N/A
 
 Ability Text
@@ -676,7 +678,7 @@ None
 
 ## Grip of the Titans
 **Type:** Attack
-**Hero Node:** Titan 2 Handed Weapons
+**Hero Node:** Titan
 **Charges:** N/A
 
 You can hold a 2-Handed weapon in one hand. Attacks with a 2-Hander will critical hit on rolls of 19 and 20.
@@ -686,7 +688,7 @@ Allows one-handed use of 2-handed weapons.
 
 ## Colossus Cleave
 **Type:** Attack
-**Hero Node:** Titan 2 Handed Weapons
+**Hero Node:** Titan
 **Charges:** N/A
 
 Gain 1 max HP. When there are more enemies than allies in your zone...
@@ -696,7 +698,7 @@ Gain 1 max HP. When there are more enemies than allies in your zone...
 
 ## Trample
 **Type:** Attack
-**Hero Node:** Titan Shields
+**Hero Node:** Titan
 **Charges:** N/A
 
 Deal 1 damage to each enemy in a zone that you move through this turn.
@@ -706,7 +708,7 @@ None
 
 ## Seismic Smash
 **Type:** Attack
-**Hero Node:** Titan Shields
+**Hero Node:** Titan
 **Charges:** N/A
 
 Damage all in zone, push 1 zone away.
@@ -716,7 +718,7 @@ None
 
 ## Guardian's Bond
 **Type:** Attack
-**Hero Node:** Protector Shields
+**Hero Node:** Protector
 **Charges:** N/A
 
 You and adjacent Ally get defensive benefit
@@ -726,7 +728,7 @@ None
 
 ## Challenging Shout
 **Type:** Attack
-**Hero Node:** Protector Shields
+**Hero Node:** Protector
 **Charges:** N/A
 
 Ability Text
@@ -736,7 +738,7 @@ None
 
 ## Intercept
 **Type:** Attack
-**Hero Node:** Protector Unarmored
+**Hero Node:** Protector
 **Charges:** N/A
 
 When an ally within 1 zone from you gets attacked, you can move to them and roll defense in their place.
@@ -746,7 +748,7 @@ None
 
 ## Rallying Cry
 **Type:** Attack
-**Hero Node:** Protector Unarmored
+**Hero Node:** Protector
 **Charges:** N/A
 
 When you critically hit an enemy, allies in your zone may heal 1. Allies in same zone get advantage on attacks this round. Until your next turn?
@@ -1190,7 +1192,7 @@ None
 
 ## Vampiric Touch
 **Type:** Magic
-**Hero Node:** Blood Dark
+**Hero Node:** Blood
 **Charges:** N/A
 
 Heal 1 damage on any successful attack or melee range offensive spell.
@@ -1200,7 +1202,7 @@ None
 
 ## Coagulate
 **Type:** Magic
-**Hero Node:** Blood Dark
+**Hero Node:** Blood
 **Charges:** N/A
 
 Ability Text
@@ -1210,7 +1212,7 @@ None
 
 ## Bend Blood
 **Type:** Magic
-**Hero Node:** Blood Water
+**Hero Node:** Blood
 **Charges:** N/A
 
 Ability Text
@@ -1220,7 +1222,7 @@ None
 
 ## Siphon Life
 **Type:** Magic
-**Hero Node:** Blood Water
+**Hero Node:** Blood
 **Charges:** N/A
 
 Ability Text
@@ -1230,7 +1232,7 @@ None
 
 ## Withering Touch
 **Type:** Magic
-**Hero Node:** Decay Earth
+**Hero Node:** Decay
 **Charges:** N/A
 
 Ability Text
@@ -1240,7 +1242,7 @@ None
 
 ## Acid Spray
 **Type:** Magic
-**Hero Node:** Decay Earth
+**Hero Node:** Decay
 **Charges:** N/A
 
 Ability Text
@@ -1250,7 +1252,7 @@ None
 
 ## Plague Bloom
 **Type:** Magic
-**Hero Node:** Decay Nature
+**Hero Node:** Decay
 **Charges:** N/A
 
 Ability Text
@@ -1260,7 +1262,7 @@ None
 
 ## Poison Cloud
 **Type:** Magic
-**Hero Node:** Decay Nature
+**Hero Node:** Decay
 **Charges:** N/A
 
 Ability Text
@@ -1270,7 +1272,7 @@ None
 
 ## Shock
 **Type:** Magic
-**Hero Node:** Electricity Air
+**Hero Node:** Electricity
 **Charges:** N/A
 
 Ability Text
@@ -1280,7 +1282,7 @@ None
 
 ## Live Wire
 **Type:** Magic
-**Hero Node:** Electricity Air
+**Hero Node:** Electricity
 **Charges:** N/A
 
 You are a conduit for electricity.
@@ -1290,7 +1292,7 @@ User becomes a conduit for electricity.
 
 ## Overload
 **Type:** Magic
-**Hero Node:** Electricity Explosion
+**Hero Node:** Electricity
 **Charges:** N/A
 
 Ability Text
@@ -1300,7 +1302,7 @@ None
 
 ## Lightning Bolt
 **Type:** Magic
-**Hero Node:** Electricity Storm
+**Hero Node:** Electricity
 **Charges:** N/A
 
 Ability Text
@@ -1310,7 +1312,7 @@ None
 
 ## Disrupting Blast
 **Type:** Magic
-**Hero Node:** Explosion Electricity
+**Hero Node:** Explosion
 **Charges:** N/A
 
 Ability Text
@@ -1320,7 +1322,7 @@ None
 
 ## Sonic Boom
 **Type:** Magic
-**Hero Node:** Explosion Electricity
+**Hero Node:** Explosion
 **Charges:** N/A
 
 Ability Text
@@ -1330,7 +1332,7 @@ None
 
 ## Fireball
 **Type:** Magic
-**Hero Node:** Explosion Fire
+**Hero Node:** Explosion
 **Charges:** N/A
 
 Ability Text
@@ -1340,7 +1342,7 @@ None
 
 ## Living Bomb
 **Type:** Magic
-**Hero Node:** Explosion Fire
+**Hero Node:** Explosion
 **Charges:** N/A
 
 Ability Text
@@ -1430,7 +1432,7 @@ None
 
 ## Overgrowth
 **Type:** Magic
-**Hero Node:** Growth Nature
+**Hero Node:** Growth
 **Charges:** N/A
 
 Ability Text
@@ -1440,7 +1442,7 @@ None
 
 ## Flourish
 **Type:** Magic
-**Hero Node:** Growth Nature
+**Hero Node:** Growth
 **Charges:** N/A
 
 Ability Text
@@ -1450,7 +1452,7 @@ None
 
 ## Temporal Seed
 **Type:** Magic
-**Hero Node:** Growth Renewal
+**Hero Node:** Growth
 **Charges:** N/A
 
 Ability Text
@@ -1460,7 +1462,7 @@ None
 
 ## Living Barricade
 **Type:** Magic
-**Hero Node:** Growth Renewal
+**Hero Node:** Growth
 **Charges:** N/A
 
 Ability Text
@@ -1470,7 +1472,7 @@ None
 
 ## Frost Lance
 **Type:** Magic
-**Hero Node:** Ice Storm
+**Hero Node:** Ice
 **Charges:** N/A
 
 Ability Text
@@ -1480,7 +1482,7 @@ None
 
 ## Hail
 **Type:** Magic
-**Hero Node:** Ice Storm
+**Hero Node:** Ice
 **Charges:** N/A
 
 Ability Text
@@ -1490,7 +1492,7 @@ None
 
 ## Freeze
 **Type:** Magic
-**Hero Node:** Ice Water
+**Hero Node:** Ice
 **Charges:** N/A
 
 Ability Text
@@ -1500,7 +1502,7 @@ None
 
 ## Shatter
 **Type:** Magic
-**Hero Node:** Ice Water
+**Hero Node:** Ice
 **Charges:** N/A
 
 Ability Text
@@ -1530,7 +1532,7 @@ None
 
 ## Lycanthropy
 **Type:** Magic
-**Hero Node:** Moon Dark
+**Hero Node:** Moon
 **Charges:** N/A
 
 Ability Text
@@ -1540,7 +1542,7 @@ None
 
 ## Lunar Tides
 **Type:** Magic
-**Hero Node:** Moon Water
+**Hero Node:** Moon
 **Charges:** N/A
 
 Ability Text
@@ -1590,7 +1592,7 @@ None
 
 ## Surge of Vitality
 **Type:** Magic
-**Hero Node:** Renewal Growth
+**Hero Node:** Renewal
 **Charges:** N/A
 
 Ability Text
@@ -1600,7 +1602,7 @@ None
 
 ## Rejuvenating Aura
 **Type:** Magic
-**Hero Node:** Renewal Growth
+**Hero Node:** Renewal
 **Charges:** N/A
 
 Ability Text
@@ -1610,7 +1612,7 @@ None
 
 ## Call to the Light
 **Type:** Magic
-**Hero Node:** Renewal Light
+**Hero Node:** Renewal
 **Charges:** N/A
 
 Ability Text
@@ -1620,7 +1622,7 @@ None
 
 ## Luminous Embrace
 **Type:** Magic
-**Hero Node:** Renewal Light
+**Hero Node:** Renewal
 **Charges:** N/A
 
 Ability Text
@@ -1630,7 +1632,7 @@ None
 
 ## Whispers with the Dead
 **Type:** Magic
-**Hero Node:** Spirit Dark
+**Hero Node:** Spirit
 **Charges:** N/A
 
 Ability Text
@@ -1640,7 +1642,7 @@ None
 
 ## Haunt
 **Type:** Magic
-**Hero Node:** Spirit Dark
+**Hero Node:** Spirit
 **Charges:** N/A
 
 Ability Text
@@ -1650,7 +1652,7 @@ None
 
 ## Spiritual Counsel
 **Type:** Magic
-**Hero Node:** Spirit Light
+**Hero Node:** Spirit
 **Charges:** N/A
 
 Ability Text
@@ -1660,7 +1662,7 @@ None
 
 ## Ethereal Guardian
 **Type:** Magic
-**Hero Node:** Spirit Light
+**Hero Node:** Spirit
 **Charges:** N/A
 
 Ability Text
@@ -1670,7 +1672,7 @@ None
 
 ## Comet
 **Type:** Magic
-**Hero Node:** Star Earth
+**Hero Node:** Star
 **Charges:** N/A
 
 Ability Text
@@ -1680,7 +1682,7 @@ None
 
 ## Starfall
 **Type:** Magic
-**Hero Node:** Star Earth
+**Hero Node:** Star
 **Charges:** N/A
 
 Ability Text
@@ -1690,7 +1692,7 @@ None
 
 ## Meteor Storm
 **Type:** Magic
-**Hero Node:** Star Fire
+**Hero Node:** Star
 **Charges:** N/A
 
 Ability Text
@@ -1700,7 +1702,7 @@ None
 
 ## Star Surge
 **Type:** Magic
-**Hero Node:** Star Fire
+**Hero Node:** Star
 **Charges:** N/A
 
 Ability Text
@@ -1710,7 +1712,7 @@ None
 
 ## Sun Beam
 **Type:** Magic
-**Hero Node:** Sun Light
+**Hero Node:** Sun
 **Charges:** N/A
 
 Ability Text
@@ -1720,7 +1722,7 @@ None
 
 ## Daylight
 **Type:** Magic
-**Hero Node:** Sun Light
+**Hero Node:** Sun
 **Charges:** N/A
 
 Ability Text
@@ -1730,7 +1732,7 @@ None
 
 ## Solar Flare
 **Type:** Magic
-**Hero Node:** Sun Nature
+**Hero Node:** Sun
 **Charges:** N/A
 
 Ability Text
@@ -1740,7 +1742,7 @@ None
 
 ## Warm
 **Type:** Magic
-**Hero Node:** Sun Nature
+**Hero Node:** Sun
 **Charges:** N/A
 
 Ability Text
@@ -1790,7 +1792,7 @@ None
 
 ## Sunder Earth
 **Type:** Magic
-**Hero Node:** Volcanic Earth
+**Hero Node:** Volcanic
 **Charges:** N/A
 
 Ability Text
@@ -1800,7 +1802,7 @@ None
 
 ## Earthquake
 **Type:** Magic
-**Hero Node:** Volcanic Earth
+**Hero Node:** Volcanic
 **Charges:** N/A
 
 Ability Text
@@ -1810,7 +1812,7 @@ None
 
 ## Lava Spray
 **Type:** Magic
-**Hero Node:** Volcanic Fire
+**Hero Node:** Volcanic
 **Charges:** N/A
 
 Ability Text
@@ -1820,7 +1822,7 @@ None
 
 ## Eruption
 **Type:** Magic
-**Hero Node:** Volcanic Fire
+**Hero Node:** Volcanic
 **Charges:** N/A
 
 Ability Text
@@ -1956,7 +1958,7 @@ While impersonating someone, you have Advantage on all Social rolls against thei
 
 ## Lightning Storm
 **Type:** Magic
-**Hero Node:** Storm Electricity
+**Hero Node:** Storm
 **Charges:** N/A
 
 Ability Text
@@ -1966,7 +1968,7 @@ None
 
 ## Tempest
 **Type:** Magic
-**Hero Node:** Storm Electricity
+**Hero Node:** Storm
 **Charges:** N/A
 
 Ability Text
@@ -1976,7 +1978,7 @@ None
 
 ## Blizzard
 **Type:** Magic
-**Hero Node:** Storm Ice
+**Hero Node:** Storm
 **Charges:** N/A
 
 Ability Text
@@ -1986,7 +1988,7 @@ None
 
 ## Absolute Zero
 **Type:** Magic
-**Hero Node:** Storm Ice
+**Hero Node:** Storm
 **Charges:** N/A
 
 Ability Text
