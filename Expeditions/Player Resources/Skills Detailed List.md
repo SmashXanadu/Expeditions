@@ -16,6 +16,9 @@ You have nimble hands, patience, and attention to detail.
 - Uncanny Balance
 - Steady Hand
 
+
+
+------------------------------------------------
 ## Charismatic
 You have a way with words and use them well.
 
@@ -27,6 +30,9 @@ You have a way with words and use them well.
 - Storyteller
 - Silver Tongue
 
+
+
+------------------------------------------------
 ## Dexterous
 You can control your body and move with confidence.
 
@@ -38,6 +44,9 @@ You can control your body and move with confidence.
 - Nimble Fingers
 - Acrobatics
 
+
+
+------------------------------------------------
 ## Evade
 
 **Example Actions**: 
@@ -47,6 +56,8 @@ You can control your body and move with confidence.
 - Disengage
 - Predictable
 - Counter Attack
+- 
+------------------------------------------------
 ## Explorer
 You have a natural sense of direction in the unknown.
 
@@ -58,6 +69,9 @@ You have a natural sense of direction in the unknown.
 - Discovery
 - Surveyor
 
+
+
+------------------------------------------------
 ## Fast
 You have near instant reaction time and move quickly.
 
@@ -69,6 +83,9 @@ You have near instant reaction time and move quickly.
 - Fleet Footed
 - Quick Decision
 
+
+
+------------------------------------------------
 ## Intimidating
 You make people fear what you are capable of.
 
@@ -80,6 +97,9 @@ You make people fear what you are capable of.
 - Undeniable Authority
 - Unbreakable Will
 
+
+
+------------------------------------------------
 ## Kind
 Your care and generosity toward others knows no bounds.
 
@@ -91,6 +111,9 @@ Your care and generosity toward others knows no bounds.
 - Mediator
 - Fast Friends
 
+
+
+------------------------------------------------
 ## Leader
 You naturally inspire confidence and trust from others.
 
@@ -102,6 +125,9 @@ You naturally inspire confidence and trust from others.
 - Strategic Planning
 - Commander
 
+
+
+------------------------------------------------
 ## Lucky
 Somehow things always seem to work out for you.
 
@@ -113,6 +139,9 @@ Somehow things always seem to work out for you.
 - Good Fortune
 - Serendipity
 
+
+
+------------------------------------------------
 ## Manipulator
 You influence people to get what you want.
 
@@ -124,6 +153,9 @@ You influence people to get what you want.
 - Subtle Influence
 - Information Broker
 
+
+
+------------------------------------------------
 ## Observant
 Nothing gets past you. You are always on the watch.
 
@@ -135,6 +167,9 @@ Nothing gets past you. You are always on the watch.
 - Hidden Details
 - Awareness
 
+
+
+------------------------------------------------
 ## Performer
 You know how to put on a show for others.
 
@@ -146,6 +181,9 @@ You know how to put on a show for others.
 - Emotional Resonance
 - Artistic Inspiration
 
+
+
+------------------------------------------------
 ## Poisoner
 
 **Example Actions**: 
@@ -156,6 +194,9 @@ You know how to put on a show for others.
 - Remedies
 - Undetectable Concoctions
 
+
+
+------------------------------------------------
 ## Resist
 
 **Example Actions**: 
@@ -165,6 +206,9 @@ You know how to put on a show for others.
 - Endure
 - Mental Fortitude
 - Absorb
+
+
+------------------------------------------------
 ## Scavenger
 You can find useful objects in obscure places.
 
@@ -177,6 +221,8 @@ You can find useful objects in obscure places.
 - Hidden Stashes
 
 
+
+------------------------------------------------
 ## Smart
 You excel with pattern recognition and logical deduction.
 
@@ -188,6 +234,9 @@ You excel with pattern recognition and logical deduction.
 - Innovate
 - Magic Theory
 
+
+
+------------------------------------------------
 ## Sneaky
 You have nimble hands, patience, and attention to detail.
 
@@ -199,6 +248,9 @@ You have nimble hands, patience, and attention to detail.
 - Ambush Mastery
 - Infiltrator
 
+
+
+------------------------------------------------
 ## Strong
 You can bend, lift, and crush large objects with ease.
 
@@ -210,6 +262,9 @@ You can bend, lift, and crush large objects with ease.
 - Unbreakable Grip
 - Heavy Lifting
 
+
+
+------------------------------------------------
 ## Survivalist
 You know how to get by on limited resources.
 
@@ -221,6 +276,9 @@ You know how to get by on limited resources.
 - Forager
 - Find Shelter
 
+
+
+------------------------------------------------
 ## Thief
 You can make things things disappear… into your pockets.
 
@@ -232,6 +290,9 @@ You can make things things disappear… into your pockets.
 - Forgery
 - Criminal Network
 
+
+
+------------------------------------------------
 ## Tough
 You can tolerate pain and discomfort that others can’t.
 
@@ -243,6 +304,9 @@ You can tolerate pain and discomfort that others can’t.
 - Pain Tolerance
 - Unbreakable
 
+
+
+------------------------------------------------
 ## Trickster
 You know how to fool others into seeing your truth. 
 
@@ -254,6 +318,9 @@ You know how to fool others into seeing your truth.
 - Logic Traps
 - Master of Mischief
 
+
+
+------------------------------------------------
 ## Wise
 You know from experience how to handle most situations.
 
@@ -264,3 +331,6 @@ You know from experience how to handle most situations.
 - Understanding
 - Inner Calm
 - Wisdom of the Ages
+- 
+
+------------------------------------------------

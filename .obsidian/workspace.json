@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Expeditions/Player Resources/Abilities/Ability List.md",
+                "file": "Expeditions/Player Resources/Skills Detailed List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ability List"
+              "title": "Skills Detailed List"
             }
           }
         ],
@@ -180,8 +180,8 @@
   },
   "active": "05db7874c264d147",
   "lastOpenFiles": [
-    "Expeditions/System Rules/Rules/Rules Index.md",
     "Expeditions/Player Resources/Abilities/Ability List.md",
+    "Expeditions/System Rules/Rules/Rules Index.md",
     "Expeditions/Player Resources/Player Resources Index.md",
     "Expeditions/Player Resources/Abilities",
     "Expeditions/Player Resources/Skills Detailed List.md",
