@@ -3,7 +3,8 @@ layout: default
 title: Rules
 permalink: /Rules/Index/
 ---
-## [Ability List]({{site.baseurl}}/PlayerResources/Abilities/#ability-list)
+## [Ability List]({{site.baseurl}}/PlayerResources/Abilities/#ability-list) | [Skill Details List]({{site.baseurl}}/PlayerResources/SkillsDetailed/#skill-list)
+
 ## [Rules](#rules)
 **[Rules Summary]({{site.baseurl}}/Rules/Summary/#summary)**  | **[Player Resources]({{site.baseurl}}/PlayerResources/Index/)** 
 

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Expeditions/System Rules/Rules/8 - Hero Grid.md",
+                "file": "Expeditions/Player Resources/Abilities/Ability List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8 - Hero Grid"
+              "title": "Ability List"
             }
           }
         ],
@@ -180,16 +180,23 @@
   },
   "active": "05db7874c264d147",
   "lastOpenFiles": [
+    "Expeditions/System Rules/Rules/Rules Index.md",
+    "Expeditions/Player Resources/Skills Detailed.md",
+    "Expeditions/System Rules/Rules/11 - General Skills.md",
+    "Expeditions/Player Resources/Player Resources Index.md",
+    "Expeditions/Player Resources/Abilities/Ability List.md",
+    "Expeditions/Player Resources/Abilities/Node Name - Ability Name.md",
+    "Expeditions/Player Resources/Abilities",
+    "Expeditions/Player Resources/Abilities - Copy.md",
+    "Expeditions/System Rules/Rules/8 - Hero Grid.md",
     "Expeditions/Playtest/Premade Characters/Brigg.md",
     "Expeditions/Playtest/Premade Characters/Finrik.md",
     "Expeditions/Playtest/Premade Characters/Cam.md",
     "Expeditions/Playtest/Premade Characters/Gibbs.md",
     "Expeditions/Playtest/Premade Characters/Sira.md",
     "Expeditions/Playtest/Premade Characters/Template.md",
-    "Expeditions/Player Resources/Abilities.md",
     "Expeditions/Playtest/Premade Characters/Template - Copy - Copy - Copy.md",
     "Expeditions/Playtest/Premade Characters/Template - Copy (2).md",
-    "Expeditions/Player Resources/Player Resources Index.md",
     "Expeditions/Playtest/Premade Characters/Untitled.md",
     "Expeditions/Playtest/Premade Characters",
     "Expeditions/Playtest",
@@ -199,25 +206,19 @@
     "Expeditions/System Rules/Rules/1 - About Expeditions.md",
     "Expeditions/System Rules/Rules/0 - Missing Rule.md",
     "Expeditions/System Rules/Rules/6 - Downtime.md",
-    "Expeditions/System Rules/Rules/8 - Hero Grid.md",
     "images/HeroGridSheet.png",
     "images/Guide Sea Hex Map.png",
     "images/ps5006.tmp",
-    "Expeditions/System Rules/Rules/Rules Index.md",
     "UnchartedWaters/Characters/Characters.md",
     "Expeditions/Player Resources/Player Resources Index - Copy.md",
     "Expeditions/System Rules/Rules/Rules Summary.md",
-    "index.md",
     "images/AbilitySheet.png",
-    "0 To Do.md",
-    "Expeditions/System Rules/Rules/4 - Flow of the Game.md",
     "images/SkillSheet.png",
     "images/CharacterSheet.png",
     "images/EquipmentSheet.png",
     "images/Hero Grid Sheet.png",
     "images/Skill Sheet.png",
     "Expeditions/Player Resources",
-    "Expeditions/System Rules/Rules/Rules Index - Copy.md",
     "images/GridExample.png",
     "images/PlayerCharacters4.png",
     "{{site.baseurl}}/UnchartedWaters",
@@ -225,7 +226,6 @@
     "Expeditions/Guide Materials/Premade Adventures/Open Table Campaigns/Uncharted Waters",
     "Expeditions/Guide Materials/Premade Adventures/Open Table Campaigns/The Shatterlands",
     "Expeditions/System Rules/Rules",
-    "{{site.baseurl}}",
     "Untitled.canvas"
   ]
 }
