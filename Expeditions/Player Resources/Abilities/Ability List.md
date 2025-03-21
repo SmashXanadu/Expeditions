@@ -2112,7 +2112,7 @@ You can effortlessly transform into a land animal that is roughly your size or s
 
 When attacking in Animal Form, you may use your Attack or Magic modifier, whichever is higher.
 
-**Expend a Charge** to make a melee attack with +2 and gain +2 Evade until your next turn. If you run out of Charges, you revert to your normal form and  can no longer transform into this form.
+While in Animal Form, you may **Expend a Charge** to make a melee attack with +2 and gain +2 Evade until your next turn. If you run out of Charges, you revert to your normal form and  can no longer transform into this form.
 
 ------------------------------------------------
 ## Flying Form
@@ -2126,7 +2126,7 @@ While flying in this form, you may move twice your normal distance.
 
 When attacking in Flying Form, you may use your Attack or Magic modifier, whichever is higher.
 
-**Expend a Charge** to make a melee attack with +1 and gain +1 Evade until your next turn. If you run out of Charges, you revert to your normal form and  can no longer transform into this form.
+While in Flying Form, you may **Expend a Charge** to make a melee attack with +1 and gain +1 Evade until your next turn. If you run out of Charges, you revert to your normal form and  can no longer transform into this form.
 
 ------------------------------------------------
 ## Aquatic Form
@@ -2140,7 +2140,7 @@ While underwater in this form, you can breath normally and move twice your norma
 
 When attacking in Aquatic Form, you may use your Attack or Magic modifier, whichever is higher.
 
-**Expend a Charge** to make a melee attack with +1, move an extra zone this turn, and gain +1 Evade until your next turn. If you run out of Charges, you revert to your normal form and  can no longer transform into this form.
+While in Aquatic Form, you may **Expend a Charge** to make a melee attack with +1, move an extra zone this turn, and gain +1 Evade until your next turn. If you run out of Charges, you revert to your normal form and  can no longer transform into this form.
 
 ------------------------------------------------
 ## Impersonate
