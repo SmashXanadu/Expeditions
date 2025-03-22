@@ -126,39 +126,30 @@ You pursue your target with deadly focus.
 **Expend a Charge** to attack an enemy with a Ranged Weapon with Advantage. You have Advantage an all future Ranged Weapon attacks against this target until they die, or until you Lock On to a different target.
 
 ------------------------------------------------
-## **Anything below this line has not been reformatted.**
-------------------------------------------------
 ## Disarming Slam
 **Type:** Attack
  | **Hero Node:** Shields
- | **Charges:** N/A
+ | **Charges:** 2
 
-Attack. On success the enemy drops their weapon and has disadvantage on their next melee attack.
-
-None
-**Expend a Charge** to  Disarms an enemy and imposes disadvantage on their next melee attack.
+**Expend a Charge** to attack an enemy with a Melee Attack. On Success, your target drops their weapon(s) and has Disadvantage on their next attack.
 
 ------------------------------------------------
 ## Reflect Spell
 **Type:** Attack
  | **Hero Node:** Shields
- | **Charges:** N/A
+ | **Charges:** 2
 
-When resisting a spell attack, successful rolls that are 2 or more higher than the DC will deal the damage back to the attacker.
-
-None
-**Expend a Charge** to  Reflects spell damage back to the caster on a successful resistance.
+When you successfully Resist a Magic Attack, you may **Expend a Charge** to redirect the incoming damage back to the attacker.
 
 ------------------------------------------------
 ## Throw Shield
 **Type:** Attack
  | **Hero Node:** Shields
- | **Charges:** N/A
+ | **Charges:** 5
 
-Your shield can now be thrown as a ranged attack that deals +1 damage, but is unequipped in the process.
+Your shield can now be thrown as a ranged attack, but is unequipped in the process.
 
-None
-**Expend a Charge** to  Allows the shield to be used as a ranged attack, but leaves the user unshielded.
+On a successful Throw Shield Attack, you may **Expend a Charge** bounce your shield to another Close enemy making an attack against them. You may continue Expending Charges bouncing to additional targets until you run out of charges or miss a single attack.
 
 ------------------------------------------------
 ## Iron Bulwark
@@ -166,175 +157,131 @@ None
  | **Hero Node:** Shields
  | **Charges:** N/A
 
-Your shield durability cannot go below 1. When at durability 1, your shield can only prevent 1 point of damage per instance of incoming damage.
-
-Shield durability cannot be reduced below 1.
-**Expend a Charge** to  Ensures the shield always provides some level of protection.
+Your shield durability cannot go below 1. When at 1 durability, your shield can continue to take damage, but only 1 damage per round.
 
 ------------------------------------------------
 ## Shield Wall
 **Type:** Attack
  | **Hero Node:** Armored
- | **Charges:** N/A
+ | **Charges:** 3
 
-When allies in your zone take damage, you can take any amount of it for them.
-
-None
-**Expend a Charge** to  Allows the user to absorb damage intended for allies.
+When allies in Close range take damage, you may **Expend a Charge** to take any amount of it for them.
 
 ------------------------------------------------
 ## Defensive Stance
 **Type:** Attack
  | **Hero Node:** Armored
- | **Charges:** N/A
+ | **Charges:** 5
 
-When wearing only Heavy Armor, you +2 to Defend Rolls. Reduce each instance of incoming damage this round by 1.
-
-+2 to Defend Rolls while wearing Heavy Armor.
-**Expend a Charge** to  Increases defense and reduces incoming damage.
+**Expend a Charge** to gain Advantage on all Evade rolls until your next turn
 
 ------------------------------------------------
 ## Unstoppable
 **Type:** Attack
  | **Hero Node:** Armored
- | **Charges:** N/A
+ | **Charges:** 3
 
-Speed is not lowered by 'Heavy Armor'.
+Your Speed is no longer lowered by 'Heavy Armor'.
 
-No speed penalty from Heavy Armor.
-**Expend a Charge** to  Negates the movement penalty of heavy armor.
+You may **Expend a Charge** to run in a straight line through Close enemies, pushing them out of the way as you make an Attack roll against each enemy you touch.
 
 ------------------------------------------------
 ## Tackle
 **Type:** Attack
  | **Hero Node:** Armored
- | **Charges:** N/A
+ | **Charges:** 3
 
-Slam your body into an enemy. On a successful attack they are knocked down and restrained by you.
-
-None
-**Expend a Charge** to  Knocks down and restrains an enemy.
+**Expend a Charge** to Slam your body into an enemy. On a successful attack they are knocked down and restrained by you.
 
 ------------------------------------------------
 ## Execute
 **Type:** Attack
- | **Hero Node:** Axe
- | **Charges:** N/A
+ | **Hero Node:** Weapon Specialty: Axe
+ | **Charges:** 3
 
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
+**Expend a Charge** to attack a damaged enemy with Advantage.
 
 ------------------------------------------------
 ## Versatile
 **Type:** Attack
- | **Hero Node:** Axe
- | **Charges:** N/A
+ | **Hero Node:** Weapon Specialty: Axe
+ | **Charges:** 4
 
-+2 to attack rolls when throwing an axe.
-
-+2 to axe throwing attack rolls.
-**Expend a Charge** to  Increases accuracy when throwing axes.
+**Expend a Charge** to Throw an Axe as a Ranged Attack with Advantage.
 
 ------------------------------------------------
 ## Bleed
 **Type:** Attack
- | **Hero Node:** Axe
- | **Charges:** N/A
+ | **Hero Node:** Weapon Specialty: Axe
+ | **Charges:** 2
 
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
+**Expend a Charge** to attack an enemy with an Axe. On Success, the target is bleeding and will take an additional damage at the start of each of their turns. Only works on enemies that can bleed.
 
 ------------------------------------------------
-## Decapitate
+## Dismember
 **Type:** Attack
- | **Hero Node:** Axe
- | **Charges:** N/A
+ | **Hero Node:** Weapon Specialty: Axe
+ | **Charges:** 1
 
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
+**Expend a Charge** to attack an enemy with an Axe. On Success, if your Attack roll + Modifiers is at least 5 above the target Defense DC, choose a portion of their body to cleave off completely.
 
 ------------------------------------------------
 ## Twin Shot
 **Type:** Attack
- | **Hero Node:** Bow
- | **Charges:** N/A
+ | **Hero Node:** Weapon Specialty: Bow
+ | **Charges:** 3
 
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
+**Expend a Charge** to fire two arrows simultaneously. Choose one or two targets to direct the arrows to and make two Ranged Attack Rolls.
 
 ------------------------------------------------
 ## Volley
 **Type:** Attack
- | **Hero Node:** Bow
- | **Charges:** N/A
+ | **Hero Node:** Weapon Specialty: Bow
+ | **Charges:** 2
 
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
+**Expend a Charge** to rain arrows down on everyone in an adjacent zone. Make a ranged attack roll, on Success, deal damage to everyone hit by this ability. Allies have the opportunity to roll Evade at DC 14 to avoid taking this damage.
 
 ------------------------------------------------
 ## Snipe
 **Type:** Attack
- | **Hero Node:** Bow
+ | **Hero Node:** Weapon Specialty: Bow
  | **Charges:** N/A
 
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
+**Expend a Charge** to make a Ranged Attack with Advantage from up to Far range.
 
 ------------------------------------------------
 ## High Ground
 **Type:** Attack
- | **Hero Node:** Bow
- | **Charges:** N/A
+ | **Hero Node:** Weapon Specialty: Bow
+ | **Charges:** 5
 
-+2 to attacks with a bow when at a higher elevation than your target.
-
-+2 to bow attacks from higher elevation.
-**Expend a Charge** to  Increases accuracy when attacking from a higher position.
+If you are at a noticeably higher elevation than your target, you may **Expend a Charge** to make a Ranged Attack with Advantage.
 
 ------------------------------------------------
 ## Blind
 **Type:** Attack
  | **Hero Node:** Brawler
- | **Charges:** N/A
+ | **Charges:** 2
 
-Take a cheap shot. Attack success reduces the enemy attack stat by 2.
+Take a cheap shot. 
 
-None
-**Expend a Charge** to  Reduces the enemy's attack stat.
+**Expend a Charge** to make a Melee Attack against an enemy. On Success, they have Disadvantage on all attacks on their next round.
 
 ------------------------------------------------
 ## Improvised Weapons
 **Type:** Attack
  | **Hero Node:** Brawler
- | **Charges:** N/A
+ | **Charges:** 5
 
-+2 to all attacks while wielding something that is not traditionally used as a weapon. Grab something from your environment and immediately use it as a weapon to attack with advantage.
-
-+2 to attacks with improvised weapons.
-**Expend a Charge** to  Increases accuracy and provides advantage when using improvised weapons.
+If you are wielding something that is not traditionally used as a weapon, you may **Expend a Charge** to Attack with Advantage.
 
 ------------------------------------------------
 ## Grappler
 **Type:** Attack
  | **Hero Node:** Brawler
- | **Charges:** N/A
+ | **Charges:** 5
 
-Grapple, Throw, Topple, with advantage?
-
-None
-**Expend a Charge** to  Provides advantage on grappling, throwing, and toppling actions.
+You may **Expend a Charge** to gain Advantage on any rolls related to grappling, throwing, or toppling.
 
 ------------------------------------------------
 ## Fist Fighting
@@ -342,37 +289,32 @@ None
  | **Hero Node:** Brawler
  | **Charges:** N/A
 
-Advantage on all attacks when not holding a weapon.
-
-None
-**Expend a Charge** to  Provides advantage on unarmed attacks.
+You gain +3 to all melee attacks done while not wielding any weapons.
 
 ------------------------------------------------
-## Double Shot
+## Triple Shot
 **Type:** Attack
- | **Hero Node:** Crossbow Specialist
- | **Charges:** N/A
+ | **Hero Node:** Weapon Specialty: Crossbow
+ | **Charges:** 1
 
-Ability Text
 
-None
-**Expend a Charge** to  [Combat Effect Description]
+**Expend a Charge** to make 3 Ranged Attacks with a Crossbow against a single enemy.
 
 ------------------------------------------------
 ## Quickdraw
 **Type:** Attack
- | **Hero Node:** Crossbow Specialist
- | **Charges:** N/A
+ | **Hero Node:** Weapon Specialty: Crossbow
+ | **Charges:** 3
 
-Ability Text
+When enemies get the jump and go first at the start of a new combat, you may **Expend a Charge** to immediately make a Ranged Attack with a Crossbow before any enemies act.
 
-None
-**Expend a Charge** to  [Combat Effect Description]
+------------------------------------------------
+# Abilities Below This Line Need Additional Review
 
 ------------------------------------------------
 ## Penetrating Shot
 **Type:** Attack
- | **Hero Node:** Crossbow Specialist
+ | **Hero Node:** Weapon Specialty: Crossbow
  | **Charges:** N/A
 
 Ability Text
@@ -383,8 +325,8 @@ None
 ------------------------------------------------
 ## Point Blank
 **Type:** Attack
- | **Hero Node:** Crossbow Specialist
- | **Charges:** N/A
+ | **Hero Node:** Weapon Specialty: Crossbow
+ | **Charges:** 2
 
 Ability Text
 
@@ -394,7 +336,7 @@ None
 ------------------------------------------------
 ## Instant Strike
 **Type:** Attack
- | **Hero Node:** Dagger
+ | **Hero Node:** Weapon Specialty: Dagger
  | **Charges:** N/A
 
 Ability Text
@@ -405,7 +347,7 @@ None
 ------------------------------------------------
 ## Sneak Attack
 **Type:** Attack
- | **Hero Node:** Dagger
+ | **Hero Node:** Weapon Specialty: Dagger
  | **Charges:** N/A
 
 Advantage on all attacks with surprise.
@@ -416,7 +358,7 @@ None
 ------------------------------------------------
 ## Hidden Blade
 **Type:** Attack
- | **Hero Node:** Dagger
+ | **Hero Node:** Weapon Specialty: Dagger
  | **Charges:** N/A
 
 Ability Text
@@ -427,7 +369,7 @@ None
 ------------------------------------------------
 ## Deadly Precision
 **Type:** Attack
- | **Hero Node:** Dagger
+ | **Hero Node:** Weapon Specialty: Dagger
  | **Charges:** N/A
 
 Ability Text
@@ -527,7 +469,7 @@ None
 ------------------------------------------------
 ## Thump
 **Type:** Attack
- | **Hero Node:** Mace
+ | **Hero Node:** Weapon Specialty: Mace
  | **Charges:** N/A
 
 Ability Text
@@ -538,7 +480,7 @@ None
 ------------------------------------------------
 ## Bone Breaker
 **Type:** Attack
- | **Hero Node:** Mace
+ | **Hero Node:** Weapon Specialty: Mace
  | **Charges:** N/A
 
 Ability Text
@@ -549,7 +491,7 @@ None
 ------------------------------------------------
 ## Concuss
 **Type:** Attack
- | **Hero Node:** Mace
+ | **Hero Node:** Weapon Specialty: Mace
  | **Charges:** N/A
 
 Successful attacks interrupt any ongoing magical effects being maintained by your target.
@@ -560,7 +502,7 @@ None
 ------------------------------------------------
 ## Crushing Blow
 **Type:** Attack
- | **Hero Node:** Mace
+ | **Hero Node:** Weapon Specialty: Mace
  | **Charges:** N/A
 
 Attack. Successful attacks against breakable objects deal double damage.
@@ -571,7 +513,7 @@ None
 ------------------------------------------------
 ## Reach
 **Type:** Attack
- | **Hero Node:** Spear
+ | **Hero Node:** Weapon Specialty: Spear
  | **Charges:** N/A
 
 Ability Text
@@ -582,7 +524,7 @@ None
 ------------------------------------------------
 ## Piercing Strike
 **Type:** Attack
- | **Hero Node:** Spear
+ | **Hero Node:** Weapon Specialty: Spear
  | **Charges:** N/A
 
 Ability Text
@@ -593,7 +535,7 @@ None
 ------------------------------------------------
 ## Impale
 **Type:** Attack
- | **Hero Node:** Spear
+ | **Hero Node:** Weapon Specialty: Spear
  | **Charges:** N/A
 
 Ability Text
@@ -604,7 +546,7 @@ None
 ------------------------------------------------
 ## Pin Down
 **Type:** Attack
- | **Hero Node:** Spear
+ | **Hero Node:** Weapon Specialty: Spear
  | **Charges:** N/A
 
 Ability Text
@@ -615,7 +557,7 @@ None
 ------------------------------------------------
 ## Magically Imbued
 **Type:** Attack
- | **Hero Node:** Staff
+ | **Hero Node:** Weapon Specialty: Staff
  | **Charges:** N/A
 
 Ability Text
@@ -626,7 +568,7 @@ None
 ------------------------------------------------
 ## Whirling Dervish
 **Type:** Attack
- | **Hero Node:** Staff
+ | **Hero Node:** Weapon Specialty: Staff
  | **Charges:** N/A
 
 Ability Text
@@ -637,7 +579,7 @@ None
 ------------------------------------------------
 ## Extending Strike
 **Type:** Attack
- | **Hero Node:** Staff
+ | **Hero Node:** Weapon Specialty: Staff
  | **Charges:** N/A
 
 Ability Text
@@ -648,7 +590,7 @@ None
 ------------------------------------------------
 ## Leg Sweep
 **Type:** Attack
- | **Hero Node:** Staff
+ | **Hero Node:** Weapon Specialty: Staff
  | **Charges:** N/A
 
 Ability Text
@@ -659,7 +601,7 @@ None
 ------------------------------------------------
 ## Glancing Blows
 **Type:** Attack
- | **Hero Node:** Sword
+ | **Hero Node:** Weapon Specialty: Sword
  | **Charges:** N/A
 
 Missing an attack with a sword deals half damage rounded down.
@@ -670,7 +612,7 @@ None
 ------------------------------------------------
 ## Rend
 **Type:** Attack
- | **Hero Node:** Sword
+ | **Hero Node:** Weapon Specialty: Sword
  | **Charges:** N/A
 
 Ability Text
@@ -681,7 +623,7 @@ None
 ------------------------------------------------
 ## Whirlwind
 **Type:** Attack
- | **Hero Node:** Sword
+ | **Hero Node:** Weapon Specialty: Sword
  | **Charges:** N/A
 
 Ability Text
@@ -692,7 +634,7 @@ None
 ------------------------------------------------
 ## Blade Dance
 **Type:** Attack
- | **Hero Node:** Sword
+ | **Hero Node:** Weapon Specialty: Sword
  | **Charges:** N/A
 
 Ability Text
@@ -703,7 +645,7 @@ None
 ------------------------------------------------
 ## Barrage
 **Type:** Attack
- | **Hero Node:** Throwing
+ | **Hero Node:** Weapon Specialty: Throwing
  | **Charges:** N/A
 
 Ability Text
@@ -714,7 +656,7 @@ None
 ------------------------------------------------
 ## Aerial Assault
 **Type:** Attack
- | **Hero Node:** Throwing
+ | **Hero Node:** Weapon Specialty: Throwing
  | **Charges:** N/A
 
 Gain advantage on attacks with Throwing Weapons when your entire body is in mid air and higher than your target.
@@ -725,7 +667,7 @@ None
 ------------------------------------------------
 ## Subtle Throw
 **Type:** Attack
- | **Hero Node:** Throwing
+ | **Hero Node:** Weapon Specialty: Throwing
  | **Charges:** N/A
 
 Ability Text
@@ -736,7 +678,7 @@ None
 ------------------------------------------------
 ## Deadly Accuracy
 **Type:** Attack
- | **Hero Node:** Throwing
+ | **Hero Node:** Weapon Specialty: Throwing
  | **Charges:** N/A
 
 Ability Text
@@ -2329,9 +2271,3 @@ None
 **Expend a Charge** to  [Combat Effect Description]
 
 ------------------------------------------------
-
-## Ability Page Test - 1 Handed Weapons
-
-| **Riposte**<br><br>Type: Attack<br><br>Hero Node: 1 Handed Weapons<br><br>Charges: 4<br><br>You are always ready for an incoming attack and are rarely caught off guard.<br><br>Expend a Charge after Evading an enemy attack to make an attack roll with an equipped 1 Handed Weapon against your attacker. | **Feint**<br><br>Type: Attack<br><br>Hero Node: 1 Handed Weapons<br><br>Charges: 5<br><br>You are able to effortlessly turn a missed attack into an opportunity.<br><br>Expend a Charge after missing a melee attack with a 1 Handed Weapon to gain advantage on your next attack. |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Careful Strikes**<br><br>Type: Attack<br><br>Hero Node: 1 Handed Weapons<br><br>Charges: 5<br><br>You have mastered striking with incredible precision.<br><br>Expend a Charge to gain +2 on all 1 Handed Weapon attack rolls this turn.                                                                   | **Double Strike**<br><br>Type: Attack<br><br>Hero Node: 1 Handed Weapons<br><br>Charges: 3<br><br>You are able to unleash a flurry of quick attacks.<br><br>Expend a Charge to attack twice with each equipped 1 Handed Weapon.                                                    |
