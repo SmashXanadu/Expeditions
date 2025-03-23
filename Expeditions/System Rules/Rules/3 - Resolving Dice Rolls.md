@@ -30,4 +30,4 @@ you may still be able to succeed in your attempt…
 >
 >**Ash**: “You move the boulder, but in the process it rolls over your feet and destroys your boots.”
 
-**[Next: Flow of the Game]({{site.baseurl}}/Rules/4/)** | [Rules]({{site.baseurl}}/Rules/Index/#rules)
+[Previous]({{site.baseurl}}/Rules/2/#basic-rules) | **[Next: Flow of the Game]({{site.baseurl}}/Rules/4/)** | [Rules]({{site.baseurl}}/Rules/Index/#rules)

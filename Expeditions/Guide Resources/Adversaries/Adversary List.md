@@ -4,17 +4,17 @@ title: Adversary List
 permalink: /GuideResources/Adversaries/AdversaryList/
 ---
 
-| Name         | Health | DPR | Attack | Magic | Def. | Res. |
-| ------------ | ------ | --- | ------ | ----- | ---- | ---- |
-| **Angel**    | 6      | 3   | 13     | 15    | 14   | 17   |
-| **Banshee**  | 3      | 1   | 10     | 11    | 10   | 11   |
-| **Basilisk** | 4      | 2   | 13     | 12    | 13   | 12   |
-| **Bear**     | 2      | 1   | 11     | 8     | 11   | 10   |
-| **Bird**     | 1      | 1   | 8      | 8     | 8    | 8    |
-| **Boar**     | 2      | 1   | 11     | 8     | 11   | 10   |
-| **Centaur**  | 4      | 2   | 12     | 12    | 12   | 13   |
-| **Chimera**  | 8      | 4   | 16     | 16    | 16   | 16   |
-| **Construct**    |        |     |        |       |      |      |
+| Name             | Health | DPR | Attack | Magic | Def. | Res. |
+| ---------------- | ------ | --- | ------ | ----- | ---- | ---- |
+| **Angel**        | 6      | 3   | 13     | 15    | 14   | 17   |
+| **Banshee**      | 3      | 1   | 10     | 11    | 10   | 11   |
+| **Basilisk**     | 4      | 2   | 13     | 12    | 13   | 12   |
+| **Bear**         | 2      | 1   | 11     | 8     | 11   | 10   |
+| **Bird**         | 1      | 1   | 8      | 8     | 8    | 8    |
+| **Boar**         | 2      | 1   | 11     | 8     | 11   | 10   |
+| **Centaur**      | 4      | 2   | 12     | 12    | 12   | 13   |
+| **Chimera**      | 8      | 4   | 16     | 16    | 16   | 16   |
+| **Construct**    | 4      | 2   | 14     | 10    | 14   | 14   |
 | **Cougar**       | 5      | 2   | 13     | 8     | 13   | 13   |
 | **Cyclops**      | 5      | 2   | 12     | 12    | 14   | 11   |
 | **Demon**        | 6      | 3   | 13     | 15    | 15   | 16   |
@@ -55,7 +55,7 @@ permalink: /GuideResources/Adversaries/AdversaryList/
 | **Orb**          | 2      | 1   | 10     | 11    | 10   | 11   |
 | **Orc**          | 2      | 1   | 11     | 8     | 11   | 10   |
 | **Pixie**        | 1      | 1   | 8      | 8     | 8    | 9    |
-| **Plant**        |        |     |        |       |      |      |
+| **Plant**        | 2      | 1   | 12     | 10    | 12   | 10   |
 | **Revenant**     | 5      | 2   | 12     | 12    | 13   | 13   |
 | **Rodent**       | 1      | 1   | 8      | 8     | 8    | 8    |
 | **Satyr**        | 2      | 1   | 10     | 10    | 10   | 11   |

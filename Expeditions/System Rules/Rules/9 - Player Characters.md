@@ -32,4 +32,4 @@ permalink: /Rules/9/
 
 ![Player Characters 4](https://raw.githubusercontent.com/SmashXanadu/Expeditions/refs/heads/main/images/PlayerCharacters4.png)
 
-**[Next: Character Progression]({{site.baseurl}}/Rules/10/)** | [Rules]({{site.baseurl}}/Rules/Index/#rules)
+[Previous]({{site.baseurl}}/Rules/8/#hero-grid) | **[Next: Character Progression]({{site.baseurl}}/Rules/10/)** | [Rules]({{site.baseurl}}/Rules/Index/#rules)

@@ -23,7 +23,7 @@ permalink: /Rules/12/
 
 If your character has a skill that is not represented in this list, work with your **Guide** to define a custom trade skill.
 
-**[Back to Rules]({{site.baseurl}}/Rules/Index/#rules)**
+[Previous]({{site.baseurl}}/Rules/11/#general-skills) | **[Back to Rules]({{site.baseurl}}/Rules/Index/#rules)**
 
 
 

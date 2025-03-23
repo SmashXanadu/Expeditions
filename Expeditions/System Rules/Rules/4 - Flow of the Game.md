@@ -22,4 +22,4 @@ The next section will describe **Combat**, which has its own specific rules that
 ## [Downtime](#downtime)
 In-between Expeditions, the game will switch to a **Downtime** mode where things happen in a series of **Montages** and short **Scenes** in a more “fast-forward” style. You will choose from a menu of options to represent what your character does in-between each Expedition.
 
-**[Next: Combat]({{site.baseurl}}/Rules/5/)** | [Rules]({{site.baseurl}}/Rules/Index/#rules)
+[Previous]({{site.baseurl}}/Rules/3/#resolving-dice-rolls) | **[Next: Combat]({{site.baseurl}}/Rules/5/)** | [Rules]({{site.baseurl}}/Rules/Index/#rules)

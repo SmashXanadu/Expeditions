@@ -75,7 +75,6 @@ permalink: /Rules/Index/
 - [Blank Skill Sheet](https://raw.githubusercontent.com/SmashXanadu/Expeditions/refs/heads/main/images/SkillSheet.png)
 
 
-
 [Submit an Edit, Correction, or Idea in GitLab](https://github.com/SmashXanadu/Expeditions/issues/new) or E-Mail ExpeditionsRPG@pm.me
 
 [Project Home]({{site.baseurl}}) | [Guide Resources]({{site.baseurl}}/GuideResources/Index/)
