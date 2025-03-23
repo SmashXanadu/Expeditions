@@ -19,51 +19,51 @@ permalink: /Rules/Index/
 12. **[Tradeskills]({{site.baseurl}}/Rules/12/#tradeskills)**
 
 ## [Index](#index)
-- **[Abilities]({{site.baseurl}}/Rules/9/#abilities)**
-- **[Attack]({{site.baseurl}}/Rules/5/#attacking)**
-- **[Benefits]({{site.baseurl}}/Rules/0/#missing-rule)**
-- **[Broken Equipment]({{site.baseurl}}/Rules/0/#missing-rule)**
-- **[Characters]({{site.baseurl}}/Rules/9/#player-characters)**
-- **[Character Creation]({{site.baseurl}}/Rules/7/#character-creation)**
-- **[Character Progression]({{site.baseurl}}/Rules/10/#character-progression)**
-- **[Charges]({{site.baseurl}}/Rules/9/#abilities)**
-- **[Combat]({{site.baseurl}}/Rules/5/#combat)**
-- **[Complications]({{site.baseurl}}/Rules/0/#missing-rule)**
-- **[Damage]({{site.baseurl}}/Rules/5/#taking-damage)**
-- **[Distance]({{site.baseurl}}/Rules/5/#zoned-combat)**
-- **[Difficulty Check]({{site.baseurl}}/Rules/3/#resolving-dice-rolls)**
-- **[Downtime]({{site.baseurl}}/Rules/6/#downtime)**
-- **[Durability]({{site.baseurl}}/Rules/9/#equipment)**
-- **[Enemies]({{site.baseurl}}/Rules/5/#enemy-turn)**
-- **[Equipment ]({{site.baseurl}}/Rules/9/#equipment)**
-- **[Equipment Sets]({{site.baseurl}}/Rules/7/#equipment-sets)**
-- **[Evade]({{site.baseurl}}/Rules/9/#skills)**
-- **[Expedition]({{site.baseurl}}/Rules/4/#expedition)**
-- **[Experience]({{site.baseurl}}/Rules/10/#gaining-experience)**
-- **[Exploration]({{site.baseurl}}/Rules/4/#social-and-exploration)**
-- **[Gold]({{site.baseurl}}/Rules/10/#managing-equipment)**
-- **[Guide]({{site.baseurl}}/Rules/2/)**
-- **[Health]({{site.baseurl}}/Rules/9/#player-characters)**
-- **[Hero Grid]({{site.baseurl}}/Rules/8/#hero-grid)**
-- **[Inventory]({{site.baseurl}}/Rules/10/#managing-equipment)**
-- **[Magic]({{site.baseurl}}/Rules/9/#player-characters)**
-- **[Move]({{site.baseurl}}/Rules/5/#zoned-combat)**
-- **[Node]({{site.baseurl}}/Rules/8/#hero-grid)**
-- **[Over-Exert]({{site.baseurl}}/Rules/3/#resolving-dice-rolls)**
-- **[Range]({{site.baseurl}}/Rules/5/#zoned-combat)**
-- **[Resist]({{site.baseurl}}/Rules/9/#skills)**
-- **[Rolls]({{site.baseurl}}/Rules/3/#resolving-dice-rolls)**
-- **[Size]({{site.baseurl}}/Rules/7/#size)**
-- **[Skills]({{site.baseurl}}/Rules/9/#skills)**
-- **[Skill Checks]({{site.baseurl}}/Rules/3/#resolving-dice-rolls)**
-- **[Skills (General Skills)]({{site.baseurl}}/Rules/11/#general-skills)**
-- **[Skill Tracks]({{site.baseurl}}/Rules/9/#skills)**
-- **[Skills (Trade Skills)]({{site.baseurl}}/Rules/12/#tradeskills)**
-- **[Social Encounters]({{site.baseurl}}/Rules/4/#social-and-exploration)**
-- **[Stretch]({{site.baseurl}}/Rules/3/#resolving-dice-rolls)**
-- **[Turns]({{site.baseurl}}/Rules/5/#turn-order)**
-- **[Unconscious]({{site.baseurl}}/Rules/0/#missing-rule)**
-- **[Zone]({{site.baseurl}}/Rules/5/#zoned-combat)**
+- [Abilities]({{site.baseurl}}/Rules/9/#abilities)
+- [Attack]({{site.baseurl}}/Rules/5/#attacking)
+- [Benefits]({{site.baseurl}}/Rules/0/#missing-rule)
+- [Broken Equipment]({{site.baseurl}}/Rules/0/#missing-rule)
+- [Characters]({{site.baseurl}}/Rules/9/#player-characters)
+- [Character Creation]({{site.baseurl}}/Rules/7/#character-creation)
+- [Character Progression]({{site.baseurl}}/Rules/10/#character-progression)
+- [Charges]({{site.baseurl}}/Rules/9/#abilities)
+- [Combat]({{site.baseurl}}/Rules/5/#combat)
+- [Complications]({{site.baseurl}}/Rules/0/#missing-rule)
+- [Damage]({{site.baseurl}}/Rules/5/#taking-damage)
+- [Distance]({{site.baseurl}}/Rules/5/#zoned-combat)
+- [Difficulty Check]({{site.baseurl}}/Rules/3/#resolving-dice-rolls)
+- [Downtime]({{site.baseurl}}/Rules/6/#downtime)
+- [Durability]({{site.baseurl}}/Rules/9/#equipment)
+- [Enemies]({{site.baseurl}}/Rules/5/#enemy-turn)
+- [Equipment ]({{site.baseurl}}/Rules/9/#equipment)
+- [Equipment Sets]({{site.baseurl}}/Rules/7/#equipment-sets)
+- [Evade]({{site.baseurl}}/Rules/9/#skills)
+- [Expedition]({{site.baseurl}}/Rules/4/#expedition)
+- [Experience]({{site.baseurl}}/Rules/10/#gaining-experience)
+- [Exploration]({{site.baseurl}}/Rules/4/#social-and-exploration)
+- [Gold]({{site.baseurl}}/Rules/10/#managing-equipment)
+- [Guide]({{site.baseurl}}/Rules/2/)
+- [Health]({{site.baseurl}}/Rules/9/#player-characters)
+- [Hero Grid]({{site.baseurl}}/Rules/8/#hero-grid)
+- [Inventory]({{site.baseurl}}/Rules/10/#managing-equipment)
+- [Magic]({{site.baseurl}}/Rules/9/#player-characters)
+- [Move]({{site.baseurl}}/Rules/5/#zoned-combat)
+- [Node]({{site.baseurl}}/Rules/8/#hero-grid)
+- [Over-Exert]({{site.baseurl}}/Rules/3/#resolving-dice-rolls)
+- [Range]({{site.baseurl}}/Rules/5/#zoned-combat)
+- [Resist]({{site.baseurl}}/Rules/9/#skills)
+- [Rolls]({{site.baseurl}}/Rules/3/#resolving-dice-rolls)
+- [Size]({{site.baseurl}}/Rules/7/#size)
+- [Skills]({{site.baseurl}}/Rules/9/#skills)
+- [Skill Checks]({{site.baseurl}}/Rules/3/#resolving-dice-rolls)
+- [Skills (General Skills)]({{site.baseurl}}/Rules/11/#general-skills)
+- [Skill Tracks]({{site.baseurl}}/Rules/9/#skills)
+- [Skills (Trade Skills)]({{site.baseurl}}/Rules/12/#tradeskills)
+- [Social Encounters]({{site.baseurl}}/Rules/4/#social-and-exploration)
+- [Stretch]({{site.baseurl}}/Rules/3/#resolving-dice-rolls)
+- [Turns]({{site.baseurl}}/Rules/5/#turn-order)
+- [Unconscious]({{site.baseurl}}/Rules/0/#missing-rule)
+- [Zone]({{site.baseurl}}/Rules/5/#zoned-combat)
 
 ## Other Player Resources
 - [Ability List]({{site.baseurl}}/PlayerResources/Abilities/AbilityList/#ability-list)

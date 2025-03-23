@@ -60,7 +60,7 @@ permalink: /GuideResources/Adversaries/AdversaryList/
 | **Rodent**       | 1      | 1   | 8      | 8     | 8    | 8    |
 | **Satyr**        | 2      | 1   | 10     | 10    | 10   | 11   |
 | **Shapeshifter** | 4      | 2   | 12     | 12    | 12   | 12   |
-| **Slime**        |        |     |        |       |      |      |
+| **Slime**        | 1      | 1   | 10     | 10    | 14   | 14   |
 | **Skeleton**     | 2      | 1   | 10     | 10    | 11   | 10   |
 | **Snake**        | 1      | 1   | 8      | 8     | 8    | 8    |
 | **Specter**      | 4      | 2   | 10     | 13    | 12   | 13   |
