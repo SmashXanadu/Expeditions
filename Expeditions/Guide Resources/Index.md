@@ -9,6 +9,14 @@ permalink: /GuideResources/Index/
 
 [Adversary Card]({{site.baseurl}}/GuideResources/Adversaries/AdversaryCard/)
 
+Complications and Benefits Examples Chart
+
+Assigning Party Roles
+
+Advice
+- Public DCs
+- Frequent Skill Checks for Exp
+
 | **DC** | **Difficulty** |
 | ------ | -------------- |
 | 8      | Trivial        |
