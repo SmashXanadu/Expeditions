@@ -3,11 +3,8 @@ layout: default
 title: Rules
 permalink: /Rules/Index/
 ---
-## [Ability List]({{site.baseurl}}/PlayerResources/Abilities/AbilityList/#ability-list) | [Skill Details List]({{site.baseurl}}/PlayerResources/SkillsDetailed/#skill-list)
-Forcing this page to update
 ## [Rules](#rules)
-**[Rules Summary]({{site.baseurl}}/Rules/Summary/#summary)**  | **[Player Resources]({{site.baseurl}}/PlayerResources/Index/)** 
-
+**[Rules Summary]({{site.baseurl}}/Rules/Summary/#summary)**
 1. **[About]({{site.baseurl}}/Rules/1/#about-expeditions)**
 2. **[Basic Rules]({{site.baseurl}}/Rules/2/#basic-rules)**
 3. **[Resolving Dice Rolls]({{site.baseurl}}/Rules/3/#resolving-dice-rolls)**
@@ -20,7 +17,6 @@ Forcing this page to update
 10. **[Character Progression]({{site.baseurl}}/Rules/10/#character-progression)**
 11. **[General Skills]({{site.baseurl}}/Rules/11/#general-skills)**
 12. **[Tradeskills]({{site.baseurl}}/Rules/12/#tradeskills)**
-
 ## [Index](#index)
 - **[Abilities]({{site.baseurl}}/Rules/9/#abilities)**
 - **[Attack]({{site.baseurl}}/Rules/5/#attacking)**
@@ -67,6 +63,14 @@ Forcing this page to update
 - **[Turns]({{site.baseurl}}/Rules/5/#turn-order)**
 - **[Unconscious]({{site.baseurl}}/Rules/0/#missing-rule)**
 - **[Zone]({{site.baseurl}}/Rules/5/#zoned-combat)**
+## Other Player Resources
+- [Ability List]({{site.baseurl}}/PlayerResources/Abilities/AbilityList/#ability-list)
+- [Skill Details List]({{site.baseurl}}/PlayerResources/SkillsDetailed/#skill-list)
+- [Hero Grid](https://raw.githubusercontent.com/SmashXanadu/Expeditions/refs/heads/main/images/HeroGridSheet.png)
+- [Blank Character Sheet](https://raw.githubusercontent.com/SmashXanadu/Expeditions/refs/heads/main/images/CharacterSheet.png)
+- [Blank Equipment Sheet](https://raw.githubusercontent.com/SmashXanadu/Expeditions/refs/heads/main/images/EquipmentSheet.png)
+- [Blank Ability Sheet](https://raw.githubusercontent.com/SmashXanadu/Expeditions/refs/heads/main/images/AbilitySheet.png)
+- [Blank Skill Sheet](https://raw.githubusercontent.com/SmashXanadu/Expeditions/refs/heads/main/images/SkillSheet.png)
 
 [Submit an Edit, Correction, or Idea in GitLab](https://github.com/SmashXanadu/Expeditions/issues/new) or E-Mail ExpeditionsRPG@pm.me
 

@@ -7,11 +7,10 @@ permalink: /PlayerResources/Abilities/AbilityList/
 
 ------------------------------------------------
 
-| **Riposte**   |                  |
-| ------------- | ---------------- |
-| **Type**      | Attack           |
-| **Hero Node** | 1 Handed Weapons |
-| **Charges**   | 4                |
+## Riposte
+**Type:** Attack
+ | **Hero Node:** 1 Handed Weapons
+ | **Charges:** 4
 
 You are always ready for an incoming attack and are rarely caught off guard.
 
