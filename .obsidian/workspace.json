@@ -180,8 +180,11 @@
   },
   "active": "05db7874c264d147",
   "lastOpenFiles": [
+    "Expeditions/Guide Resources/Adversaries/Adversary List.md",
     "UnchartedWaters/Characters/Characters.md",
     "Expeditions/Player Resources/Abilities/Ability List.md",
+    "Expeditions/Guide Resources/Adversaries",
+    "Expeditions/Guide Resources/New folder",
     "Expeditions/System Rules/Rules/8 - Hero Grid.md",
     "Expeditions/System Rules/Rules/9 - Player Characters.md",
     "Expeditions/System Rules/Rules/10 - Character Progression.md",
@@ -211,7 +214,6 @@
     "Expeditions/Guide Resources/Premade Adventures/Open Table Campaigns/Cloudskippers.md",
     "Expeditions/Guide Resources/Premade Adventures/Open Table Campaigns/The Shatterlands.md",
     "Expeditions/Guide Resources/Premade Adventures/Open Table Campaigns/Uncharted Waters.md",
-    "Expeditions/System Rules/Rules/1 - About Expeditions.md",
     "images/HeroGridSheet.png",
     "images/Guide Sea Hex Map.png",
     "images/ps5006.tmp",
@@ -224,8 +226,6 @@
     "Expeditions/Player Resources",
     "images/GridExample.png",
     "images/PlayerCharacters4.png",
-    "{{site.baseurl}}/UnchartedWaters",
-    "{{site.baseurl}}/Rules",
     "Untitled.canvas"
   ]
 }
