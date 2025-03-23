@@ -17,6 +17,7 @@ permalink: /Rules/Index/
 10. **[Character Progression]({{site.baseurl}}/Rules/10/#character-progression)**
 11. **[General Skills]({{site.baseurl}}/Rules/11/#general-skills)**
 12. **[Tradeskills]({{site.baseurl}}/Rules/12/#tradeskills)**
+
 ## [Index](#index)
 - **[Abilities]({{site.baseurl}}/Rules/9/#abilities)**
 - **[Attack]({{site.baseurl}}/Rules/5/#attacking)**
@@ -63,15 +64,18 @@ permalink: /Rules/Index/
 - **[Turns]({{site.baseurl}}/Rules/5/#turn-order)**
 - **[Unconscious]({{site.baseurl}}/Rules/0/#missing-rule)**
 - **[Zone]({{site.baseurl}}/Rules/5/#zoned-combat)**
+
 ## Other Player Resources
 - [Ability List]({{site.baseurl}}/PlayerResources/Abilities/AbilityList/#ability-list)
-- [Skill Details List]({{site.baseurl}}/PlayerResources/SkillsDetailed/#skill-list)
+- [Skills Detailed List]({{site.baseurl}}/PlayerResources/SkillsDetailed/#skill-list)
 - [Hero Grid](https://raw.githubusercontent.com/SmashXanadu/Expeditions/refs/heads/main/images/HeroGridSheet.png)
 - [Blank Character Sheet](https://raw.githubusercontent.com/SmashXanadu/Expeditions/refs/heads/main/images/CharacterSheet.png)
 - [Blank Equipment Sheet](https://raw.githubusercontent.com/SmashXanadu/Expeditions/refs/heads/main/images/EquipmentSheet.png)
 - [Blank Ability Sheet](https://raw.githubusercontent.com/SmashXanadu/Expeditions/refs/heads/main/images/AbilitySheet.png)
 - [Blank Skill Sheet](https://raw.githubusercontent.com/SmashXanadu/Expeditions/refs/heads/main/images/SkillSheet.png)
 
+
+
 [Submit an Edit, Correction, or Idea in GitLab](https://github.com/SmashXanadu/Expeditions/issues/new) or E-Mail ExpeditionsRPG@pm.me
 
-[Project Home]({{site.baseurl}})
+[Project Home]({{site.baseurl}}) | [Guide Resources]({{site.baseurl}}/GuideResources/Index/)

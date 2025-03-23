@@ -4,6 +4,7 @@ title: Rules Summary
 permalink: /Rules/Summary/
 ---
 # [Rules Summary](#summary)
+------------------------------------------------------------------------
 ## Rolling Dice
 **Roll + Modifier(s) ≥ DC** is a **Success**
 
@@ -19,6 +20,7 @@ A **Natural 20** is a Success with a **Major Benefit**
 
 **Disadvantage** forces you to roll twice taking the lower result.
 
+------------------------------------------------------------------------
 ## Combat
 **Turn Order** alternates between all players then all enemies.
 
@@ -40,7 +42,6 @@ A **Natural 20** is a Success with a **Major Benefit**
 2. b) Roll **Magic** vs Enemy **Resistance** DC
 3. If success, **No Damage**
 4. If fail, **Take Damage** to **Health** and/or **Durability**
-
 ## Range / Distance to Target
 
 **Close**: In the same zone as target
@@ -51,6 +52,8 @@ A **Natural 20** is a Success with a **Major Benefit**
 
 **Distant**: Beyond the field of battle
 
+------------------------------------------------------------------------
+
 | **DC** | **Difficulty** |
 | ------ | -------------- |
 | 8      | Trivial        |
@@ -59,7 +62,6 @@ A **Natural 20** is a Success with a **Major Benefit**
 | 14     | Tough          |
 | 16     | Difficult      |
 | 18     | Very Hard      |
-
 
 
 **[Rules]({{site.baseurl}}/Rules/Index/#rules)**

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Adversary List
-permalink: /GuideResourcesResources/Adversaries/AdversaryList/
+permalink: /GuideResources/Adversaries/AdversaryList/
 ---
 
 | Name         | Health | DPR | Attack | Magic | Def. | Res. |

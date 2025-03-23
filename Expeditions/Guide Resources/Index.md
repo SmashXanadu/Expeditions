@@ -3,7 +3,9 @@ layout: default
 title: Guide Index
 permalink: /GuideResources/Index/
 ---
-
+ [Adversary List]({{site.baseurl}}/GuideResources/Adversaries/AdversaryList/)
+ 
+[Modifier List]({{site.baseurl}}/GuideResources/Adversaries/ModifierList/)
 
 | **DC** | **Difficulty** |
 | ------ | -------------- |
