@@ -7,9 +7,9 @@ permalink: /PlayerResources/Abilities/AbilityList/
 
 ------------------------------------------------
 ## Riposte
-**Type:** Attack
- | **Hero Node:** 1 Handed Weapons
- | **Charges:** 4
+> **Type:** Attack
+> **Hero Node:** 1 Handed Weapons
+> **Charges:** 4
 
 You are always ready for an incoming attack and are rarely caught off guard.
 
@@ -296,7 +296,6 @@ You gain +3 to all melee attacks done while not wielding any weapons.
 **Type:** Attack
  | **Hero Node:** Weapon Specialty: Crossbow
  | **Charges:** 1
-
 
 **Expend a Charge** to make 3 Ranged Attacks with a Crossbow against a single enemy.
 
