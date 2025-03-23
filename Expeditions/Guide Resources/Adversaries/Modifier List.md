@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Modifier List
-permalink: /GuideResourcesResources/Adversaries/ModifierList/
+permalink: /GuideResources/Adversaries/ModifierList/
 ---
 | Name             | Health | DPR | Attack | Magic | Def. | Res. |
 | ---------------- | ------ | --- | ------ | ----- | ---- | ---- |
