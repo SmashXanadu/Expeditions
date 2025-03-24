@@ -18,5 +18,3 @@ permalink: /Playtest/Index/
 ### Contact Us
 - WillNortonGames@gmail.com
 - BigAxeGames@gmail.com
-
-![](Pasted%20image%2020250323200909.png)
