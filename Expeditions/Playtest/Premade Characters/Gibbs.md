@@ -9,10 +9,12 @@ Gibbs, a quick and cunning rogue with a penchant for elaborate pranks and a nerv
 - **Background:** 
 - **Quirk:** 
 - **Motivation:** 
+
 ## Statistics
 - **Health:** 2
 - **Size:** Small
 - **Speed:** 22
+
 ## Skills
 - **Core**
 	- **Attack**: +2
@@ -20,19 +22,21 @@ Gibbs, a quick and cunning rogue with a penchant for elaborate pranks and a nerv
 	- **Evade**:+3
 	- **Resist**: +0
 - **General**:
-	- Sneaky +3
-	- Dextrous +2
-	- Trickster +2
-	- Careful +1
-	- Manipulator +1
+	- **Sneaky** +3
+	- **Dextrous** +2
+	- **Trickster** +2
+	- **Careful** +1
+	- **Manipulator** +1
 - **Tradeskill**:
-	- Alchemist +2
+	- **Alchemist** +2
+	
 ## Abilities
 - **1 Handed Weapons**
-	- Riposte
-	- Feint
-	- Careful Strikes
-	- Double Strike
+	- **Riposte**
+	- **Feint**
+	- **Careful Strikes**
+	- **Double Strike**
+	
 ## Equipment
 - **Main Hand**: Dagger (1)
 - **Off Hand**:
@@ -41,6 +45,7 @@ Gibbs, a quick and cunning rogue with a penchant for elaborate pranks and a nerv
 - **Hands**: Padded Leather Gloves (1)
 - **Legs**: Padded Leather Pants (1)
 - **Feet**: Padded Leather Boots (1)
+
 ## Inventory (10)
 **Gold**: 3
 - Rope

@@ -9,10 +9,12 @@ Sira, a flamboyant entertainer turned fire mage, captivates audiences with dazzl
 - **Background:** 
 - **Quirk:** 
 - **Motivation:** 
+
 ## Statistics
 - **Health:** 2
 - **Size:** Average
 - **Speed:** 19
+
 ## Skills
 - **Core**
 	- **Attack**: +0
@@ -20,19 +22,21 @@ Sira, a flamboyant entertainer turned fire mage, captivates audiences with dazzl
 	- **Evade**: +1
 	- **Resist**: +2
 - **General**:
-	- Performer +3
-	- Smart +2
-	- Charismatic +2
-	- Intimidating +2
-	- Lucky +1
+	- **Performer** +3
+	- **Smart** +2
+	- **Charismatic** +2
+	- **Intimidating** +2
+	- **Lucky** +1
 - **Tradeskill**:
-	- Enchanter +2
+	- **Enchanter** +2
+	
 ## Abilities
 - **Fire**
-	- Living Flame
-	- Ignite
-	- Wall of Fire
-	- Control Flames
+	- **Living Flame**
+	- **Ignite**
+	- **Wall of Fire**
+	- **Control Flames**
+	
 ## Equipment
 - **Main Hand**: Dagger (1)
 - **Off Hand**:
@@ -41,6 +45,7 @@ Sira, a flamboyant entertainer turned fire mage, captivates audiences with dazzl
 - **Hands**: Padded Leather Gloves (1)
 - **Legs**: Linen Pants (1)
 - **Feet**: Padded Leather Boots (1)
+
 ## Inventory (10)
 **Gold**: 5
 - Trick Playing Cards

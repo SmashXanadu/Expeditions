@@ -10,10 +10,12 @@ Brigg, a hulking blacksmith turned warrior, carries the weight of his abandoned 
 - **Background:** 
 - **Quirk:** 
 - **Motivation:** 
+
 ## Statistics
 - **Health:** 2
 - **Size:** Large
 - **Speed:** 11
+
 ## Skills
 - **Core**
 	- **Attack**: +2
@@ -21,19 +23,21 @@ Brigg, a hulking blacksmith turned warrior, carries the weight of his abandoned 
 	- **Evade**: +2
 	- **Resist**: +1
 - **General**:
-	- Strong +3
-	- Tough +2
-	- Intimidating +2
-	- Observant +1
-	- Charismatic +1
+	- **Strong** +3
+	- **Tough** +2
+	- **Intimidating** +2
+	- **Observant** +1
+	- **Charismatic** +1
 - **Tradeskill**:
-	- Blacksmithing +2
+	- **Blacksmithing** +2
+	
 ## Abilities
 - **2 Handed Weapons**
-	- Wide Arc
-	- Cleave
-	- Push
-	- Brutal Strike
+	- **Wide Arc**
+	- **Cleave**
+	- **Push**
+	- **Brutal Strike**
+	
 ## Equipment
 - **Main Hand**: 2 Hand Battle Axe (2)
 - **Off Hand**:
@@ -42,6 +46,7 @@ Brigg, a hulking blacksmith turned warrior, carries the weight of his abandoned 
 - **Hands**:
 - **Legs**: Chain Mail Leggings (2)
 - **Feet**: Rusty Iron Boots (2)
+
 ## Inventory (10)
 **Gold**: 2
 

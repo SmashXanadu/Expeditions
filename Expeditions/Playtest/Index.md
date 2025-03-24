@@ -10,3 +10,13 @@ permalink: /Playtest/Index/
 - [Finrik]({{site.baseurl}}/Playtest/Finrik/)
 - [Gibbs]({{site.baseurl}}/Playtest/Gibbs/)
 - [Sira]({{site.baseurl}}/Playtest/Sira/)
+
+### Resources
+- [Feedback Survey](tinyurl.com/BigAxeFeedback/)
+- [Discord](tinyurl.com/BigAxeDiscord/)
+
+### Contact Us
+- WillNortonGames@gmail.com
+- BigAxeGames@gmail.com
+
+![](Pasted%20image%2020250323200909.png)

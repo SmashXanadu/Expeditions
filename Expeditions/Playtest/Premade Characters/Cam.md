@@ -9,10 +9,12 @@ Cam, a nimble scout with an insatiable curiosity for the unknown, roams the wild
 - **Background:** 
 - **Quirk:** 
 - **Motivation:** 
+
 ## Statistics
 - **Health:** 2
 - **Size:** Average
 - **Speed:** 18
+
 ## Skills
 - **Core**
 	- **Attack**: +2
@@ -20,19 +22,21 @@ Cam, a nimble scout with an insatiable curiosity for the unknown, roams the wild
 	- **Evade**: +2
 	- **Resist**: +1
 - **General**:
-	- Observant +3
-	- Survivalist +2
-	- Explorer +2
-	- Smart +1
-	- Scavenger +1
+	- **Observant** +3
+	- **Survivalist** +2
+	- **Explorer** +2
+	- **Smart** +1
+	- **Scavenger** +1
 - **Tradeskill**:
-	- Trapper +2
+	- **Trapper** +2
+	
 ## Abilities
 - **Ranged Weapons**
-	- Ricochet
-	- Expose
-	- Covering Fire
-	- Lock On
+	- **Ricochet**
+	- **Expose**
+	- **Covering Fire**
+	- **Lock On**
+	
 ## Equipment
 - **Main Hand**: Short Bow (1)
 - **Off Hand**:
@@ -41,6 +45,7 @@ Cam, a nimble scout with an insatiable curiosity for the unknown, roams the wild
 - **Hands**: Padded Leather Gloves (1)
 - **Legs**: Padded Leather Pants (1)
 - **Feet**: Padded Leather Boots (1)
+
 ## Inventory (10)
 **Gold**: 3
 - Rope

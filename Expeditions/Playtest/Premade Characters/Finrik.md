@@ -9,10 +9,12 @@ Finrik, a wise and gentle shapeshifter, carries the weight of ancient knowledge 
 - **Background:** 
 - **Quirk:** 
 - **Motivation:** 
+
 ## Statistics
 - **Health:** 2
 - **Size:** Average
 - **Speed:** 20
+
 ## Skills
 - **Core**
 	- **Attack**: +0
@@ -20,19 +22,21 @@ Finrik, a wise and gentle shapeshifter, carries the weight of ancient knowledge 
 	- **Evade**: +1
 	- **Resist**: +2
 - **General**:
-	- Leader +3
-	- Wise +2
-	- Kind +2
-	- Charismatic +1
-	- Tough +1
+	- **Leader** +3
+	- **Wise** +2
+	- **Kind** +2
+	- **Charismatic** +1
+	- **Tough** +1
 - **Tradeskill**:
-	- Animal Handler +2
+	- **Animal Handler** +2
+	
 ## Abilities
 - **Shifting**
-	- Animal Form
-	- Aquatic Form
-	- Flying Form
-	- Impersonate
+	- **Animal Form**
+	- **Aquatic Form**
+	- **Flying Form**
+	- **Impersonate**
+	
 ## Equipment
 - **Main Hand**: Warped Wooden Staff (2)
 - **Off Hand**:
@@ -41,6 +45,7 @@ Finrik, a wise and gentle shapeshifter, carries the weight of ancient knowledge 
 - **Hands**: Padded Leather Gloves (1)
 - **Legs**: Linen Pants (1)
 - **Feet**: Padded Leather Boots (1)
+
 ## Inventory (10)
 **Gold**: 2
 - Journal
