@@ -6,7 +6,6 @@ permalink: /PlayerResources/Abilities/AbilityList/
 ## [Ability List](#ability-list)
 
 ------------------------------------------------
-
 ## Riposte
 **Type:** Attack
  | **Hero Node:** 1 Handed Weapons
@@ -800,133 +799,123 @@ Make an Attack roll against a target. If your target dies, you may **Expend a Ch
 ## Sphere of Air
 **Type:** Magic
  | **Hero Node:** Air
- | **Charges:** N/A
+ | **Charges:** 2
 
-Ability Text
+You can create a swirling sphere of air to deflect attacks or push enemies and objects.
 
-None
-**Expend a Charge** to  [Combat Effect Description]
+On your turn you may **Expend a Charge** to send a sphere of air into a a Near Enemy, making a Magic Attack roll. On success, the enemy takes damage and is pushed 1 zone.
+
+Immediately after an enemy makes a ranged attack against you or an ally, you may **Expend a Charge** to send a sphere of air to intercept it. Make a DC12 Magic roll. On success, the attack misses.
 
 ------------------------------------------------
 ## Gale Stride
 **Type:** Magic
  | **Hero Node:** Air
- | **Charges:** N/A
+ | **Charges:** 2
 
-Ability Text
+You can harness the wind to increase your speed and agility.
 
-None
-**Expend a Charge** to  [Combat Effect Description]
+**Expend a Charge** to increase your movement speed by 2 zones for this combat.
 
 ------------------------------------------------
-## Tornados
+## Gust of Wind
 **Type:** Magic
  | **Hero Node:** Air
- | **Charges:** N/A
+ | **Charges:** 3
 
-Ability Text
+You can summon a powerful gust of wind to clear smoke, propel small objects, or even provide a temporary boost to movement.
 
-None
-**Expend a Charge** to  [Combat Effect Description]
+**Expend a Charge** to push all enemies within Near range 1 zone away.
 
 ------------------------------------------------
 ## Wall of Wind
 **Type:** Magic
  | **Hero Node:** Air
- | **Charges:** N/A
+ | **Charges:** 3
 
-Ability Text
+You can summon a sudden torrent of wind to create a temporary barrier.
 
-None
-**Expend a Charge** to  [Combat Effect Description]
+**Expend a Charge** to summon a Wall of Wind in your zone until your next turn. Ranged Attacks shot through the wall of wind will always miss.
 
 ------------------------------------------------
 ## Shadow Step
 **Type:** Magic
  | **Hero Node:** Dark
- | **Charges:** N/A
+ | **Charges:** 3
 
-Instantly move anywhere that you can see.
+You are able to step through the shadows and reappear in distant locations.
 
-None
-**Expend a Charge** to  Teleports the user to a visible location.
+**Expend a Charge** to instantly move to shadowed location that you can see. 
 
 ------------------------------------------------
 ## Shroud of Darkness
 **Type:** Magic
  | **Hero Node:** Dark
- | **Charges:** N/A
+ | **Charges:** 2
 
-Ability Text
+You can create a cloud of darkness to obscure vision and disorient enemies.
 
-None
-**Expend a Charge** to  [Combat Effect Description]
+**Expend a Charge** to create a zone of darkness in a Near zone. Enemies in this zone have Disadvantage on all attack rolls until the start of your next turn.
 
 ------------------------------------------------
 ## Become Shadow
 **Type:** Magic
  | **Hero Node:** Dark
- | **Charges:** N/A
+ | **Charges:** 2
 
-Darkvision
+You are no stranger to shadows. You can see perfectly in the darkest natural conditions. 
 
-Grants Darkvision.
-**Expend a Charge** to  [Combat Effect Description]
+**Expend a Charge** to become incorporeal until the start of your next turn. While incorporeal, you are immune to physical damage, but have Disadvantage on Resist rolls, and can move through solid objects.
 
 ------------------------------------------------
 ## Abyssal Grasp
 **Type:** Magic
  | **Hero Node:** Dark
- | **Charges:** N/A
+ | **Charges:** 4
 
-Ability Text
+You can summon shadowy tendrils at a Near distance that respond to your commands and are able to interact with the world around you.
 
-None
-**Expend a Charge** to  [Combat Effect Description]
+**Expend a Charge** to make a Magic Attack at near range. On success, you may pull the target up to 1 zone closer to you.
 
 ------------------------------------------------
-## Stone Shard
+## Stone Shards
 **Type:** Magic
  | **Hero Node:** Earth
- | **Charges:** N/A
+ | **Charges:** 3
 
-Ability Text
+You can conjure a hail of razor-sharp stone shards to lacerate your foes.
 
-None
-**Expend a Charge** to  [Combat Effect Description]
+**Expend a Charge** to make a Magic attack against all enemies in a Near zone. 
 
 ------------------------------------------------
 ## Displace Earth
 **Type:** Magic
  | **Hero Node:** Earth
- | **Charges:** N/A
+ | **Charges:** 2
 
-Ability Text
+You can manipulate stone and earth to create small structures, repair damage, or even reshape the terrain.
 
-None
-**Expend a Charge** to  [Combat Effect Description]
+**Expend a Charge** to raise a wall of earth or stone in your zone. Allies behind this wall gain Advantage against all incoming ranged attacks. This wall persist until it is destroyed or until you dismiss it.
 
 ------------------------------------------------
-## Landslide
+## Living Earth
 **Type:** Magic
  | **Hero Node:** Earth
- | **Charges:** N/A
+ | **Charges:** 5
 
-Ability Text
+You animate a portion of the earth, creating a temporary earth elemental to fight alongside you. This elemental has 1 health, responds to your commands, and lasts until destroyed, dismissed, or runs out of Charges.
 
-None
-**Expend a Charge** to  [Combat Effect Description]
+**Expend a Charge** to command you Earth Elemental to move and attack an Enemy using your Attack or Magic stat. This does not count as your action for the turn.
 
 ------------------------------------------------
 ## Earthen Armor
 **Type:** Magic
  | **Hero Node:** Earth
- | **Charges:** N/A
+ | **Charges:** 2
 
-Ability Text
+You can encase yourself in a protective layer of hardened earth.
 
-None
-**Expend a Charge** to  [Combat Effect Description]
+**Expend a Charge** to gain Advantage on Evade and Resist rolls for the remainder of this Combat.
 
 ------------------------------------------------
 ## Living Flame
@@ -970,100 +959,97 @@ You can completely control small fires with ease. You are able to manipulate lar
 ## Bless
 **Type:** Magic
  | **Hero Node:** Light
- | **Charges:** N/A
+ | **Charges:** 3
 
-Ability Text
+You can infuse your allies with divine energy, bolstering their resolve and granting them divine protection.
 
-None
-**Expend a Charge** to  [Combat Effect Description]
+**Expend a Charge** to grant Advantage to all Allies on their next attack or magic roll.
 
 ------------------------------------------------
 ## Restoring Light
 **Type:** Magic
  | **Hero Node:** Light
- | **Charges:** N/A
+ | **Charges:** 2
 
-Ability Text
+You can channel healing light to mend wounds and restore vitality.
 
-None
-**Expend a Charge** to  [Combat Effect Description]
+**Expend a Charge** to restore 2 health to yourself or an ally.
 
 ------------------------------------------------
 ## Holy Armaments
 **Type:** Magic
  | **Hero Node:** Light
- | **Charges:** N/A
+ | **Charges:** 2
 
-Ability Text
+You imbue weapons with holy power, granting them the ability to harm even the most corrupted foes.
 
-None
-**Expend a Charge** to  [Combat Effect Description]
+**Expend a Charge** to infuse the Weapons of all Allies in your zone. Their next attack, they will deal an additional point of light damage.
 
 ------------------------------------------------
 ## Bend Light
 **Type:** Magic
  | **Hero Node:** Light
- | **Charges:** N/A
+ | **Charges:** 2
 
-Ability Text
+You have the ability to bend and push light around you. 
 
-None
-**Expend a Charge** to  [Combat Effect Description]
-
-------------------------------------------------
-## Entangling Growth
-**Type:** Magic
- | **Hero Node:** Nature
- | **Charges:** N/A
-
-Ability Text
+**Expend a Charge** to surround yourself and close allies in a barrier of shimmering light. While in this barrier, allies have advantage on Evade and Resist rolls.
 
 None
 **Expend a Charge** to  [Combat Effect Description]
 
 ------------------------------------------------
-## Vines
+## Entangling Roots
 **Type:** Magic
  | **Hero Node:** Nature
- | **Charges:** N/A
+ | **Charges:** 2
 
-Ability Text
+You can summon thorny grasping roots to hinder enemy movement.
 
-None
-**Expend a Charge** to  [Combat Effect Description]
+**Expend a Charge** to do a Magic attack against an enemy in Near rage. On Success, they are unable to move until the growths are destroyed or you choose to remove them.
+
+------------------------------------------------
+## Grasping Vines
+**Type:** Magic
+ | **Hero Node:** Nature
+ | **Charges:** 3
+
+You are able to create and control vines to grow on surfaces, interact with objects, or attack enemies.
+
+**Expend a Charge** to make a Magic attack. On success choose one of the following
+- Push the enemy 1 zone away.
+- Pull the enemy 1 zone closer.
+- Constrict the enemy, immobilizing them and granting allies Advantage on attacks against them until next turn.
 
 ------------------------------------------------
 ## Symbiosis
 **Type:** Magic
  | **Hero Node:** Nature
- | **Charges:** N/A
+ | **Charges:** 2
 
-Ability Text
+You can draw upon the life force of nature to heal yourself or an ally.
 
-None
-**Expend a Charge** to  [Combat Effect Description]
+If you or an ally is touching any form of natural plant life, you may **Expend a Charge** to heal them for 2 points of damage.
 
 ------------------------------------------------
 ## Tree Walk
 **Type:** Magic
  | **Hero Node:** Nature
- | **Charges:** N/A
+ | **Charges:** 2
 
-Ability Text
+You can move with unnatural speed and agility through trees and other natural obstacles. You climb trees with as much ease as walking.
 
-None
-**Expend a Charge** to  [Combat Effect Description]
+If you are touching a tree, you can **Expend a Charge** to instantly teleport to any other tree that you can see.
 
 ------------------------------------------------
 ## Water Jet
 **Type:** Magic
  | **Hero Node:** Water
- | **Charges:** N/A
+ | **Charges:** 3
 
-Ability Text
+You can conjure a jet of water to propel yourself or objects, extinguish flames, or even create a powerful stream to attack your enemies.
 
-None
-**Expend a Charge** to  [Combat Effect Description]
+**Expend a Charge** to make a Magic attack against an enemy in Near range. On a successful hit, you may choose an object or enemy within 1 zone to slam them into for 1 damage.
 
 ------------------------------------------------
 ## Shape Water
@@ -1071,65 +1057,61 @@ None
  | **Hero Node:** Water
  | **Charges:** N/A
 
-Ability Text
+You have the ability to manipulate and move water with ease. Moving large amounts of water requires intense focus and concentration.
 
-None
-**Expend a Charge** to  [Combat Effect Description]
+**Expend a Charge**?
 
 ------------------------------------------------
-## Downpour / Flood
+## Downpour
 **Type:** Magic
  | **Hero Node:** Water
  | **Charges:** N/A
 
-Ability Text
+You can summon a torrential downpour of rain to extinguish flames, hinder movement, or even cause minor flooding.
 
-None
-**Expend a Charge** to  [Combat Effect Description]
+**Expend a Charge** to create a downpour of rain in a Near zone. Enemies in this zone have Disadvantage on all attack rolls and Evade rolls until the start of your next turn.
 
 ------------------------------------------------
 ## One With Water
 **Type:** Magic
  | **Hero Node:** Water
- | **Charges:** N/A
+ | **Charges:** 2
 
-Ability Text
+You can merge with a body of water, becoming liquid and moving through the water effortlessly. While merged, you can breathe underwater and move anywhere the water can get to at normal movement speed.
 
-None
-**Expend a Charge** to  [Combat Effect Description]
+**Expend a Charge** to become living water. Gain Advantage on Evade and Resist rolls for the rest of the combat. 
 
 ------------------------------------------------
 ## Bestial Power
 **Type:** Magic
  | **Hero Node:** Animals
- | **Charges:** N/A
+ | **Charges:** 3
 
-Ability Text
+You can tap into the raw power of the animal kingdom, temporarily gaining one bestial feature such as claws, talons, fangs, etc.
 
-None
-**Expend a Charge** to  [Combat Effect Description]
+**Expend a Charge** to gain a bestial feature that allows you to choose one of the following...
+- Attack with Advantage
+- Gain Advantage on Evade roll until your next turn
+- Gain Advantage on Resist roll until your next turn
+This ability does not use your action for the turn.
 
 ------------------------------------------------
-## Animal Companions
+## Animal Companion
 **Type:** Magic
  | **Hero Node:** Animals
- | **Charges:** N/A
+ | 3
 
-Ability Text
+You are able quickly form bonds with beasts. Wild animals naturally respect you and understand if you are a threat to them.
 
-None
-**Expend a Charge** to  [Combat Effect Description]
+**Expend a charge** to do a Magic roll to form a long term bond with a friendly beast. On success, they will protect and defend you at all costs until you dismiss them back into the wild. You may only bond with one beast at a time. The guide will control your beast's actions, but allow you to issue short commands to them on your turn. 
 
 ------------------------------------------------
 ## Control Beasts
 **Type:** Magic
  | **Hero Node:** Animals
- | **Charges:** N/A
+ | **Charges:** 2
 
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
+**Expend a Charge** to do a Magic roll against a Beast target. On Success, the beast is under your control for the rest of this combat or until you choose to sever the connection. If used out of combat, the connection lasts for up to 10 minutes.
 
 ------------------------------------------------
 ## Speak with Animals
@@ -1137,11 +1119,10 @@ None
  | **Hero Node:** Animals
  | **Charges:** N/A
 
-Ability Text
+You can communicate with animals, understanding their thoughts and intentions. You can also communicate basic ideas and commands to them, though they are not forced to obey.
 
-None
-**Expend a Charge** to  [Combat Effect Description]
-
+-----------------------------------------------------
+# Abilities below this line need to be reviewed
 ------------------------------------------------
 ## Vampiric Touch
 **Type:** Magic
@@ -1542,12 +1523,11 @@ None
 ## Blinding Light
 **Type:** Magic
  | **Hero Node:** Radiance
- | **Charges:** N/A
+ | **Charges:** 2
 
-Ability Text
+You can create a sudden burst of light to disorient or illuminate.
 
-None
-**Expend a Charge** to  [Combat Effect Description]
+**Expend a Charge** to do a Magic attack against all enemies in your zone. On success, they are blinded until the start of your next turn.
 
 ------------------------------------------------
 ## Radiate
@@ -1858,15 +1838,14 @@ None
 **Expend a Charge** to  [Combat Effect Description]
 
 ------------------------------------------------
-## Illusory Object
+## Illusions
 **Type:** Magic
  | **Hero Node:** Illusion
  | **Charges:** N/A
 
-Ability Text
+You can conjure small, harmless illusions like sounds, smells, objects, or visual tricks to distract or entertain.
 
-None
-**Expend a Charge** to  [Combat Effect Description]
+**Expend a Charge** to create a distracting illusion in a Near zone. Enemies in that zone have Disadvantage on their next attack or magic roll.
 
 ------------------------------------------------
 ## Confuse Senses
