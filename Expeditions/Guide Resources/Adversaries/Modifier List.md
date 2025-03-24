@@ -8,7 +8,7 @@ permalink: /GuideResources/Adversaries/ModifierList/
 	- **Type**: Beast, Humanoid, Etc.
 	- **Abilities**: 1-4 Combat Abilities
 	- **Tactics**: Combat behaviors
-	- **Loot Table**
+	- **Loot Table**: Additional items to add to the core loot table.
 	- **Consequences**: Major and Minor consequence examples
 - **DPR**: Damage Per Round
 - If a modifier causes a value to go below 1, set it to 1.

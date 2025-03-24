@@ -9,11 +9,11 @@ permalink: /GuideResources/Adversaries/AdversaryList/
 	- **Abilities**: 1-4 Combat Abilities
 	- **Tactics**: Combat behaviors
 	- **Description**
-	- **Loot Table**
+	- **Loot Table**: Specific items that may be looted
 	- **Consequences**: Major and Minor consequence examples
 - **DPR**: Damage Per Round
 
-| Name             | Health    | DPR       | Attack     | Magic      | Defense    | Resistance |
+| Name             | Health    | DPR       | Attack     | Magic      | Def        | Res        |
 | ---------------- | --------- | --------- | ---------- | ---------- | ---------- | ---------- |
 | **Angel**        | **6** HP  | **3** DPR | **13** Atk | **15** Mag | **14** Def | **17** Res |
 | **Banshee**      | **3** HP  | **1** DPR | **10** Atk | **11** Mag | **10** Def | **11** Res |
