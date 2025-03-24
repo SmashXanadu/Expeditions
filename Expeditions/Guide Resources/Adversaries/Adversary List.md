@@ -3,78 +3,86 @@ layout: default
 title: Adversary List
 permalink: /GuideResources/Adversaries/AdversaryList/
 ---
+Beyond the statistics detailed below, adversaries will have information for the following:
+- Size
+- Type
+- Abilities: 1-4 Abilities
+- Tactics
+- Description
+- Loot Table
+- Consequences
 
-| Name             | Health | DPR | Attack | Magic | Def. | Res. |
-| ---------------- | ------ | --- | ------ | ----- | ---- | ---- |
-| **Angel**        | 6      | 3   | 13     | 15    | 14   | 17   |
-| **Banshee**      | 3      | 1   | 10     | 11    | 10   | 11   |
-| **Basilisk**     | 4      | 2   | 13     | 12    | 13   | 12   |
-| **Bear**         | 2      | 1   | 11     | 8     | 11   | 10   |
-| **Bird**         | 1      | 1   | 8      | 8     | 8    | 8    |
-| **Boar**         | 2      | 1   | 11     | 8     | 11   | 10   |
-| **Centaur**      | 4      | 2   | 12     | 12    | 12   | 13   |
-| **Chimera**      | 8      | 4   | 16     | 16    | 16   | 16   |
-| **Construct**    | 4      | 2   | 14     | 10    | 14   | 14   |
-| **Cougar**       | 5      | 2   | 13     | 8     | 13   | 13   |
-| **Cyclops**      | 5      | 2   | 12     | 12    | 14   | 11   |
-| **Demon**        | 6      | 3   | 13     | 15    | 15   | 16   |
-| **Dinosaur**     | 6      | 3   | 14     | 10    | 14   | 12   |
-| **Djinni**       | 10     | 5   | 14     | 18    | 18   | 18   |
-| **Dragon**       | 9      | 4   | 17     | 16    | 16   | 14   |
-| **Dryad**        | 4      | 2   | 10     | 13    | 11   | 14   |
-| **Elemental**    | 5      | 2   | 10     | 13    | 11   | 14   |
-| **Fish**         | 1      | 1   | 8      | 8     | 8    | 8    |
-| **Floating Eye** | 8      | 4   | 12     | 17    | 12   | 17   |
-| **Gargoyle**     | 2      | 1   | 11     | 8     | 11   | 11   |
-| **Ghast**        | 3      | 1   | 10     | 11    | 11   | 11   |
-| **Ghost**        | 3      | 1   | 10     | 10    | 11   | 11   |
-| **Ghoul**        | 2      | 1   | 10     | 11    | 11   | 11   |
-| **Giant**        | 6      | 3   | 14     | 10    | 15   | 13   |
-| **Gnoll**        | 2      | 1   | 11     | 9     | 11   | 10   |
-| **Goblin**       | 2      | 1   | 12     | 8     | 10   | 11   |
-| **Golem**        | 6      | 3   | 14     | 12    | 14   | 14   |
-| **Griffon**      | 4      | 2   | 13     | 8     | 13   | 13   |
-| **Hag**          | 4      | 2   | 8      | 13    | 11   | 14   |
-| **Harpy**        | 3      | 1   | 10     | 10    | 10   | 11   |
-| **Hippogriff**   | 4      | 2   | 13     | 8     | 13   | 12   |
-| **Homunculus**   | 1      | 1   | 8      | 8     | 9    | 9    |
-| **Human**        | 2      | 1   | 10     | 10    | 11   | 11   |
-| **Hydra**        | 7      | 3   | 14     | 14    | 15   | 16   |
-| **Insect**       | 1      | 1   | 8      | 8     | 8    | 8    |
-| **Imp**          | 1      | 1   | 8      | 8     | 9    | 9    |
-| **Kraken**       | 12     | 5   | 19     | 14    | 19   | 16   |
-| **Lich**         | 11     | 5   | 12     | 19    | 16   | 19   |
-| **Lizard**       | 1      | 1   | 8      | 8     | 8    | 8    |
-| **Manticore**    | 7      | 3   | 14     | 14    | 15   | 14   |
-| **Merfolk**      | 2      | 1   | 10     | 10    | 11   | 11   |
-| **Minotaur**     | 4      | 2   | 12     | 12    | 14   | 10   |
-| **Momech**       | 2      | 1   | 11     | 8     | 11   | 10   |
-| **Naga**         | 4      | 2   | 12     | 12    | 12   | 13   |
-| **Ogre**         | 6      | 3   | 14     | 10    | 16   | 12   |
-| **Ooze**         | 2      | 1   | 10     | 10    | 10   | 10   |
-| **Orb**          | 2      | 1   | 10     | 11    | 10   | 11   |
-| **Orc**          | 2      | 1   | 11     | 8     | 11   | 10   |
-| **Pixie**        | 1      | 1   | 8      | 8     | 8    | 9    |
-| **Plant**        | 2      | 1   | 12     | 10    | 12   | 10   |
-| **Revenant**     | 5      | 2   | 12     | 12    | 13   | 13   |
-| **Rodent**       | 1      | 1   | 8      | 8     | 8    | 8    |
-| **Satyr**        | 2      | 1   | 10     | 10    | 10   | 11   |
-| **Shapeshifter** | 4      | 2   | 12     | 12    | 12   | 12   |
-| **Slime**        | 1      | 1   | 10     | 10    | 14   | 14   |
-| **Skeleton**     | 2      | 1   | 10     | 10    | 11   | 10   |
-| **Snake**        | 1      | 1   | 8      | 8     | 8    | 8    |
-| **Specter**      | 4      | 2   | 10     | 13    | 12   | 13   |
-| **Spider**       | 1      | 1   | 8      | 8     | 8    | 8    |
-| **Sprite**       | 1      | 1   | 8      | 8     | 8    | 9    |
-| **Succubus**     | 4      | 2   | 12     | 12    | 13   | 12   |
-| **Troglodyte**   | 2      | 1   | 11     | 8     | 11   | 10   |
-| **Troll**        | 6      | 3   | 14     | 10    | 15   | 16   |
-| **Unicorn**      | 4      | 2   | 12     | 13    | 13   | 13   |
-| **Vampire**      | 8      | 4   | 13     | 15    | 16   | 16   |
-| **Wight**        | 4      | 2   | 10     | 13    | 12   | 13   |
-| **Wolf**         | 2      | 1   | 12     | 8     | 11   | 10   |
-| **Worg**         | 4      | 2   | 13     | 8     | 13   | 12   |
-| **Worm**         | 9      | 4   | 17     | 12    | 17   | 14   |
-| **Wraith**       | 4      | 2   | 10     | 13    | 13   | 13   |
-| **Wyvern**       | 5      | 2   | 13     | 8     | 13   | 13   |
-| **Yeti**         | 6      | 3   | 14     | 10    | 15   | 12   |
+| Name             | Health    | DPR       | Attack     | Magic      | Def.       | Res.       |
+| ---------------- | --------- | --------- | ---------- | ---------- | ---------- | ---------- |
+| **Angel**        | **6** HP  | **3** DPR | **13** Atk | **15** Mag | **14** Def | **17** Res |
+| **Banshee**      | **3** HP  | **1** DPR | **10** Atk | **11** Mag | **10** Def | **11** Res |
+| **Basilisk**     | **4** HP  | **2** DPR | **13** Atk | **12** Mag | **13** Def | **12** Res |
+| **Bear**         | **2** HP  | **1** DPR | **11** Atk | **8** Mag  | **11** Def | **10** Res |
+| **Bird**         | **1** HP  | **1** DPR | **8** Atk  | **8** Mag  | **8** Def  | **8** Res  |
+| **Boar**         | **2** HP  | **1** DPR | **11** Atk | **8** Mag  | **11** Def | **10** Res |
+| **Centaur**      | **4** HP  | **2** DPR | **12** Atk | **12** Mag | **12** Def | **13** Res |
+| **Chimera**      | **8** HP  | **4** DPR | **16** Atk | **16** Mag | **16** Def | **16** Res |
+| **Construct**    | **4** HP  | **2** DPR | **14** Atk | **10** Mag | **14** Def | **14** Res |
+| **Cougar**       | **5** HP  | **2** DPR | **13** Atk | **8** Mag  | **13** Def | **13** Res |
+| **Cyclops**      | **5** HP  | **2** DPR | **12** Atk | **12** Mag | **14** Def | **11** Res |
+| **Demon**        | **6** HP  | **3** DPR | **13** Atk | **15** Mag | **15** Def | **16** Res |
+| **Dinosaur**     | **6** HP  | **3** DPR | **14** Atk | **10** Mag | **14** Def | **12** Res |
+| **Djinni**       | **10** HP | **5** DPR | **14** Atk | **18** Mag | **18** Def | **18** Res |
+| **Dragon**       | **9** HP  | **4** DPR | **17** Atk | **16** Mag | **16** Def | **14** Res |
+| **Dryad**        | **4** HP  | **2** DPR | **10** Atk | **13** Mag | **11** Def | **14** Res |
+| **Elemental**    | **5** HP  | **2** DPR | **10** Atk | **13** Mag | **11** Def | **14** Res |
+| **Fish**         | **1** HP  | **1** DPR | **8** Atk  | **8** Mag  | **8** Def  | **8** Res  |
+| **Floating Eye** | **8** HP  | **4** DPR | **12** Atk | **17** Mag | **12** Def | **17** Res |
+| **Gargoyle**     | **2** HP  | **1** DPR | **11** Atk | **8** Mag  | **11** Def | **11** Res |
+| **Ghast**        | **3** HP  | **1** DPR | **10** Atk | **11** Mag | **11** Def | **11** Res |
+| **Ghost**        | **3** HP  | **1** DPR | **10** Atk | **10** Mag | **11** Def | **11** Res |
+| **Ghoul**        | **2** HP  | **1** DPR | **10** Atk | **11** Mag | **11** Def | **11** Res |
+| **Giant**        | **6** HP  | **3** DPR | **14** Atk | **10** Mag | **15** Def | **13** Res |
+| **Gnoll**        | **2** HP  | **1** DPR | **11** Atk | **9** Mag  | **11** Def | **10** Res |
+| **Goblin**       | **2** HP  | **1** DPR | **12** Atk | **8** Mag  | **10** Def | **11** Res |
+| **Golem**        | **6** HP  | **3** DPR | **14** Atk | **12** Mag | **14** Def | **14** Res |
+| **Griffon**      | **4** HP  | **2** DPR | **13** Atk | **8** Mag  | **13** Def | **13** Res |
+| **Hag**          | **4** HP  | **2** DPR | **8** Atk  | **13** Mag | **11** Def | **14** Res |
+| **Harpy**        | **3** HP  | **1** DPR | **10** Atk | **10** Mag | **10** Def | **11** Res |
+| **Hippogriff**   | **4** HP  | **2** DPR | **13** Atk | **8** Mag  | **13** Def | **12** Res |
+| **Homunculus**   | **1** HP  | **1** DPR | **8** Atk  | **8** Mag  | **9** Def  | **9** Res  |
+| **Human**        | **2** HP  | **1** DPR | **10** Atk | **10** Mag | **11** Def | **11** Res |
+| **Hydra**        | **7** HP  | **3** DPR | **14** Atk | **14** Mag | **15** Def | **16** Res |
+| **Insect**       | **1** HP  | **1** DPR | **8** Atk  | **8** Mag  | **8** Def  | **8** Res  |
+| **Imp**          | **1** HP  | **1** DPR | **8** Atk  | **8** Mag  | **9** Def  | **9** Res  |
+| **Kraken**       | **12** HP | **5** DPR | **19** Atk | **14** Mag | **19** Def | **16** Res |
+| **Lich**         | **11** HP | **5** DPR | **12** Atk | **19** Mag | **16** Def | **19** Res |
+| **Lizard**       | **1** HP  | **1** DPR | **8** Atk  | **8** Mag  | **8** Def  | **8** Res  |
+| **Manticore**    | **7** HP  | **3** DPR | **14** Atk | **14** Mag | **15** Def | **14** Res |
+| **Merfolk**      | **2** HP  | **1** DPR | **10** Atk | **10** Mag | **11** Def | **11** Res |
+| **Minotaur**     | **4** HP  | **2** DPR | **12** Atk | **12** Mag | **14** Def | **10** Res |
+| **Momech**       | **2** HP  | **1** DPR | **11** Atk | **8** Mag  | **11** Def | **10** Res |
+| **Naga**         | **4** HP  | **2** DPR | **12** Atk | **12** Mag | **12** Def | **13** Res |
+| **Ogre**         | **6** HP  | **3** DPR | **14** Atk | **10** Mag | **16** Def | **12** Res |
+| **Ooze**         | **2** HP  | **1** DPR | **10** Atk | **10** Mag | **10** Def | **10** Res |
+| **Orb**          | **2** HP  | **1** DPR | **10** Atk | **11** Mag | **10** Def | **11** Res |
+| **Orc**          | **2** HP  | **1** DPR | **11** Atk | **8** Mag  | **11** Def | **10** Res |
+| **Pixie**        | **1** HP  | **1** DPR | **8** Atk  | **8** Mag  | **8** Def  | **9** Res  |
+| **Plant**        | **2** HP  | **1** DPR | **12** Atk | **10** Mag | **12** Def | **10** Res |
+| **Revenant**     | **5** HP  | **2** DPR | **12** Atk | **12** Mag | **13** Def | **13** Res |
+| **Rodent**       | **1** HP  | **1** DPR | **8** Atk  | **8** Mag  | **8** Def  | **8** Res  |
+| **Satyr**        | **2** HP  | **1** DPR | **10** Atk | **10** Mag | **10** Def | **11** Res |
+| **Shapeshifter** | **4** HP  | **2** DPR | **12** Atk | **12** Mag | **12** Def | **12** Res |
+| **Slime**        | **1** HP  | **1** DPR | **10** Atk | **10** Mag | **14** Def | **14** Res |
+| **Skeleton**     | **2** HP  | **1** DPR | **10** Atk | **10** Mag | **11** Def | **10** Res |
+| **Snake**        | **1** HP  | **1** DPR | **8** Atk  | **8** Mag  | **8** Def  | **8** Res  |
+| **Specter**      | **4** HP  | **2** DPR | **10** Atk | **13** Mag | **12** Def | **13** Res |
+| **Spider**       | **1** HP  | **1** DPR | **8** Atk  | **8** Mag  | **8** Def  | **8** Res  |
+| **Sprite**       | **1** HP  | **1** DPR | **8** Atk  | **8** Mag  | **8** Def  | **9** Res  |
+| **Succubus**     | **4** HP  | **2** DPR | **12** Atk | **12** Mag | **13** Def | **12** Res |
+| **Troglodyte**   | **2** HP  | **1** DPR | **11** Atk | **8** Mag  | **11** Def | **10** Res |
+| **Troll**        | **6** HP  | **3** DPR | **14** Atk | **10** Mag | **15** Def | **16** Res |
+| **Unicorn**      | **4** HP  | **2** DPR | **12** Atk | **13** Mag | **13** Def | **13** Res |
+| **Vampire**      | **8** HP  | **4** DPR | **13** Atk | **15** Mag | **16** Def | **16** Res |
+| **Wight**        | **4** HP  | **2** DPR | **10** Atk | **13** Mag | **12** Def | **13** Res |
+| **Wolf**         | **2** HP  | **1** DPR | **12** Atk | **8** Mag  | **11** Def | **10** Res |
+| **Worg**         | **4** HP  | **2** DPR | **13** Atk | **8** Mag  | **13** Def | **12** Res |
+| **Worm**         | **9** HP  | **4** DPR | **17** Atk | **12** Mag | **17** Def | **14** Res |
+| **Wraith**       | **4** HP  | **2** DPR | **10** Atk | **13** Mag | **13** Def | **13** Res |
+| **Wyvern**       | **5** HP  | **2** DPR | **13** Atk | **8** Mag  | **13** Def | **13** Res |
+| **Yeti**         | **6** HP  | **3** DPR | **14** Atk | **10** Mag | **15** Def | **12** Res |
