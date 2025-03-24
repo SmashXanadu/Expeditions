@@ -64,6 +64,7 @@ A **Natural 20** is a Success with a **Major Benefit**
 | 18     | Very Hard      |
 
 
+
 **[Rules]({{site.baseurl}}/Rules/Index/#rules)**
 
 

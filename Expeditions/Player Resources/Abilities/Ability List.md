@@ -70,11 +70,11 @@ You have mastered the ability to strike multiple foes at once
 ## Brutal Blow
 **Type:** Attack
  | **Hero Node:** 2 Handed Weapons
- | **Charges:** 5
+ | **Charges:** 4
 
 You can attack with devastating impact that few can stand up to.
 
-**Expend a Charge** after a successful attack with a 2 Handed Weapon to push the target up to 1 zone away.
+**Expend a Charge** after a successful attack with a 2 Handed Weapon to deal an extra damage and push the target up to 1 zone away.
 
 ------------------------------------------------
 ## Smash
@@ -87,14 +87,12 @@ Your attacks shatter your enemy's defenses.
 **Expend a Charge** to make an attack roll with a 2 Handed Weapon. If successful, all future melee attacks against this target will deal an additional point of damage this combat.
 
 ------------------------------------------------
-## Ricochet
+## Call Your Shot
 **Type:** Attack
  | **Hero Node:** Ranged Weapons
- | **Charges:** 3
+ | **Charges:** N/A
 
-You are able to quickly calculate angles to accurately bounce projectiles off of your target.
-
-**Expend a Charge** to attack an enemy with a Ranged Weapon. On success, choose a different enemy in the same zone as your target to also take damage.
+When making a ranged attack, call out a number 1-19. If that number is rolled by your attack die, the attack is a critical hit.
 
 ------------------------------------------------
 ## Expose
@@ -309,51 +307,38 @@ You gain +3 to all melee attacks done while not wielding any weapons.
 When enemies get the jump and go first at the start of a new combat, you may **Expend a Charge** to immediately make a Ranged Attack with a Crossbow before any enemies act.
 
 ------------------------------------------------
-# Abilities Below This Line Need Additional Review
-
-------------------------------------------------
 ## Penetrating Shot
 **Type:** Attack
  | **Hero Node:** Weapon Specialty: Crossbow
- | **Charges:** N/A
+ | **Charges:** 2
 
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
+**Expend a Charge** to make a Ranged Crossbow Attack. On Success, all future physical attacks on this target do 1 additional damage.
 
 ------------------------------------------------
 ## Point Blank
 **Type:** Attack
  | **Hero Node:** Weapon Specialty: Crossbow
- | **Charges:** 2
+ | **Charges:** 4
 
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
+**Expend a Charge** to make a Crossbow attack at Close range with advantage.
 
 ------------------------------------------------
-## Instant Strike
+## Instant Strikes
 **Type:** Attack
  | **Hero Node:** Weapon Specialty: Dagger
- | **Charges:** N/A
+ | **Charges:** 2
 
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
+**Expend a Charge** to make a Melee attack with your Dagger(s). This can be done at any time, even during the Enemy turn.
 
 ------------------------------------------------
 ## Sneak Attack
 **Type:** Attack
  | **Hero Node:** Weapon Specialty: Dagger
- | **Charges:** N/A
+ | **Charges:** 3
 
-Advantage on all attacks with surprise.
+You have Advantage on all attacks against an unsuspecting target.
 
-None
-**Expend a Charge** to  Grants advantage on attacks when the target is surprised.
+After successfully performing a Sneak Attack, **Expend a Charge** to make it a Critical Success.
 
 ------------------------------------------------
 ## Hidden Blade
@@ -361,60 +346,45 @@ None
  | **Hero Node:** Weapon Specialty: Dagger
  | **Charges:** N/A
 
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
+You always have a small dagger successfully hidden on your person.
 
 ------------------------------------------------
 ## Deadly Precision
 **Type:** Attack
  | **Hero Node:** Weapon Specialty: Dagger
- | **Charges:** N/A
+ | **Charges:** 3
 
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
+**Expend a Charge** before rolling to add +4 to a Melee or Ranged Dagger attack.
 
 ------------------------------------------------
 ## Parry
 **Type:** Attack
  | **Hero Node:** Dual Wield
- | **Charges:** N/A
+ | **Charges:** 4
 
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
+When being attacked by a melee weapon, you may **Expend a Charge** to gain Advantage on the Evade roll.
 
 ------------------------------------------------
 ## Flurry
 **Type:** Attack
  | **Hero Node:** Dual Wield
- | **Charges:** N/A
+ | **Charges:** 2
 
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
+**Expend a Charge** to attack twice with each equipped weapon.
 
 ------------------------------------------------
 ## Strafing Strikes
 **Type:** Attack
  | **Hero Node:** Dual Wield
- | **Charges:** N/A
+ | **Charges:** 5
 
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
+**Expend a Charge** to make an Attack against an enemy in your zone, move to an adjacent zone, and make an Attack against another enemy.
 
 ------------------------------------------------
 ## Whirlwind
 **Type:** Attack
  | **Hero Node:** Dual Wield
- | **Charges:** N/A
+ | **Charges:** 2
 
 Make an attack roll against all enemies in your zone.
 
@@ -425,79 +395,60 @@ None
 ## Spellbreaker
 **Type:** Attack
  | **Hero Node:** Impact
- | **Charges:** N/A
+ | **Charges:** 3
 
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
+**Expend a Charge** to attack an enemy. On success, their Magic stat is halved until your next turn.
 
 ------------------------------------------------
 ## Push
 **Type:** Attack
  | **Hero Node:** Impact
- | **Charges:** N/A
+ | **Charges:** 4
 
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
+**Expend a Charge** to attack an enemy. On success, they are pushed up to 1 zone away. turn.
 
 
 ------------------------------------------------
 ## Stun
 **Type:** Attack
  | **Hero Node:** Impact
- | **Charges:** N/A
+ | **Charges:** 2
 
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
+**Expend a Charge** to attack an enemy. On success, they are unable to act on their next turn.
 
 ------------------------------------------------
 ## Death Blow
 **Type:** Attack
  | **Hero Node:** Impact
- | **Charges:** N/A
+ | **Charges:** 3
 
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
+**Expend a Charge** to attack an enemy. On success, if they are left with 1 Health after you deal damage, they immediately die.
 
 ------------------------------------------------
 ## Thump
 **Type:** Attack
  | **Hero Node:** Weapon Specialty: Mace
- | **Charges:** N/A
+ | **Charges:** 3
 
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
+**Expend a Charge** to attack an enemy with a Mace, On success, their Evade stat is halved until your next turn.
 
 ------------------------------------------------
 ## Bone Breaker
 **Type:** Attack
  | **Hero Node:** Weapon Specialty: Mace
- | **Charges:** N/A
+ | **Charges:** 3
 
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
+**Expend a Charge** to attack an enemy with a Mace, On success, choose one of the following...
+1. Your target's attack stat is halved until your next turn.
+2. Your target cannot move until your next turn.
 
 ------------------------------------------------
 ## Concuss
 **Type:** Attack
  | **Hero Node:** Weapon Specialty: Mace
- | **Charges:** N/A
+ | **Charges:** 2
 
-Successful attacks interrupt any ongoing magical effects being maintained by your target.
-
-None
-**Expend a Charge** to  Interrupts ongoing magical effects on a successful attack.
+**Expend a Charge** to attack an enemy with a Mace, On success, all ongoing magical effects being maintained by your target are interrupted. If an effect is interrupted in this way, you deal an additional damage.
 
 ------------------------------------------------
 ## Crushing Blow
@@ -505,10 +456,7 @@ None
  | **Hero Node:** Weapon Specialty: Mace
  | **Charges:** N/A
 
-Attack. Successful attacks against breakable objects deal double damage.
-
-None
-**Expend a Charge** to  Deals double damage to breakable objects.
+You have advantage when attacking breakable objects. Successful attacks against breakable objects deal double damage.
 
 ------------------------------------------------
 ## Reach
@@ -516,175 +464,143 @@ None
  | **Hero Node:** Weapon Specialty: Spear
  | **Charges:** N/A
 
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
+All melee attacks with a spear can be done at Near range instead of Close. All Ranged attacks with a spear can be done from up to 2 zones away.
 
 ------------------------------------------------
 ## Piercing Strike
 **Type:** Attack
  | **Hero Node:** Weapon Specialty: Spear
- | **Charges:** N/A
+ | **Charges:** 4
 
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
+**Expend a Charge** to make an attack with a Spear. On success, bypass any defensive or shielding abilities of your target and deal full damage.
 
 ------------------------------------------------
 ## Impale
 **Type:** Attack
  | **Hero Node:** Weapon Specialty: Spear
- | **Charges:** N/A
+ | **Charges:** 3
 
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
+**Expend a Charge** to make a melee attack with a Spear. On success, the target is impaled on your spear and effectively Grappled by you.
 
 ------------------------------------------------
 ## Pin Down
 **Type:** Attack
  | **Hero Node:** Weapon Specialty: Spear
- | **Charges:** N/A
+ | **Charges:** 3
 
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
+**Expend a Charge** to make an attack with a Spear. On success, the target is unable to move.
 
 ------------------------------------------------
 ## Magically Imbued
 **Type:** Attack
  | **Hero Node:** Weapon Specialty: Staff
- | **Charges:** N/A
+ | **Charges:** 2
 
-Ability Text
+When making Melee attacks with a Staff, you may use your Magic stat instead of your Attack stat.
 
-None
-**Expend a Charge** to  [Combat Effect Description]
+**Expend a Charge** to make a Melee attack with a staff. On Success, it deals an additional point of damage.
 
 ------------------------------------------------
 ## Whirling Dervish
 **Type:** Attack
  | **Hero Node:** Weapon Specialty: Staff
- | **Charges:** N/A
+ | **Charges:** 1
 
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
+**Expend a Charge** to make Melee Staff attacks against all enemies in your zone. 
 
 ------------------------------------------------
 ## Extending Strike
 **Type:** Attack
  | **Hero Node:** Weapon Specialty: Staff
- | **Charges:** N/A
+ | **Charges:** 3
 
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
+**Expend a Charge** to make Melee attacks with a staff against two close enemies.
 
 ------------------------------------------------
 ## Leg Sweep
 **Type:** Attack
  | **Hero Node:** Weapon Specialty: Staff
- | **Charges:** N/A
+ | **Charges:** 4
 
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
+**Expend a Charge** to make a Melee attack with a staff. On Success, they are knocked down until their next turn. All attacks against them have advantaged while they are knocked down.
 
 ------------------------------------------------
 ## Glancing Blows
 **Type:** Attack
  | **Hero Node:** Weapon Specialty: Sword
- | **Charges:** N/A
+ | **Charges:** 2
 
 Missing an attack with a sword deals half damage rounded down.
 
-None
-**Expend a Charge** to  Deals half damage on a missed sword attack.
+**Expend a Charge** to Attack with a sword for 2 damage.
 
 ------------------------------------------------
 ## Rend
 **Type:** Attack
  | **Hero Node:** Weapon Specialty: Sword
- | **Charges:** N/A
+ | **Charges:** 3
 
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
+**Expend a Charge** to make a melee attack with a Sword. On a successful hit, the target's Defense DC is reduced by 2 until the start of your next turn.
 
 ------------------------------------------------
 ## Whirlwind
 **Type:** Attack
  | **Hero Node:** Weapon Specialty: Sword
- | **Charges:** N/A
+ | **Charges:** 2
 
-Ability Text
+You unleash a flurry of wild, unpredictable strikes.
 
-None
-**Expend a Charge** to  [Combat Effect Description]
+**Expend a Charge** to make an attack roll with a Sword against everyone in your zone.
 
 ------------------------------------------------
 ## Blade Dance
 **Type:** Attack
  | **Hero Node:** Weapon Specialty: Sword
- | **Charges:** N/A
+ | **Charges:** 2
 
-Ability Text
+You move with uncanny speed, your sword a blur of motion.
 
-None
-**Expend a Charge** to  [Combat Effect Description]
+**Expend a Charge** to make two melee attacks with a Sword.
 
 ------------------------------------------------
-## Barrage
+## Ricochet
 **Type:** Attack
  | **Hero Node:** Weapon Specialty: Throwing
- | **Charges:** N/A
+ | **Charges:** 3
 
-Ability Text
+You are able to quickly calculate angles to accurately bounce projectiles off of your target.
 
-None
-**Expend a Charge** to  [Combat Effect Description]
+**Expend a Charge** to attack an enemy with a Thrown Weapon. On success, choose a different enemy in the same zone as your target to also take damage.
 
 ------------------------------------------------
 ## Aerial Assault
 **Type:** Attack
  | **Hero Node:** Weapon Specialty: Throwing
- | **Charges:** N/A
+ | **Charges:** 2
 
 Gain advantage on attacks with Throwing Weapons when your entire body is in mid air and higher than your target.
 
-None
-**Expend a Charge** to  Provides advantage on throwing weapon attacks from a higher aerial position.
+**Expend a Charge** to launch yourself high into the air. You may also make an attack with a Throwing Weapon.
 
 ------------------------------------------------
 ## Subtle Throw
 **Type:** Attack
  | **Hero Node:** Weapon Specialty: Throwing
- | **Charges:** N/A
+ | **Charges:** 2
 
-Ability Text
+You can throw a weapon with minimal movement, often catching foes off guard.
 
-None
-**Expend a Charge** to  [Combat Effect Description]
+If you are attacking an unsuspecting target with a Throwing Weapon you have Advantage. On success, you may **Expend a Charge**  to deal an extra damage.
 
 ------------------------------------------------
 ## Deadly Accuracy
 **Type:** Attack
  | **Hero Node:** Weapon Specialty: Throwing
- | **Charges:** N/A
+ | **Charges:** 3
 
-Ability Text
+You aim with exceptional precision, rarely missing your mark.
 
-None
-**Expend a Charge** to  [Combat Effect Description]
+**Expend a Charge** before rolling to add +6 to a Ranged Throwing attack.
 
 ------------------------------------------------
 ## Grip of the Titans
@@ -692,87 +608,77 @@ None
  | **Hero Node:** Titan
  | **Charges:** N/A
 
-You can hold a 2-Handed weapon in one hand. Attacks with a 2-Hander will critical hit on rolls of 19 and 20.
-
-Allows one-handed use of 2-handed weapons.
-**Expend a Charge** to  Increases critical hit range with 2-handed weapons.
+You can hold a 2-Handed weapon in one hand. Attacks with a 2-Handed Melee Weapon will critical hit on rolls of 19 and 20.
 
 ------------------------------------------------
 ## Colossus Cleave
 **Type:** Attack
  | **Hero Node:** Titan
- | **Charges:** N/A
+ | **Charges:** 2
 
-Gain 1 max HP. When there are more enemies than allies in your zone...
+Your massive weapon rends through foes with earth-shattering force.
 
-+1 Max HP.
-**Expend a Charge** to  [Combat Effect Description - Dependent on the context of "When there are more enemies than allies in your zone..."]
+**Expend a Charge** to make a melee attack with a 2-Handed Weapon against two different enemies at close range. If successful, deal 2 damage and push the target 1 zone away.
 
 ------------------------------------------------
 ## Trample
 **Type:** Attack
  | **Hero Node:** Titan
- | **Charges:** N/A
+ | **Charges:** 3
 
-Deal 1 damage to each enemy in a zone that you move through this turn.
+Your sheer size and power allow you to crush enemies beneath your feet.
 
-None
-**Expend a Charge** to  Deals damage to enemies while moving.
+**Expend a Charge** to move up to 2 zones in a straight line, making an attack roll with advantage against each enemy you move through.
 
 ------------------------------------------------
 ## Seismic Smash
 **Type:** Attack
  | **Hero Node:** Titan
- | **Charges:** N/A
+ | **Charges:** 2
 
-Damage all in zone, push 1 zone away.
+You bring your weapon down with such force that the very ground shakes.
 
-None
-**Expend a Charge** to  Damages and pushes all enemies in the current zone.
+**Expend a Charge** to make a melee attack with a 2-Handed weapon. On a successful hit, you deal 2 damage to the target and all close enemies are pushed up to 1 zone away.
 
 ------------------------------------------------
 ## Guardian's Bond
 **Type:** Attack
  | **Hero Node:** Protector
- | **Charges:** N/A
+ | **Charges:** 2
 
-You and adjacent Ally get defensive benefit
+You form a protective link with an ally, sharing their burdens.
 
-None
-**Expend a Charge** to  Provides a defensive benefit to the user and an adjacent ally.
+**Expend a Charge** to choose an ally within Near range. For until your next round, any damage they is done to you instead.
 
 ------------------------------------------------
 ## Challenging Shout
 **Type:** Attack
  | **Hero Node:** Protector
- | **Charges:** N/A
+ | **Charges:** 3
 
-Ability Text
+You unleash a powerful shout that draws the attention of your foes.
 
-None
-**Expend a Charge** to  [Combat Effect Description]
+**Expend a Charge** and roll a d20. All enemies in Near range with a Resistance lower than your roll must target you with their next attack, if able.
 
 ------------------------------------------------
 ## Intercept
 **Type:** Attack
  | **Hero Node:** Protector
- | **Charges:** N/A
+ | **Charges:** 2
 
-When an ally within 1 zone from you gets attacked, you can move to them and roll defense in their place.
+You move swiftly to block an attack aimed at an ally.
 
-None
-**Expend a Charge** to  Allows the user to intercept attacks on allies.
+**Expend a Charge** when an ally within Near range is targeted by a melee or ranged attack. You immediately move next to them and become the target of the attack instead. This ability can be done during the Enemy turn.
 
 ------------------------------------------------
 ## Rallying Cry
 **Type:** Attack
  | **Hero Node:** Protector
- | **Charges:** N/A
+ | **Charges:** 2
 
-When you critically hit an enemy, allies in your zone may heal 1. Allies in same zone get advantage on attacks this round. Until your next turn?
+Your voice inspires your allies, bolstering their resolve.
 
-None
-**Expend a Charge** to  Provides healing and attack advantage to allies on a critical hit.
+**Expend a Charge** to make an attack roll against an enemy. On success, all allies within your zone have Advantage on their next roll.
 
 ------------------------------------------------
 ## Mind over matter
@@ -780,87 +686,76 @@ None
  | **Hero Node:** Unarmored
  | **Charges:** N/A
 
-Gain 2 max HP. When not wearing any armor, you have + 2 to Evade and Resist rolls.
-
-+2 Max HP, +2 Evade and Resist rolls when unarmored.
-**Expend a Charge** to  Improves survivability when unarmored.
+If you are not wearing any armor...
+- Your maximum Health is increased by two.
+- You gain Advantage on all Evade rolls.
+- Your speed is increased by 5.
 
 ------------------------------------------------
-## Deft
+## Core Strike
 **Type:** Attack
  | **Hero Node:** Unarmored
- | **Charges:** N/A
+ | **Charges:** 3
 
-+5 Speed.
+You can channel your inner energy into a focused strike, bypassing physical defenses.
 
-+5 Speed.
-**Expend a Charge** to  Increases movement speed.
+**Expend a Charge** to make an attack with Advantage. This attack is against the target's Resistance DC instead of Defense.
 
 ------------------------------------------------
 ## Lightning Reflexes
 **Type:** Attack
  | **Hero Node:** Unarmored
- | **Charges:** N/A
+ | **Charges:** 3
 
-Ability Text
+Your reactions are honed to an incredible degree, allowing you to anticipate and evade attacks while finding every opportunity to retaliate.
 
-None
-**Expend a Charge** to  [Combat Effect Description]
+After successfully Evading and attack, **Expend a Charge** to make an Attack roll back at the enemy who attacked you.
 
 ------------------------------------------------
 ## Dash
 **Type:** Attack
  | **Hero Node:** Unarmored
- | **Charges:** N/A
+ | **Charges:** 5
 
-Increase Move by 1. When moving into the zone of your target to attack gain advantage.
-
-+1 Movement.
-**Expend a Charge** to  Provides movement increase and attack advantage.
+**Expend a Charge** to Move an extra zone this turn. You may Attack an enemy with Advantage if they are in the zone you moved into.
 
 ------------------------------------------------
 ## Disengage
 **Type:** Attack
  | **Hero Node:** Discipline
- | **Charges:** N/A
+ | **Charges:** 3
 
-Attack your target, then move to an adjacent zone.
+You utilize precise footwork and calculated movements to escape dangerous situations.
 
-None
-**Expend a Charge** to  Allows an attack followed by movement.
+**Expend a Charge** to make an attack, then move up to 2 zones away.
 
 ------------------------------------------------
-## Focus
+## Unerring Focus
 **Type:** Attack
  | **Hero Node:** Discipline
  | **Charges:** N/A
 
 Once per turn you can reroll a critical fail on an attack roll.
 
-None
-**Expend a Charge** to  Allows a reroll of a critical failure.
-
 ------------------------------------------------
-## Dodge Missiles
+## Deflect Missiles
 **Type:** Attack
  | **Hero Node:** Discipline
- | **Charges:** N/A
+ | **Charges:** 3
 
-Gain advantage when rolling Evade against ranged attacks.
+Your keen senses and agility allow you to anticipate and deflect incoming projectiles.
 
-None
-**Expend a Charge** to  Provides advantage on evading ranged attacks.
+After successfully Evading a ranged attack, **Expend a Charge** to deflect the projectile back to the attacker, dealing damage to them instead.
 
 ------------------------------------------------
-## Counter
+## Mental Fortitude
 **Type:** Attack
  | **Hero Node:** Discipline
- | **Charges:** N/A
+ | **Charges:** 2
 
-When you successfully evade a melee attack, you can force it to hit a close enemy instead of you. Until your next turn, any time you are attacked you may make an attack roll in response.
+Through rigorous mental training, you've developed a powerful resistance to magical and psychic assaults. Enemies are unable to read your thoughts or control your mind.
 
-None
-**Expend a Charge** to  Redirects melee attacks and allows retaliatory attacks.
+**Expend a Charge** to gain Advantage on all Resist rolls until the start of your next turn. You may still attack this turn.
 
 ------------------------------------------------
 ## Rage
@@ -868,43 +763,38 @@ None
  | **Hero Node:** Wild
  | **Charges:** N/A
 
-You cannot be knocked unconcious while raging. Enter a rage. You take 1 additional damage from all sources and deal 1 additional damage on all successful attacks.
+ At the start of your turn you may choose to Enter a rage. While in a Rage...
+ 1. You deal 1 additional damage on all successful attacks
+ 2. You take 1 additional damage from all sources.
+ 3. You cannot be knocked unconscious.
 
-Prevents unconsciousness while raging.
-**Expend a Charge** to  Increases damage dealt and taken.
-
-------------------------------------------------
-## Apex Predator
-**Type:** Attack
- | **Hero Node:** Wild
- | **Charges:** N/A
-
-Ability Text
-
-None
-**Expend a Charge** to  [Combat Effect Description]
+Whenever you start your turn in a Rage, you may choose to leave the Rage before taking any other actions.
 
 ------------------------------------------------
-## Charge
+## Bloodlust
 **Type:** Attack
  | **Hero Node:** Wild
- | **Charges:** N/A
+ | **Charges:** 4
 
-Target an enemy in an adjacent zone, move to them and attack.
+When you have less than Max health, you may **Expend a Charge** to attack with advantage.
 
-None
-**Expend a Charge** to  Allows movement and an attack in one action.
+------------------------------------------------
+## Wild Charge
+**Type:** Attack
+ | **Hero Node:** Wild
+ | **Charges:** 3
+
+You charge forth with the predatory instincts of a wild beast, closing distances with terrifying speed.
+
+**Expend a Charge** to move up to 3 zones and make a melee attack with Advantage against an enemy at the end of your movement.
 
 ------------------------------------------------
 ## Furious Frenzy
 **Type:** Attack
  | **Hero Node:** Wild
- | **Charges:** N/A
+ | **Charges:** 5
 
-Attack. If your target dies, attack another target in your zone. Continue until you attack a target and it doesn't die.
-
-None
-**Expend a Charge** to  Allows multiple attacks on multiple targets.
+Make an Attack roll against a target. If your target dies, you may **Expend a Charge** to attack another target in your zone. Continue this until you attack a target and it doesn't die, or until you decide not to Expend a Charge.
 
 ------------------------------------------------
 ## Sphere of Air
