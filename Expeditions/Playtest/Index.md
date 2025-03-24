@@ -12,8 +12,8 @@ permalink: /Playtest/Index/
 - [Sira]({{site.baseurl}}/Playtest/Sira/)
 
 ### Resources
-- [Feedback Survey](tinyurl.com/BigAxeFeedback/)
-- [Discord](tinyurl.com/BigAxeDiscord/)
+- [Feedback Survey](https://www.tinyurl.com/BigAxeFeedback/)
+- [Discord](https://www.tinyurl.com/BigAxeDiscord/)
 
 ### Contact Us
 - WillNortonGames@gmail.com
