@@ -3,16 +3,17 @@ layout: default
 title: Adversary List
 permalink: /GuideResources/Adversaries/AdversaryList/
 ---
-Beyond the statistics detailed below, adversaries will have information for the following:
-- Size
-- Type
-- Abilities: 1-4 Abilities
-- Tactics
-- Description
-- Loot Table
-- Consequences
+- Beyond the statistics detailed below, adversaries will have information for the following:
+	- **Size**: Small, Medium, Large, Huge, Gargantuan
+	- **Type**: Beast, Humanoid, Etc.
+	- **Abilities**: 1-4 Combat Abilities
+	- **Tactics**: Combat behaviors
+	- **Description**
+	- **Loot Table**
+	- **Consequences**: Major and Minor consequence examples
+- **DPR**: Damage Per Round
 
-| Name             | Health    | DPR       | Attack     | Magic      | Def.       | Res.       |
+| Name             | Health    | DPR       | Attack     | Magic      | Defense    | Resistance |
 | ---------------- | --------- | --------- | ---------- | ---------- | ---------- | ---------- |
 | **Angel**        | **6** HP  | **3** DPR | **13** Atk | **15** Mag | **14** Def | **17** Res |
 | **Banshee**      | **3** HP  | **1** DPR | **10** Atk | **11** Mag | **10** Def | **11** Res |

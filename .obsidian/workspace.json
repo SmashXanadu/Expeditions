@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Expeditions/Guide Resources/Adversaries/Adversary List.md",
+                "file": "Expeditions/Guide Resources/Adversaries/Modifier List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Adversary List"
+              "title": "Modifier List"
             }
           },
           {
@@ -179,8 +179,9 @@
   },
   "active": "94f93929d95f4c53",
   "lastOpenFiles": [
-    "Expeditions/Guide Resources/Adversaries/Modifier List.md",
     "Expeditions/Guide Resources/Adversaries/Adversary List.md",
+    "Expeditions/Guide Resources/Adversaries/Modifier List.md",
+    "Expeditions/Guide Resources/Adversaries/Adversary Card.md",
     "Expeditions/Playtest/Index.md",
     "Expeditions/Player Resources/Player Resources Index.md",
     "Expeditions/Player Resources/Abilities/Ability List.md",
@@ -210,7 +211,6 @@
     "Expeditions/System Rules/Rules/5 - Combat.md",
     "Expeditions/System Rules/Rules/4 - Flow of the Game.md",
     "Expeditions/System Rules/Rules/3 - Resolving Dice Rolls.md",
-    "{{site.baseurl}}/Rules/2.md",
     "{{site.baseurl}}/Rules",
     "{{site.baseurl}}",
     "{{site.baseurl}}/GuideResources/Adversaries",
