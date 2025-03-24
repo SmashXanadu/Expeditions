@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Expeditions/Guide Resources/Adversaries/Adversary List.md",
+                "file": "Expeditions/System Rules/Rules/Rules Index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Adversary List"
+              "title": "Rules Index"
             }
           }
         ],
@@ -180,9 +180,12 @@
   },
   "active": "05db7874c264d147",
   "lastOpenFiles": [
-    "Expeditions/System Rules/Rules/Rules Index.md",
-    "Expeditions/Player Resources/Abilities/Ability List.md",
+    "Expeditions/Playtest/Index.md",
+    "Expeditions/Playtest/Premade Characters/Brigg.md",
     "Expeditions/Guide Resources/Index.md",
+    "Expeditions/System Rules/Rules/Rules Index.md",
+    "Expeditions/Guide Resources/Adversaries/Adversary List.md",
+    "Expeditions/Player Resources/Abilities/Ability List.md",
     "Expeditions/System Rules/Rules/12 - Tradeskills.md",
     "Expeditions/System Rules/Rules/11 - General Skills.md",
     "Expeditions/System Rules/Rules/10 - Character Progression.md",
@@ -205,11 +208,8 @@
     "Expeditions/Guide Resources/Adversaries/Adversary Card.md",
     "Expeditions/Guide Resources/Adversaries/Untitled.md",
     "Expeditions/Guide Resources/Adversaries/Modifier List - Copy.md",
-    "Expeditions/Guide Resources/Adversaries/Adversary List.md",
-    "{{site.baseurl}}/GuideResources/Adversaries/AdversaryList.md",
     "{{site.baseurl}}/GuideResources/Adversaries",
     "{{site.baseurl}}/GuideResources",
-    "Expeditions/Player Resources/Skills Detailed List.md",
     "Expeditions/Guide Resources/Adversaries",
     "Expeditions/Guide Resources/New folder",
     "Expeditions/Player Resources/Abilities",

@@ -66,6 +66,7 @@ permalink: /Rules/Index/
 - [Zone]({{site.baseurl}}/Rules/5/#zoned-combat)
 
 ## Other Player Resources
+- [Playtest]({{site.baseurl}}/Playtest/Index/)
 - [Ability List]({{site.baseurl}}/PlayerResources/Abilities/AbilityList/#ability-list)
 - [Skills Detailed List]({{site.baseurl}}/PlayerResources/SkillsDetailed/#skill-list)
 - [Hero Grid](https://raw.githubusercontent.com/SmashXanadu/Expeditions/refs/heads/main/images/HeroGridSheet.png)
