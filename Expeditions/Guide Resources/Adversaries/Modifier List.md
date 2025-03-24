@@ -11,6 +11,8 @@ permalink: /GuideResources/Adversaries/ModifierList/
 	- **Loot Table**: Additional items to add to the core loot table.
 	- **Consequences**: Major and Minor consequence examples
 - **DPR**: Damage Per Round
+- **Def**: Defense
+- **Res**: Resistance
 - If a modifier causes a value to go below 1, set it to 1.
 - Round down for any non-integer results.
 
