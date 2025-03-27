@@ -13,7 +13,7 @@ permalink: /PlayerResources/Abilities/AbilityList/
 
 You are always ready for an incoming attack and are rarely caught off guard.
 
-**Expend a Charge** after Evading an enemy attack to make an attack roll with an equipped 1 Handed Weapon against your attacker.
+In combat, you may **Expend a Charge** after Evading an enemy attack to make an attack roll with an equipped 1 Handed Weapon against your attacker.
 
 ------------------------------------------------
 ## Feint
@@ -23,7 +23,7 @@ You are always ready for an incoming attack and are rarely caught off guard.
 
 You are able to effortlessly turn a missed attack into an opportunity.
 
-**Expend a Charge** after missing a melee attack with a 1 Handed Weapon to gain advantage on your next attack.
+In combat, you may **Expend a Charge** after missing a melee attack with a 1 Handed Weapon to gain advantage on your next attack.
 
 ------------------------------------------------
 ## Careful Strikes
@@ -33,7 +33,7 @@ You are able to effortlessly turn a missed attack into an opportunity.
 
 You have mastered striking with incredible precision.
 
-**Expend a Charge** to gain +2 on all 1 Handed Weapon attack rolls this turn.
+In combat, you may **Expend a Charge** to gain +2 on all 1 Handed Weapon attack rolls this turn.
 
 ------------------------------------------------
 ## Double Strike
@@ -43,7 +43,7 @@ You have mastered striking with incredible precision.
 
 You are able to unleash a flurry of quick attacks.
 
-**Expend a Charge** to attack twice with each equipped 1 Handed Weapon.
+In combat, you may **Expend a Charge** to attack twice with each equipped 1 Handed Weapon.
 
 ------------------------------------------------
 ## Arc Swing
@@ -53,7 +53,7 @@ You are able to unleash a flurry of quick attacks.
 
 Your attacks swing in a wide arc.
 
-**Expend a Charge** after failing a melee attack roll with a 2 Handed Weapon to make another attack roll against a different enemy in close range.
+In combat, you may **Expend a Charge** after failing a melee attack roll with a 2 Handed Weapon to make another attack roll against a different enemy in close range.
 
 ------------------------------------------------
 ## Cleave
@@ -63,7 +63,7 @@ Your attacks swing in a wide arc.
 
 You have mastered the ability to strike multiple foes at once
 
-**Expend a Charge** to make an attack roll with a 2 Handed Weapon against up to 3 enemies at close range.
+In combat, you may **Expend a Charge** to make an attack roll with a 2 Handed Weapon against up to 3 enemies at close range.
 
 ------------------------------------------------
 ## Brutal Blow
@@ -73,7 +73,7 @@ You have mastered the ability to strike multiple foes at once
 
 You can attack with devastating impact that few can stand up to.
 
-**Expend a Charge** after a successful attack with a 2 Handed Weapon to deal an extra damage and push the target up to 1 zone away.
+In combat, you may **Expend a Charge** after a successful attack with a 2 Handed Weapon to deal an extra damage and push the target up to 1 zone away.
 
 ------------------------------------------------
 ## Smash
@@ -83,7 +83,7 @@ You can attack with devastating impact that few can stand up to.
 
 Your attacks shatter your enemy's defenses.
 
-**Expend a Charge** to make an attack roll with a 2 Handed Weapon. If successful, all future melee attacks against this target will deal an additional point of damage this combat.
+In combat, you may **Expend a Charge** to make an attack roll with a 2 Handed Weapon. If successful, all future melee attacks against this target will deal an additional point of damage this combat.
 
 ------------------------------------------------
 ## Call Your Shot
@@ -91,7 +91,7 @@ Your attacks shatter your enemy's defenses.
  | **Hero Node:** Ranged Weapons
  | **Charges:** N/A
 
-When making a ranged attack, call out a number 1-19. If that number is rolled by your attack die, the attack is a critical hit.
+At the start of combat, call out a number 1-19. If that number is rolled by your attack die, the attack is a critical hit.
 
 ------------------------------------------------
 ## Expose
@@ -101,7 +101,7 @@ When making a ranged attack, call out a number 1-19. If that number is rolled by
 
 You have an uncanny ability to find weaknesses in your target's defenses and exploit them.
 
-**Expend a Charge** to attack an enemy with a Ranged Weapon. On success, the enemy's Defense DC is permanently reduced by 2. This effect can stack.
+In combat, you may **Expend a Charge** to attack an enemy with a Ranged Weapon. On success, the enemy's Defense DC is permanently reduced by 2. This effect can stack.
 
 ------------------------------------------------
 ## Covering Fire
@@ -111,7 +111,7 @@ You have an uncanny ability to find weaknesses in your target's defenses and exp
 
 You are able to use your ranged attacks to provide a distraction to assist your allies.
 
-**Expend a Charge** to attack an enemy with a Ranged Weapon. All allies have Advantage on Evade rolls against this target until your next turn.
+In combat, you may **Expend a Charge** to attack an enemy with a Ranged Weapon. All allies have Advantage on Evade rolls against this target until your next turn.
 
 ------------------------------------------------
 ## Lock On
@@ -121,7 +121,7 @@ You are able to use your ranged attacks to provide a distraction to assist your 
 
 You pursue your target with deadly focus.
 
-**Expend a Charge** to attack an enemy with a Ranged Weapon with Advantage. You have Advantage an all future Ranged Weapon attacks against this target until they die, or until you Lock On to a different target.
+In combat, you may **Expend a Charge** to attack an enemy with a Ranged Weapon with Advantage. You have Advantage an all future Ranged Weapon attacks against this target until they die, or until you Lock On to a different target.
 
 ------------------------------------------------
 ## Disarming Slam
@@ -129,7 +129,7 @@ You pursue your target with deadly focus.
  | **Hero Node:** Shields
  | **Charges:** 2
 
-**Expend a Charge** to attack an enemy with a Melee Attack. On Success, your target drops their weapon(s) and has Disadvantage on their next attack.
+In combat, you may **Expend a Charge** to attack an enemy with a Melee Attack. On Success, your target drops their weapon(s) and has Disadvantage on their next attack.
 
 ------------------------------------------------
 ## Reflect Spell
@@ -137,7 +137,7 @@ You pursue your target with deadly focus.
  | **Hero Node:** Shields
  | **Charges:** 2
 
-When you successfully Resist a Magic Attack, you may **Expend a Charge** to redirect the incoming damage back to the attacker.
+In combat, when you successfully Resist a Magic Attack, you may **Expend a Charge** to redirect the incoming damage back to the attacker.
 
 ------------------------------------------------
 ## Throw Shield
@@ -147,7 +147,7 @@ When you successfully Resist a Magic Attack, you may **Expend a Charge** to redi
 
 Your shield can now be thrown as a ranged attack, but is unequipped in the process.
 
-On a successful Throw Shield Attack, you may **Expend a Charge** bounce your shield to another Close enemy making an attack against them. You may continue Expending Charges bouncing to additional targets until you run out of charges or miss a single attack.
+ In combat, on a successful Throw Shield Attack, you may **Expend a Charge** bounce your shield to another Close enemy making an attack against them. You may continue Expending Charges bouncing to additional targets until you run out of charges or miss a single attack.
 
 ------------------------------------------------
 ## Iron Bulwark
@@ -171,7 +171,7 @@ When allies in Close range take damage, you may **Expend a Charge** to take any 
  | **Hero Node:** Armored
  | **Charges:** 5
 
-**Expend a Charge** to gain Advantage on all Evade rolls until your next turn
+In combat, you may **Expend a Charge** to gain Advantage on all Evade rolls until your next turn
 
 ------------------------------------------------
 ## Unstoppable
@@ -181,7 +181,7 @@ When allies in Close range take damage, you may **Expend a Charge** to take any 
 
 Your Speed is no longer lowered by 'Heavy Armor'.
 
-You may **Expend a Charge** to run in a straight line through Close enemies, pushing them out of the way as you make an Attack roll against each enemy you touch.
+In combat, you may **Expend a Charge** to run in a straight line through Close enemies, pushing them out of the way as you make an Attack roll against each enemy you touch.
 
 ------------------------------------------------
 ## Tackle
@@ -189,7 +189,7 @@ You may **Expend a Charge** to run in a straight line through Close enemies, pus
  | **Hero Node:** Armored
  | **Charges:** 3
 
-**Expend a Charge** to Slam your body into an enemy. On a successful attack they are knocked down and restrained by you.
+In combat, you may **Expend a Charge** to Slam your body into an enemy. On a successful attack they are knocked down and restrained by you.
 
 ------------------------------------------------
 ## Execute
@@ -197,7 +197,7 @@ You may **Expend a Charge** to run in a straight line through Close enemies, pus
  | **Hero Node:** Weapon Specialty: Axe
  | **Charges:** 3
 
-**Expend a Charge** to attack a damaged enemy with Advantage.
+In combat, you may **Expend a Charge** to attack a damaged enemy with Advantage.
 
 ------------------------------------------------
 ## Versatile
@@ -205,7 +205,7 @@ You may **Expend a Charge** to run in a straight line through Close enemies, pus
  | **Hero Node:** Weapon Specialty: Axe
  | **Charges:** 4
 
-**Expend a Charge** to Throw an Axe as a Ranged Attack with Advantage.
+In combat, you may **Expend a Charge** to Throw an Axe as a Ranged Attack with Advantage.
 
 ------------------------------------------------
 ## Bleed
@@ -213,7 +213,7 @@ You may **Expend a Charge** to run in a straight line through Close enemies, pus
  | **Hero Node:** Weapon Specialty: Axe
  | **Charges:** 2
 
-**Expend a Charge** to attack an enemy with an Axe. On Success, the target is bleeding and will take an additional damage at the start of each of their turns. Only works on enemies that can bleed.
+In combat, you may **Expend a Charge** to attack an enemy with an Axe. On Success, the target is bleeding and will take an additional damage at the start of each of their turns. Only works on enemies that can bleed.
 
 ------------------------------------------------
 ## Dismember
@@ -221,7 +221,7 @@ You may **Expend a Charge** to run in a straight line through Close enemies, pus
  | **Hero Node:** Weapon Specialty: Axe
  | **Charges:** 1
 
-**Expend a Charge** to attack an enemy with an Axe. On Success, if your Attack roll + Modifiers is at least 5 above the target Defense DC, choose a portion of their body to cleave off completely.
+In combat, you may **Expend a Charge** to attack an enemy with an Axe. On Success, if your Attack roll + Modifiers is at least 5 above the target Defense DC, choose a portion of their body to cleave off completely.
 
 ------------------------------------------------
 ## Twin Shot
@@ -229,7 +229,7 @@ You may **Expend a Charge** to run in a straight line through Close enemies, pus
  | **Hero Node:** Weapon Specialty: Bow
  | **Charges:** 3
 
-**Expend a Charge** to fire two arrows simultaneously. Choose one or two targets to direct the arrows to and make two Ranged Attack Rolls.
+In combat, you may **Expend a Charge** to fire two arrows simultaneously. Choose one or two targets to direct the arrows to and make two Ranged Attack Rolls.
 
 ------------------------------------------------
 ## Volley
@@ -237,7 +237,7 @@ You may **Expend a Charge** to run in a straight line through Close enemies, pus
  | **Hero Node:** Weapon Specialty: Bow
  | **Charges:** 2
 
-**Expend a Charge** to rain arrows down on everyone in an adjacent zone. Make a ranged attack roll, on Success, deal damage to everyone hit by this ability. Allies have the opportunity to roll Evade at DC 14 to avoid taking this damage.
+In combat, you may **Expend a Charge** to rain arrows down on everyone in an adjacent zone. Make a ranged attack roll, on Success, deal damage to everyone hit by this ability. Allies have the opportunity to roll Evade at DC 14 to avoid taking this damage.
 
 ------------------------------------------------
 ## Snipe
@@ -245,7 +245,7 @@ You may **Expend a Charge** to run in a straight line through Close enemies, pus
  | **Hero Node:** Weapon Specialty: Bow
  | **Charges:** N/A
 
-**Expend a Charge** to make a Ranged Attack with Advantage from up to Far range.
+In combat, you may **Expend a Charge** to make a Ranged Attack with Advantage from up to Far range.
 
 ------------------------------------------------
 ## High Ground
@@ -263,7 +263,7 @@ If you are at a noticeably higher elevation than your target, you may **Expend a
 
 Take a cheap shot. 
 
-**Expend a Charge** to make a Melee Attack against an enemy. On Success, they have Disadvantage on all attacks on their next round.
+In combat, you may **Expend a Charge** to make a Melee Attack against an enemy. On Success, they have Disadvantage on all attacks on their next round.
 
 ------------------------------------------------
 ## Improvised Weapons
@@ -279,7 +279,7 @@ If you are wielding something that is not traditionally used as a weapon, you ma
  | **Hero Node:** Brawler
  | **Charges:** 5
 
-You may **Expend a Charge** to gain Advantage on any rolls related to grappling, throwing, or toppling.
+You may **Expend a Charge** to gain Advantage on a roll related to grappling, throwing, or toppling.
 
 ------------------------------------------------
 ## Fist Fighting
@@ -295,7 +295,7 @@ You gain +3 to all melee attacks done while not wielding any weapons.
  | **Hero Node:** Weapon Specialty: Crossbow
  | **Charges:** 1
 
-**Expend a Charge** to make 3 Ranged Attacks with a Crossbow against a single enemy.
+In combat, you may **Expend a Charge** to make 3 Ranged Attacks with a Crossbow against a single enemy.
 
 ------------------------------------------------
 ## Quickdraw
@@ -311,7 +311,7 @@ When enemies get the jump and go first at the start of a new combat, you may **E
  | **Hero Node:** Weapon Specialty: Crossbow
  | **Charges:** 2
 
-**Expend a Charge** to make a Ranged Crossbow Attack. On Success, all future physical attacks on this target do 1 additional damage.
+In combat, you may **Expend a Charge** to make a Ranged Crossbow Attack. On Success, all future physical attacks on this target do 1 additional damage.
 
 ------------------------------------------------
 ## Point Blank
@@ -319,7 +319,7 @@ When enemies get the jump and go first at the start of a new combat, you may **E
  | **Hero Node:** Weapon Specialty: Crossbow
  | **Charges:** 4
 
-**Expend a Charge** to make a Crossbow attack at Close range with advantage.
+In combat, you may **Expend a Charge** to make a Crossbow attack at Close range with advantage.
 
 ------------------------------------------------
 ## Instant Strikes
@@ -327,7 +327,7 @@ When enemies get the jump and go first at the start of a new combat, you may **E
  | **Hero Node:** Weapon Specialty: Dagger
  | **Charges:** 2
 
-**Expend a Charge** to make a Melee attack with your Dagger(s). This can be done at any time, even during the Enemy turn.
+In combat, you may **Expend a Charge** to make a Melee attack with your Dagger(s). This can be done at any time, even during the Enemy turn.
 
 ------------------------------------------------
 ## Sneak Attack
@@ -353,7 +353,7 @@ You always have a small dagger successfully hidden on your person.
  | **Hero Node:** Weapon Specialty: Dagger
  | **Charges:** 3
 
-**Expend a Charge** before rolling to add +4 to a Melee or Ranged Dagger attack.
+In combat, you may **Expend a Charge** before rolling to add +4 to a Melee or Ranged Dagger attack.
 
 ------------------------------------------------
 ## Parry
@@ -369,7 +369,7 @@ When being attacked by a melee weapon, you may **Expend a Charge** to gain Advan
  | **Hero Node:** Dual Wield
  | **Charges:** 2
 
-**Expend a Charge** to attack twice with each equipped weapon.
+In combat, you may **Expend a Charge** to attack twice with each equipped weapon.
 
 ------------------------------------------------
 ## Strafing Strikes
@@ -377,7 +377,7 @@ When being attacked by a melee weapon, you may **Expend a Charge** to gain Advan
  | **Hero Node:** Dual Wield
  | **Charges:** 5
 
-**Expend a Charge** to make an Attack against an enemy in your zone, move to an adjacent zone, and make an Attack against another enemy.
+In combat, you may **Expend a Charge** to make an Attack against an enemy in your zone, move to an adjacent zone, and make an Attack against another enemy.
 
 ------------------------------------------------
 ## Whirlwind
@@ -385,10 +385,8 @@ When being attacked by a melee weapon, you may **Expend a Charge** to gain Advan
  | **Hero Node:** Dual Wield
  | **Charges:** 2
 
-Make an attack roll against all enemies in your zone.
 
-None
-**Expend a Charge** to  Attacks all enemies within the current zone.
+In combat, you may **Expend a Charge** to attacks all enemies within the current zone.
 
 ------------------------------------------------
 ## Spellbreaker
@@ -396,7 +394,7 @@ None
  | **Hero Node:** Impact
  | **Charges:** 3
 
-**Expend a Charge** to attack an enemy. On success, their Magic stat is halved until your next turn.
+In combat, you may **Expend a Charge** to attack an enemy. On success, their Magic stat is halved until your next turn.
 
 ------------------------------------------------
 ## Push
@@ -404,8 +402,7 @@ None
  | **Hero Node:** Impact
  | **Charges:** 4
 
-**Expend a Charge** to attack an enemy. On success, they are pushed up to 1 zone away. turn.
-
+In combat, you may **Expend a Charge** to attack an enemy. On success, they are pushed up to 1 zone away. turn.
 
 ------------------------------------------------
 ## Stun
@@ -413,7 +410,7 @@ None
  | **Hero Node:** Impact
  | **Charges:** 2
 
-**Expend a Charge** to attack an enemy. On success, they are unable to act on their next turn.
+In combat, you may **Expend a Charge** to attack an enemy. On success, they are unable to act on their next turn.
 
 ------------------------------------------------
 ## Death Blow
@@ -421,7 +418,7 @@ None
  | **Hero Node:** Impact
  | **Charges:** 3
 
-**Expend a Charge** to attack an enemy. On success, if they are left with 1 Health after you deal damage, they immediately die.
+In combat, you may **Expend a Charge** to attack an enemy. On success, if they are left with 1 Health after you deal damage, they immediately die.
 
 ------------------------------------------------
 ## Thump
@@ -429,7 +426,7 @@ None
  | **Hero Node:** Weapon Specialty: Mace
  | **Charges:** 3
 
-**Expend a Charge** to attack an enemy with a Mace, On success, their Evade stat is halved until your next turn.
+In combat, you may **Expend a Charge** to attack an enemy with a Mace, On success, their Evade stat is halved until your next turn.
 
 ------------------------------------------------
 ## Bone Breaker
@@ -437,7 +434,7 @@ None
  | **Hero Node:** Weapon Specialty: Mace
  | **Charges:** 3
 
-**Expend a Charge** to attack an enemy with a Mace, On success, choose one of the following...
+In combat, you may **Expend a Charge** to attack an enemy with a Mace, On success, choose one of the following...
 1. Your target's attack stat is halved until your next turn.
 2. Your target cannot move until your next turn.
 
@@ -447,7 +444,7 @@ None
  | **Hero Node:** Weapon Specialty: Mace
  | **Charges:** 2
 
-**Expend a Charge** to attack an enemy with a Mace, On success, all ongoing magical effects being maintained by your target are interrupted. If an effect is interrupted in this way, you deal an additional damage.
+In combat, you may **Expend a Charge** to attack an enemy with a Mace, On success, all ongoing magical effects being maintained by your target are interrupted. If an effect is interrupted in this way, you deal an additional damage.
 
 ------------------------------------------------
 ## Crushing Blow
@@ -471,7 +468,7 @@ All melee attacks with a spear can be done at Near range instead of Close. All R
  | **Hero Node:** Weapon Specialty: Spear
  | **Charges:** 4
 
-**Expend a Charge** to make an attack with a Spear. On success, bypass any defensive or shielding abilities of your target and deal full damage.
+In combat, you may **Expend a Charge** to make an attack with a Spear. On success, bypass any defensive or shielding abilities of your target and deal full damage.
 
 ------------------------------------------------
 ## Impale
@@ -479,7 +476,7 @@ All melee attacks with a spear can be done at Near range instead of Close. All R
  | **Hero Node:** Weapon Specialty: Spear
  | **Charges:** 3
 
-**Expend a Charge** to make a melee attack with a Spear. On success, the target is impaled on your spear and effectively Grappled by you.
+In combat, you may **Expend a Charge** to make a melee attack with a Spear. On success, the target is impaled on your spear and effectively Grappled by you.
 
 ------------------------------------------------
 ## Pin Down
@@ -487,7 +484,7 @@ All melee attacks with a spear can be done at Near range instead of Close. All R
  | **Hero Node:** Weapon Specialty: Spear
  | **Charges:** 3
 
-**Expend a Charge** to make an attack with a Spear. On success, the target is unable to move.
+In combat, you may **Expend a Charge** to make an attack with a Spear. On success, the target is unable to move.
 
 ------------------------------------------------
 ## Magically Imbued
@@ -497,7 +494,7 @@ All melee attacks with a spear can be done at Near range instead of Close. All R
 
 When making Melee attacks with a Staff, you may use your Magic stat instead of your Attack stat.
 
-**Expend a Charge** to make a Melee attack with a staff. On Success, it deals an additional point of damage.
+In combat, you may **Expend a Charge** to make a Melee attack with a staff. On Success, it deals an additional point of damage.
 
 ------------------------------------------------
 ## Whirling Dervish
@@ -505,7 +502,7 @@ When making Melee attacks with a Staff, you may use your Magic stat instead of y
  | **Hero Node:** Weapon Specialty: Staff
  | **Charges:** 1
 
-**Expend a Charge** to make Melee Staff attacks against all enemies in your zone. 
+In combat, you may **Expend a Charge** to make Melee Staff attacks against all enemies in your zone. 
 
 ------------------------------------------------
 ## Extending Strike
@@ -513,7 +510,7 @@ When making Melee attacks with a Staff, you may use your Magic stat instead of y
  | **Hero Node:** Weapon Specialty: Staff
  | **Charges:** 3
 
-**Expend a Charge** to make Melee attacks with a staff against two close enemies.
+In combat, you may **Expend a Charge** to make Melee attacks with a staff against two close enemies.
 
 ------------------------------------------------
 ## Leg Sweep
@@ -521,7 +518,7 @@ When making Melee attacks with a Staff, you may use your Magic stat instead of y
  | **Hero Node:** Weapon Specialty: Staff
  | **Charges:** 4
 
-**Expend a Charge** to make a Melee attack with a staff. On Success, they are knocked down until their next turn. All attacks against them have advantaged while they are knocked down.
+In combat, you may **Expend a Charge** to make a Melee attack with a staff. On Success, they are knocked down until their next turn. All attacks against them have advantaged while they are knocked down.
 
 ------------------------------------------------
 ## Glancing Blows
@@ -531,7 +528,7 @@ When making Melee attacks with a Staff, you may use your Magic stat instead of y
 
 Missing an attack with a sword deals half damage rounded down.
 
-**Expend a Charge** to Attack with a sword for 2 damage.
+In combat, you may **Expend a Charge** to Attack with a sword for 2 damage.
 
 ------------------------------------------------
 ## Rend
@@ -539,7 +536,7 @@ Missing an attack with a sword deals half damage rounded down.
  | **Hero Node:** Weapon Specialty: Sword
  | **Charges:** 3
 
-**Expend a Charge** to make a melee attack with a Sword. On a successful hit, the target's Defense DC is reduced by 2 until the start of your next turn.
+In combat, you may **Expend a Charge** to make a melee attack with a Sword. On a successful hit, the target's Defense DC is reduced by 2 until the start of your next turn.
 
 ------------------------------------------------
 ## Whirlwind
@@ -549,7 +546,7 @@ Missing an attack with a sword deals half damage rounded down.
 
 You unleash a flurry of wild, unpredictable strikes.
 
-**Expend a Charge** to make an attack roll with a Sword against everyone in your zone.
+In combat, you may **Expend a Charge** to make an attack roll with a Sword against everyone in your zone.
 
 ------------------------------------------------
 ## Blade Dance
@@ -559,7 +556,7 @@ You unleash a flurry of wild, unpredictable strikes.
 
 You move with uncanny speed, your sword a blur of motion.
 
-**Expend a Charge** to make two melee attacks with a Sword.
+In combat, you may **Expend a Charge** to make two melee attacks with a Sword.
 
 ------------------------------------------------
 ## Ricochet
@@ -569,7 +566,7 @@ You move with uncanny speed, your sword a blur of motion.
 
 You are able to quickly calculate angles to accurately bounce projectiles off of your target.
 
-**Expend a Charge** to attack an enemy with a Thrown Weapon. On success, choose a different enemy in the same zone as your target to also take damage.
+In combat, you may **Expend a Charge** to attack an enemy with a Thrown Weapon. On success, choose a different enemy in the same zone as your target to also take damage.
 
 ------------------------------------------------
 ## Aerial Assault
@@ -579,7 +576,7 @@ You are able to quickly calculate angles to accurately bounce projectiles off of
 
 Gain advantage on attacks with Throwing Weapons when your entire body is in mid air and higher than your target.
 
-**Expend a Charge** to launch yourself high into the air. You may also make an attack with a Throwing Weapon.
+In combat, you may **Expend a Charge** to launch yourself high into the air. You may also make an attack with a Throwing Weapon.
 
 ------------------------------------------------
 ## Subtle Throw
@@ -589,7 +586,7 @@ Gain advantage on attacks with Throwing Weapons when your entire body is in mid 
 
 You can throw a weapon with minimal movement, often catching foes off guard.
 
-If you are attacking an unsuspecting target with a Throwing Weapon you have Advantage. On success, you may **Expend a Charge**  to deal an extra damage.
+If you are attacking an unsuspecting target with a Throwing Weapon you have Advantage. On success, you may **Expend a Charge** to deal +1 damage.
 
 ------------------------------------------------
 ## Deadly Accuracy
@@ -599,7 +596,7 @@ If you are attacking an unsuspecting target with a Throwing Weapon you have Adva
 
 You aim with exceptional precision, rarely missing your mark.
 
-**Expend a Charge** before rolling to add +6 to a Ranged Throwing attack.
+In combat, you may **Expend a Charge** before rolling to add +6 to a Ranged Throwing attack.
 
 ------------------------------------------------
 ## Grip of the Titans
@@ -617,7 +614,7 @@ You can hold a 2-Handed weapon in one hand. Attacks with a 2-Handed Melee Weapon
 
 Your massive weapon rends through foes with earth-shattering force.
 
-**Expend a Charge** to make a melee attack with a 2-Handed Weapon against two different enemies at close range. If successful, deal 2 damage and push the target 1 zone away.
+In combat, you may **Expend a Charge** to make a melee attack with a 2-Handed Weapon against two different enemies at close range. If successful, deal 2 damage and push the target 1 zone away.
 
 ------------------------------------------------
 ## Trample
@@ -627,7 +624,7 @@ Your massive weapon rends through foes with earth-shattering force.
 
 Your sheer size and power allow you to crush enemies beneath your feet.
 
-**Expend a Charge** to move up to 2 zones in a straight line, making an attack roll with advantage against each enemy you move through.
+In combat, you may **Expend a Charge** to move up to 2 zones in a straight line, making an attack roll with advantage against each enemy you move through.
 
 ------------------------------------------------
 ## Seismic Smash
@@ -637,7 +634,7 @@ Your sheer size and power allow you to crush enemies beneath your feet.
 
 You bring your weapon down with such force that the very ground shakes.
 
-**Expend a Charge** to make a melee attack with a 2-Handed weapon. On a successful hit, you deal 2 damage to the target and all close enemies are pushed up to 1 zone away.
+In combat, you may **Expend a Charge** to make a melee attack with a 2-Handed weapon. On a successful hit, you deal 2 damage to the target and all close enemies are pushed up to 1 zone away.
 
 ------------------------------------------------
 ## Guardian's Bond
@@ -647,7 +644,7 @@ You bring your weapon down with such force that the very ground shakes.
 
 You form a protective link with an ally, sharing their burdens.
 
-**Expend a Charge** to choose an ally within Near range. For until your next round, any damage they is done to you instead.
+In combat, you may **Expend a Charge** to choose an ally within Near range. For until your next round, any damage they is done to you instead.
 
 ------------------------------------------------
 ## Challenging Shout
@@ -657,7 +654,7 @@ You form a protective link with an ally, sharing their burdens.
 
 You unleash a powerful shout that draws the attention of your foes.
 
-**Expend a Charge** and roll a d20. All enemies in Near range with a Resistance lower than your roll must target you with their next attack, if able.
+In combat, you may **Expend a Charge** and roll a d20. All enemies in Near range with a Resistance lower than your roll must target you with their next attack, if able.
 
 ------------------------------------------------
 ## Intercept
@@ -667,7 +664,7 @@ You unleash a powerful shout that draws the attention of your foes.
 
 You move swiftly to block an attack aimed at an ally.
 
-**Expend a Charge** when an ally within Near range is targeted by a melee or ranged attack. You immediately move next to them and become the target of the attack instead. This ability can be done during the Enemy turn.
+In combat, you may **Expend a Charge** when an ally within Near range is targeted by a melee or ranged attack. You immediately move next to them and become the target of the attack instead. This ability can be done during the Enemy turn.
 
 ------------------------------------------------
 ## Rallying Cry
@@ -677,7 +674,7 @@ You move swiftly to block an attack aimed at an ally.
 
 Your voice inspires your allies, bolstering their resolve.
 
-**Expend a Charge** to make an attack roll against an enemy. On success, all allies within your zone have Advantage on their next roll.
+In combat, you may **Expend a Charge** to make an attack roll against an enemy. On success, all allies within your zone have Advantage on their next roll.
 
 ------------------------------------------------
 ## Mind over matter
@@ -698,7 +695,7 @@ If you are not wearing any armor...
 
 You can channel your inner energy into a focused strike, bypassing physical defenses.
 
-**Expend a Charge** to make an attack with Advantage. This attack is against the target's Resistance DC instead of Defense.
+In combat, you may **Expend a Charge** to make an attack with Advantage. This attack is against the target's Resistance DC instead of Defense.
 
 ------------------------------------------------
 ## Lightning Reflexes
@@ -708,7 +705,7 @@ You can channel your inner energy into a focused strike, bypassing physical defe
 
 Your reactions are honed to an incredible degree, allowing you to anticipate and evade attacks while finding every opportunity to retaliate.
 
-After successfully Evading and attack, **Expend a Charge** to make an Attack roll back at the enemy who attacked you.
+After successfully Evading a melee attack, you may **Expend a Charge** to make an Attack roll back at the enemy who attacked you.
 
 ------------------------------------------------
 ## Dash
@@ -716,7 +713,7 @@ After successfully Evading and attack, **Expend a Charge** to make an Attack rol
  | **Hero Node:** Unarmored
  | **Charges:** 5
 
-**Expend a Charge** to Move an extra zone this turn. You may Attack an enemy with Advantage if they are in the zone you moved into.
+In combat, you may **Expend a Charge** to Move an extra zone this turn. You may Attack an enemy with Advantage if they are in the zone you moved into.
 
 ------------------------------------------------
 ## Disengage
@@ -726,7 +723,7 @@ After successfully Evading and attack, **Expend a Charge** to make an Attack rol
 
 You utilize precise footwork and calculated movements to escape dangerous situations.
 
-**Expend a Charge** to make an attack, then move up to 2 zones away.
+In combat, you may **Expend a Charge** to make an attack, then move up to 2 zones away.
 
 ------------------------------------------------
 ## Unerring Focus
@@ -744,7 +741,7 @@ Once per turn you can reroll a critical fail on an attack roll.
 
 Your keen senses and agility allow you to anticipate and deflect incoming projectiles.
 
-After successfully Evading a ranged attack, **Expend a Charge** to deflect the projectile back to the attacker, dealing damage to them instead.
+After successfully Evading a ranged attack, you may **Expend a Charge** to deflect the projectile back to the attacker, dealing damage to them instead.
 
 ------------------------------------------------
 ## Mental Fortitude
@@ -754,7 +751,7 @@ After successfully Evading a ranged attack, **Expend a Charge** to deflect the p
 
 Through rigorous mental training, you've developed a powerful resistance to magical and psychic assaults. Enemies are unable to read your thoughts or control your mind.
 
-**Expend a Charge** to gain Advantage on all Resist rolls until the start of your next turn. You may still attack this turn.
+In combat, you may **Expend a Charge** to gain Advantage on all Resist rolls until the start of your next turn. You may still attack this turn.
 
 ------------------------------------------------
 ## Rage
@@ -785,7 +782,7 @@ When you have less than Max health, you may **Expend a Charge** to attack with a
 
 You charge forth with the predatory instincts of a wild beast, closing distances with terrifying speed.
 
-**Expend a Charge** to move up to 3 zones and make a melee attack with Advantage against an enemy at the end of your movement.
+In combat, you may **Expend a Charge** to move up to 3 zones and make a melee attack with Advantage against an enemy at the end of your movement.
 
 ------------------------------------------------
 ## Furious Frenzy
@@ -793,7 +790,7 @@ You charge forth with the predatory instincts of a wild beast, closing distances
  | **Hero Node:** Wild
  | **Charges:** 5
 
-Make an Attack roll against a target. If your target dies, you may **Expend a Charge** to attack another target in your zone. Continue this until you attack a target and it doesn't die, or until you decide not to Expend a Charge.
+ In combat, you may make an Attack roll against a target. If your target dies from this attack, you may **Expend a Charge** to attack another target in your zone. Continue this until you attack a target and it doesn't die, or until you decide not to Expend a Charge.
 
 ------------------------------------------------
 ## Sphere of Air
@@ -803,9 +800,9 @@ Make an Attack roll against a target. If your target dies, you may **Expend a Ch
 
 You can create a swirling sphere of air to deflect attacks or push enemies and objects.
 
-On your turn you may **Expend a Charge** to send a sphere of air into a a Near Enemy, making a Magic Attack roll. On success, the enemy takes damage and is pushed 1 zone.
+In combat, on your turn you may **Expend a Charge** to send a sphere of air into a a Near Enemy, making a Magic Attack roll. On success, the enemy takes damage and is pushed 1 zone.
 
-Immediately after an enemy makes a ranged attack against you or an ally, you may **Expend a Charge** to send a sphere of air to intercept it. Make a DC12 Magic roll. On success, the attack misses.
+In combat, immediately after an enemy makes a ranged attack against you or an ally, you may **Expend a Charge** to send a sphere of air to intercept it. Make a DC12 Magic roll. On success, the attack misses.
 
 ------------------------------------------------
 ## Gale Stride
@@ -815,7 +812,7 @@ Immediately after an enemy makes a ranged attack against you or an ally, you may
 
 You can harness the wind to increase your speed and agility.
 
-**Expend a Charge** to increase your movement speed by 2 zones for this combat.
+In combat, you may **Expend a Charge** to increase your movement speed by 2 zones for this combat.
 
 ------------------------------------------------
 ## Gust of Wind
@@ -825,7 +822,7 @@ You can harness the wind to increase your speed and agility.
 
 You can summon a powerful gust of wind to clear smoke, propel small objects, or even provide a temporary boost to movement.
 
-**Expend a Charge** to push all enemies within Near range 1 zone away.
+In combat, you may **Expend a Charge** to push all enemies within Near range 1 zone away.
 
 ------------------------------------------------
 ## Wall of Wind
@@ -835,7 +832,7 @@ You can summon a powerful gust of wind to clear smoke, propel small objects, or 
 
 You can summon a sudden torrent of wind to create a temporary barrier.
 
-**Expend a Charge** to summon a Wall of Wind in your zone until your next turn. Ranged Attacks shot through the wall of wind will always miss.
+In combat, you may **Expend a Charge** to summon a Wall of Wind in your zone until your next turn. Ranged Attacks shot through the wall of wind will always miss.
 
 ------------------------------------------------
 ## Shadow Step
@@ -845,7 +842,7 @@ You can summon a sudden torrent of wind to create a temporary barrier.
 
 You are able to step through the shadows and reappear in distant locations.
 
-**Expend a Charge** to instantly move to shadowed location that you can see. 
+In combat, you may **Expend a Charge** to instantly move to shadowed location that you can see. 
 
 ------------------------------------------------
 ## Shroud of Darkness
@@ -855,7 +852,7 @@ You are able to step through the shadows and reappear in distant locations.
 
 You can create a cloud of darkness to obscure vision and disorient enemies.
 
-**Expend a Charge** to create a zone of darkness in a Near zone. Enemies in this zone have Disadvantage on all attack rolls until the start of your next turn.
+In combat, you may **Expend a Charge** to create a zone of darkness in a Near zone. Enemies in this zone have Disadvantage on all attack rolls until the start of your next turn.
 
 ------------------------------------------------
 ## Become Shadow
@@ -865,7 +862,7 @@ You can create a cloud of darkness to obscure vision and disorient enemies.
 
 You are no stranger to shadows. You can see perfectly in the darkest natural conditions. 
 
-**Expend a Charge** to become incorporeal until the start of your next turn. While incorporeal, you are immune to physical damage, but have Disadvantage on Resist rolls, and can move through solid objects.
+In combat, you may **Expend a Charge** to become incorporeal until the start of your next turn. While incorporeal, you are immune to physical damage, but have Disadvantage on Resist rolls, and can move through solid objects.
 
 ------------------------------------------------
 ## Abyssal Grasp
@@ -875,7 +872,7 @@ You are no stranger to shadows. You can see perfectly in the darkest natural con
 
 You can summon shadowy tendrils at a Near distance that respond to your commands and are able to interact with the world around you.
 
-**Expend a Charge** to make a Magic Attack at near range. On success, you may pull the target up to 1 zone closer to you.
+In combat, you may **Expend a Charge** to make a Magic Attack at near range. On success, you may pull the target up to 1 zone closer to you.
 
 ------------------------------------------------
 ## Stone Shards
@@ -885,7 +882,7 @@ You can summon shadowy tendrils at a Near distance that respond to your commands
 
 You can conjure a hail of razor-sharp stone shards to lacerate your foes.
 
-**Expend a Charge** to make a Magic attack against all enemies in a Near zone. 
+In combat, you may **Expend a Charge** to make a Magic attack against all enemies in a Near zone. 
 
 ------------------------------------------------
 ## Displace Earth
@@ -895,7 +892,7 @@ You can conjure a hail of razor-sharp stone shards to lacerate your foes.
 
 You can manipulate stone and earth to create small structures, repair damage, or even reshape the terrain.
 
-**Expend a Charge** to raise a wall of earth or stone in your zone. Allies behind this wall gain Advantage against all incoming ranged attacks. This wall persist until it is destroyed or until you dismiss it.
+In combat, you may **Expend a Charge** to raise a wall of earth or stone in your zone. Allies behind this wall gain Advantage against all incoming ranged attacks. This wall persist until it is destroyed or until you dismiss it.
 
 ------------------------------------------------
 ## Living Earth
@@ -905,7 +902,7 @@ You can manipulate stone and earth to create small structures, repair damage, or
 
 You animate a portion of the earth, creating a temporary earth elemental to fight alongside you. This elemental has 1 health, responds to your commands, and lasts until destroyed, dismissed, or runs out of Charges.
 
-**Expend a Charge** to command you Earth Elemental to move and attack an Enemy using your Attack or Magic stat. This does not count as your action for the turn.
+In combat, you may **Expend a Charge** to command you Earth Elemental to move and attack an Enemy using your Attack or Magic stat. This does not count as your action for the turn.
 
 ------------------------------------------------
 ## Earthen Armor
@@ -915,7 +912,7 @@ You animate a portion of the earth, creating a temporary earth elemental to figh
 
 You can encase yourself in a protective layer of hardened earth.
 
-**Expend a Charge** to gain Advantage on Evade and Resist rolls for the remainder of this Combat.
+In combat, you may **Expend a Charge** to gain Advantage on Evade and Resist rolls for the remainder of this Combat.
 
 ------------------------------------------------
 ## Living Flame
@@ -935,7 +932,7 @@ If you choose to **Expend a Charge**, any attacks against you until your next tu
 
 You can effortlessly start a fire or ignite something at near range.
 
-**Expend a Charge** to attack an enemy with a Magic attack. On success, they are burning and take 1 damage at the start of each of their turns until the fire is extinguished.
+In combat, you may **Expend a Charge** to attack an enemy with a Magic attack. On success, they are burning and take 1 damage at the start of each of their turns until the fire is extinguished.
 
 ------------------------------------------------
 ## Wall of Fire
@@ -943,7 +940,7 @@ You can effortlessly start a fire or ignite something at near range.
  | **Hero Node:** Fire
  | **Charges:** 2
 
-You can **Expend a Charge** to create a wall of flame up to 10 feet high and 50 feet long. This wall effectively splits a zone into two zones. Anyone that moves through or touches the wall takes 1 damage.
+In combat, you may **Expend a Charge** to create a wall of flame up to 10 feet high and 50 feet long. This wall effectively splits a zone into two zones. Anyone that moves through or touches the wall takes 1 damage.
 
 ------------------------------------------------
 ## Control Flames
@@ -953,7 +950,7 @@ You can **Expend a Charge** to create a wall of flame up to 10 feet high and 50 
 
 You can completely control small fires with ease. You are able to manipulate larger flames with some maintained focus and effort.
 
-**Expend a Charge** to Attack and enemy with a magical fireball. On a success, the fireball explodes dealing damage to the target and anyone within close range.
+In combat, you may **Expend a Charge** to Attack and enemy with a magical fireball. On a success, the fireball explodes dealing damage to the target and anyone within close range.
 
 ------------------------------------------------
 ## Bless
@@ -963,7 +960,7 @@ You can completely control small fires with ease. You are able to manipulate lar
 
 You can infuse your allies with divine energy, bolstering their resolve and granting them divine protection.
 
-**Expend a Charge** to grant Advantage to all Allies on their next attack or magic roll.
+In combat, you may **Expend a Charge** to grant Advantage to all Allies on their next attack or magic roll.
 
 ------------------------------------------------
 ## Restoring Light
@@ -973,7 +970,7 @@ You can infuse your allies with divine energy, bolstering their resolve and gran
 
 You can channel healing light to mend wounds and restore vitality.
 
-**Expend a Charge** to restore 2 health to yourself or an ally.
+In combat, you may **Expend a Charge** to restore 2 health to yourself or an ally.
 
 ------------------------------------------------
 ## Holy Armaments
@@ -983,7 +980,7 @@ You can channel healing light to mend wounds and restore vitality.
 
 You imbue weapons with holy power, granting them the ability to harm even the most corrupted foes.
 
-**Expend a Charge** to infuse the Weapons of all Allies in your zone. Their next attack, they will deal an additional point of light damage.
+In combat, you may **Expend a Charge** to infuse the Weapons of all Allies in your zone. Their next attack, they will deal an additional point of light damage.
 
 ------------------------------------------------
 ## Bend Light
@@ -993,10 +990,7 @@ You imbue weapons with holy power, granting them the ability to harm even the mo
 
 You have the ability to bend and push light around you. 
 
-**Expend a Charge** to surround yourself and close allies in a barrier of shimmering light. While in this barrier, allies have advantage on Evade and Resist rolls.
-
-None
-**Expend a Charge** to  [Combat Effect Description]
+In combat, you may **Expend a Charge** to surround yourself and close allies in a barrier of shimmering light. While in this barrier, allies have Advantage on Evade and Resist rolls.
 
 ------------------------------------------------
 ## Entangling Roots
@@ -1006,7 +1000,7 @@ None
 
 You can summon thorny grasping roots to hinder enemy movement.
 
-**Expend a Charge** to do a Magic attack against an enemy in Near rage. On Success, they are unable to move until the growths are destroyed or you choose to remove them.
+In combat, you may **Expend a Charge** to do a Magic attack against an enemy in Near rage. On Success, they are unable to move until the growths are destroyed or you choose to remove them.
 
 ------------------------------------------------
 ## Grasping Vines
@@ -1016,10 +1010,9 @@ You can summon thorny grasping roots to hinder enemy movement.
 
 You are able to create and control vines to grow on surfaces, interact with objects, or attack enemies.
 
-**Expend a Charge** to make a Magic attack. On success choose one of the following
+In combat, you may **Expend a Charge** to make a Magic attack. On success choose one of the following:
 - Push the enemy 1 zone away.
 - Pull the enemy 1 zone closer.
-- Constrict the enemy, immobilizing them and granting allies Advantage on attacks against them until next turn.
 
 ------------------------------------------------
 ## Symbiosis
@@ -1039,7 +1032,7 @@ If you or an ally is touching any form of natural plant life, you may **Expend a
 
 You can move with unnatural speed and agility through trees and other natural obstacles. You climb trees with as much ease as walking.
 
-If you are touching a tree, you can **Expend a Charge** to instantly teleport to any other tree that you can see.
+If you are touching a tree, you may **Expend a Charge** to instantly teleport to any other tree that you can see.
 
 ------------------------------------------------
 ## Water Jet
@@ -1049,7 +1042,7 @@ If you are touching a tree, you can **Expend a Charge** to instantly teleport to
 
 You can conjure a jet of water to propel yourself or objects, extinguish flames, or even create a powerful stream to attack your enemies.
 
-**Expend a Charge** to make a Magic attack against an enemy in Near range. On a successful hit, you may choose an object or enemy within 1 zone to slam them into for 1 damage.
+In combat, you may **Expend a Charge** to make a Magic attack against an enemy in Near range. On a successful hit, you may choose an object or enemy within 1 zone to slam them into for 1 damage.
 
 ------------------------------------------------
 ## Shape Water
@@ -1059,8 +1052,6 @@ You can conjure a jet of water to propel yourself or objects, extinguish flames,
 
 You have the ability to manipulate and move water with ease. Moving large amounts of water requires intense focus and concentration.
 
-**Expend a Charge**?
-
 ------------------------------------------------
 ## Downpour
 **Type:** Magic
@@ -1069,7 +1060,7 @@ You have the ability to manipulate and move water with ease. Moving large amount
 
 You can summon a torrential downpour of rain to extinguish flames, hinder movement, or even cause minor flooding.
 
-**Expend a Charge** to create a downpour of rain in a Near zone. Enemies in this zone have Disadvantage on all attack rolls and Evade rolls until the start of your next turn.
+In combat, you may **Expend a Charge** to create a downpour of rain in a Near zone. Enemies in this zone have Disadvantage on all attack rolls and Evade rolls until the start of your next turn.
 
 ------------------------------------------------
 ## One With Water
@@ -1079,7 +1070,7 @@ You can summon a torrential downpour of rain to extinguish flames, hinder moveme
 
 You can merge with a body of water, becoming liquid and moving through the water effortlessly. While merged, you can breathe underwater and move anywhere the water can get to at normal movement speed.
 
-**Expend a Charge** to become living water. Gain Advantage on Evade and Resist rolls for the rest of the combat. 
+In combat, you may **Expend a Charge** to become living water. Gain Advantage on Evade and Resist rolls for the rest of the combat. 
 
 ------------------------------------------------
 ## Bestial Power
@@ -1089,7 +1080,7 @@ You can merge with a body of water, becoming liquid and moving through the water
 
 You can tap into the raw power of the animal kingdom, temporarily gaining one bestial feature such as claws, talons, fangs, etc.
 
-**Expend a Charge** to gain a bestial feature that allows you to choose one of the following...
+In combat, you may **Expend a Charge** to gain a bestial feature that allows you to choose one of the following...
 - Attack with Advantage
 - Gain Advantage on Evade roll until your next turn
 - Gain Advantage on Resist roll until your next turn
@@ -1103,7 +1094,7 @@ This ability does not use your action for the turn.
 
 You are able quickly form bonds with beasts. Wild animals naturally respect you and understand if you are a threat to them.
 
-**Expend a charge** to do a Magic roll to form a long term bond with a friendly beast. On success, they will protect and defend you at all costs until you dismiss them back into the wild. You may only bond with one beast at a time. The guide will control your beast's actions, but allow you to issue short commands to them on your turn. 
+In combat, you may **Expend a Charge** to do a Magic roll to form a long term bond with a friendly beast. On success, they will protect and defend you at all costs until you dismiss them back into the wild. You may only bond with one beast at a time. The guide will control your beast's actions, but allow you to issue short commands to them on your turn. 
 
 ------------------------------------------------
 ## Control Beasts
@@ -1111,7 +1102,7 @@ You are able quickly form bonds with beasts. Wild animals naturally respect you 
  | **Hero Node:** Animals
  | **Charges:** 2
 
-**Expend a Charge** to do a Magic roll against a Beast target. On Success, the beast is under your control for the rest of this combat or until you choose to sever the connection. If used out of combat, the connection lasts for up to 10 minutes.
+In combat, you may **Expend a Charge** to do a Magic roll against a Beast target. On Success, the beast is under your control for the rest of this combat or until you choose to sever the connection. If used out of combat, the connection lasts for up to 10 minutes.
 
 ------------------------------------------------
 ## Speak with Animals
@@ -1121,139 +1112,133 @@ You are able quickly form bonds with beasts. Wild animals naturally respect you 
 
 You can communicate with animals, understanding their thoughts and intentions. You can also communicate basic ideas and commands to them, though they are not forced to obey.
 
------------------------------------------------------
-# Abilities below this line need to be reviewed
 ------------------------------------------------
 ## Vampiric Touch
 **Type:** Magic
  | **Hero Node:** Blood
- | **Charges:** N/A
+ | **Charges:** 2
 
-Heal 1 damage on any successful attack or melee range offensive spell.
+You can drain the life force from your enemies, healing yourself in the process.
 
-None
-**Expend a Charge** to  Heals the user on successful attacks or spells.
+In combat, you may **Expend a Charge** to make a Magic attack against an enemy in Close range. On Success, the target takes damage, and you regain a number of hit points equal to the damage dealt.
 
 ------------------------------------------------
 ## Coagulate
 **Type:** Magic
  | **Hero Node:** Blood
- | **Charges:** N/A
+ | **Charges:** 2
 
-Ability Text
+You can cause blood to coagulate quickly, stopping bleeding or causing immense pain to your enemies.
 
-None
-**Expend a Charge** to  [Combat Effect Description]
+In combat, you may **Expend a Charge** to make a Magic Attack roll at Near range. On Success, the target take damage and is unable to act on their next turn.
 
 ------------------------------------------------
 ## Bend Blood
 **Type:** Magic
  | **Hero Node:** Blood
- | **Charges:** N/A
+ | **Charges:** 2
 
-Ability Text
+You can control the flow of blood, controlling the bodies of your enemies like puppets.
 
-None
-**Expend a Charge** to  [Combat Effect Description]
+In combat, you may **Expend a Charge** to Make a Magic attack at Near range. On Success, you control your target this turn. You may force them to move and or take an action.
 
 ------------------------------------------------
 ## Siphon Life
 **Type:** Magic
  | **Hero Node:** Blood
- | **Charges:** N/A
+ | **Charges:** 2
 
-Ability Text
+You can have the ability to transfer and drain the life force to and from creatures.
 
-None
-**Expend a Charge** to  [Combat Effect Description]
+In combat, you may **Expend a Charge** to...
+- Choose a number of health to give from yourself to a Near Ally
+- Make a Magic Attack roll against a Near target. On Success, deal 1 damage and heal yourself for 1.
 
 ------------------------------------------------
 ## Withering Touch
 **Type:** Magic
  | **Hero Node:** Decay
- | **Charges:** N/A
+ | **Charges:** 2
 
-Ability Text
+Your touch can cause life to wilt and decay. 
 
-None
-**Expend a Charge** to  [Combat Effect Description]
+In combat, you may **Expend a Charge** to make a Magic attack against an enemy in Close range. On a successful hit, they have -5 Attack and -5 Defense until the start of your next turn.
 
 ------------------------------------------------
 ## Acid Spray
 **Type:** Magic
  | **Hero Node:** Decay
- | **Charges:** N/A
+ | **Charges:** 2
 
-Ability Text
+You can unleash a spray of corrosive acid, burning flesh and dissolving defenses.
 
-None
-**Expend a Charge** to  [Combat Effect Description]
+**Expend a Charge** to make a Magic attack against all enemies within Close range. On Success, they take damage and they have -5 Defense and -5 Resist until the start of your next turn.
 
 ------------------------------------------------
 ## Plague Bloom
 **Type:** Magic
  | **Hero Node:** Decay
- | **Charges:** N/A
+ | **Charges:** 3
 
-Ability Text
+You can infect your enemies with a virulent plague, weakening them over time.
 
-None
-**Expend a Charge** to  [Combat Effect Description]
+In combat, you may **Expend a Charge** to make a Magic attack against an enemy in Near range. On success, they are poisoned and will take 1 damage at the start of each of their turns.
 
 ------------------------------------------------
 ## Poison Cloud
 **Type:** Magic
  | **Hero Node:** Decay
- | **Charges:** N/A
+ | **Charges:** 2
 
-Ability Text
+You can conjure a cloud of toxic fumes, choking and poisoning your foes.
 
-None
-**Expend a Charge** to  [Combat Effect Description]
+You may **Expend a Charge** to create a zone of poisonous gas in a Near zone. All creatures in this zone will take 1 damage at the start of each of their turns. You are immune to this damage.
 
 ------------------------------------------------
 ## Shock
 **Type:** Magic
  | **Hero Node:** Electricity
- | **Charges:** N/A
+ | **Charges:** 2
 
-Ability Text
+You can unleash a bolt of electricity to shock and stun your enemies.
 
-None
-**Expend a Charge** to  [Combat Effect Description]
+**Expend a Charge** to make a Magic attack against an enemy in Near range. On success, the target takes 1 damage and is unable to act until the start of your next turn.
 
 ------------------------------------------------
 ## Live Wire
 **Type:** Magic
  | **Hero Node:** Electricity
- | **Charges:** N/A
+ | **Charges:** 2
 
-You are a conduit for electricity.
+You can electrify your body, becoming a living conductor of electricity. You are immune to electricity damage.
 
-User becomes a conduit for electricity.
-**Expend a Charge** to  [Combat Effect Description]
+You may **Expend a Charge** to electrify your body for the rest of this combat. While electrified, you deal 1 additional lightning damage with your weapon attacks.
 
 ------------------------------------------------
 ## Overload
 **Type:** Magic
  | **Hero Node:** Electricity
- | **Charges:** N/A
+ | **Charges:** 3
 
-Ability Text
+You have the ability to supercharge your target, beneficially or to overload their system.
 
-None
-**Expend a Charge** to  [Combat Effect Description]
+In combat, you may **Expend a Charge** to do one of the following:
+1. Make a Magic attack against an enemy in Near range. On a successful hit, they have -10 Resistance until your next turn.
+2. Supercharge an ally, giving them Advantage and +1 damage on their next attack.
 
 ------------------------------------------------
-## Lightning Bolt
+## Chain Lightning
 **Type:** Magic
  | **Hero Node:** Electricity
- | **Charges:** N/A
+ | **Charges:** 2
 
-Ability Text
+You can can launch a bolt of lightning, striking your enemies with devastating force and leaping from target to target.
 
-None
-**Expend a Charge** to  [Combat Effect Description]
+In combat, you may **Expend a Charge** to make a Magic roll against a target. On success, deal damage and you may roll to attack another target at close range from your original target. Continue this until you fail an attack roll or run out of unique targets at close range.
+
+-------------------------------------------------------------------------------------
+
+# Anything below this has not been reviewed.
 
 ------------------------------------------------
 ## Disrupting Blast
@@ -1264,7 +1249,7 @@ None
 Ability Text
 
 None
-**Expend a Charge** to  [Combat Effect Description]
+In combat, you may **Expend a Charge** to  [Combat Effect Description]
 
 ------------------------------------------------
 ## Sonic Boom
@@ -1275,7 +1260,7 @@ None
 Ability Text
 
 None
-**Expend a Charge** to  [Combat Effect Description]
+In combat, you may **Expend a Charge** to  [Combat Effect Description]
 
 ------------------------------------------------
 ## Fireball
@@ -1286,7 +1271,7 @@ None
 Ability Text
 
 None
-**Expend a Charge** to  [Combat Effect Description]
+In combat, you may **Expend a Charge** to  [Combat Effect Description]
 
 ------------------------------------------------
 ## Living Bomb
@@ -1297,7 +1282,7 @@ None
 Ability Text
 
 None
-**Expend a Charge** to  [Combat Effect Description]
+In combat, you may **Expend a Charge** to  [Combat Effect Description]
 
 ------------------------------------------------
 ## Ascension
@@ -1308,7 +1293,7 @@ None
 Ability Text
 
 None
-**Expend a Charge** to  [Combat Effect Description]
+In combat, you may **Expend a Charge** to  [Combat Effect Description]
 
 ------------------------------------------------
 ## Aerial Assault
@@ -1319,7 +1304,7 @@ None
 Ability Text
 
 None
-**Expend a Charge** to  [Combat Effect Description]
+In combat, you may **Expend a Charge** to  [Combat Effect Description]
 
 ------------------------------------------------
 ## Tailwinds
@@ -1330,7 +1315,7 @@ None
 Ability Text
 
 None
-**Expend a Charge** to  [Combat Effect Description]
+In combat, you may **Expend a Charge** to  [Combat Effect Description]
 
 ------------------------------------------------
 ## Aegis of Air
@@ -1341,7 +1326,7 @@ None
 You can make your body weightless for any amount of time spent focusing on it.
 
 User can become weightless.
-**Expend a Charge** to  [Combat Effect Description]
+In combat, you may **Expend a Charge** to  [Combat Effect Description]
 
 ------------------------------------------------
 ## Crushing Weight
@@ -1352,7 +1337,7 @@ User can become weightless.
 Ability Text
 
 None
-**Expend a Charge** to  [Combat Effect Description]
+In combat, you may **Expend a Charge** to  [Combat Effect Description]
 
 ------------------------------------------------
 ## Levitate
@@ -1363,7 +1348,7 @@ None
 Ability Text
 
 None
-**Expend a Charge** to  [Combat Effect Description]
+In combat, you may **Expend a Charge** to  [Combat Effect Description]
 
 ------------------------------------------------
 ## Kinetic Tether
@@ -1374,7 +1359,7 @@ None
 Ability Text
 
 None
-**Expend a Charge** to  [Combat Effect Description]
+In combat, you may **Expend a Charge** to  [Combat Effect Description]
 
 ------------------------------------------------
 ## Disintegration Field
@@ -1385,7 +1370,7 @@ None
 Ability Text
 
 None
-**Expend a Charge** to  [Combat Effect Description]
+In combat, you may **Expend a Charge** to  [Combat Effect Description]
 
 ------------------------------------------------
 ## Overgrowth
@@ -1396,7 +1381,7 @@ None
 Ability Text
 
 None
-**Expend a Charge** to  [Combat Effect Description]
+In combat, you may **Expend a Charge** to  [Combat Effect Description]
 
 ------------------------------------------------
 ## Flourish
@@ -1407,7 +1392,7 @@ None
 Ability Text
 
 None
-**Expend a Charge** to  [Combat Effect Description]
+In combat, you may **Expend a Charge** to  [Combat Effect Description]
 
 ------------------------------------------------
 ## Temporal Seed
@@ -1418,7 +1403,7 @@ None
 Ability Text
 
 None
-**Expend a Charge** to  [Combat Effect Description]
+In combat, you may **Expend a Charge** to  [Combat Effect Description]
 
 ------------------------------------------------
 ## Living Barricade
@@ -1429,7 +1414,7 @@ None
 Ability Text
 
 None
-**Expend a Charge** to  [Combat Effect Description]
+In combat, you may **Expend a Charge** to  [Combat Effect Description]
 
 ------------------------------------------------
 ## Frost Lance
@@ -1440,7 +1425,7 @@ None
 Ability Text
 
 None
-**Expend a Charge** to  [Combat Effect Description]
+In combat, you may **Expend a Charge** to  [Combat Effect Description]
 
 ------------------------------------------------
 ## Hail
@@ -1451,7 +1436,7 @@ None
 Ability Text
 
 None
-**Expend a Charge** to  [Combat Effect Description]
+In combat, you may **Expend a Charge** to  [Combat Effect Description]
 
 ------------------------------------------------
 ## Freeze
@@ -1462,7 +1447,7 @@ None
 Ability Text
 
 None
-**Expend a Charge** to  [Combat Effect Description]
+In combat, you may **Expend a Charge** to  [Combat Effect Description]
 
 ------------------------------------------------
 ## Shatter
@@ -1473,7 +1458,7 @@ None
 Ability Text
 
 None
-**Expend a Charge** to  [Combat Effect Description]
+In combat, you may **Expend a Charge** to  [Combat Effect Description]
 
 ------------------------------------------------
 ## Eclipse / Blood Moon
@@ -1484,7 +1469,7 @@ None
 Ability Text
 
 None
-**Expend a Charge** to  [Combat Effect Description]
+In combat, you may **Expend a Charge** to  [Combat Effect Description]
 
 ------------------------------------------------
 ## Moonlight
@@ -1495,7 +1480,7 @@ None
 Ability Text
 
 None
-**Expend a Charge** to  [Combat Effect Description]
+In combat, you may **Expend a Charge** to  [Combat Effect Description]
 
 ------------------------------------------------
 ## Lycanthropy
@@ -1506,7 +1491,7 @@ None
 Ability Text
 
 None
-**Expend a Charge** to  [Combat Effect Description]
+In combat, you may **Expend a Charge** to  [Combat Effect Description]
 
 ------------------------------------------------
 ## Lunar Tides
@@ -1517,7 +1502,7 @@ None
 Ability Text
 
 None
-**Expend a Charge** to  [Combat Effect Description]
+In combat, you may **Expend a Charge** to  [Combat Effect Description]
 
 ------------------------------------------------
 ## Blinding Light
@@ -1527,7 +1512,7 @@ None
 
 You can create a sudden burst of light to disorient or illuminate.
 
-**Expend a Charge** to do a Magic attack against all enemies in your zone. On success, they are blinded until the start of your next turn.
+In combat, you may **Expend a Charge** to do a Magic attack against all enemies in your zone. On success, they are blinded until the start of your next turn.
 
 ------------------------------------------------
 ## Radiate
@@ -1538,7 +1523,7 @@ You can create a sudden burst of light to disorient or illuminate.
 Ability Text
 
 None
-**Expend a Charge** to  [Combat Effect Description]
+In combat, you may **Expend a Charge** to  [Combat Effect Description]
 
 ------------------------------------------------
 ## Scorching Ray
@@ -1549,7 +1534,7 @@ None
 Ability Text
 
 None
-**Expend a Charge** to  [Combat Effect Description]
+In combat, you may **Expend a Charge** to  [Combat Effect Description]
 
 ------------------------------------------------
 ## Holy Ground
@@ -1560,7 +1545,7 @@ None
 Ability Text
 
 None
-**Expend a Charge** to  [Combat Effect Description]
+In combat, you may **Expend a Charge** to  [Combat Effect Description]
 
 ------------------------------------------------
 ## Surge of Vitality
@@ -1571,7 +1556,7 @@ None
 Ability Text
 
 None
-**Expend a Charge** to  [Combat Effect Description]
+In combat, you may **Expend a Charge** to  [Combat Effect Description]
 
 ------------------------------------------------
 ## Rejuvenating Aura
@@ -1582,7 +1567,7 @@ None
 Ability Text
 
 None
-**Expend a Charge** to  [Combat Effect Description]
+In combat, you may **Expend a Charge** to  [Combat Effect Description]
 
 ------------------------------------------------
 ## Call to the Light
@@ -1593,7 +1578,7 @@ None
 Ability Text
 
 None
-**Expend a Charge** to  [Combat Effect Description]
+In combat, you may **Expend a Charge** to  [Combat Effect Description]
 
 ------------------------------------------------
 ## Luminous Embrace
@@ -1604,7 +1589,7 @@ None
 Ability Text
 
 None
-**Expend a Charge** to  [Combat Effect Description]
+In combat, you may **Expend a Charge** to  [Combat Effect Description]
 
 ------------------------------------------------
 ## Whispers with the Dead
@@ -1615,7 +1600,7 @@ None
 Ability Text
 
 None
-**Expend a Charge** to  [Combat Effect Description]
+In combat, you may **Expend a Charge** to  [Combat Effect Description]
 
 ------------------------------------------------
 ## Haunt
@@ -1626,7 +1611,7 @@ None
 Ability Text
 
 None
-**Expend a Charge** to  [Combat Effect Description]
+In combat, you may **Expend a Charge** to  [Combat Effect Description]
 
 ------------------------------------------------
 ## Spiritual Counsel
@@ -1637,7 +1622,7 @@ None
 Ability Text
 
 None
-**Expend a Charge** to  [Combat Effect Description]
+In combat, you may **Expend a Charge** to  [Combat Effect Description]
 
 ------------------------------------------------
 ## Ethereal Guardian
@@ -1648,7 +1633,7 @@ None
 Ability Text
 
 None
-**Expend a Charge** to  [Combat Effect Description]
+In combat, you may **Expend a Charge** to  [Combat Effect Description]
 
 ------------------------------------------------
 ## Comet
@@ -1659,7 +1644,7 @@ None
 Ability Text
 
 None
-**Expend a Charge** to  [Combat Effect Description]
+In combat, you may **Expend a Charge** to  [Combat Effect Description]
 
 ------------------------------------------------
 ## Starfall
@@ -1670,7 +1655,7 @@ None
 Ability Text
 
 None
-**Expend a Charge** to  [Combat Effect Description]
+In combat, you may **Expend a Charge** to  [Combat Effect Description]
 
 ------------------------------------------------
 ## Meteor Storm
@@ -1681,7 +1666,7 @@ None
 Ability Text
 
 None
-**Expend a Charge** to  [Combat Effect Description]
+In combat, you may **Expend a Charge** to  [Combat Effect Description]
 
 ------------------------------------------------
 ## Star Surge
@@ -1692,7 +1677,7 @@ None
 Ability Text
 
 None
-**Expend a Charge** to  [Combat Effect Description]
+In combat, you may **Expend a Charge** to  [Combat Effect Description]
 
 ------------------------------------------------
 ## Sun Beam
@@ -1703,7 +1688,7 @@ None
 Ability Text
 
 None
-**Expend a Charge** to  [Combat Effect Description]
+In combat, you may **Expend a Charge** to  [Combat Effect Description]
 
 ------------------------------------------------
 ## Daylight
@@ -1714,7 +1699,7 @@ None
 Ability Text
 
 None
-**Expend a Charge** to  [Combat Effect Description]
+In combat, you may **Expend a Charge** to  [Combat Effect Description]
 
 ------------------------------------------------
 ## Solar Flare
@@ -1725,7 +1710,7 @@ None
 Ability Text
 
 None
-**Expend a Charge** to  [Combat Effect Description]
+In combat, you may **Expend a Charge** to  [Combat Effect Description]
 
 ------------------------------------------------
 ## Warm
@@ -1736,7 +1721,7 @@ None
 Ability Text
 
 None
-**Expend a Charge** to  [Combat Effect Description]
+In combat, you may **Expend a Charge** to  [Combat Effect Description]
 
 ------------------------------------------------
 ## Skeletal Legion
@@ -1747,7 +1732,7 @@ None
 Ability Text
 
 None
-**Expend a Charge** to  [Combat Effect Description]
+In combat, you may **Expend a Charge** to  [Combat Effect Description]
 
 ------------------------------------------------
 ## Necrotic Leech
@@ -1758,7 +1743,7 @@ None
 Ability Text
 
 None
-**Expend a Charge** to  [Combat Effect Description]
+In combat, you may **Expend a Charge** to  [Combat Effect Description]
 
 ------------------------------------------------
 ## Animate Corpse
@@ -1769,7 +1754,7 @@ None
 Ability Text
 
 None
-**Expend a Charge** to  [Combat Effect Description]
+In combat, you may **Expend a Charge** to  [Combat Effect Description]
 
 ------------------------------------------------
 ## Explode Corpse
@@ -1780,7 +1765,7 @@ None
 Ability Text
 
 None
-**Expend a Charge** to  [Combat Effect Description]
+In combat, you may **Expend a Charge** to  [Combat Effect Description]
 
 ------------------------------------------------
 ## Sunder Earth
@@ -1791,7 +1776,7 @@ None
 Ability Text
 
 None
-**Expend a Charge** to  [Combat Effect Description]
+In combat, you may **Expend a Charge** to  [Combat Effect Description]
 
 ------------------------------------------------
 ## Earthquake
@@ -1802,7 +1787,7 @@ None
 Ability Text
 
 None
-**Expend a Charge** to  [Combat Effect Description]
+In combat, you may **Expend a Charge** to  [Combat Effect Description]
 
 ------------------------------------------------
 ## Lava Spray
@@ -1813,7 +1798,7 @@ None
 Ability Text
 
 None
-**Expend a Charge** to  [Combat Effect Description]
+In combat, you may **Expend a Charge** to  [Combat Effect Description]
 
 ------------------------------------------------
 ## Eruption
@@ -1824,7 +1809,7 @@ None
 Ability Text
 
 None
-**Expend a Charge** to  [Combat Effect Description]
+In combat, you may **Expend a Charge** to  [Combat Effect Description]
 
 ------------------------------------------------
 ## Invisibility
@@ -1835,7 +1820,7 @@ None
 Ability Text
 
 None
-**Expend a Charge** to  [Combat Effect Description]
+In combat, you may **Expend a Charge** to  [Combat Effect Description]
 
 ------------------------------------------------
 ## Illusions
@@ -1845,7 +1830,7 @@ None
 
 You can conjure small, harmless illusions like sounds, smells, objects, or visual tricks to distract or entertain.
 
-**Expend a Charge** to create a distracting illusion in a Near zone. Enemies in that zone have Disadvantage on their next attack or magic roll.
+In combat, you may **Expend a Charge** to create a distracting illusion in a Near zone. Enemies in that zone have Disadvantage on their next attack or magic roll.
 
 ------------------------------------------------
 ## Confuse Senses
@@ -1856,7 +1841,7 @@ You can conjure small, harmless illusions like sounds, smells, objects, or visua
 Ability Text
 
 None
-**Expend a Charge** to  [Combat Effect Description]
+In combat, you may **Expend a Charge** to  [Combat Effect Description]
 
 ------------------------------------------------
 ## Mirage
@@ -1867,7 +1852,7 @@ None
 Ability Text
 
 None
-**Expend a Charge** to  [Combat Effect Description]
+In combat, you may **Expend a Charge** to  [Combat Effect Description]
 
 ------------------------------------------------
 ## Inject Thought
@@ -1878,7 +1863,7 @@ None
 Ability Text
 
 None
-**Expend a Charge** to  [Combat Effect Description]
+In combat, you may **Expend a Charge** to  [Combat Effect Description]
 
 ------------------------------------------------
 ## Mind Blast
@@ -1889,7 +1874,7 @@ None
 Ability Text
 
 None
-**Expend a Charge** to  [Combat Effect Description]
+In combat, you may **Expend a Charge** to  [Combat Effect Description]
 
 ------------------------------------------------
 ## Dominate Will
@@ -1900,7 +1885,7 @@ None
 Ability Text
 
 None
-**Expend a Charge** to  [Combat Effect Description]
+In combat, you may **Expend a Charge** to  [Combat Effect Description]
 
 ------------------------------------------------
 ## Telekinesis
@@ -1911,7 +1896,7 @@ None
 Ability Text
 
 None
-**Expend a Charge** to  [Combat Effect Description]
+In combat, you may **Expend a Charge** to  [Combat Effect Description]
 
 ------------------------------------------------
 ## Animal Form
@@ -1923,7 +1908,7 @@ You can effortlessly transform into a land animal that is roughly your size or s
 
 When attacking in Animal Form, you may use your Attack or Magic modifier, whichever is higher.
 
-While in Animal Form, you may **Expend a Charge** to make a melee attack with +2 and gain +2 Evade until your next turn. If you run out of Charges, you revert to your normal form and  can no longer transform into this form.
+While in Animal Form, you may In combat, you may **Expend a Charge** to make a melee attack with +2 and gain +2 Evade until your next turn. If you run out of Charges, you revert to your normal form and  can no longer transform into this form.
 
 ------------------------------------------------
 ## Flying Form
@@ -1937,7 +1922,7 @@ While flying in this form, you may move twice your normal distance.
 
 When attacking in Flying Form, you may use your Attack or Magic modifier, whichever is higher.
 
-While in Flying Form, you may **Expend a Charge** to make a melee attack with +1 and gain +1 Evade until your next turn. If you run out of Charges, you revert to your normal form and  can no longer transform into this form.
+While in Flying Form, you may In combat, you may **Expend a Charge** to make a melee attack with +1 and gain +1 Evade until your next turn. If you run out of Charges, you revert to your normal form and  can no longer transform into this form.
 
 ------------------------------------------------
 ## Aquatic Form
@@ -1951,7 +1936,7 @@ While underwater in this form, you can breath normally and move twice your norma
 
 When attacking in Aquatic Form, you may use your Attack or Magic modifier, whichever is higher.
 
-While in Aquatic Form, you may **Expend a Charge** to make a melee attack with +1, move an extra zone this turn, and gain +1 Evade until your next turn. If you run out of Charges, you revert to your normal form and  can no longer transform into this form.
+While in Aquatic Form, you may In combat, you may **Expend a Charge** to make a melee attack with +1, move an extra zone this turn, and gain +1 Evade until your next turn. If you run out of Charges, you revert to your normal form and  can no longer transform into this form.
 
 ------------------------------------------------
 ## Impersonate
@@ -1959,7 +1944,7 @@ While in Aquatic Form, you may **Expend a Charge** to make a melee attack with +
  | **Hero Node:** Shapeshifting
  | **Charges:** 2
 
-You can **Expend a Charge** to change your shape and voice to impersonate any humanoid roughly the same size as you for up to an hour.
+You can In combat, you may **Expend a Charge** to change your shape and voice to impersonate any humanoid roughly the same size as you for up to an hour.
 
 While impersonating someone, you have Advantage on all Social rolls against their allies.
 
@@ -1972,7 +1957,7 @@ While impersonating someone, you have Advantage on all Social rolls against thei
 Ability Text
 
 None
-**Expend a Charge** to  [Combat Effect Description]
+In combat, you may **Expend a Charge** to  [Combat Effect Description]
 
 ------------------------------------------------
 ## Tempest
@@ -1983,7 +1968,7 @@ None
 Ability Text
 
 None
-**Expend a Charge** to  [Combat Effect Description]
+In combat, you may **Expend a Charge** to  [Combat Effect Description]
 
 ------------------------------------------------
 ## Blizzard
@@ -1994,7 +1979,7 @@ None
 Ability Text
 
 None
-**Expend a Charge** to  [Combat Effect Description]
+In combat, you may **Expend a Charge** to  [Combat Effect Description]
 
 ------------------------------------------------
 ## Absolute Zero
@@ -2005,7 +1990,7 @@ None
 Ability Text
 
 None
-**Expend a Charge** to  [Combat Effect Description]
+In combat, you may **Expend a Charge** to  [Combat Effect Description]
 
 ------------------------------------------------
 ## Stasis
@@ -2016,7 +2001,7 @@ None
 Ability Text
 
 None
-**Expend a Charge** to  [Combat Effect Description]
+In combat, you may **Expend a Charge** to  [Combat Effect Description]
 
 ------------------------------------------------
 ## Temporal Acceleration
@@ -2027,7 +2012,7 @@ None
 Fast forward a set amount of in game time based on the result of a die without progressing the game clock.
 
 None
-**Expend a Charge** to  Alters the flow of time without affecting the overall game clock.
+In combat, you may **Expend a Charge** to  Alters the flow of time without affecting the overall game clock.
 
 ------------------------------------------------
 ## Chains of Time
@@ -2038,7 +2023,7 @@ None
 Ability Text
 
 None
-**Expend a Charge** to  [Combat Effect Description]
+In combat, you may **Expend a Charge** to  [Combat Effect Description]
 
 ------------------------------------------------
 ## Chrono Barrier
@@ -2049,7 +2034,7 @@ None
 Ability Text
 
 None
-**Expend a Charge** to  [Combat Effect Description]
+In combat, you may **Expend a Charge** to  [Combat Effect Description]
 
 ------------------------------------------------
 ## Influence Fate
@@ -2060,7 +2045,7 @@ None
 Ability Text
 
 None
-**Expend a Charge** to  [Combat Effect Description]
+In combat, you may **Expend a Charge** to  [Combat Effect Description]
 
 ------------------------------------------------
 ## Mnemonic Touch
@@ -2071,7 +2056,7 @@ None
 Object History / Location by touch.
 
 None
-**Expend a Charge** to  Provides historical or locational information through touch.
+In combat, you may **Expend a Charge** to  Provides historical or locational information through touch.
 
 ------------------------------------------------
 ## Predict Intent
@@ -2082,7 +2067,7 @@ None
 - RP what is the primary actionable motivation for the NPC. In combat you now the next moves that monster will do
 
 None
-**Expend a Charge** to  Allows the user to perceive an NPC's motivations and predict their actions.
+In combat, you may **Expend a Charge** to  Allows the user to perceive an NPC's motivations and predict their actions.
 
 ------------------------------------------------
 ## Seer's Visions
@@ -2093,7 +2078,7 @@ None
 Ability Text
 
 None
-**Expend a Charge** to  [Combat Effect Description]
+In combat, you may **Expend a Charge** to  [Combat Effect Description]
 
 ------------------------------------------------
 ## Dimensional Rift
@@ -2104,7 +2089,7 @@ None
 Ability Text
 
 None
-**Expend a Charge** to  [Combat Effect Description]
+In combat, you may **Expend a Charge** to  [Combat Effect Description]
 
 ------------------------------------------------
 ## Planar Nexus
@@ -2115,7 +2100,7 @@ None
 Ability Text
 
 None
-**Expend a Charge** to  [Combat Effect Description]
+In combat, you may **Expend a Charge** to  [Combat Effect Description]
 
 ------------------------------------------------
 ## Plane Shift
@@ -2126,7 +2111,7 @@ None
 Ability Text
 
 None
-**Expend a Charge** to  [Combat Effect Description]
+In combat, you may **Expend a Charge** to  [Combat Effect Description]
 
 ------------------------------------------------
 ## Spacial Blink
@@ -2137,6 +2122,6 @@ None
 Ability Text
 
 None
-**Expend a Charge** to  [Combat Effect Description]
+In combat, you may **Expend a Charge** to  [Combat Effect Description]
 
 ------------------------------------------------

@@ -9,7 +9,7 @@ permalink: /GuideResources/Adversaries/AdversaryList/
 	- **Type**: Beast, Humanoid, Etc.
 	- **Abilities**: 1-4 Combat Abilities
 	- **Tactics**: Combat behaviors
-	- **Loot Table**: Specific items that may be looted
+	- **Loot Table**: Specific items that may be looted.
 	- **Consequences**: Major and Minor consequence examples
 - **DPR**: Damage Per Round
 - **Def**: Defense
