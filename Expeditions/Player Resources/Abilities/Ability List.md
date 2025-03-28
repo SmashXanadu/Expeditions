@@ -1254,7 +1254,7 @@ Make a Magic Roll against everyone in your zone. On Success, they take a damage 
 
 Conjure a large ball of fire to incinerate your enemies.
 
-target an enemy in Near range with a Magic Attack. On success, they take a damage and are set on fire. While on fire, they take 1 fire damage at the start of each of their turns until they extinguish the flames.
+Target an enemy in Near range with a Magic Attack. On success, they take a damage and are set on fire. While on fire, they take 1 fire damage at the start of each of their turns until they extinguish the flames.
 
 ------------------------------------------------
 ## Living Bomb
@@ -1262,7 +1262,7 @@ target an enemy in Near range with a Magic Attack. On success, they take a damag
  | **Hero Node:** Explosion
  | **Charges:** 2
 
-touch something and cause it to become a living bomb. At your commandmake the bomb explode.
+Touch something and cause it to become a living bomb. At your commandmake the bomb explode.
 
 Touch a creature or object at Close range. They are a living bomb. At any point in this combat trigger the bomb to explode dealing damage to the target and everyone in their zone.
 
@@ -1298,7 +1298,7 @@ Generate a more powerful gust of wind that launch you and any number of allies a
 ## Aegis of Air
 **Type:** Magic
  | **Hero Node:** Flight
- | **Charges:** N/A
+ | **Charges:** 3
 
 Create a protective shield of air around yourself, deflecting attacks and providing a measure of protection.
 
@@ -1308,177 +1308,174 @@ Create a shield of air around yourself. For the next round, you gain Advantage o
 ## Crushing Weight
 **Type:** Magic
  | **Hero Node:** Gravity
- | **Charges:** N/A
+ | **Charges:** 2
 
-Ability Text
+You can increase the gravitational force around a target, making it difficult for them to move and crushing their defenses.
 
-None
- to  [Combat Effect Description]
+Do one of the following:
+
+1. Make a Magic attack against an enemy in Near range. On success, they take a damage and are immobile  until your next turn.
+2. Increase the gravitational force in a Near zone, making all enemies unable to move until your next turn.
 
 ------------------------------------------------
 ## Levitate
 **Type:** Magic
  | **Hero Node:** Gravity
- | **Charges:** N/A
+ | **Charges:** 2
 
-Ability Text
+You can manipulate gravity to lift yourself and others into the air.
 
-None
- to  [Combat Effect Description]
+Do one of the following:
+
+1. Make a Magic attack against an enemy in Near range. On success, they are lifted off the ground until your next turn. All attacks against them gain Advantage.
+2. Lift yourself off the ground, allowing you to safely launch yourself up to 2 zones away..
+
 
 ------------------------------------------------
 ## Kinetic Tether
 **Type:** Magic
  | **Hero Node:** Gravity
- | **Charges:** N/A
+ | **Charges:** 3
 
-Ability Text
+You can manipulate gravity to create a connection between two objects, pulling them together or holding them apart.
 
-None
- to  [Combat Effect Description]
+Do one of the following:
+
+1. Make a Magic attack against an enemy in Near range. On success, they take a damage and are pulled towards you.
+2. Create a tether between two objects in Near range, preventing them from moving away from each other.
 
 ------------------------------------------------
-## Disintegration Field
+## Disintegration Beam
 **Type:** Magic
  | **Hero Node:** Gravity
- | **Charges:** N/A
+ | **Charges:** 1
 
-Ability Text
+You can create a field of intense gravity that disrupts the molecular structure of matter, causing it to break apart.
 
-None
- to  [Combat Effect Description]
+Target an enemy in Near range with a Magic Attack. On success, they take double damage. On critical success, they are completely disintegrated.
 
 ------------------------------------------------
 ## Overgrowth
 **Type:** Magic
  | **Hero Node:** Growth
- | **Charges:** N/A
+ | **Charges:** 3
 
-Ability Text
+You accelerate the natural growth of plants, creating a dense thicket that hinders enemy movement and accuracy.
 
-None
- to  [Combat Effect Description]
+Choose a Near zone. Enemies cannot move out of the zone. Allies have advantage on Evade Rolls while in the zone.
 
 ------------------------------------------------
 ## Flourish
 **Type:** Magic
  | **Hero Node:** Growth
- | **Charges:** N/A
+ | **Charges:** 2
 
-Ability Text
+You cause plant life to rapidly bloom, creating a surge of growth and vitality.
 
-None
- to  [Combat Effect Description]
+Choose a Near zone one one of the following effects:
+
+1. All allies in the zone gain +2 to Evade rolls until the start of your next turn (representing thorny vines providing cover).
+2. All allies in the zone regain 1 hit point (representing restorative pollen).
 
 ------------------------------------------------
 ## Temporal Seed
 **Type:** Magic
  | **Hero Node:** Growth
- | **Charges:** N/A
+ | **Charges:** 3
 
-Ability Text
+You plant a seed of accelerated growth, creating a temporary surge of energy.
 
-None
- to  [Combat Effect Description]
+Choose an ally within Near range. They gain Advantage on all rolls until the start of your next turn.
 
 ------------------------------------------------
 ## Living Barricade
 **Type:** Magic
  | **Hero Node:** Growth
- | **Charges:** N/A
+ | **Charges:** 2
 
-Ability Text
+You summon a wall of rapidly growing plants, providing cover and hindering enemy movement.
 
-None
- to  [Combat Effect Description]
+Create a wall of dense vegetation in a Near zone. The wall provides cover and blocks movement until it is destroyed or you dismiss it.
 
 ------------------------------------------------
 ## Frost Lance
 **Type:** Magic
  | **Hero Node:** Ice
- | **Charges:** N/A
+ | **Charges:** 2
 
-Ability Text
+You conjure a lance of pure ice, piercing through your foes.
 
-None
- to  [Combat Effect Description]
+Make a Magic attack against an enemy in Near range. On a successful hit, they take 1 cold damage. If there is another enemy roughly in line with your target, make a Magic attack against them to see if they also take 1 damage.
 
 ------------------------------------------------
 ## Hail
 **Type:** Magic
  | **Hero Node:** Ice
- | **Charges:** N/A
+ | **Charges:** 2
 
-Ability Text
+You summon a barrage of icy hail, pelting your enemies with freezing projectiles.
 
-None
- to  [Combat Effect Description]
+Target all enemies in a Near zone. They take 1 cold damage.
 
 ------------------------------------------------
-## Freeze
+## Glacial Prison
 **Type:** Magic
  | **Hero Node:** Ice
- | **Charges:** N/A
+ | **Charges:** 3
 
-Ability Text
+Encase a target in solid ice, rendering them immobile and vulnerable.
 
-None
- to  [Combat Effect Description]
+Make a Magic attack against an enemy in Near range. On success, they are unable to act and take 1 cold damage at the start of each of their turns. You must continue to spend a charge each turn to maintain this effect, but maintaining it does not take an action.
 
 ------------------------------------------------
 ## Shatter
 **Type:** Magic
  | **Hero Node:** Ice
- | **Charges:** N/A
+ | **Charges:** 3
 
-Ability Text
+You cause a frozen target to shatter into shards of ice, dealing devastating damage.
 
-None
- to  [Combat Effect Description]
+Target an enemy in Near range that is currently affected by a cold effect. They take 2 cold damage. On a critical hit, they shatter into pieces and are completely destroyed.
 
 ------------------------------------------------
-## Eclipse / Blood Moon
+## Eclipse
 **Type:** Magic
  | **Hero Node:** Moon
- | **Charges:** N/A
+ | **Charges:** 2
 
-Ability Text
+You shroud an area in magical darkness, obscuring vision and disrupting magical energies.
 
-None
- to  [Combat Effect Description]
+Choose a Near zone. Enemies within that zone -10 Attack and -10 Magic until your next turn.
+
+------------------------------------------------
+## Blood Moon
+**Type:** Magic
+ | **Hero Node:** Moon
+ | **Charges:** 3
+
+You invoke the power of the blood moon, enhancing aggression and weakening defenses.
+
+Choose a target in Near range. They deal 1 extra damage on attacks, but have disadvantage on Evade rolls until the start of your next turn.
 
 ------------------------------------------------
 ## Moonlight
 **Type:** Magic
  | **Hero Node:** Moon
- | **Charges:** N/A
+ | **Charges:** 3
 
-Ability Text
+You summon the soft soothing light of the moon, healing wounds and calming minds.
 
-None
- to  [Combat Effect Description]
+Choose an ally in Near range. They regain 1 hit point.
 
 ------------------------------------------------
 ## Lycanthropy
 **Type:** Magic
  | **Hero Node:** Moon
- | **Charges:** N/A
+ | **Charges:** 2
 
-Ability Text
+Transform into a powerful werewolf, gaining enhanced strength and ferocity.
 
-None
- to  [Combat Effect Description]
-
-------------------------------------------------
-## Lunar Tides
-**Type:** Magic
- | **Hero Node:** Moon
- | **Charges:** N/A
-
-Ability Text
-
-None
- to  [Combat Effect Description]
+For the rest of combat, you have Advantage on Melee Attack Rolls and Evade Rolls, but are unable to use Magic abilities. You may choose to end this effect at any time.
 
 ------------------------------------------------
 ## Blinding Light
@@ -1486,130 +1483,121 @@ None
  | **Hero Node:** Radiance
  | **Charges:** 2
 
-create a sudden burst of light to disorient or illuminate.
+Create a sudden burst of light to disorient or illuminate.
 
- to do a Magic attack against all enemies in your zone. On success, they are blinded until the start of your next turn.
+Make a Magic attack against all enemies in your zone. On success, they are blinded until the start of your next turn. They have -5 to their Attack and Defense.
 
 ------------------------------------------------
 ## Radiate
 **Type:** Magic
  | **Hero Node:** Radiance
- | **Charges:** N/A
+ | **Charges:** 3
 
-Ability Text
+You emanate a powerful aura of warm radiant energy, bolstering your allies and weakening your enemies.
 
-None
- to  [Combat Effect Description]
+All allies in your zone gain +2 to all attack rolls until the start of your next turn. All enemies within Near range have -2 to all Evade rolls until the start of your next turn.
 
 ------------------------------------------------
 ## Scorching Ray
 **Type:** Magic
  | **Hero Node:** Radiance
- | **Charges:** N/A
+ | **Charges:** 2
 
-Ability Text
+You conjure a beam of searing light, burning your enemies with radiant energy.
 
-None
- to  [Combat Effect Description]
+Make a Magic attack against an enemy in Near range. On a successful hit, they take 1 radiant damage and all allies have Advantage on attacks against them until your next turn.
 
 ------------------------------------------------
 ## Holy Ground
 **Type:** Magic
  | **Hero Node:** Radiance
- | **Charges:** N/A
+ | **Charges:** 2
 
-Ability Text
+You consecrate an area with divine energy, warding off evil and healing allies.
 
-None
- to  [Combat Effect Description]
+Choose a Near zone. Allies within that zone regain 1 hit point at the start of each of their turns, and enemies with the "Undead" tag take 1 radiant damage at the start of each of their turns. Maintaining this effect consumes 1 charge per round.
 
 ------------------------------------------------
 ## Surge of Vitality
 **Type:** Magic
  | **Hero Node:** Renewal
- | **Charges:** N/A
+ | **Charges:** 3
 
-Ability Text
+You channel pure life energy, granting a burst of healing and strength.
 
-None
- to  [Combat Effect Description]
+Choose an ally within Near range. They regain 1 hit point and gain advantage on all attack rolls until the start of your next turn.
 
 ------------------------------------------------
 ## Rejuvenating Aura
 **Type:** Magic
  | **Hero Node:** Renewal
- | **Charges:** N/A
+ | **Charges:** 1
 
-Ability Text
+You create a soothing aura that restores stamina and replenishes magic.
 
-None
- to  [Combat Effect Description]
+All allies in your zone regain a charge for an ability of their choice.
 
 ------------------------------------------------
 ## Call to the Light
 **Type:** Magic
  | **Hero Node:** Renewal
- | **Charges:** N/A
+ | **Charges:** 1
 
-Ability Text
+You call upon divine power to restore life to the fallen.
 
-None
- to  [Combat Effect Description]
+Choose a dying ally in Close range. They are revived with 2 hit points.
+
+If you choose to target a completely dead ally, you must Roll and 18 or higher for this effect to work, and they will come back to life with a permanent Major Complication.
 
 ------------------------------------------------
 ## Luminous Embrace
 **Type:** Magic
  | **Hero Node:** Renewal
- | **Charges:** N/A
+ | **Charges:** 2
 
-Ability Text
+You envelop an ally in a warm, healing light, cleansing them of harmful effects.
 
-None
- to  [Combat Effect Description]
+Choose an ally within Near range. They are healed for 1 hit point and any ongoing harmful magical effects are removed.
 
 ------------------------------------------------
 ## Whispers with the Dead
 **Type:** Magic
  | **Hero Node:** Spirit
- | **Charges:** N/A
+ | **Charges:** 3
 
-Ability Text
+You commune with the spirits of the deceased, gaining insights and knowledge.
 
-None
- to  [Combat Effect Description]
+Gain knowledge from a spirit. Ask a question to a dead target in close range. They will answer to the best of their knowledge.
 
 ------------------------------------------------
 ## Haunt
 **Type:** Magic
  | **Hero Node:** Spirit
- | **Charges:** N/A
+ | **Charges:** 2
 
-Ability Text
+You summon a spectral presence to terrify and disorient your foes.
 
-None
- to  [Combat Effect Description]
+Make a Magic attack against an enemy in Near range. On a successful hit, they will run away from you and take no other action on their next turn.
 
 ------------------------------------------------
 ## Spiritual Counsel
 **Type:** Magic
  | **Hero Node:** Spirit
- | **Charges:** N/A
+ | **Charges:** 2
 
-Ability Text
+You channel the wisdom of ancient spirits, offering guidance and protection.
 
-None
- to  [Combat Effect Description]
+Name a specific type of roll, Ex: Attack, Magic, Evade. You gain advantage on all rolls of that type for the rest of combat or for 1min out of combat.
 
 ------------------------------------------------
 ## Ethereal Guardian
 **Type:** Magic
  | **Hero Node:** Spirit
- | **Charges:** N/A
+ | **Charges:** 3
 
-Ability Text
+You summon a powerful spirit to defend your allies.
 
-None
- to  [Combat Effect Description]
+Summon an Ethereal Guardian in a Near zone. The Guardian has 2 hit points and a melee attack that deals 1 damage. This attack roll uses your Magic or attack modifier.. It expends a charge to act on your turn, and disappears when you run out of charges.
 
 ------------------------------------------------
 ## Comet
