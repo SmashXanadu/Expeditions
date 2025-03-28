@@ -27,6 +27,8 @@ You have nimble hands, patience, and attention to detail.
     - Picking a complex lock.
     - Threading a needle in a moving carriage.
 
+**Skill Perks:**
+
 - **Meticulous Crafter:**
     - **Perfect Fit** - When crafting an item that requires multiple components, you can ensure that all pieces fit together flawlessly. This perk grants Advantage on rolls related to assembling complex items or repairing intricate mechanisms.
     - **Perk: "Hidden Compartments"** - You can create hidden compartments in objects or structures with exceptional skill. These compartments are nearly undetectable without a thorough search.
