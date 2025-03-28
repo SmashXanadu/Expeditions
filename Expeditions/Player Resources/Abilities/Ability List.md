@@ -1603,188 +1603,171 @@ Summon an Ethereal Guardian in a Near zone. The Guardian has 2 hit points and a 
 ## Comet
 **Type:** Magic
  | **Hero Node:** Star
- | **Charges:** N/A
+ | **Charges:** 2
+ 
+You summon a small comet to strike your foes with celestial force.
 
-Ability Text
-
-None
- to  [Combat Effect Description]
+Make a Magic attack against an enemy up to far range. On a successful hit, they take 1 damage and are knocked down.
 
 ------------------------------------------------
 ## Starfall
 **Type:** Magic
  | **Hero Node:** Star
- | **Charges:** N/A
+ | **Charges:** 2
 
-Ability Text
+You call down a shower of star fragments, illuminating the battlefield and damaging your enemies.
 
-None
- to  [Combat Effect Description]
+Target all enemies in a Near zone. They take 1 damage.
 
 ------------------------------------------------
 ## Meteor Storm
 **Type:** Magic
  | **Hero Node:** Star
- | **Charges:** N/A
+ | **Charges:** 1
 
-Ability Text
+You summon a devastating barrage of meteors, obliterating your enemies with cosmic power.
 
-None
- to  [Combat Effect Description]
+Target everyone in a Far zone. They take 2 damage.
 
 ------------------------------------------------
 ## Star Surge
 **Type:** Magic
  | **Hero Node:** Star
- | **Charges:** N/A
+ | **Charges:** 3
 
-Ability Text
+You channel the raw energy of the stars, empowering your allies with celestial might.
 
-None
- to  [Combat Effect Description]
+Choose an ally within Near range. They gain advantage on Magic rolls until the start of your next turn.
 
 ------------------------------------------------
 ## Sun Beam
 **Type:** Magic
  | **Hero Node:** Sun
- | **Charges:** N/A
+ | **Charges:** 3
 
-Ability Text
+You unleash a concentrated beam of solar energy, searing your enemies.
 
-None
- to  [Combat Effect Description]
+Make a Magic attack against an enemy in Near range. On a successful hit, they take 1 damage and are blinded until the start of your next turn.
 
 ------------------------------------------------
 ## Daylight
 **Type:** Magic
  | **Hero Node:** Sun
- | **Charges:** N/A
+ | **Charges:** 2
 
-Ability Text
+You dispel magical darkness and illuminate the surrounding area with the power of the sun.
 
-None
- to  [Combat Effect Description]
+Dispel any magical darkness in a Near zone.
 
 ------------------------------------------------
 ## Solar Flare
 **Type:** Magic
  | **Hero Node:** Sun
- | **Charges:** N/A
+ | **Charges:** 1
 
-Ability Text
+You unleash a burst of intense solar energy, incinerating your foes.
 
-None
- to  [Combat Effect Description]
+Target all enemies in a Near zone. They take 2 damage.
 
 ------------------------------------------------
-## Warm
+## Warmth
 **Type:** Magic
  | **Hero Node:** Sun
- | **Charges:** N/A
+ | **Charges:** 2
 
-Ability Text
+You emanate a comforting warmth, healing wounds and bolstering morale.
 
-None
- to  [Combat Effect Description]
+Choose an ally within Near range. They regain 1 hit point and gain Advantage on their next roll.
 
 ------------------------------------------------
 ## Skeletal Legion
 **Type:** Magic
  | **Hero Node:** Undead
- | **Charges:** N/A
+ | **Charges:** 3
 
-Ability Text
+You are able to raise a skeleton from a corpse that you can touch.
 
-None
- to  [Combat Effect Description]
+Your skeletons have 2 hit points, and a melee attack that deals 1 damage using your attack or magic modifier to roll. They do not defend or resist attacks. They act on your turn and disappear when their Health is reduced to 0
 
 ------------------------------------------------
 ## Necrotic Leech
 **Type:** Magic
  | **Hero Node:** Undead
- | **Charges:** N/A
+ | **Charges:** 3
 
-Ability Text
+You start to leech the life force from an enemy healing yourself as they continue to take damage from the necrotic energy.
 
-None
- to  [Combat Effect Description]
+Make a Magic attack against an enemy in Near range. On a successful hit, they take 1 necrotic damage. You steal 1 hit point at the start of each of their turns by expending additional charges.
 
 ------------------------------------------------
-## Animate Corpse
+## Bone Armor
 **Type:** Magic
  | **Hero Node:** Undead
- | **Charges:** N/A
+ | **Charges:** 2
 
-Ability Text
+You weave together fragments of bone to create a macabre suit of armor, protecting yourself from harm.
 
-None
- to  [Combat Effect Description]
+The next two points of damage are taken by the Bone Armor instead of you.
 
 ------------------------------------------------
 ## Explode Corpse
 **Type:** Magic
  | **Hero Node:** Undead
- | **Charges:** N/A
+ | **Charges:** 1
 
-Ability Text
+You cause a corpse to explode in a burst of necrotic energy, damaging nearby enemies.
 
-None
- to  [Combat Effect Description]
+Target a corpse in a Near zone. Everyone in the zone takes 2 damage.
 
 ------------------------------------------------
 ## Sunder Earth
 **Type:** Magic
  | **Hero Node:** Volcanic
- | **Charges:** N/A
+ | **Charges:** 2
 
-Ability Text
+You crack the earth, creating fissures and chasms.
 
-None
- to  [Combat Effect Description]
+Create a fissure in a Near zone. Enemies that enter the fissure take 2 damage.
 
 ------------------------------------------------
 ## Earthquake
 **Type:** Magic
  | **Hero Node:** Volcanic
- | **Charges:** N/A
+ | **Charges:** 2
 
-Ability Text
+You cause the ground to shake violently, disrupting your enemies' balance.
 
-None
- to  [Combat Effect Description]
+Target a zone within Near range. All enemies in that zone either: take 1 damage or fall into a fissure.
 
 ------------------------------------------------
 ## Lava Spray
 **Type:** Magic
  | **Hero Node:** Volcanic
- | **Charges:** N/A
+ | **Charges:** 2
 
-Ability Text
+You unleash a burst of molten lava, burning your foes.
 
-None
- to  [Combat Effect Description]
+Make a Magic attack against all close enemies. If successful, they take 1 damage and have their Defense reduced by 5 until your next turn.
 
 ------------------------------------------------
 ## Eruption
 **Type:** Magic
  | **Hero Node:** Volcanic
- | **Charges:** N/A
+ | **Charges:** 2
 
-Ability Text
+You cause a volcanic eruption, spewing forth fire and ash.
 
-None
- to  [Combat Effect Description]
+Target all enemies within a Near zone. They take 1 damage. Anyone standing in this zone at the end of their turn takes an additional damage. Lasts until your next turn.
 
 ------------------------------------------------
 ## Invisibility
 **Type:** Magic
  | **Hero Node:** Illusion
- | **Charges:** N/A
+ | **Charges:** 3
 
-Ability Text
+You render yourself unseen, blending seamlessly into your surroundings.
 
-None
- to  [Combat Effect Description]
+Become invisible for 1 minute or until the start of your next turn. While invisible, you cannot make attacks or cast spells, but you can still move and take other actions.
 
 ------------------------------------------------
 ## Illusions
@@ -1792,20 +1775,19 @@ None
  | **Hero Node:** Illusion
  | **Charges:** N/A
 
-conjure small, harmless illusions like sounds, smells, objects, or visual tricks to distract or entertain.
+You conjure realistic illusions to deceive and mislead your foes.
 
- to create a distracting illusion in a Near zone. Enemies in that zone have Disadvantage on their next attack or magic roll.
+Create a visual or auditory illusion in a Near zone. You must make a magic roll against enemies who attempt to interact with the illusion  On a success, they are deceived by the illusion.
 
 ------------------------------------------------
 ## Confuse Senses
 **Type:** Magic
  | **Hero Node:** Illusion
- | **Charges:** N/A
+ | **Charges:** 3
 
-Ability Text
+You distort your enemies' perceptions, making it difficult for them to distinguish reality from illusion.
 
-None
- to  [Combat Effect Description]
+Make a Magic attack against an enemy in Near range. On a successful hit, describe how you confuse their senses and your Guide will describe how your target behaves.
 
 ------------------------------------------------
 ## Mirage
@@ -1813,10 +1795,9 @@ None
  | **Hero Node:** Illusion
  | **Charges:** N/A
 
-Ability Text
+You create a large-scale illusion, altering the appearance of the surrounding environment.
 
-None
- to  [Combat Effect Description]
+Create a large illusionary effect in a Near or Far zone, changing the appearance of the terrain or creating false objects. This illusion lasts until you dismiss it.
 
 ------------------------------------------------
 ## Inject Thought
@@ -1824,43 +1805,39 @@ None
  | **Hero Node:** Psychic
  | **Charges:** N/A
 
-Ability Text
+You can implant thoughts and suggestions into the minds of your enemies, manipulating their actions.
 
-None
- to  [Combat Effect Description]
+Describe the specific thought you try to inject into their mind. Make a Magic attack against an enemy in Near range. On a successful hit, your Guide will describe their behavior.
 
 ------------------------------------------------
 ## Mind Blast
 **Type:** Magic
  | **Hero Node:** Psychic
- | **Charges:** N/A
+ | **Charges:** 2
 
-Ability Text
+You unleash a wave of psychic energy, overwhelming your enemies' minds.
 
-None
- to  [Combat Effect Description]
+Target all enemies in a Near zone. They take 1 psychic damage and lose focus or concentration on any spell or act that they are performing.
 
 ------------------------------------------------
 ## Dominate Will
 **Type:** Magic
  | **Hero Node:** Psychic
- | **Charges:** N/A
+ | **Charges:** 2
 
-Ability Text
+You exert your will over the mind of another, forcing them to obey your commands.
 
-None
- to  [Combat Effect Description]
+Make a Magic attack against an enemy in Near range. On a successful hit, they are charmed until the start of your next turn. While charmed, they will obey your simple commands.
 
 ------------------------------------------------
 ## Telekinesis
 **Type:** Magic
  | **Hero Node:** Psychic
- | **Charges:** N/A
+ | **Charges:** 5
 
-Ability Text
+You can manipulate objects with your mind, moving them without touching them.
 
-None
- to  [Combat Effect Description]
+Push or pull an object within Near range up to 1 zone. The object must be no bigger than you.
 
 ------------------------------------------------
 ## Animal Form
@@ -1868,11 +1845,11 @@ None
  | **Hero Node:** Shapeshifting
  | **Charges:** 5
 
-effortlessly transform into a land animal that is roughly your size or smaller. You retain the ability to speak and use magic while also gaining abilities and limitations that fit your new form. While in this formcommunicate in basic ideas with animals of the same type.
+effortlessly transform into a land animal that is roughly your size or smaller. You retain the ability to speak and use magic while also gaining abilities and limitations that fit your new form. While in this form you can communicate in basic ideas with animals of the same type.
 
-When attacking in Animal Form,use your Attack or Magic modifier, whichever is higher.
+When attacking in Animal Form, you may use your Attack or Magic modifier, whichever is higher.
 
-While in Animal Form,make a melee attack with +2 and gain +2 Evade until your next turn. If you run out of Charges, you revert to your normal form and  no longer transform into this form.
+While in Animal Form, you may expend a charge to make a melee attack with +2 and gain +2 Evade until your next turn. If you run out of Charges, you revert to your normal form and  no longer transform into this form.
 
 ------------------------------------------------
 ## Flying Form
@@ -1880,13 +1857,13 @@ While in Animal Form,make a melee attack with +2 and gain +2 Evade until your ne
  | **Hero Node:** Shapeshifting
  | **Charges:** 2
 
-effortlessly transform into a flying animal that is roughly your size or smaller. You retain the ability to speak and use magic while also gaining abilities and limitations that fit your new form. While in this formcommunicate in basic ideas with animals of the same type.
+effortlessly transform into a flying animal that is roughly your size or smaller. You retain the ability to speak and use magic while also gaining abilities and limitations that fit your new form. While in this form you can communicate in basic ideas with animals of the same type.
 
-While flying in this form,move twice your normal distance.
+While flying in this form, you may move twice your normal distance.
 
-When attacking in Flying Form,use your Attack or Magic modifier, whichever is higher.
+When attacking in Flying Form, you may use your Attack or Magic modifier, whichever is higher.
 
-While in Flying Form,make a melee attack with +1 and gain +1 Evade until your next turn. If you run out of Charges, you revert to your normal form and  no longer transform into this form.
+While in Flying Form, you may expend a charge to make a melee attack with +1 and gain +1 Evade until your next turn. If you run out of Charges, you revert to your normal form and  no longer transform into this form.
 
 ------------------------------------------------
 ## Aquatic Form
@@ -1894,13 +1871,13 @@ While in Flying Form,make a melee attack with +1 and gain +1 Evade until your ne
  | **Hero Node:** Shapeshifting
  | **Charges:** 3
 
-effortlessly transform into an aquatic animal that is roughly your size or smaller. You retain the ability to speak and use magic while also gaining abilities and limitations that fit your new form. While in this formcommunicate in basic ideas with animals of the same type.
+effortlessly transform into an aquatic animal that is roughly your size or smaller. You retain the ability to speak and use magic while also gaining abilities and limitations that fit your new form. While in this form you can communicate in basic ideas with animals of the same type.
 
-While underwater in this form, breath normally and move twice your normal distance.
+While underwater in this form,  you may breath normally and move twice your normal distance.
 
-When attacking in Aquatic Form,use your Attack or Magic modifier, whichever is higher.
+When attacking in Aquatic Form, you may use your Attack or Magic modifier, whichever is higher.
 
-While in Aquatic Form,make a melee attack with +1, move an extra zone this turn, and gain +1 Evade until your next turn. If you run out of Charges, you revert to your normal form and  no longer transform into this form.
+While in Aquatic Form, you may expend a charge to make a melee attack with +1, move an extra zone this turn, and gain +1 Evade until your next turn. If you run out of Charges, you revert to your normal form and  no longer transform into this form.
 
 ------------------------------------------------
 ## Impersonate
@@ -1916,78 +1893,71 @@ While impersonating someone, you have Advantage on all Social rolls against thei
 ## Lightning Storm
 **Type:** Magic
  | **Hero Node:** Storm
- | **Charges:** N/A
+ | **Charges:** 2
 
-Ability Text
+You summon a raging thunderstorm, unleashing a torrent of lightning.
 
-None
- to  [Combat Effect Description]
+Target all enemies within a Near zone. They take 1 damage.
 
 ------------------------------------------------
-## Tempest
+## Lightning Strike
 **Type:** Magic
  | **Hero Node:** Storm
  | **Charges:** N/A
 
-Ability Text
+You call down a powerful bolt of lightning, striking a target with immense force.
 
-None
- to  [Combat Effect Description]
+Make a Magic attack against an enemy in Far range. On a successful hit, they take 2 damage and are knocked down.
 
 ------------------------------------------------
 ## Blizzard
 **Type:** Magic
  | **Hero Node:** Storm
- | **Charges:** N/A
+ | **Charges:** 2
 
-Ability Text
+You unleash a blinding blizzard, freezing your enemies in a torrent of snow and ice.
 
-None
- to  [Combat Effect Description]
+Target all enemies within a Near zone. They are blinded and cannot move until the start of your next turn
 
 ------------------------------------------------
 ## Absolute Zero
 **Type:** Magic
  | **Hero Node:** Storm
- | **Charges:** N/A
+ | **Charges:** 1
 
-Ability Text
+You create a pocket of absolute zero, freezing your enemies solid.
 
-None
- to  [Combat Effect Description]
+Make a Magic attack against all enemies in Close range. On a successful hit, they are frozen until the end of your next turn.
 
 ------------------------------------------------
 ## Stasis
 **Type:** Magic
  | **Hero Node:** Time
- | **Charges:** N/A
+ | **Charges:** 1
 
-Ability Text
+Stop time in your zone for everyone except yourself and your choice of additional beings for up to 2 min. This pauses the expedition timer.
 
-None
- to  [Combat Effect Description]
+In Combat, this allows everyone on your team to take an additional turn before the enemies take their turn. The expedition timer is paused until it is the enemy's turn.
 
 ------------------------------------------------
 ## Temporal Acceleration
 **Type:** Magic
  | **Hero Node:** Time
- | **Charges:** N/A
+ | **Charges:** 2
 
-Fast forward a set amount of in game time based on the result of a die without progressing the game clock.
+You accelerate the flow of time for yourself or an ally, granting them increased speed.
 
-None
- to  Alters the flow of time without affecting the overall game clock.
+Choose an ally within Near range. They gain Advantage on all attack rolls and Evade rolls and can move twice until the start of your next turn.
 
 ------------------------------------------------
 ## Chains of Time
 **Type:** Magic
  | **Hero Node:** Time
- | **Charges:** N/A
+ | **Charges:** 2
 
-Ability Text
+You create temporal shackles that bind your enemies, slowing their movements.
 
-None
- to  [Combat Effect Description]
+Make a Magic attack against an enemy in Near range. On a successful hit, they skip their next turn. 
 
 ------------------------------------------------
 ## Chrono Barrier
@@ -1995,97 +1965,89 @@ None
  | **Hero Node:** Time
  | **Charges:** N/A
 
-Ability Text
-
-None
- to  [Combat Effect Description]
+You create a temporal barrier that protects you from harm by drastically reducing the speed of enemy ranged attacks and magic that enter it. All allies within this barrier gain advantage on Evade and Resist Rolls on attacks coming from outside the barrier.
 
 ------------------------------------------------
 ## Influence Fate
 **Type:** Magic
  | **Hero Node:** Oracle
- | **Charges:** N/A
+ | **Charges:** 2
 
-Ability Text
+You subtly nudge the threads of fate, altering the outcome of events.
 
-None
- to  [Combat Effect Description]
+When an ally chooses to **Stretch** or **Over-exert** you may make a Magic roll. On success, you get to change the Consequences into something more positive. (With Guide Approval)
 
 ------------------------------------------------
 ## Mnemonic Touch
 **Type:** Magic
  | **Hero Node:** Oracle
- | **Charges:** N/A
+ | **Charges:** 3
 
-Object History / Location by touch.
+You glimpse into the past, reliving the memories of a touched object or person.
 
-None
- to  Provides historical or locational information through touch.
+Touch an object or person within Close range.
+
+You may choose one of the following:
+
+1. Gain knowledge of the most significant event that occurred to the target.
+2. Name something that this has come into contact with. Learn the general location of it.
 
 ------------------------------------------------
 ## Predict Intent
 **Type:** Magic
  | **Hero Node:** Oracle
- | **Charges:** N/A
+ | **Charges:** 2
+ 
+You peer into the future, anticipating the actions of your target.
 
-- RP what is the primary actionable motivation for the NPC. In combat you now the next moves that monster will do
-
-None
- to  Allows the user to perceive an NPC's motivations and predict their actions.
+Choose an enemy within Near range. You learn their intended action for their next turn.
 
 ------------------------------------------------
 ## Seer's Visions
 **Type:** Magic
  | **Hero Node:** Oracle
- | **Charges:** N/A
+ | **Charges:** 1
 
-Ability Text
+You experience a vivid vision of possible futures, gaining insights into upcoming events.
 
-None
- to  [Combat Effect Description]
+Gain knowledge of a significant event in the near future. The knowledge gained will be vague and open to interpretation.
 
 ------------------------------------------------
 ## Dimensional Rift
 **Type:** Magic
  | **Hero Node:** Portals
- | **Charges:** N/A
+ | **Charges:** 2
 
-Ability Text
+You tear open a rift in reality, creating a temporary passage between locations.
 
-None
- to  [Combat Effect Description]
+Create a portal in a Near zone that leads to another Near zone of your choice. The portal lasts until the start of your next turn.
 
 ------------------------------------------------
 ## Planar Nexus
 **Type:** Magic
  | **Hero Node:** Portals
- | **Charges:** N/A
+ | **Charges:** 1
 
-Ability Text
+You create a stable portal to another plane of existence, allowing travel between worlds.
 
-None
- to  [Combat Effect Description]
+Create a portal in a Near zone that leads to a specific plane of existence. The portal lasts until you dismiss it or open a new Planar Nexus.
 
 ------------------------------------------------
-## Plane Shift
+## Recall
 **Type:** Magic
  | **Hero Node:** Portals
- | **Charges:** N/A
+ | **Charges:** 1
 
-Ability Text
-
-None
- to  [Combat Effect Description]
+You can instantly transport yourself and your allies to specific location or plane you have previously visited. You and all allies within Near range are teleported to that location.
 
 ------------------------------------------------
 ## Spacial Blink
 **Type:** Magic
  | **Hero Node:** Portals
- | **Charges:** N/A
+ | **Charges:** 3
 
-Ability Text
+You momentarily fold space, allowing you to teleport short distances.
 
-None
- to  [Combat Effect Description]
+Teleport to an unoccupied zone within Near range that you can see.
 
 ------------------------------------------------
