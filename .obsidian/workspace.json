@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Expeditions/Playtest/Premade Characters/Sira.md",
+                "file": "Expeditions/System Rules/Rules/11 - General Skills.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sira"
+              "title": "11 - General Skills"
             }
           },
           {
@@ -179,6 +179,10 @@
   },
   "active": "94f93929d95f4c53",
   "lastOpenFiles": [
+    "Expeditions/Player Resources/General Skills/Magic.md",
+    "Expeditions/Player Resources/General Skills/Attack.md",
+    "Expeditions/Player Resources/General Skills/Careful.md",
+    "Expeditions/Playtest/Premade Characters/Sira.md",
     "Expeditions/Playtest/Premade Characters/Gibbs.md",
     "Expeditions/Playtest/Premade Characters/Finrik.md",
     "Expeditions/Playtest/Premade Characters/Cam.md",
@@ -192,7 +196,6 @@
     "Expeditions/Player Resources/General Skills/Resist.md",
     "Expeditions/Player Resources/General Skills/Evade.md",
     "Expeditions/Player Resources/Skills Detailed List.md",
-    "Expeditions/Playtest/Premade Characters/Sira.md",
     "Expeditions/Player Resources/Abilities/Ability List.md",
     "Expeditions/Player Resources/Abilities/Fire.md",
     "Expeditions/Player Resources/Abilities/Shapeshifting.md",
@@ -204,10 +207,7 @@
     "Expeditions/System Rules/Rules/8 - Hero Grid.md",
     "Expeditions/System Rules/Rules/9 - Player Characters.md",
     "Expeditions/System Rules/Rules/7 - Character Creation.md",
-    "Expeditions/Player Resources/General Skills/Careful.md",
     "Expeditions/Player Resources/Trade Skills/Trapper.md",
-    "Expeditions/Player Resources/Trade Skills/Alchemist - Copy - Copy (2) - Copy - Copy.md",
-    "Expeditions/Player Resources/Trade Skills/Tailor.md",
     "Expeditions/Player Resources/Trade Skills",
     "Expeditions/Player Resources/General Skills",
     "images/AbilitySheet.png",

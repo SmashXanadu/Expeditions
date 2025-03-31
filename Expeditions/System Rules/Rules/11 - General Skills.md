@@ -7,7 +7,6 @@ permalink: /Rules/11/
 - **[Careful]({{site.baseurl}}/PlayerResources/Skills/Careful/#Careful)**: You have nimble hands, patience, and attention to detail.
 - **[Charismatic]({{site.baseurl}}/PlayerResources/Skills/Charismatic/#Charismatic)**: You have a way with words and use them well.
 - **[Dexterous]({{site.baseurl}}/PlayerResources/Skills/Dexterous/#Dexterous)**: You can control your body and move with confidence.
-- **[Evade]({{site.baseurl}}/PlayerResources/Skills/Evade/#Evade)**: You can avoidattacks and escape dangerous situations.
 - **[Explorer]({{site.baseurl}}/PlayerResources/Skills/Explorer/#Explorer)**: You have a natural sense of direction in the unknown.
 - **[Fast]({{site.baseurl}}/PlayerResources/Skills/Fast/#Fast)**: You have near instant reaction time and move quickly.
 - **[Intimidating]({{site.baseurl}}/PlayerResources/Skills/Intimidating/#Intimidating)**: You make people fear what you are capable of.
@@ -17,7 +16,6 @@ permalink: /Rules/11/
 - **[Manipulator]({{site.baseurl}}/PlayerResources/Skills/Manipulator/#Manipulator)**: You influence people to get what you want.
 - **[Observant]({{site.baseurl}}/PlayerResources/Skills/Observant/#Observant)**: Nothing gets past you. You are always on the watch.
 - **[Performer]({{site.baseurl}}/PlayerResources/Skills/Performer/#Performer)**: You know how to put on a show for others.
-- **[Resist]({{site.baseurl}}/PlayerResources/Skills/Resist/#Resist)**: You can endure hardships and mitigate adverse conditions.
 - **[Scavenger]({{site.baseurl}}/PlayerResources/Skills/Scavenger/#Scavenger)**: You can find useful objects in obscure places.
 - **[Smart]({{site.baseurl}}/PlayerResources/Skills/Smart/#Smart)**: You excel with pattern recognition and logical deduction.
 - **[Sneaky]({{site.baseurl}}/PlayerResources/Skills/Sneaky/#Sneaky)**: You move silently, almost unnoticed by others.
