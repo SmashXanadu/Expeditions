@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Expeditions/System Rules/Rules/11 - General Skills.md",
+                "file": "Expeditions/System Rules/Rules/8 - Hero Grid.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11 - General Skills"
+              "title": "8 - Hero Grid"
             }
           },
           {
@@ -179,10 +179,13 @@
   },
   "active": "94f93929d95f4c53",
   "lastOpenFiles": [
-    "Expeditions/System Rules/Rules/12 - Trade Skills.md",
-    "Expeditions/System Rules/Rules/11 - General Skills.md",
-    "Expeditions/Player Resources/General Skills/Careful.md",
+    "Expeditions/System Rules/Rules/9 - Player Characters.md",
     "Expeditions/System Rules/Rules/Rules Index.md",
+    "Expeditions/System Rules/Rules/8 - Hero Grid.md",
+    "Expeditions/System Rules/Rules/7 - Character Creation.md",
+    "Expeditions/System Rules/Rules/11 - General Skills.md",
+    "Expeditions/System Rules/Rules/12 - Trade Skills.md",
+    "Expeditions/Player Resources/General Skills/Careful.md",
     "Expeditions/Player Resources/Trade Skills/Trapper.md",
     "Expeditions/Player Resources/Trade Skills/Alchemist - Copy - Copy (2) - Copy - Copy.md",
     "Expeditions/Player Resources/Trade Skills/Tailor.md",
@@ -202,9 +205,6 @@
     "Expeditions/Player Resources/Trade Skills/Alchemist - Copy - Copy (3).md",
     "Expeditions/Player Resources/Trade Skills/Animal Handler 1 1 1 1 1 1 1 1 1 1 1.md",
     "Expeditions/Player Resources/Trade Skills/Animal Handler 1 1 1 1 1 1 1 1 1 1.md",
-    "Expeditions/Player Resources/Trade Skills/Animal Handler 1 1 1 1 1 1 1 1 1.md",
-    "Expeditions/Player Resources/Trade Skills/Animal Handler 1 1 1 1 1 1 1 1.md",
-    "Expeditions/Player Resources/Trade Skills/Animal Handler 1 1 1 1 1 1 1.md",
     "Expeditions/Player Resources/Trade Skills",
     "Expeditions/Player Resources/General Skills",
     "images/AbilitySheet.png",

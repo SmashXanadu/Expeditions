@@ -18,7 +18,7 @@ permalink: /Rules/9/
 ![Player Characters 2](https://raw.githubusercontent.com/SmashXanadu/Expeditions/refs/heads/main/images/PlayerCharacters2.png)
 
 ## [Abilities](#abilities)
-- Abilities from the **Hero Grid** will either use **Attack** or **Magic** rolls to determine success or failure.
+- [Abilities]({{site.baseurl}}/PlayerResources/Abilities/AbilityList/#ability-list) from the **Hero Grid** will either use **Attack** or **Magic** rolls to determine success or failure.
 - All abilities will have detailed **General Rules** and **Combat Rules** which will have additional details such as what you can target, and what range the ability works from.
 - Abilities may cost **Charges**, which can be regained during Downtime with the Rest option, or by other specific Abilities and Magical Items.
 
