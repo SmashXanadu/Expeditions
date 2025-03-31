@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Abilities - 1 Handed Weapons
-permalink: /PlayerResources/Abilities/1HandedWeapons
+permalink: /PlayerResources/Abilities/1HandedWeapons/
 ---
 ## [1 Handed Weapons](#1-Handed-Weapons)
 
