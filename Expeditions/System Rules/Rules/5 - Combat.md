@@ -35,6 +35,7 @@ If an enemy attacks you…
 
 ### [Taking Damage](#taking-damage)
 - Decide how much damage will be taken from your health and how much will be taken from any specific equipment durability.
+	- When taking damage from armor durability, describe how your character takes the brunt of the impact with that equipped item.
 - If your health ever reaches 0, you will fall **Unconscious**.	
 - If any specific equipment durability ever reaches 0, it will become **Broken**.
 
