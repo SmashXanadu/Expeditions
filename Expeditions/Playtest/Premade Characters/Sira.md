@@ -32,6 +32,7 @@ Sira, a flamboyant entertainer turned fire mage, captivates audiences with dazzl
 	
 ## Abilities
 - **[Fire]({{site.baseurl}}/PlayerResources/Abilities/Fire/#Fire)**
+
 ## Equipment
 - **Main Hand**: Dagger (1)
 - **Off Hand**:

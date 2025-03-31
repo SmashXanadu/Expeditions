@@ -32,6 +32,7 @@ Cam, a nimble scout with an insatiable curiosity for the unknown, roams the wild
 	
 ## Abilities
 - **[Ranged Weapons]({{site.baseurl}}/PlayerResources/Abilities/RangedWeapons/#Ranged-Weapons)**
+
 ## Equipment
 - **Main Hand**: Short Bow (1)
 - **Off Hand**:

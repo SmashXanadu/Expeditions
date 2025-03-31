@@ -32,6 +32,7 @@ Gibbs, a quick and cunning rogue with a penchant for elaborate pranks and a nerv
 	
 ## Abilities
 - **[1 Handed Weapons]({{site.baseurl}}/PlayerResources/Abilities/1HandedWeapons/#1-Handed-Weapons)**
+
 ## Equipment
 - **Main Hand**: Dagger (1)
 - **Off Hand**:

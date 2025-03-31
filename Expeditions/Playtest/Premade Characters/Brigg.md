@@ -30,8 +30,10 @@ Brigg, a hulking blacksmith turned warrior, carries the weight of his abandoned 
     - **[Charismatic]({{site.baseurl}}/PlayerResources/Skills/Charismatic/#Charismatic)**: +1
 - **Trade Skill**:
     - **[Blacksmithing]({{site.baseurl}}/PlayerResources/Skills/Blacksmith/#Blacksmith)**: +2
+    
 ## Abilities
 - **[2 Handed Weapons]({{site.baseurl}}/PlayerResources/Abilities/2HandedWeapons/#2-Handed-Weapons)**
+
 ## Equipment
 - **Main Hand**: 2 Hand Battle Axe (2)
 - **Off Hand**:

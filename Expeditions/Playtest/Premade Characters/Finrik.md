@@ -32,6 +32,7 @@ Finrik, a wise and gentle shapeshifter, carries the weight of ancient knowledge 
 	
 ## Abilities
 - **[Shapeshifting]({{site.baseurl}}/PlayerResources/Abilities/Shapeshifting/#Shapeshifting)**
+
 ## Equipment
 - **Main Hand**: Warped Wooden Staff (2)
 - **Off Hand**:
