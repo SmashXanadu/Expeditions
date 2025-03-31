@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Expeditions/System Rules/Rules/11 - General Skills.md",
+                "file": "Expeditions/Player Resources/General Skills/Magic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11 - General Skills"
+              "title": "Magic"
             }
           },
           {
@@ -179,8 +179,10 @@
   },
   "active": "94f93929d95f4c53",
   "lastOpenFiles": [
-    "Expeditions/Player Resources/General Skills/Magic.md",
     "Expeditions/Player Resources/General Skills/Attack.md",
+    "Expeditions/System Rules/Rules/0 - Missing Rule.md",
+    "Expeditions/System Rules/Rules/11 - General Skills.md",
+    "Expeditions/Player Resources/General Skills/Magic.md",
     "Expeditions/Player Resources/General Skills/Careful.md",
     "Expeditions/Playtest/Premade Characters/Sira.md",
     "Expeditions/Playtest/Premade Characters/Gibbs.md",
@@ -188,7 +190,6 @@
     "Expeditions/Playtest/Premade Characters/Cam.md",
     "Expeditions/Playtest/Premade Characters/Brigg.md",
     "Expeditions/System Rules/Rules/12 - Trade Skills.md",
-    "Expeditions/System Rules/Rules/11 - General Skills.md",
     "{{site.baseurl}}/PlayerResources/Skills/Resist.md",
     "{{site.baseurl}}/PlayerResources/Skills",
     "{{site.baseurl}}/PlayerResources",
@@ -207,7 +208,6 @@
     "Expeditions/System Rules/Rules/8 - Hero Grid.md",
     "Expeditions/System Rules/Rules/9 - Player Characters.md",
     "Expeditions/System Rules/Rules/7 - Character Creation.md",
-    "Expeditions/Player Resources/Trade Skills/Trapper.md",
     "Expeditions/Player Resources/Trade Skills",
     "Expeditions/Player Resources/General Skills",
     "images/AbilitySheet.png",
