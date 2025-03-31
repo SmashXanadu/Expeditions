@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Skills - Performer
-permalink: /PlayerResources/Skills/Performer/
+title: Skills - Observant
+permalink: /PlayerResources/Skills/Observant/
 ---
-## [Performer](#Performer)
+## [Observant](#Observant)

@@ -16,7 +16,7 @@ permalink: /Rules/Index/
 9. **[Player Characters]({{site.baseurl}}/Rules/9/#player-characters)**
 10. **[Character Progression]({{site.baseurl}}/Rules/10/#character-progression)**
 11. **[General Skills]({{site.baseurl}}/Rules/11/#general-skills)**
-12. **[Tradeskills]({{site.baseurl}}/Rules/12/#tradeskills)**
+12. **[Trade Skills]({{site.baseurl}}/Rules/12/#tradeskills)**
 
 ## [Index](#index)
 - [Abilities]({{site.baseurl}}/Rules/9/#abilities)
