@@ -54,5 +54,3 @@ Do one of the following:
 You can create a field of intense gravity that disrupts the molecular structure of matter, causing it to break apart.
 
 Target an enemy in Near range with a Magic Attack. On success, they take double damage. On critical success, they are completely disintegrated.
-
-------------------------------------------------

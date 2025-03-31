@@ -44,5 +44,3 @@ Make a Magic attack against an enemy in Near range. On a successful hit, they ta
 You consecrate an area with divine energy, warding off evil and healing allies.
 
 Choose a Near zone. Allies within that zone regain 1 hit point at the start of each of their turns, and enemies with the "Undead" tag take 1 radiant damage at the start of each of their turns. Maintaining this effect consumes 1 charge per round.
-
-------------------------------------------------

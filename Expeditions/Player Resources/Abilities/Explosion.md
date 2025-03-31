@@ -44,5 +44,3 @@ Target an enemy in Near range with a Magic Attack. On success, they take a damag
 Touch something and cause it to become a living bomb. At your commandmake the bomb explode.
 
 Touch a creature or object at Close range. They are a living bomb. At any point in this combat trigger the bomb to explode dealing damage to the target and everyone in their zone.
-
-------------------------------------------------

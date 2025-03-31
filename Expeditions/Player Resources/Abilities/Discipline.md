@@ -42,6 +42,3 @@ After successfully Evading a ranged attack, deflect the projectile back to the a
 Through rigorous mental training, you've developed a powerful resistance to magical and psychic assaults. Enemies are unable to read your thoughts or control your mind.
 
  Gain Advantage on all Resist rolls until the start of your next turn.still attack this turn.
-
-------------------------------------------------
-

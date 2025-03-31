@@ -44,5 +44,3 @@ Make a Magic attack against all close enemies. If successful, they take 1 damage
 You cause a volcanic eruption, spewing forth fire and ash.
 
 Target all enemies within a Near zone. They take 1 damage. Anyone standing in this zone at the end of their turn takes an additional damage. Lasts until your next turn.
-
-------------------------------------------------

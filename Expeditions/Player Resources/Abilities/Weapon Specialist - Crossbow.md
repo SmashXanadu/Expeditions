@@ -40,5 +40,3 @@ Make a Ranged Crossbow Attack. On Success, all future physical attacks on this t
 | **Charges:** 4
 
 Make a Crossbow attack at Close range with advantage.
-
----

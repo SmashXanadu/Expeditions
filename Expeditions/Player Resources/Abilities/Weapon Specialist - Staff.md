@@ -38,5 +38,3 @@ Make Melee attacks with a staff against two close enemies.
  | **Charges:** 4
 
 Make a Melee attack with a staff. On Success, they are knocked down until their next turn. All attacks against them have advantaged while they are knocked down.
-
-------------------------------------------------

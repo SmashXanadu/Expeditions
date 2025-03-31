@@ -36,5 +36,3 @@ Make a melee attack with a Spear. On success, the target is impaled on your spea
  | **Charges:** 3
 
 Make an attack with a Spear. On success, the target is unable to move.
-
-------------------------------------------------

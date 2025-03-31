@@ -44,5 +44,3 @@ Push all enemies within Near range 1 zone away.
  | **Charges:** 3
 
 Summon a sudden torrent of wind to create a temporary barrier in your zone until your next turn. Ranged Attacks shot through the wall of wind will always miss.
-
-------------------------------------------------

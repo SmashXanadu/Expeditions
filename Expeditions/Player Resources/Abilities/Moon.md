@@ -44,6 +44,3 @@ Choose an ally in Near range. They regain 1 hit point.
 Transform into a powerful werewolf, gaining enhanced strength and ferocity.
 
 For the rest of combat, you have Advantage on Melee Attack Rolls and Evade Rolls, but are unable to use Magic abilities. You may choose to end this effect at any time.
-
-------------------------------------------------
-

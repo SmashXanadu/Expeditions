@@ -44,5 +44,3 @@ Target everyone in a Far zone. They take 2 damage.
 You channel the raw energy of the stars, empowering your allies with celestial might.
 
 Choose an ally within Near range. They gain advantage on Magic rolls until the start of your next turn.
-
-------------------------------------------------

@@ -44,5 +44,3 @@ Infuse the Weapons of all Allies in your zone. Their next attack, they will deal
 You have the ability to bend and push light around you. 
 
 Surround yourself and close allies in a barrier of shimmering light. While in this barrier, allies have Advantage on Evade and Resist rolls.
-
-------------------------------------------------

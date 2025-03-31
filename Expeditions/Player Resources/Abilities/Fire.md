@@ -40,5 +40,3 @@ Create a wall of flame up to 10 feet high and 50 feet long. This wall effectivel
 Completely control small fires with ease. You are able to manipulate larger flames with some maintained focus and effort.
 
 Attack and enemy with a magical fireball. On a success, the fireball explodes dealing damage to the target and anyone within close range.
-
-------------------------------------------------

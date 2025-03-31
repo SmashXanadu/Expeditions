@@ -36,5 +36,3 @@ Make an Attack against an enemy in your zone, move to an adjacent zone, and make
  | **Charges:** 2
 
 Attacks all enemies within the current zone.
-
-------------------------------------------------

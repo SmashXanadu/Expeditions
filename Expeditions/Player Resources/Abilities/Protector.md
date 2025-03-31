@@ -44,5 +44,3 @@ When an ally within Near range is targeted by a melee or ranged attack. You imme
 Your voice inspires your allies, bolstering their resolve.
 
 Make an attack roll against an enemy. On success, all allies within your zone have Advantage on their next roll.
-
-------------------------------------------------

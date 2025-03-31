@@ -46,5 +46,3 @@ If you or an ally is touching any form of natural plant life, heal them for 2 po
 Move with unnatural speed and agility through trees and other natural obstacles. You climb trees with as much ease as walking.
 
 If you are touching a tree, instantly teleport to any other tree that see.
-
-------------------------------------------------

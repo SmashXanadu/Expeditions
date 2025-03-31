@@ -44,5 +44,3 @@ Command you Earth Elemental to move and attack an Enemy using your Attack or Mag
 Encase yourself in a protective layer of hardened earth.
 
 Gain Advantage on Evade and Resist rolls for the remainder of this Combat.
-
-------------------------------------------------

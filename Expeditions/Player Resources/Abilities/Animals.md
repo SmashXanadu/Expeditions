@@ -44,5 +44,3 @@ Make a Magic roll against a Beast target. On Success, the beast is under your co
  | **Charges:** N/A
 
 Communicate with animals, understanding their thoughts and intentions. You can also Communicate basic ideas and commands to them, though they are not forced to obey.
-
-------------------------------------------------

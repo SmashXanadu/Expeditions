@@ -44,5 +44,3 @@ Make a Magic attack against an enemy in Near range. On success, they are unable 
 You cause a frozen target to shatter into shards of ice, dealing devastating damage.
 
 Target an enemy in Near range that is currently affected by a cold effect. They take 2 cold damage. On a critical hit, they shatter into pieces and are completely destroyed.
-
-------------------------------------------------

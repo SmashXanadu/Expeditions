@@ -44,5 +44,3 @@ Make a Magic attack against an enemy in Near range. On a successful hit, they ar
 You can manipulate objects with your mind, moving them without touching them.
 
 Push or pull an object within Near range up to 1 zone. The object must be no bigger than you.
-
-------------------------------------------------

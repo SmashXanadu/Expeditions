@@ -44,5 +44,3 @@ Target all enemies in a Near zone. They take 2 damage.
 You emanate a comforting warmth, healing wounds and bolstering morale.
 
 Choose an ally within Near range. They regain 1 hit point and gain Advantage on their next roll.
-
-------------------------------------------------

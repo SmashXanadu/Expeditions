@@ -44,5 +44,3 @@ If you are attacking an unsuspecting target with a Throwing Weapon you have Adva
 You aim with exceptional precision, rarely missing your mark.
 
 Add +6 to a Ranged Throwing attack before rolling.
-
-------------------------------------------------

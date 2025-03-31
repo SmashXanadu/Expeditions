@@ -44,5 +44,3 @@ Make a Magic attack against an enemy in Near range. On a successful hit, describ
 You create a large-scale illusion, altering the appearance of the surrounding environment.
 
 Create a large illusionary effect in a Near or Far zone, changing the appearance of the terrain or creating false objects. This illusion lasts until you dismiss it.
-
-------------------------------------------------

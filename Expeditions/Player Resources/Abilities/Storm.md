@@ -44,5 +44,3 @@ Target all enemies within a Near zone. They are blinded and cannot move until th
 You create a pocket of absolute zero, freezing your enemies solid.
 
 Make a Magic attack against all enemies in Close range. On a successful hit, they are frozen until the end of your next turn.
-
-------------------------------------------------

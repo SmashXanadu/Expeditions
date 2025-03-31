@@ -44,5 +44,3 @@ Make an attack with a 2 Handed Weapon. On success, deal an extra damage and push
 Your attacks shatter your enemy's defenses.
 
 Make an attack roll with a 2 Handed Weapon. If successful, all future melee attacks against this target will deal an additional point of damage this combat.
-
---------------------------------------

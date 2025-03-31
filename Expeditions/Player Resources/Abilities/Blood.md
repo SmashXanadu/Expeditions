@@ -43,5 +43,3 @@ Make a Magic attack at Near range. On Success, you control your target this turn
 Transfer and drain the life force to and from creatures. Choose one of the following...
 - Choose a number of health to give from yourself to a Near Ally
 - Make a Magic Attack roll against a Near target. On Success, deal 1 damage and heal yourself for 1.
-
-------------------------------------------------

@@ -54,5 +54,3 @@ While in Aquatic Form, you may expend a charge to make a melee attack with +1, m
  to change your shape and voice to impersonate any humanoid roughly the same size as you for up to an hour.
 
 While impersonating someone, you have Advantage on all Social rolls against their allies.
-
-------------------------------------------------

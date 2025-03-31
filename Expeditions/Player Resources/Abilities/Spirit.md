@@ -44,5 +44,3 @@ Name a specific type of roll, Ex: Attack, Magic, Evade. You gain advantage on al
 You summon a powerful spirit to defend your allies.
 
 Summon an Ethereal Guardian in a Near zone. The Guardian has 2 hit points and a melee attack that deals 1 damage. This attack roll uses your Magic or attack modifier.. It expends a charge to act on your turn, and disappears when you run out of charges.
-
-------------------------------------------------

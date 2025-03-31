@@ -42,5 +42,3 @@ Make an attack roll with a Sword against everyone in your zone.
 You move with uncanny speed, your sword a blur of motion.
 
 Make two melee attacks with a Sword.
-
-------------------------------------------------

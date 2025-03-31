@@ -43,5 +43,3 @@ Your sheer size and power allow you to crush enemies beneath your feet.
 You bring your weapon down with such force that the very ground shakes.
 
 Make a melee attack with a 2-Handed weapon. On a successful hit, you deal 2 damage to the target and all close enemies are pushed up to 1 zone away.
-
-------------------------------------------------

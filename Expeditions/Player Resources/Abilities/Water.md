@@ -42,5 +42,3 @@ Create a downpour of rain in a Near zone. Enemies in this zone have Disadvantage
 Merge with a body of water, becoming liquid and moving through the water effortlessly. While merged, breathe underwater and move anywhere the water get to at normal movement speed.
 
 Become living water. Gain Advantage on Evade and Resist rolls for the rest of the combat. 
-
-------------------------------------------------

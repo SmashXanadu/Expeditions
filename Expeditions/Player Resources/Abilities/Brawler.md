@@ -36,5 +36,3 @@ Gain Advantage on a roll related to grappling, throwing, or toppling.
  | **Charges:** N/A
 
 You gain +3 to all melee attacks done while not wielding any weapons.
-
-------------------------------------------------

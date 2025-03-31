@@ -46,5 +46,3 @@ If you choose to target a completely dead ally, you must Roll and 18 or higher f
 You envelop an ally in a warm, healing light, cleansing them of harmful effects.
 
 Choose an ally within Near range. They are healed for 1 hit point and any ongoing harmful magical effects are removed.
-
-------------------------------------------------

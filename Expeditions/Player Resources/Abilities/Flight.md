@@ -42,5 +42,3 @@ Generate a more powerful gust of wind that launch you and any number of allies a
 Create a protective shield of air around yourself, deflecting attacks and providing a measure of protection.
 
 Create a shield of air around yourself. For the next round, you gain Advantage on all Evade rolls and are immune to any effects that would move or push you.
-
-------------------------------------------------

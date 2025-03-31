@@ -42,5 +42,3 @@ Make a Magic attack against an enemy in Near range. On a successful hit, they sk
  | **Charges:** N/A
 
 You create a temporal barrier that protects you from harm by drastically reducing the speed of enemy ranged attacks and magic that enter it. All allies within this barrier gain advantage on Evade and Resist Rolls on attacks coming from outside the barrier.
-
-------------------------------------------------

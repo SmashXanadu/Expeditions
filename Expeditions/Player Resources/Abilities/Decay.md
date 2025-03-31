@@ -44,5 +44,3 @@ Make a Magic attack against an enemy in Near range. On success, they are poisone
 Conjure a cloud of toxic fumes, choking and poisoning your foes.
 
 Create a zone of poisonous gas in a Near zone. All creatures in this zone will take 1 damage at the start of each of their turns. You are immune to this damage.
-
-------------------------------------------------

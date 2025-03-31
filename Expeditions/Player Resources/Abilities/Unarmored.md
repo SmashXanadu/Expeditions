@@ -43,5 +43,3 @@ After successfully Evading a melee attack,**Expend a Charge**make an Attack roll
  | **Charges:** 5
 
  Move an extra zone this turn. Attack an enemy with Advantage if they are in the zone you moved into.
-
-------------------------------------------------

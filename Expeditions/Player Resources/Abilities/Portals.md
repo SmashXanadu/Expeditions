@@ -42,5 +42,3 @@ You can instantly transport yourself and your allies to specific location or pla
 You momentarily fold space, allowing you to teleport short distances.
 
 Teleport to an unoccupied zone within Near range that you can see.
-
-------------------------------------------------

@@ -40,5 +40,3 @@ Make a Ranged Attack with Advantage from up to Far range.
 | **Charges:** 5
 
 If you are at a noticeably higher elevation than your target,**Expend a Charge**make a Ranged Attack with Advantage.
-
----

@@ -38,5 +38,3 @@ Attack an enemy with a Mace, On success, all ongoing magical effects being maint
  | **Charges:** N/A
 
 You have advantage when attacking breakable objects. Successful attacks against breakable objects deal double damage.
-
-------------------------------------------------

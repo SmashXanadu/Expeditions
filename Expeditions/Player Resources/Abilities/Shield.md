@@ -38,5 +38,3 @@ Make a ranged Shield attack. On success, you may bounce your shield to another C
  | **Charges:** N/A
 
 Your shield durability cannot go below 1. When at 1 durability, your shield continue to take damage, but only 1 damage per round.
-
-------------------------------------------------

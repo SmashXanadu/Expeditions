@@ -47,5 +47,3 @@ Choose an ally within Near range. They gain Advantage on all rolls until the sta
 You summon a wall of rapidly growing plants, providing cover and hindering enemy movement.
 
 Create a wall of dense vegetation in a Near zone. The wall provides cover and blocks movement until it is destroyed or you dismiss it.
-
-------------------------------------------------

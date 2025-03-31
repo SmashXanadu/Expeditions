@@ -44,5 +44,3 @@ The next two points of damage are taken by the Bone Armor instead of you.
 You cause a corpse to explode in a burst of necrotic energy, damaging nearby enemies.
 
 Target a corpse in a Near zone. Everyone in the zone takes 2 damage.
-
-------------------------------------------------

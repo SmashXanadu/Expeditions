@@ -49,5 +49,3 @@ Choose an enemy within Near range. You learn their intended action for their nex
 You experience a vivid vision of possible futures, gaining insights into upcoming events.
 
 Gain knowledge of a significant event in the near future. The knowledge gained will be vague and open to interpretation.
-
-------------------------------------------------

@@ -42,5 +42,3 @@ Attack an enemy with a Ranged Weapon. All allies have Advantage on Evade rolls a
 You pursue your target with deadly focus.
 
 Attack an enemy with a Ranged Weapon with Advantage. You have Advantage an all future Ranged Weapon attacks against this target until they die, or until you Lock On to a different target.
-
-------------------------------------------------

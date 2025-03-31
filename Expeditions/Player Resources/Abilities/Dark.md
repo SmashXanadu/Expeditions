@@ -44,5 +44,3 @@ Become incorporeal until the start of your next turn. While incorporeal, you are
 Summon shadowy tendrils at a Near distance that respond to your commands and are able to interact with the world around you.
 
 Make a Magic Attack at near range. On success,pull the target up to 1 zone closer to you.
-
-------------------------------------------------

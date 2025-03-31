@@ -38,5 +38,3 @@ Run in a straight line through Close enemies, pushing them out of the way as you
  | **Charges:** 3
 
  Slam your body into an enemy. On a successful attack roll, they are knocked down and restrained by you.
-
-------------------------------------------------
