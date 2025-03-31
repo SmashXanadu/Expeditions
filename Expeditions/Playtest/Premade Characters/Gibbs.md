@@ -17,26 +17,21 @@ Gibbs, a quick and cunning rogue with a penchant for elaborate pranks and a nerv
 
 ## Skills
 - **Core**
-	- **Attack**: +2
-	- **Magic**: +0
-	- **Evade**:+3
-	- **Resist**: +0
+    - **[Attack]({{site.baseurl}}/PlayerResources/Skills/Attack/#Attack)**: +2
+    - **[Magic]({{site.baseurl}}/PlayerResources/Skills/Magic/#Magic)**: +0
+    - **[Evade]({{site.baseurl}}/PlayerResources/Skills/Evade/#Evade)**: +3
+    - **[Resist]({{site.baseurl}}/PlayerResources/Skills/Resist/#Resist)**: +0
 - **General**:
-	- **Sneaky** +3
-	- **Dextrous** +2
-	- **Trickster** +2
-	- **Careful** +1
-	- **Manipulator** +1
-- **Tradeskill**:
-	- **Alchemist** +2
+    - **[Sneaky]({{site.baseurl}}/PlayerResources/Skills/Sneaky/#Sneaky)**: +3
+    - **[Dexterous]({{site.baseurl}}/PlayerResources/Skills/Dexterous/#Dexterous)**: +2
+    - **[Trickster]({{site.baseurl}}/PlayerResources/Skills/Trickster/#Trickster)**: +2
+    - **[Careful]({{site.baseurl}}/PlayerResources/Skills/Careful/#Careful)**: +1
+    - **[Manipulator]({{site.baseurl}}/PlayerResources/Skills/Manipulator/#Manipulator)**: +1
+- **Trade Skill**:
+    - **[Alchemist]({{site.baseurl}}/PlayerResources/Skills/Alchemist/#Alchemist)**: +2
 	
 ## Abilities
-- **1 Handed Weapons**
-	- **Riposte**
-	- **Feint**
-	- **Careful Strikes**
-	- **Double Strike**
-	
+- **[1 Handed Weapons]({{site.baseurl}}/PlayerResources/Abilities/1HandedWeapons/#1-Handed-Weapons)**
 ## Equipment
 - **Main Hand**: Dagger (1)
 - **Off Hand**:

@@ -17,26 +17,21 @@ Cam, a nimble scout with an insatiable curiosity for the unknown, roams the wild
 
 ## Skills
 - **Core**
-	- **Attack**: +2
-	- **Magic**: +0
-	- **Evade**: +2
-	- **Resist**: +1
+    - **[Attack]({{site.baseurl}}/PlayerResources/Skills/Attack/#Attack)**: +2
+    - **[Magic]({{site.baseurl}}/PlayerResources/Skills/Magic/#Magic)**: +0
+    - **[Evade]({{site.baseurl}}/PlayerResources/Skills/Evade/#Evade)**: +2
+    - **[Resist]({{site.baseurl}}/PlayerResources/Skills/Resist/#Resist)**: +1
 - **General**:
-	- **Observant** +3
-	- **Survivalist** +2
-	- **Explorer** +2
-	- **Smart** +1
-	- **Scavenger** +1
-- **Tradeskill**:
-	- **Trapper** +2
+    - **[Observant]({{site.baseurl}}/PlayerResources/Skills/Observant/#Observant)**: +3
+    - **[Survivalist]({{site.baseurl}}/PlayerResources/Skills/Survivalist/#Survivalist)**: +2
+    - **[Explorer]({{site.baseurl}}/PlayerResources/Skills/Explorer/#Explorer)**: +2
+    - **[Smart]({{site.baseurl}}/PlayerResources/Skills/Smart/#Smart)**: +1
+    - **[Scavenger]({{site.baseurl}}/PlayerResources/Skills/Scavenger/#Scavenger)**: +1
+- **Trade Skill**:
+    - **[Trapper]({{site.baseurl}}/PlayerResources/Skills/Trapper/#Trapper)**: +2
 	
 ## Abilities
-- **Ranged Weapons**
-	- **Ricochet**
-	- **Expose**
-	- **Covering Fire**
-	- **Lock On**
-	
+- **[Ranged Weapons]({{site.baseurl}}/PlayerResources/Abilities/RangedWeapons/#Ranged-Weapons)**
 ## Equipment
 - **Main Hand**: Short Bow (1)
 - **Off Hand**:

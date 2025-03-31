@@ -18,26 +18,20 @@ Brigg, a hulking blacksmith turned warrior, carries the weight of his abandoned 
 
 ## Skills
 - **Core**
-	- **Attack**: +2
-	- **Magic**: +0
-	- **Evade**: +2
-	- **Resist**: +1
+    - **[Attack]({{site.baseurl}}/PlayerResources/Skills/Attack/#Attack)**: +2
+    - **[Magic]({{site.baseurl}}/PlayerResources/Skills/Magic/#Magic)**: +0
+    - **[Evade]({{site.baseurl}}/PlayerResources/Skills/Evade/#Evade)**: +2
+    - **[Resist]({{site.baseurl}}/PlayerResources/Skills/Resist/#Resist)**: +1
 - **General**:
-	- **Strong** +3
-	- **Tough** +2
-	- **Intimidating** +2
-	- **Observant** +1
-	- **Charismatic** +1
-- **Tradeskill**:
-	- **Blacksmithing** +2
-	
+    - **[Strong]({{site.baseurl}}/PlayerResources/Skills/Strong/#Strong)**: +3
+    - **[Tough]({{site.baseurl}}/PlayerResources/Skills/Tough/#Tough)**: +2
+    - **[Intimidating]({{site.baseurl}}/PlayerResources/Skills/Intimidating/#Intimidating)**: +2
+    - **[Observant]({{site.baseurl}}/PlayerResources/Skills/Observant/#Observant)**: +1
+    - **[Charismatic]({{site.baseurl}}/PlayerResources/Skills/Charismatic/#Charismatic)**: +1
+- **Trade Skill**:
+    - **[Blacksmithing]({{site.baseurl}}/PlayerResources/Skills/Blacksmith/#Blacksmith)**: +2
 ## Abilities
-- **2 Handed Weapons**
-	- **Wide Arc**
-	- **Cleave**
-	- **Push**
-	- **Brutal Strike**
-	
+- **[2 Handed Weapons]({{site.baseurl}}/PlayerResources/Abilities/2HandedWeapons/#2-Handed-Weapons)**
 ## Equipment
 - **Main Hand**: 2 Hand Battle Axe (2)
 - **Off Hand**:

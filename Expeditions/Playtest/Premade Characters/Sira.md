@@ -17,26 +17,21 @@ Sira, a flamboyant entertainer turned fire mage, captivates audiences with dazzl
 
 ## Skills
 - **Core**
-	- **Attack**: +0
-	- **Magic**: +2
-	- **Evade**: +1
-	- **Resist**: +2
+    - **[Attack]({{site.baseurl}}/PlayerResources/Skills/Attack/#Attack)**: +0
+    - **[Magic]({{site.baseurl}}/PlayerResources/Skills/Magic/#Magic)**: +2
+    - **[Evade]({{site.baseurl}}/PlayerResources/Skills/Evade/#Evade)**: +1
+    - **[Resist]({{site.baseurl}}/PlayerResources/Skills/Resist/#Resist)**: +2
 - **General**:
-	- **Performer** +3
-	- **Smart** +2
-	- **Charismatic** +2
-	- **Intimidating** +2
-	- **Lucky** +1
-- **Tradeskill**:
-	- **Enchanter** +2
+    - **[Performer]({{site.baseurl}}/PlayerResources/Skills/Performer/#Performer)**: +3
+    - **[Smart]({{site.baseurl}}/PlayerResources/Skills/Smart/#Smart)**: +2
+    - **[Charismatic]({{site.baseurl}}/PlayerResources/Skills/Charismatic/#Charismatic)**: +2
+    - **[Intimidating]({{site.baseurl}}/PlayerResources/Skills/Intimidating/#Intimidating)**: +2
+    - **[Lucky]({{site.baseurl}}/PlayerResources/Skills/Lucky/#Lucky)**: +1
+- **Trade Skill**:
+    - **[Enchanter]({{site.baseurl}}/PlayerResources/Skills/Enchanter/#Enchanter)**: +2
 	
 ## Abilities
-- **Fire**
-	- **Living Flame**
-	- **Ignite**
-	- **Wall of Fire**
-	- **Control Flames**
-	
+- **[Fire]({{site.baseurl}}/PlayerResources/Abilities/Fire/#Fire)**
 ## Equipment
 - **Main Hand**: Dagger (1)
 - **Off Hand**:

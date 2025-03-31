@@ -17,26 +17,21 @@ Finrik, a wise and gentle shapeshifter, carries the weight of ancient knowledge 
 
 ## Skills
 - **Core**
-	- **Attack**: +0
-	- **Magic**: +2
-	- **Evade**: +1
-	- **Resist**: +2
+    - **[Attack]({{site.baseurl}}/PlayerResources/Skills/Attack/#Attack)**: +0
+    - **[Magic]({{site.baseurl}}/PlayerResources/Skills/Magic/#Magic)**: +2
+    - **[Evade]({{site.baseurl}}/PlayerResources/Skills/Evade/#Evade)**: +1
+    - **[Resist]({{site.baseurl}}/PlayerResources/Skills/Resist/#Resist)**: +2
 - **General**:
-	- **Leader** +3
-	- **Wise** +2
-	- **Kind** +2
-	- **Charismatic** +1
-	- **Tough** +1
-- **Tradeskill**:
-	- **Animal Handler** +2
+    - **[Leader]({{site.baseurl}}/PlayerResources/Skills/Leader/#Leader)**: +3
+    - **[Wise]({{site.baseurl}}/PlayerResources/Skills/Wise/#Wise)**: +2
+    - **[Kind]({{site.baseurl}}/PlayerResources/Skills/Kind/#Kind)**: +2
+    - **[Charismatic]({{site.baseurl}}/PlayerResources/Skills/Charismatic/#Charismatic)**: +1
+    - **[Tough]({{site.baseurl}}/PlayerResources/Skills/Tough/#Tough)**: +1
+- **Trade Skill**:
+    - **[Animal Handler]({{site.baseurl}}/PlayerResources/Skills/AnimalHandler/#Animal-Handler)**: +2
 	
 ## Abilities
-- **Shifting**
-	- **Animal Form**
-	- **Aquatic Form**
-	- **Flying Form**
-	- **Impersonate**
-	
+- **[Shapeshifting]({{site.baseurl}}/PlayerResources/Abilities/Shapeshifting/#Shapeshifting)**
 ## Equipment
 - **Main Hand**: Warped Wooden Staff (2)
 - **Off Hand**:

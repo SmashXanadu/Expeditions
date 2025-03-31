@@ -19,7 +19,8 @@ permalink: /Rules/Index/
 12. **[Trade Skills]({{site.baseurl}}/Rules/12/#tradeskills)**
 
 ## [Index](#index)
-- [Abilities]({{site.baseurl}}/Rules/9/#abilities)
+- [Abilities (Rules)]({{site.baseurl}}/Rules/9/#abilities)
+- [Abilities (List)]({{site.baseurl}}/PlayerResources/Abilities/AbilityList/#ability-list)
 - [Attack]({{site.baseurl}}/Rules/5/#attacking)
 - [Benefits]({{site.baseurl}}/Rules/0/#missing-rule)
 - [Broken Equipment]({{site.baseurl}}/Rules/0/#missing-rule)
@@ -68,8 +69,6 @@ permalink: /Rules/Index/
 ## Other Player Resources
 - [Playtest]({{site.baseurl}}/Playtest/Index/)
 - [Ability List]({{site.baseurl}}/PlayerResources/Abilities/AbilityList/#ability-list)
-- [Skills Detailed List]({{site.baseurl}}/PlayerResources/SkillsDetailed/#skill-list)
-- [Trade Skills Detailed List]({{site.baseurl}}/PlayerResources/TradeSkillsDetailed/#trade-skill-list)
 - [Hero Grid](https://raw.githubusercontent.com/SmashXanadu/Expeditions/refs/heads/main/images/HeroGridSheet.png)
 - [Blank Character Sheet](https://raw.githubusercontent.com/SmashXanadu/Expeditions/refs/heads/main/images/CharacterSheet.png)
 - [Blank Equipment Sheet](https://raw.githubusercontent.com/SmashXanadu/Expeditions/refs/heads/main/images/EquipmentSheet.png)
