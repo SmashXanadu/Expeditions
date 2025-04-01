@@ -4,6 +4,7 @@ title: Trade Skills Detailed List
 permalink: /PlayerResources/TradeSkillsDetailed/
 ---
 ## [Trade Skills Detailed List](#trade-skill-list)
+
 ## Alchemist
 Mix potions and salves with magical properties.
 
