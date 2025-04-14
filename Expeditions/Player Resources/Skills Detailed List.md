@@ -10,24 +10,15 @@ permalink: /PlayerResources/SkillsDetailed/
 You have nimble hands, patience, and attention to detail.
 
 **Example Actions**: 
-- **Crafting:**
-    - Assembling a complex clockwork device.
-    - Repairing a delicate piece of jewelry.
-    - Creating a potion with precise measurements.
-- **Disarming/Disassembling:**
-    - Disarming a pressure plate trap.
-    - Safely disassembling a magical artifact.
-    - Salvaging parts from a broken machine.
-- **Balance/Agility:**
-    - Walking across a narrow beam high above a chasm.
-    - Maintaining balance on a slippery, moving surface.
-    - Carefully navigating a field of caltrops.
-- **Precision/Fine Motor Skills:**
-    - Performing delicate surgery on a wounded ally.
-    - Picking a complex lock.
-    - Threading a needle in a moving carriage.
+- Repairing a delicate piece of jewelry.
+- Walking across a narrow beam high above a chasm.
+- Threading a needle in a moving carriage.
 
 **Skill Perks:**
+- ☐
+- ☐
+- ☐
+- ☐
 
 - **Meticulous Crafter:**
     - **Perfect Fit** - When crafting an item that requires multiple components, you can ensure that all pieces fit together flawlessly. This perk grants Advantage on rolls related to assembling complex items or repairing intricate mechanisms.
@@ -48,25 +39,15 @@ You have nimble hands, patience, and attention to detail.
 You have a way with words and use them well.
 
 **Example Actions**:
-
-- **Persuasion:**
     - Convincing a guard to let you pass.
     - Negotiating a favorable trade deal.
-    - Rallying a crowd to your cause.
-- **Deception:**
-    - Blending into a crowd to avoid detection.
-    - Creating a convincing disguise.
-    - Fabricating a believable lie.
-- **Performance:**
-    - Entertaining a crowd with a song or dance.
     - Delivering a rousing speech.
-    - Impersonating another person.
-- **Intimidation:**
-    - Demanding information from a reluctant witness.
-    - Threatening a hostile opponent.
-    - Projecting an aura of authority.
 
 **Skill Perks:**
+- ☐
+- ☐
+- ☐
+- ☐
 
 - **Community Builder:**
     - **Shared Experience** - Your ability to connect with others allows you to quickly foster a sense of camaraderie. Allies gain a bonus to teamwork-based rolls when working with you.
@@ -87,25 +68,15 @@ You have a way with words and use them well.
 You can control your body and move with confidence.
 
 **Example Actions**:
-
-- **Evading:**
-    - Dodging a flurry of arrows.
-    - Weaving through a crowded marketplace.
-    - Slipping past a guard unnoticed.
-- **Climbing/Traversing:**
-    - Scaling a sheer cliff face.
-    - Swinging from rope to rope.
-    - Leaping across rooftops.
-- **Sleight of Hand:**
-    - Picking pockets.
-    - Palming a valuable item.
-    - Performing card tricks.
-- **Fine Motor Skills:**
-    - Disarming a complex trap.
-    - Juggling multiple objects.
-    - Playing a musical instrument.
+- Weaving through a crowded marketplace.
+- Swinging from rope to rope.
+- Performing card tricks.
 
 **Skill Perks:**
+- ☐
+- ☐
+- ☐
+- ☐
 
 - **Uncanny Agility:**
     - **Quick Reflexes** - You react to danger with lightning speed, granting you a bonus to Evade rolls.
@@ -126,21 +97,15 @@ You can control your body and move with confidence.
 You can avoid danger and move quickly.
 
 **Example Actions**:
-
-- **Dodging:**
-    - Avoiding a melee attack.
-    - Ducking under a projectile.
-    - Rolling away from an explosion.
-- **Slipping:**
-    - Sliding through a narrow opening.
-    - Weaving through a crowd.
-    - Moving silently past a guard.
-- **Reacting:**
-    - Catching a falling object.
-    - Deflecting a blow with a weapon.
-    - Quickly moving out of the way of a trap.
+- Avoiding a melee attack.
+- Ducking under a projectile.
+- Rolling away from an explosion.
 
 **Skill Perks:**
+- ☐
+- ☐
+- ☐
+- ☐
 
 - **Momentum:**
     
@@ -161,25 +126,15 @@ You can avoid danger and move quickly.
 You have a natural sense of direction in the unknown.
 
 **Example Actions**:
-
-- **Navigation:**
-    - Finding your way through a dense forest.
-    - Charting a course through a treacherous mountain range.
-    - Following a faint trail across a barren desert.
-- **Investigation:**
-    - Discovering hidden passages or secret rooms.
-    - Identifying ancient ruins or lost civilizations.
-    - Deciphering cryptic symbols or maps.
-- **Survival:**
-    - Finding food and water in a harsh environment.
-    - Building a shelter to withstand extreme weather.
-    - Identifying and avoiding dangerous wildlife.
-- **Mapping/Charting:**
-    - Creating accurate maps of unexplored territories.
-    - Surveying an area to determine its resources.
-    - Identifying landmarks and points of interest.
+- Finding your way through a dense forest.
+- Following a faint trail across a barren desert.
+- Discovering hidden passages or secret rooms.
 
 **Skill Perks:**
+- ☐
+- ☐
+- ☐
+- ☐
 
 - **Pathfinder:**
     
@@ -204,21 +159,15 @@ You have a natural sense of direction in the unknown.
 You have near instant reaction time and move quickly.
 
 **Example Actions**:
-
-- **Sprinting:**
-    - Closing a distance quickly.
-    - Escaping a dangerous situation.
-    - Chasing down a fleeing target.
-- **Reacting:**
-    - Catching a thrown object.
-    - Dodging a sudden attack.
-    - Quickly manipulating an object.
-- **Initiative:**
-    - Acting before others in a combat situation.
-    - Quickly assessing a situation.
-    - Reacting to a sudden change in environment.
+- Closing a distance quickly.
+- Acting before others in a combat situation.
+- Reacting to a sudden change in environment.
 
 **Skill Perks:**
+- ☐
+- ☐
+- ☐
+- ☐
 
 - **Blurring Speed:**
     
@@ -243,21 +192,15 @@ You have near instant reaction time and move quickly.
 You make people fear what you are capable of.
 
 **Example Actions**:
-
-- **Threatening:**
-    - Demanding information from a prisoner.
-    - Warning a rival to back down.
-    - Projecting an aura of menace.
-- **Coercing:**
-    - Forcing someone to comply with your demands.
-    - Using fear to manipulate others.
-    - Breaking someone's will.
-- **Demoralizing:**
-    - Taunting an enemy to weaken their resolve.
-    - Displaying overwhelming power.
-    - Instilling a sense of hopelessness.
+- Warning a rival to back down.
+- Forcing someone to comply with your demands.
+- Taunting an enemy to weaken their resolve.
 
 **Skill Perks:**
+- ☐
+- ☐
+- ☐
+- ☐
 
 - **Have a Reputation:**
     
@@ -282,25 +225,15 @@ You make people fear what you are capable of.
 Your care and generosity toward others knows no bounds.
 
 **Example Actions**:
-
-- **Comforting:**
-    - Soothing a frightened child.
-    - Offering words of encouragement to a grieving friend.
-    - Providing aid to the injured.
-- **Helping:**
-    - Assisting someone in need.
-    - Volunteering your time to a worthy cause.
-    - Sharing resources with those less fortunate.
-- **Mediating:**
-    - Resolving a conflict between two individuals.
-    - Bringing together opposing factions.
-    - De-escalating a tense situation.
-- **Empathy:**
-    - Understanding and sharing the feelings of others.
-    - Providing emotional support to those in need.
-    - Showing compassion for all living things.
+  - Soothing a frightened child.
+  - De-escalating a tense situation.
+  - Understanding and sharing the feelings of others.
 
 **Skill Perks:**
+- ☐
+- ☐
+- ☐
+- ☐
 
 - **Calming Aura:**
     
@@ -325,25 +258,15 @@ Your care and generosity toward others knows no bounds.
 You naturally inspire confidence and trust from others.
 
 **Example Actions**:
-
-- **Directing:**
     - Giving clear and concise orders.
     - Coordinating the actions of a group.
     - Motivating others to achieve a common goal.
-- **Strategizing:**
-    - Developing long-term plans.
-    - Anticipating enemy movements.
-    - Adapting to changing circumstances.
-- **Negotiating:**
-    - Securing alliances with other groups.
-    - Resolving disputes between followers.
-    - Representing your group's interests.
-- **Inspiring:**
-    - Delivering rousing speeches.
-    - Leading by example.
-    - Instilling a sense of purpose.
 
-**Skill Perks**:
+**Skill Perks:**
+- ☐
+- ☐
+- ☐
+- ☐
 
 - **Inspiring Presence**:
     
@@ -368,25 +291,15 @@ You naturally inspire confidence and trust from others.
 Somehow things always seem to work out for you.
 
 **Example Actions**:
+- Narrowly escaping a trap.
+- Surviving a near-fatal accident.
+- Succeeding at games of chance.
 
-- **Avoiding Danger:**
-    - Narrowly escaping a trap.
-    - Surviving a near-fatal accident.
-    - Dodging a stray attack.
-- **Finding Opportunities:**
-    - Discovering a hidden treasure.
-    - Meeting a helpful stranger.
-    - Being in the right place at the right time.
-- **Winning Contests:**
-    - Succeeding at games of chance.
-    - Winning competitions against improbable odds.
-    - Finding unexpected solutions.
-- **Benefiting from Circumstance:**
-    - A sudden rainstorm extinguishes a fire.
-    - An enemy's weapon malfunctions.
-    - A timely distraction allows for an escape.
-
-**Skill Perks**:
+**Skill Perks:**
+- ☐
+- ☐
+- ☐
+- ☐
 
 - **Close Call**:
     
@@ -411,25 +324,16 @@ Somehow things always seem to work out for you.
 You influence people to get what you want.
 
 **Example Actions**:
+- Telling convincing lies.
+- Blackmailing or extorting others.
+- Using social engineering to gain access.
 
-- **Deception:**
-    - Telling convincing lies.
-    - Creating elaborate facades.
-    - Impersonating others.
-- **Persuasion:**
-    - Using charm and flattery.
-    - Exploiting weaknesses and insecurities.
-    - Offering tempting rewards.
-- **Intimidation:**
-    - Making veiled threats.
-    - Using social pressure.
-    - Blackmailing or extorting others.
-- **Information Gathering:**
-    - Spreading rumors to gather information.
-    - Using social engineering to gain access.
-    - Cultivating informants.
 
-**Skill Perks**:
+**Skill Perks:**
+- ☐
+- ☐
+- ☐
+- ☐
 
 - **Divide and Conquer**:
     
@@ -454,25 +358,15 @@ You influence people to get what you want.
 Nothing gets past you. You are always on the watch.
 
 **Example Actions**:
+- Detecting a subtle change in someone's expression.
+- Identifying a distant sound.
+- Noticing a subtle change in the air.
 
-- **Spotting:**
-    - Noticing a hidden object.
-    - Detecting a subtle change in someone's expression.
-    - Identifying a disguised person.
-- **Hearing:**
-    - Overhearing a whispered conversation.
-    - Identifying a distant sound.
-    - Detecting a faint heartbeat.
-- **Smelling/Tasting:**
-    - Identifying a poisonous substance.
-    - Tracking an animal by its scent.
-    - Noticing a subtle change in the air.
-- **Analyzing:**
-    - Deciphering a complex code.
-    - Identifying patterns in behavior.
-    - Drawing conclusions from subtle clues.
-
-**Skill Perks**:
+**Skill Perks:**
+- ☐
+- ☐
+- ☐
+- ☐
 
 - **Analyze**:
     
@@ -497,25 +391,15 @@ Nothing gets past you. You are always on the watch.
 You know how to put on a show for others.
 
 **Example Actions**:
+- Entrancing an audience with a song.
+- Conveying emotions through dramatic performance.
+- Persuading an audience with your words.
 
-- **Singing/Playing Music:**
-    - Entrancing an audience with a song.
-    - Using music to create a specific mood.
-    - Playing an instrument with virtuosity.
-- **Dancing/Acrobatics:**
-    - Performing a captivating dance routine.
-    - Using acrobatics to entertain or distract.
-    - Moving with grace and precision.
-- **Acting/Storytelling:**
-    - Impersonating another person convincingly.
-    - Telling a story that holds an audience rapt.
-    - Conveying emotions through dramatic performance.
-- **Public Speaking/Oratory:**
-    - Delivering a rousing speech.
-    - Persuading an audience with your words.
-    - Captivating a crowd with your presence.
-
-**Skill Perks**:
+**Skill Perks:**
+- ☐
+- ☐
+- ☐
+- ☐
 
 - **Captivating Performance**:
     
@@ -540,25 +424,15 @@ You know how to put on a show for others.
 You are skilled in the use of poisons and toxins.
 
 **Example Actions**:
+- Concealing poison in food or drink.
+- Identifying and avoiding poisoned substances.
+- Identifying the source of a poison.
 
-- **Mixing Poisons:**
-    - Creating deadly concoctions.
-    - Identifying the properties of a poison.
-    - Crafting antidotes.
-- **Delivering Poisons:**
-    - Applying poison to weapons or tools.
-    - Concealing poison in food or drink.
-    - Using poison darts or blowpipes.
-- **Resisting Poisons:**
-    - Identifying and avoiding poisoned substances.
-    - Developing immunity to certain poisons.
-    - Creating antidotes for common poisons.
-- **Knowledge of Poisons:**
-    - Understanding the effects and countermeasures of various poisons.
-    - Identifying the source of a poison.
-    - Gathering information on rare and exotic poisons.
-
-**Skill Perks**:
+**Skill Perks:**
+- ☐
+- ☐
+- ☐
+- ☐
 
 - **Botanical Identification**:
     
@@ -583,25 +457,15 @@ You are skilled in the use of poisons and toxins.
 You can withstand physical and mental duress.
 
 **Example Actions**:
+- Enduring extreme temperatures.
+- Fighting off a poison or disease.
+- Resisting attempts to control your mind.
 
-- **Withstanding Damage:**
-    - Shrugging off a blow.
-    - Enduring extreme temperatures.
-    - Ignoring pain.
-- **Resisting Effects:**
-    - Fighting off a poison or disease.
-    - Maintaining composure under pressure.
-    - Breaking free from restraints.
-- **Mental Resistance:**
-    - Resisting attempts to control your mind.
-    - Ignoring fear or intimidation.
-    - Maintaining focus under stress.
-- **Environmental Resistance:**
-    - Surviving in harsh environments.
-    - Withstanding extreme weather conditions.
-    - Adapting to unusual surroundings.
-
-**Skill Perks**:
+**Skill Perks:**
+- ☐
+- ☐
+- ☐
+- ☐
 
 - **Adaptive Immunity**:
     
@@ -626,25 +490,15 @@ You can withstand physical and mental duress.
 You can find useful objects in obscure places.
 
 **Example Actions**:
+- Recovering usable parts from broken items.
+- Determining the value of found objects.
+- Recognizing rare or unusual items.
 
-- **Searching:**
-    - Finding hidden compartments.
-    - Locating useful items in ruins.
-    - Discovering valuable objects in trash.
-- **Salvaging:**
-    - Recovering usable parts from broken items.
-    - Repairing damaged equipment.
-    - Finding valuable scrap materials.
-- **Bartering:**
-    - Trading found items for goods or services.
-    - Selling salvaged materials.
-    - Negotiating for better prices.
-- **Identifying:**
-    - Determining the value of found objects.
-    - Recognizing rare or unusual items.
-    - Assessing the condition of salvaged materials.
-
-**Skill Perks**:
+**Skill Perks:**
+- ☐
+- ☐
+- ☐
+- ☐
 
 - **Looter**:
     
@@ -669,25 +523,15 @@ You can find useful objects in obscure places.
 You excel with pattern recognition and logical deduction.
 
 **Example Actions**:
+- Deciphering complex puzzles.
+- Understanding intricate systems.
+- Identifying patterns in data.
 
-- **Problem Solving:**
-    - Deciphering complex puzzles.
-    - Creating efficient solutions to problems.
-    - Understanding intricate systems.
-- **Analysis:**
-    - Identifying patterns in data.
-    - Drawing logical conclusions.
-    - Predicting future events.
-- **Learning:**
-    - Quickly grasping new concepts.
-    - Retaining large amounts of information.
-    - Adapting to new situations.
-- **Planning:**
-    - Creating detailed plans.
-    - Anticipating potential obstacles.
-    - Optimizing resource allocation.
-
-**Skill Perks**:
+**Skill Perks:**
+- ☐
+- ☐
+- ☐
+- ☐
 
 - **Logical Deduction**:
     
@@ -712,25 +556,16 @@ You excel with pattern recognition and logical deduction.
 You have nimble hands, patience, and attention to detail.
 
 **Example Actions**:
+  - Palming small objects.
+  - Blending into crowds.
+  - Gathering information undetected.
 
-- **Stealth:**
-    - Moving silently through shadows.
-    - Avoiding detection by guards.
-    - Hiding in plain sight.
-- **Sleight of Hand:**
-    - Picking pockets.
-    - Palming small objects.
-    - Rigging traps.
-- **Disguise:**
-    - Blending into crowds.
-    - Impersonating others.
-    - Creating convincing illusions.
-- **Infiltration:**
-    - Gaining access to restricted areas.
-    - Gathering information undetected.
-    - Sabotaging enemy operations.
 
-**Skill Perks**:
+**Skill Perks:**
+- ☐
+- ☐
+- ☐
+- ☐
 
 - **Shadow Meld**:
     
@@ -755,25 +590,15 @@ You have nimble hands, patience, and attention to detail.
 You can bend, lift, and crush large objects with ease.
 
 **Example Actions**:
+- Lifting heavy objects.
+- Breaking down barriers.
+- Breaking free from restraints.
 
-- **Lifting/Carrying:**
-    - Lifting heavy objects.
-    - Throwing objects with great force.
-    - Breaking down barriers.
-- **Attacking:**
-    - Delivering powerful blows.
-    - Overpowering opponents.
-    - Using your strength to crush objects.
-- **Defense:**
-    - Withstanding powerful blows.
-    - Breaking free from restraints.
-    - Using your body as a shield.
-- **Environmental Interaction:**
-    - Climbing sheer cliffs.
-    - Swimming through strong currents.
-    - Withstanding harsh environments.
-
-**Skill Perks**:
+**Skill Perks:**
+- ☐
+- ☐
+- ☐
+- ☐
 
 - **Brute Force:**
     - **Overwhelming Strength:** Your attacks are more likely to knock enemies prone or stun them.
@@ -794,25 +619,16 @@ You can bend, lift, and crush large objects with ease.
 You know how to get by on limited resources.
 
 **Example Actions**:
+- Locating hidden trails.
+- Identifying edible plants and fungi.
+- Hunting small game.
+- Building or finding shelter.
 
-- **Tracking:**
-    - Following animal or humanoid tracks.
-    - Determining the age and direction of tracks.
-    - Locating hidden trails.
-- **Foraging:**
-    - Identifying edible plants and fungi.
-    - Hunting small game.
-    - Purifying water sources.
-- **Shelter:**
-    - Building temporary shelters.
-    - Finding natural shelters.
-    - Adapting to extreme weather conditions.
-- **Navigation:**
-    - Finding your way using natural landmarks.
-    - Reading the stars.
-    - Predicting weather patterns.
-
-**Skill Perks**:
+**Skill Perks:**
+- ☐
+- ☐
+- ☐
+- ☐
 
 - **Tracker**:
     - **Keen Scent**: You can track creatures by scent, even in difficult conditions.
@@ -833,25 +649,15 @@ You know how to get by on limited resources.
 You can make things disappear… into your pockets.
 
 **Example Actions**:
+- Stealing valuable items without being noticed.
+- Opening locks without keys.
+- Disabling traps and security systems.
 
-- **Pickpocketing:**
-    - Stealing small objects from unsuspecting targets.
-    - Palming valuable items without being noticed.
-    - Quickly retrieving hidden objects.
-- **Lockpicking:**
-    - Opening locks without keys.
-    - Disabling traps and security systems.
-    - Gaining access to locked areas.
-- **Forgery:**
-    - Creating convincing fake documents.
-    - Impersonating others through forged credentials.
-    - Altering existing documents for your benefit.
-- **Infiltration:**
-    - Sneaking into secure locations.
-    - Gathering information undetected.
-    - Sabotaging enemy operations.
-
-**Skill Perks**:
+**Skill Perks:**
+- ☐
+- ☐
+- ☐
+- ☐
 
 - **Pickpocket**:
     - **Sleight of Hand Master**: You can pickpocket with exceptional skill, making it nearly impossible to detect your actions.
@@ -872,21 +678,15 @@ You can make things disappear… into your pockets.
 You can tolerate pain and discomfort that others can’t.
 
 **Example Actions**:
+- Withstanding extreme temperatures or environmental hazards.
+- Performing strenuous tasks for extended periods.
+- Pushing through physical limitations.
 
-- **Enduring Damage:**
-    - Shrugging off blows that would incapacitate others.
-    - Continuing to fight despite severe injuries.
-    - Withstanding extreme temperatures or environmental hazards.
-- **Resisting Effects:**
-    - Fighting off poisons and diseases.
-    - Maintaining composure under intense stress.
-    - Ignoring mental or emotional duress.
-- **Physical Exertion:**
-    - Performing strenuous tasks for extended periods.
-    - Withstanding harsh conditions.
-    - Pushing through physical limitations.
-
-**Skill Perks**:
+**Skill Perks:**
+- ☐
+- ☐
+- ☐
+- ☐
 
 - **Iron Skin**:
     
@@ -911,25 +711,15 @@ You can tolerate pain and discomfort that others can’t.
 You know how to fool others into seeing your truth.
 
 **Example Actions**:
+- Creating elaborate illusions.
+- Impersonating others.
+- Creating diversions or distractions to flee.
 
-- **Deception:**
-    - Telling convincing lies.
-    - Creating elaborate illusions.
-    - Impersonating others.
-- **Distraction:**
-    - Using sleight of hand to misdirect attention.
-    - Creating diversions.
-    - Causing confusion.
-- **Manipulation:**
-    - Exploiting weaknesses and insecurities.
-    - Using reverse psychology.
-    - Setting up elaborate pranks.
-- **Escape:**
-    - Slipping out of tight situations.
-    - Creating distractions to flee.
-    - Using unconventional methods to evade pursuers.
-
-**Skill Perks**:
+**Skill Perks:**
+- ☐
+- ☐
+- ☐
+- ☐
 
 - **Agent of Chaos**:
     
@@ -954,25 +744,15 @@ You know how to fool others into seeing your truth.
 You know from experience how to handle most situations.
 
 **Example Actions**:
+- Drawing on past experiences to find solutions.
+- Interpreting omens and signs.
+- Recognizing deception.
 
-- **Counseling:**
-    - Offering sage advice.
-    - Providing emotional support.
-    - Resolving conflicts through mediation.
-- **Problem Solving:**
-    - Drawing on past experiences to find solutions.
-    - Identifying patterns and predicting outcomes.
-    - Offering alternative perspectives.
-- **Learning:**
-    - Interpreting omens and signs.
-    - Understanding complex philosophies.
-    - Sharing knowledge and stories.
-- **Perception:**
-    - Reading between the lines.
-    - Understanding subtle cues.
-    - Recognizing deception.
-
-**Skill Perks**:
+**Skill Perks:**
+- ☐
+- ☐
+- ☐
+- ☐
 
 - **Guidance**:
     
