@@ -15,23 +15,13 @@ You have nimble hands, patience, and attention to detail.
 - Threading a needle in a moving carriage.
 
 **Skill Perks:**
-- ☐
-- ☐
-- ☐
-- ☐
-
-- **Meticulous Crafter:**
-    - **Perfect Fit** - When crafting an item that requires multiple components, you can ensure that all pieces fit together flawlessly. This perk grants Advantage on rolls related to assembling complex items or repairing intricate mechanisms.
-    - **Perk: "Hidden Compartments"** - You can create hidden compartments in objects or structures with exceptional skill. These compartments are nearly undetectable without a thorough search.
-- **Delicate Disassembler:**
-    - **Salvage Expert** - When disassembling an item, you recover a higher percentage of usable components. This perk is especially useful for salvaging rare or valuable materials.
-    - **Trap Disarm** - You can disarm traps with a higher degree of precision, reducing the risk of triggering them.
-- **Uncanny Balance:**
-    - **Tightrope Walker** - You can maintain your balance in even the most precarious situations. This perk allows you to traverse narrow or unstable surfaces with ease.
-    - **Perk: "Sure Footing"** - You are less likely to be knocked prone or lose your footing in difficult terrain.
-- **Steady Hand:**
-    - **Precise Aim** - When using ranged weapons or throwing objects, you have a steady hand and can aim with exceptional accuracy. This perk grants a bonus to ranged attack rolls.
-    - **Surgical Precision** - You can perform delicate tasks with surgical precision, such as performing first aid or manipulating small objects.
+- ☐ **Meticulous Insight:** You possess an exceptional eye for detail, allowing you to notice subtle flaws or imperfections in objects or environments. This grants you Advantage on Perception checks to identify weaknesses, hidden mechanisms, or signs of tampering.
+  
+- ☐ **Nimble Fingers:** Your dexterity and control allow for intricate manipulations. You gain Advantage on Dexterity checks involving fine motor skills, such as picking pockets, disabling simple locks, or performing delicate adjustments.
+  
+- ☐ **Unwavering Stability:** Your focus and balance are exceptional. You gain Advantage on Balance checks and saving throws made to avoid falling or being knocked prone.
+  
+- ☐ **Focused Precision:** Your careful nature extends to actions requiring accuracy. When making a single, aimed attack with a ranged weapon or attempting a precise manipulation under pressure, you can take extra time to ensure accuracy, granting a bonus to the attack roll or skill check.
 
 ------------------------------------------------
 ## Charismatic
@@ -44,23 +34,13 @@ You have a way with words and use them well.
     - Delivering a rousing speech.
 
 **Skill Perks:**
-- ☐
-- ☐
-- ☐
-- ☐
-
-- **Community Builder:**
-    - **Shared Experience** - Your ability to connect with others allows you to quickly foster a sense of camaraderie. Allies gain a bonus to teamwork-based rolls when working with you.
-    - **Inspiring Leader** - Your words can inspire others to greatness. Allies gain a temporary bonus to morale or determination when you make a successful inspiring speech.
-- **Old Friends:**
-    - **Recognized Face** - You have a knack for remembering faces and names, even after long periods of time. This can allow you to quickly reconnect with old acquaintances and gain their trust.
-    - **Hidden Connections** - You have a wide network of contacts and can often find someone who knows someone who knows someone. This allows you to quickly gather information or find assistance in unexpected places.
-- **Storyteller:**
-    - **Captivating Tales** - Your stories can hold an audience spellbound. You can use this ability to distract, entertain, or even subtly influence others.
-    - **Legendary Reputation** - Your tales spread far and wide, building your reputation and influencing how others perceive you.
-- **Silver Tongue:**
-    - **Smooth Talker** - You can talk your way out of almost any situation. You gain a bonus to rolls when attempting to deceive or persuade others.
-    - **Quick Wit** - You have a sharp tongue and can deliver biting insults or clever comebacks with ease. This can be used to demoralize opponents or gain the upper hand in social interactions.
+- ☐ **Inspiring Presence:** Your words and demeanor naturally inspire confidence and trust in those around you. Allies within a short range gain a bonus to saving throws against fear and charm effects while you are present and speaking to them. (Combines elements of Inspiring Leader and general charisma)
+  
+- ☐ **Social Navigator:** You possess a keen understanding of social dynamics and can effortlessly navigate complex social situations. You gain Advantage on Insight checks made to read people's intentions and Deception checks to blend in or misdirect. (Draws from Recognized Face and Smooth Talker)
+  
+- ☐ **Eloquent Orator:** Your command of language allows you to sway opinions and move hearts with your speeches. When making Persuasion checks to influence groups, the DC is reduced by a small amount. (Focuses on the power of spoken word from Storyteller and Smooth Talker)
+  
+- ☐ **Charming Demeanor:** You have a natural charm that makes you likeable and memorable. You gain Advantage on Charisma checks made to form first impressions and build rapport with individuals. (A broader take on the initial aspects of Charismatic and Recognized Face)
 
 ------------------------------------------------
 ## Dexterous
@@ -73,23 +53,13 @@ You can control your body and move with confidence.
 - Performing card tricks.
 
 **Skill Perks:**
-- ☐
-- ☐
-- ☐
-- ☐
-
-- **Uncanny Agility:**
-    - **Quick Reflexes** - You react to danger with lightning speed, granting you a bonus to Evade rolls.
-    - **Fluid Movement** - You can move through difficult terrain with ease, ignoring movement penalties.
-- **Graceful:**
-    - **Effortless Movement** - Your movements are fluid and graceful, allowing you to perform complex maneuvers with ease. You gain a bonus to rolls when performing acrobatic stunts or dance routines.
-    - **Unseen Movement** - Your movements are so subtle that you can move without being noticed, granting you a bonus to Stealth rolls.
-- **Nimble Fingers:**
-    - **Sleight of Mind** - Your fingers are so nimble that you can perform feats of sleight of hand that seem impossible. You gain a bonus to rolls when attempting to pick pockets or perform other acts of deception.
-    - **Trap Master** - You can disarm traps with exceptional skill, even those that are extremely complex. You gain a bonus to rolls when disarming traps.
-- **Acrobatics:**
-    - **Death Defying Leaps** - You can perform acrobatic feats that would make others dizzy. You gain a bonus to rolls when attempting to leap across gaps or perform other dangerous stunts.
-    - **Tumbling Expert** - You can roll and tumble with exceptional skill, allowing you to avoid damage from falls or other impacts. You gain a bonus to rolls when attempting to avoid damage from falls.
+- ☐ **Evasive Maneuvers:** Your agility allows you to nimbly avoid danger. When targeted by an attack that requires a Dexterity saving throw to avoid, you gain a bonus to that saving throw. (Inspired by Quick Reflexes and general bodily control)
+  
+- ☐ **Fluid Acrobat:** You move with exceptional grace and control, allowing you to perform complex physical feats. You gain Advantage on Acrobatics checks made to navigate difficult terrain, perform stunts, or maintain balance in precarious situations. (Combines Fluid Movement and Effortless Movement)
+  
+- ☐ **Subtle Manipulation:** Your fine motor skills are highly developed, allowing for delicate and unnoticed actions. You gain Advantage on Sleight of Hand checks made to pick pockets, plant objects, or perform subtle acts of manipulation. (Directly from Sleight of Mind)
+  
+- ☐ **Reactive Agility:** Your body responds quickly to unexpected changes in your environment. You gain a bonus to your initiative rolls. (Draws from the "react to danger" aspect of Quick Reflexes and the overall theme of bodily control)
 
 ------------------------------------------------
 ## Evade
@@ -102,23 +72,13 @@ You can avoid danger and move quickly.
 - Rolling away from an explosion.
 
 **Skill Perks:**
-- ☐
-- ☐
-- ☐
-- ☐
-
-- **Momentum:**
-    
-    - **Rolling Dodge:** If you move at least 2 zones before evading, gain advantage on your Evade roll.
-    - **Afterimage:** If you successfully evade an attack, you gain a temporary +1 to Evade rolls against the same enemy until the start of your next turn.
-- **Disengage:**
-    
-    - **Tactical Retreat:** When you successfully evade an attack, you can move 1 zone away from the attacker without provoking attacks of opportunity.
-    - **Parting Blow:** If an enemy misses you with a melee attack and you successfully evade, you can make a free melee attack against them at disadvantage.
-- **Predictable:**
-    
-    - **Anticipate:** Before an enemy attacks, you can attempt a roll to predict their attack. If successful, you gain advantage on your Evade roll against that attack.
-    - **Rhythmic Evasion:** Against enemies who use repetitive or predictable attack patterns, you gain a stacking +1 to Evade rolls against their attacks (resets if you take damage).
+- ☐ **Reactive Dodge:** Your instincts for self-preservation are highly honed. You gain a bonus to your Evade rolls against unexpected attacks or hazards. (Generalizes the ability to avoid danger quickly)
+  
+- ☐ **Fluid Evasion:** Your movements are swift and seamless. If you successfully evade an attack, your movement speed is increased by 1 zone until the end of your turn. (Inspired by Rolling Dodge and the theme of quick movement)
+  
+- ☐ **Calculated Avoidance:** You can anticipate incoming threats with remarkable accuracy. Before an enemy makes an attack roll against you, you can choose to focus. If the attack misses, you gain a bonus to your next Evade roll before the end of your next turn. (Based on Anticipate, emphasizing a deliberate approach to evasion)
+  
+- ☐ **Elusive Target:** Your constant movement makes you difficult to pin down. Enemies have disadvantage on attack rolls against you in the round immediately following a successful Evade roll. (Draws from the general concept of avoiding attacks and the benefit of successful evasion)
 
 ------------------------------------------------
 ## Explorer
@@ -131,27 +91,13 @@ You have a natural sense of direction in the unknown.
 - Discovering hidden passages or secret rooms.
 
 **Skill Perks:**
-- ☐
-- ☐
-- ☐
-- ☐
-
-- **Pathfinder:**
-    
-    - **Natural Compass:** You always know which direction is north, and you have an uncanny ability to find your way even in the most disorienting environments.
-    - **Trailblazer:** You can create safe and efficient paths through unexplored areas, allowing your party to travel faster and avoid hazards.
-- **Lorefinder:**
-    
-    - **Ancient Knowledge:** You have a knack for uncovering hidden knowledge and forgotten lore. You can decipher ancient texts, recognize historical artifacts, and understand the significance of ruins.
-    - **Hidden Clues:** You have a keen eye for detail and can spot hidden clues that others might miss. This allows you to uncover secrets and solve mysteries.
-- **Discovery:**
-    
-    - **Serendipity:** You have a knack for stumbling upon unexpected discoveries, such as hidden treasures, rare resources, or lost artifacts.
-    - **Cartographer's Eye:** You can quickly and accurately map out unexplored areas, identifying key landmarks and points of interest.
-- **Surveyor:**
-    
-    - **Resourceful Eye:** You can quickly assess the resources available in an area, such as food, water, and building materials.
-    - **Terrain Expert:** You have a deep understanding of different types of terrain and can predict potential hazards or advantages.
+- ☐ **Unfailing Orientation:** Your innate sense of direction is unparalleled. You always know your cardinal direction and have Advantage on checks made to avoid getting lost or to navigate in unfamiliar environments. (Combines Natural Compass with a broader application)
+  
+- ☐ **Keen Observation:** You possess a sharp eye for detail, allowing you to notice subtle changes in your surroundings and identify hidden features. You gain Advantage on Perception checks made to spot trails, hidden passages, or unusual details. (Draws from Hidden Clues and the general attentiveness of an explorer)
+  
+- ☐ **Resourceful Navigator:** You have a knack for identifying and utilizing the resources available in the wilderness. You gain Advantage on Survival checks related to finding food, water, or shelter in unfamiliar terrain. (Combines Resourceful Eye with the core exploration theme)
+  
+- ☐ **Pathfinding Intuition:** You can intuitively sense the most efficient and safest routes through unexplored territory. When traveling at a normal pace through wilderness, your travel speed is increased slightly, and you have a reduced chance of encountering random hazards. (Inspired by Trailblazer and the overall sense of direction)
 
 ------------------------------------------------
 ## Fast
@@ -164,27 +110,13 @@ You have near instant reaction time and move quickly.
 - Reacting to a sudden change in environment.
 
 **Skill Perks:**
-- ☐
-- ☐
-- ☐
-- ☐
-
-- **Blurring Speed:**
-    
-    - **Sudden Burst:** You can move an additional zone as a free action once per turn.
-    - **Windwalk:** You can briefly move so quickly that you leave a momentary afterimage, gaining a +2 bonus to Evade rolls against the next attack targeting you.
-- **Instinctive Reflexes:**
-    
-    - **Preemptive Strike:** If you succeed on an Initiative roll, you gain a free attack against an enemy before the start of combat.
-    - **Danger Sense:** You gain advantage on rolls to avoid traps or sudden environmental hazards.
-- **Fleet Footed:**
-    
-    - **Agile Movement:** You ignore difficult terrain penalties.
-    - **Hit and Run:** If you make a successful melee attack, you can move 1 zone away without provoking attacks of opportunity.
-- **Quick Decision:**
-    
-    - **Snap Judgement:** You can make decisions faster than others, granting you advantage on rolls that require quick thinking or reaction.
-    - **Adaptive Tactics:** You can change your planned action mid-turn, allowing for greater flexibility in combat or other situations.
+- ☐ **Lightning Reflexes:** Your reaction time is incredibly fast. You gain a significant bonus to your Initiative rolls. (Directly from the core concept of reacting quickly)
+  
+- ☐ **Sudden Acceleration:** You can unleash bursts of incredible speed. Once per round, you can move an additional zone as a bonus action. (Similar to Sudden Burst but as a bonus action for broader use)
+  
+- ☐ **Anticipatory Movement:** You can predict and react to danger before it fully materializes. You gain Advantage on Dexterity saving throws made to avoid traps, area-of-effect attacks, and other sudden hazards. (Enhanced version of Danger Sense with a focus on avoidance)
+  
+- ☐ **Rapid Response:** When a triggering event occurs (determined by the situation, such as an enemy entering your zone or a sudden sound), you can take a single, immediate action (move, make a single attack, or use a skill) as a reaction. (A more versatile take on Preemptive Strike and reacting to the environment)
 
 ------------------------------------------------
 ## Intimidating
@@ -197,27 +129,13 @@ You make people fear what you are capable of.
 - Taunting an enemy to weaken their resolve.
 
 **Skill Perks:**
-- ☐
-- ☐
-- ☐
-- ☐
-
-- **Have a Reputation:**
-    
-    - **Whispered Fears:** Your reputation precedes you, causing enemies to hesitate or surrender before combat even begins.
-    - **Dreaded Name:** When introducing yourself to a group, they are automatically wary of you.
-- **Firm Negotiation:**
-    
-    - **Veiled Threats:** You can subtly weave threats into your negotiations, gaining leverage without resorting to violence.
-    - **Ironclad Demands:** Your demands are seen as non-negotiable, forcing others to concede.
-- **Undeniable Authority:**
-    
-    - **Commanding Presence:** Your presence alone commands respect, granting you advantage on rolls to influence or control others.
-    - **Unquestioned Orders:** Your orders are followed without hesitation, even by those who might normally resist.
-- **Unbreakable Will:**
-    
-    - **Terrifying Gaze:** You can lock eyes with an opponent, forcing them to confront their deepest fears and potentially falter.
-    - **Mental Fortitude:** You are immune to fear-based effects and can resist attempts to control your mind.
+- ☐ **Menacing Aura:** Your presence exudes a palpable sense of threat, making those around you uneasy. Enemies within a short range have disadvantage on attack rolls against your allies while you are visibly intimidating them. (Draws from Whispered Fears and Commanding Presence)
+  
+- ☐ **Coercive Presence:** You can leverage fear and authority to influence others. You gain Advantage on Intimidation checks made to force compliance or extract information. (Combines Ironclad Demands and general intimidation)
+  
+- ☐ **Psychological Warfare:** You excel at demoralizing and unsettling your opponents. As a bonus action, you can attempt an Intimidation check against a single enemy. If successful, that enemy suffers a temporary penalty to their attack rolls and saving throws. (Inspired by Terrifying Gaze and the idea of weakening resolve)
+  
+- ☐ **Unflinching Demeanor:** You are immune to fear and attempts to intimidate you. Additionally, you gain a bonus to saving throws against being charmed or mentally influenced. (Builds upon Mental Fortitude and the concept of an unbreakable will)
 
 ------------------------------------------------
 ## Kind
@@ -230,27 +148,13 @@ Your care and generosity toward others knows no bounds.
   - Understanding and sharing the feelings of others.
 
 **Skill Perks:**
-- ☐
-- ☐
-- ☐
-- ☐
-
-- **Calming Aura:**
-    
-    - **Soothing Presence:** Your presence has a calming effect on those around you. Allies gain a temporary bonus to their morale or determination.
-    - **Pacify:** You can attempt to calm an agitated or aggressive creature, reducing its hostility.
-- **Empathetic Connection:**
-    
-    - **Intuitive Understanding:** You can quickly understand the emotions of others, allowing you to better connect with them and provide appropriate support.
-    - **Shared Pain:** You can share some of the pain or suffering of another being, lessening their burden.
-- **Mediator:**
-    
-    - **Diplomatic Immunity:** Others are less likely to attack or harm you, recognizing your peaceful nature.
-    - **Peacemaker:** You can more easily resolve conflicts between individuals or groups, often finding mutually agreeable solutions.
-- **Fast Friends:**
-    
-    - **Natural Charm:** You can quickly build rapport with others, making it easier to form friendships and alliances.
-    - **Inspiring Trust:** Others are more likely to trust and confide in you, making you a valuable source of information and support.
+- ☐ **Soothing Touch:** Your touch can ease pain and distress. You can spend a short amount of time tending to an injured or emotionally distressed creature to grant them a bonus to their next saving throw against pain, fear, or charm effects. (Combines Soothing Presence and the direct act of care)
+  
+- ☐ **Empathic Resonance:** You can deeply understand and reflect the emotions of others, fostering trust and connection. You gain Advantage on Empathy checks and Persuasion checks made to those who are emotionally vulnerable or distressed. (Draws from Intuitive Understanding and the ability to connect)
+  
+- ☐ **Conflict Resolution:** Your calm demeanor and understanding nature make you an effective mediator. You gain Advantage on Persuasion checks made to de-escalate conflicts and find peaceful solutions between willing parties. (Directly from Peacemaker)
+  
+- ☐ **Benevolent Presence:** Your kindness radiates outward, making you a beacon of goodwill. Creatures that are not inherently hostile are less likely to target you with aggression, and may be more inclined to offer assistance. (Inspired by Diplomatic Immunity and the general impact of kindness)
 
 ------------------------------------------------
 ## Leader
@@ -263,27 +167,13 @@ You naturally inspire confidence and trust from others.
     - Motivating others to achieve a common goal.
 
 **Skill Perks:**
-- ☐
-- ☐
-- ☐
-- ☐
-
-- **Inspiring Presence**:
-    
-    - **Rallying Cry**: Your words bolster the morale of your allies, granting them a temporary bonus to attack rolls or damage.
-    - **Unwavering Resolve**: You can inspire others to resist fear or despair, granting them advantage on saving throws against mental effects.
-- **Tactical Insight**:
-    
-    - **Flanking Maneuvers**: You can quickly identify weaknesses in enemy formations, allowing your allies to exploit them.
-    - **Coordinated Strikes**: You can coordinate the attacks of your allies, granting them a bonus to teamwork-based rolls.
-- **Strategic Planning**:
-    
-    - **Long-Term Vision**: You can develop long-term plans that account for multiple variables, allowing your group to achieve its goals more efficiently.
-    - **Resource Management**: You can effectively manage the resources of your group, ensuring that everyone has what they need to succeed.
-- **Commander**:
-    
-    - **Unquestioned Authority**: Your orders are followed without hesitation, even by those who might normally resist.
-    - **Field Commander**: You can adapt your strategies on the fly, responding effectively to changing circumstances on the battlefield.
+- ☐ **Inspiring Command:** Your presence and words fill your allies with confidence and determination. As a bonus action, you can issue a command that grants allies within a short range a temporary bonus to their next attack roll, saving throw, or skill check of their choice. (Combines Rallying Cry and Unwavering Resolve into a more versatile ability)
+  
+- ☐ **Strategic Coordination:** You possess a keen tactical mind and can effectively direct the actions of your group. When you spend your action to direct your allies, they gain Advantage on the next teamwork-based roll they make before the end of their next turn. (Focuses on the coordinating aspect of Tactical Insight and Coordinated Strikes)
+  
+- ☐ **Unwavering Leadership:** Your resolve and clear vision inspire unwavering loyalty. Allies within a moderate range gain a bonus to saving throws against fear and charm effects while they can clearly see or hear you. (Emphasizes the consistent support provided by a strong leader)
+  
+- ☐ **Adaptive Strategist:** You can quickly assess situations and adjust your plans accordingly. Once per encounter, you can change a previously declared action for yourself or a single ally as a reaction to new information. (Draws from Field Commander and the ability to adapt Strategic Planning)
 
 ------------------------------------------------
 ## Lucky
@@ -296,27 +186,13 @@ Somehow things always seem to work out for you.
 - Succeeding at games of chance.
 
 **Skill Perks:**
-- ☐
-- ☐
-- ☐
-- ☐
-
-- **Close Call**:
-    
-    - **Last Second Save**: Once per session, you can reroll a failed roll.
-    - **Hair's Breadth**: When you would take fatal damage, you instead survive with 1 hit point (once per session).
-- **Chance Encounter**:
-    
-    - **Fortuitous Meeting**: You are more likely to encounter helpful NPCs or find valuable resources.
-    - **Right Place, Right Time**: You gain advantage on rolls related to finding hidden objects or secrets.
-- **Good Fortune**:
-    
-    - **Winning Streak**: Gain a stacking +1 bonus to all rolls until you fail one. This bonus resets on a failed roll.
-    - **Unexpected Aid**: A random event occurs that benefits you or your party. This could be anything from finding a lost item to receiving unexpected assistance.
-- **Serendipity**:
-    
-    - **Inspiration**: When faced with a difficult problem, you are more likely to find a creative or unexpected solution.
-    - **Wild Card**: Once per session, you can declare that a favorable event occurs. The specifics are determined by the GM, but it must be within the realm of possibility.
+- ☐ **Fortuitous Twist:** Once per scene, when you make a roll that would have a significant negative consequence on a failure, you can choose to have an unexpected positive twist occur instead, mitigating or negating the failure. The specifics are determined by the situation, but it avoids the worst outcome. (A more flexible take on Last Second Save)
+  
+- ☐ **Serendipitous Discovery:** You have a knack for stumbling upon beneficial opportunities and hidden advantages. You gain Advantage on checks made to find hidden items, secret passages, or beneficial coincidences. (Combines Right Place, Right Time and Fortuitous Meeting)
+  
+- ☐ **Momentum of Fortune:** When you succeed on a roll, you gain a temporary Luck point. You can spend a Luck point to gain Advantage on your next roll before the end of your next turn. (A more controlled version of Winning Streak)
+  
+- ☐ **Wild Card Outcome:** Once per session, when you face a critical failure or a dire situation, you can invoke your luck to introduce an improbable but beneficial event that shifts the odds in your favor. The specifics are determined collaboratively with the GM. (Similar to Wild Card but emphasizing a response to negative situations)
 
 ------------------------------------------------
 ## Manipulator
@@ -330,27 +206,13 @@ You influence people to get what you want.
 
 
 **Skill Perks:**
-- ☐
-- ☐
-- ☐
-- ☐
-
-- **Divide and Conquer**:
-    
-    - **Sow Discord**: You can create distrust and conflict between individuals or groups, making them easier to control.
-    - **Playing Favorites**: You can manipulate alliances by subtly favoring certain individuals or groups, gaining their loyalty.
-- **Master of Disguise**:
-    
-    - **Perfect Impersonation**: You can perfectly mimic the appearance and mannerisms of others, allowing you to infiltrate groups or gain access to restricted areas.
-    - **False Identities**: You can create and maintain multiple false identities, allowing you to operate undetected.
-- **Subtle Influence**:
-    
-    - **Whispered Suggestions**: You can subtly influence the thoughts and actions of others through carefully placed suggestions.
-    - **Emotional Leverage**: You can exploit the emotions of others to manipulate them, gaining their trust or loyalty.
-- **Information Broker**:
-    
-    - **Network of Contacts**: You have a vast network of informants and contacts, allowing you to gather information quickly and efficiently.
-    - **Trading Secrets**: You can trade information for favors or resources, gaining leverage over others.
+- ☐ **Subtle Insinuation:** You can plant seeds of doubt, suspicion, or desire in the minds of others through carefully chosen words and actions. You gain Advantage on Persuasion or Deception checks made to influence someone's opinion or decision over time. (Inspired by Whispered Suggestions and Sow Discord)
+  
+- ☐ **Exploit Weakness:** You have a keen eye for the vulnerabilities and desires of others, allowing you to leverage them for your own gain. You gain Advantage on Insight checks to identify someone's weaknesses and on subsequent Intimidation or Persuasion checks that exploit those weaknesses. (Combines Emotional Leverage with a focus on identifying vulnerabilities)
+  
+- ☐ **Mask of Deception:** Your ability to deceive and misdirect is exceptional. You gain Advantage on Deception checks made to lie, bluff, or create false impressions. Additionally, attempts to see through your deceptions have Disadvantage. (Draws from Perfect Impersonation and False Identities, focusing on the act of deception itself)
+  
+- ☐ **Information Network:** You cultivate and utilize a web of contacts to gather intelligence and exert influence. When attempting to gather information or leverage your connections, you can reduce the time required or increase the reliability of the information gained. (Directly from Network of Contacts and Trading Secrets)
 
 ------------------------------------------------
 ## Observant
@@ -363,27 +225,13 @@ Nothing gets past you. You are always on the watch.
 - Noticing a subtle change in the air.
 
 **Skill Perks:**
-- ☐
-- ☐
-- ☐
-- ☐
-
-- **Analyze**:
-    
-    - **Deductive Reasoning**: You can quickly analyze a situation and draw accurate conclusions, gaining advantage on rolls to identify patterns or solve puzzles.
-    - **Forensic Detail**: You can meticulously examine objects or scenes, uncovering hidden details that others might miss.
-- **Heightened Senses**:
-    
-    - **Keen Hearing**: You gain advantage on rolls to detect sounds, even faint or distant ones.
-    - **Sharp Eyes**: You gain advantage on rolls to spot hidden objects or detect subtle movements.
-- **Hidden Details**:
-    
-    - **Secret Passages**: You are more likely to notice hidden doors, secret compartments, or other concealed features.
-    - **Subtle Clues**: You can easily pick up on subtle clues or inconsistencies that others might overlook.
-- **Awareness**:
-    
-    - **Danger Sense**: You gain a warning before danger is about to occur, granting you advantage on initiative rolls or rolls to avoid traps.
-    - **Situational Awareness**: You are always aware of your surroundings, making it difficult to surprise or deceive you.
+- ☐ **Keen Senses:** Your senses are exceptionally sharp. You gain Advantage on Perception checks that rely on sight or hearing. (Combines Keen Hearing and Sharp Eyes)
+  
+- ☐ **Insightful Analysis:** You can quickly process sensory information to draw accurate conclusions. You gain Advantage on Insight checks made to read body language, detect lies, or understand motivations. (Draws from Deductive Reasoning and the ability to analyze subtle cues)
+  
+- ☐ **Uncovering Secrets:** You have a knack for noticing hidden details and concealed elements in your environment. You gain Advantage on Investigation checks made to find secret passages, hidden objects, or subtle clues. (Combines Secret Passages and Subtle Clues)
+  
+- ☐ **Preternatural Awareness:** You possess an almost sixth sense for danger and subtle shifts in your surroundings. You gain a bonus to your Initiative rolls and cannot be surprised while you are conscious. (Enhanced version of Danger Sense and Situational Awareness)
 
 ------------------------------------------------
 ## Performer
@@ -396,27 +244,13 @@ You know how to put on a show for others.
 - Persuading an audience with your words.
 
 **Skill Perks:**
-- ☐
-- ☐
-- ☐
-- ☐
-
-- **Captivating Performance**:
-    
-    - **Enthralling Presence**: Your performances hold an audience's attention, making them more susceptible to your influence or persuasion.
-    - **Standing Ovation**: When performing, you can inspire a surge of emotion in your audience, granting allies a temporary bonus to morale or determination.
-- **Distracting Display**:
-    
-    - **Diversionary Tactics**: You can use your performance to distract or confuse opponents, creating openings for your allies.
-    - **Smoke and Mirrors**: You can create illusions or distractions that deceive the senses, allowing you to manipulate the environment or escape unnoticed.
-- **Emotional Resonance**:
-    
-    - **Heartfelt Connection**: You can evoke powerful emotions in your audience, creating a deep connection that fosters trust and empathy.
-    - **Emotional Manipulation**: You can use your performances to subtly influence the emotions of others, swaying their opinions or actions.
-- **Artistic Inspiration**:
-    
-    - **Muse's Gift**: Your performances can inspire creativity and innovation in others, granting allies a bonus to rolls related to artistic or intellectual pursuits.
-    - **Performance Art**: You can incorporate magic or supernatural abilities into your performances, creating spectacular displays that have tangible effects on the environment or audience.
+- ☐ **Commanding Presence:** Your performances are captivating and draw the attention of all nearby. While you are actively performing, enemies have disadvantage on attack rolls against your allies who are within the audience and focused on your performance. (Inspired by Enthralling Presence and the ability to distract)
+  
+- ☐ **Emotional Catalyst:** You can stir powerful emotions within your audience, influencing their thoughts and actions. Choose an emotion (joy, fear, anger, etc.). Creatures within the audience have disadvantage on saving throws against effects related to that emotion while you are performing. (Draws from Heartfelt Connection and Emotional Manipulation)
+  
+- ☐ **Inspiring Flourish:** Your performance can uplift and motivate others. As a bonus action while performing, you can grant a single ally a temporary bonus to their next attack roll, saving throw, or skill check. (Similar to Standing Ovation but more focused)
+  
+- ☐ **Subtle Deception:** You can weave subtle illusions and deceptive movements into your performances to misdirect or confuse observers. You gain Advantage on Sleight of Hand checks made while performing, and creatures attempting to perceive your subtle actions have Disadvantage on their Perception checks. (Combines Diversionary Tactics and Smoke and Mirrors with a focus on subtle manipulation)
 
 ------------------------------------------------
 ## Poisoner
@@ -429,27 +263,13 @@ You are skilled in the use of poisons and toxins.
 - Identifying the source of a poison.
 
 **Skill Perks:**
-- ☐
-- ☐
-- ☐
-- ☐
-
-- **Botanical Identification**:
-    
-    - **Herbalist's Knowledge**: You can identify a wide variety of poisonous plants and fungi, as well as their properties and uses.
-    - **Natural Toxins**: You can extract and utilize the toxins found in plants and animals to create your own poisons.
-- **Venom Extraction**:
-    
-    - **Precise Extraction**: You can safely and efficiently extract venom from venomous creatures, minimizing waste and risk.
-    - **Venom Mastery**: You can manipulate and refine venoms, increasing their potency or altering their effects.
-- **Remedies**:
-    
-    - **Antitoxin Mastery**: You can create potent antidotes for a wide variety of poisons, allowing you to counter even the most deadly toxins.
-    - **Poison Resistance**: You have a natural resistance to poisons, making you less susceptible to their effects.
-- **Undetectable Concoctions**:
-    
-    - **Tasteless and Odorless**: You can create poisons that are virtually undetectable by taste or smell, making them difficult to identify and prevent.
-    - **Delayed Action**: You can create poisons that have a delayed effect, making it difficult to pinpoint the cause of death.
+- ☐ **Toxin Expertise:** You possess extensive knowledge of poisons, their sources, and their effects. You gain Advantage on checks made to identify poisons, their origins, and their properties. (Combines Herbalist's Knowledge and general understanding of toxins)
+  
+- ☐ **Precise Application:** You can apply poisons with exceptional skill and subtlety. When applying a poison to a weapon, food, or drink, the DC for others to detect it is increased. (Draws from Tasteless and Odorless and the act of concealing poison)
+  
+- ☐ **Venomous Adaptation:** Your body has developed a resilience to the effects of poisons. You gain a bonus to saving throws against poison and have Advantage on checks made to resist their secondary effects. (Inspired by Poison Resistance and general adaptation)
+  
+- ☐ **Alchemical Synthesis:** You can create and modify poisons with greater efficacy. When crafting poisons, you can choose to increase their potency, extend their duration, or alter their delivery method (e.g., making a contact poison ingestible with a less obvious effect). (Combines Natural Toxins, Venom Mastery, and the concept of creating unique concoctions)
 
 ------------------------------------------------
 ## Resist
@@ -462,27 +282,13 @@ You can withstand physical and mental duress.
 - Resisting attempts to control your mind.
 
 **Skill Perks:**
-- ☐
-- ☐
-- ☐
-- ☐
-
-- **Adaptive Immunity**:
-    
-    - **Rapid Recovery**: You recover from poisons and diseases more quickly.
-    - **Environmental Adaptation**: You gain resistance to environmental hazards, such as extreme temperatures or radiation.
-- **Endure**:
-    
-    - **Pain Tolerance**: You can ignore pain, allowing you to continue functioning even when injured.
-    - **Unwavering Stamina**: You can endure prolonged physical exertion without tiring.
-- **Mental Fortitude**:
-    
-    - **Iron Will**: You are resistant to attempts to control your mind, such as charm or fear effects.
-    - **Focused Mind**: You can maintain focus and concentration even under extreme stress or distraction.
-- **Absorb**:
-    
-    - **Damage Reduction**: You can absorb a portion of incoming damage, reducing its impact.
-    - **Elemental Resistance**: You gain resistance to a specific element, such as fire, ice, or lightning.
+- ☐ **Unyielding Constitution:** Your body is exceptionally resilient. You gain Advantage on saving throws against poison and disease, and you recover from these conditions more quickly. (Combines Rapid Recovery and general resistance)
+  
+- ☐ **Iron Resolve:** Your mental fortitude is formidable. You gain Advantage on saving throws against being charmed, frightened, or mentally controlled. (Directly from Iron Will)
+  
+- ☐ **Tenacious Endurance:** You can push past your physical limits and withstand significant duress. You gain Advantage on Constitution saving throws made to resist the effects of exhaustion or extreme environments. (Combines Pain Tolerance and Environmental Adaptation)
+  
+- ☐ **Damage Mitigation:** You possess a natural ability to shrug off harm. You gain a small amount of damage reduction against non-magical bludgeoning, piercing, and slashing damage. (Inspired by Damage Reduction)
 
 ------------------------------------------------
 ## Scavenger
@@ -495,27 +301,13 @@ You can find useful objects in obscure places.
 - Recognizing rare or unusual items.
 
 **Skill Perks:**
-- ☐
-- ☐
-- ☐
-- ☐
-
-- **Looter**:
-    
-    - **Keen Eye:** You have a higher chance of finding valuable items in containers or on corpses.
-    - **Quick Search:** You can search an area quickly, even under pressure.
-- **Salvage Specialist**:
-    
-    - **Efficient Disassembly:** You recover more usable components when salvaging items.
-    - **Improvised Repairs:** You can repair damaged items with limited resources.
-- **Resourceful Repurposing**:
-    
-    - **Creative Solutions:** You can find unusual uses for discarded items.
-    - **Makeshift Tools:** You can create functional tools and equipment from salvaged materials.
-- **Hidden Stashes**:
-    
-    - **Secret Caches:** You are more likely to find hidden stashes of valuable items.
-    - **Urban Exploration:** You can locate hidden areas and abandoned locations with valuable resources.
+- ☐ **Discerning Eye:** You have a knack for spotting valuable or useful items amidst refuse. You gain Advantage on Perception checks made to find hidden or overlooked objects, and on Appraise checks to determine their worth. (Combines Keen Eye and recognizing value)
+  
+- ☐ **Master Salvager:** You can efficiently break down and repurpose discarded items. When salvaging, you recover a significantly higher amount of usable materials, and you gain a bonus to Crafting checks when using salvaged components. (Enhanced Efficient Disassembly and Improvised Repairs)
+  
+- ☐ **Resourceful Improvisation:** You can create makeshift tools and find unconventional uses for scavenged materials. You gain Advantage on checks made to create temporary solutions or tools from available junk. (Directly from Creative Solutions and Makeshift Tools)
+  
+- ☐ **Unearthing Secrets:** You possess an intuition for finding hidden stashes and forgotten places. You gain Advantage on Investigation checks made to locate secret caches, hidden compartments, or valuable resources in overlooked areas. (Combines Secret Caches and Urban Exploration)
 
 ------------------------------------------------
 ## Smart
@@ -528,27 +320,13 @@ You excel with pattern recognition and logical deduction.
 - Identifying patterns in data.
 
 **Skill Perks:**
-- ☐
-- ☐
-- ☐
-- ☐
-
-- **Logical Deduction**:
-    
-    - **Inference Mastery**: You can quickly deduce hidden information from available clues, making you adept at solving mysteries and puzzles.
-    - **System Analysis**: You excel at understanding complex systems, allowing you to identify weaknesses and predict outcomes.
-- **Rapid Analysis**:
-    
-    - **Quick Assessment**: You can quickly analyze situations and make informed decisions, even under pressure.
-    - **Adaptive Learning**: You can quickly adapt to new information and changing circumstances.
-- **Innovate**:
-    
-    - **Creative Solutions**: You can devise unconventional solutions to problems, often finding unique and effective approaches.
-    - **Technological Savvy**: You have a knack for understanding and manipulating technology, allowing you to create or modify devices.
-- **Magic Theory**:
-    
-    - **Arcane Understanding**: You possess a deep understanding of magical principles, allowing you to identify magical effects and create magical items.
-    - **Spell Optimization**: You can optimize magical spells for greater efficiency or power, or even create new magical effects.
+- ☐ **Deductive Mastermind:** Your ability to analyze information and draw logical conclusions is unparalleled. You gain Advantage on checks made to solve puzzles, decipher codes, or understand complex situations based on available evidence. (Directly from Inference Mastery and general logical deduction)
+  
+- ☐ **Systematic Comprehension:** You excel at understanding how things work, from intricate mechanisms to abstract systems. You gain Advantage on checks made to identify weaknesses in systems, predict their behavior, or troubleshoot problems. (Combines System Analysis and Technological Savvy in a broader sense)
+  
+- ☐ **Rapid Cognition:** Your mind processes information with exceptional speed and efficiency. You gain a bonus to your Initiative rolls and can take an additional bonus action once per round to analyze a situation or recall information. (Inspired by Quick Assessment and Adaptive Learning)
+  
+- ☐ **Theoretical Application:** You can apply theoretical knowledge to practical problems with remarkable ingenuity. You gain Advantage on checks made to invent new solutions, understand unfamiliar technologies or magical effects, or optimize existing processes. (Blends Creative Solutions, Technological Savvy, and Arcane Understanding)
 
 ------------------------------------------------
 ## Sneaky
@@ -562,27 +340,13 @@ You have nimble hands, patience, and attention to detail.
 
 
 **Skill Perks:**
-- ☐
-- ☐
-- ☐
-- ☐
-
-- **Shadow Meld**:
-    
-    - **Blend with Darkness**: You become nearly invisible in shadows, granting advantage on Stealth rolls in dim light or darkness.
-    - **Shadow Step**: You can briefly teleport between shadows within a short distance.
-- **Silent Movement**:
-    
-    - **Muffled Steps**: You move without making a sound, granting advantage on Stealth rolls when moving.
-    - **Evasion Tactics**: You can move through crowds or tight spaces without being noticed.
-- **Ambush Mastery**:
-    
-    - **Surprise Strike**: You gain a bonus to attack rolls when attacking from surprise.
-    - **Quick Draw**: You can draw and use weapons or tools quickly, gaining advantage on initiative rolls when ambushing.
-- **Infiltrator**:
-    
-    - **False Identities**: You can create and maintain convincing false identities, allowing you to blend into different groups.
-    - **Secure Bypass**: You excel at bypassing security measures, such as locks, traps, or magical wards.
+- ☐ **Shadow Walker:** You move with exceptional stealth in dim or dark conditions. You gain Advantage on Stealth checks made in areas of dim light or darkness, and creatures have Disadvantage on Perception checks to spot you in these conditions. (Combines Blend with Darkness and Muffled Steps in low light)
+  
+- ☐ **Subtle Manipulation:** Your nimble fingers and careful movements allow for unnoticed actions. You gain Advantage on Sleight of Hand checks, and on Stealth checks made to plant or retrieve small objects. (Draws from palming objects and general dexterity)
+  
+- ☐ **Ambush Specialist:** You excel at striking from surprise. When you successfully surprise a creature, your first attack roll against it has Advantage, and if it hits, it deals additional damage. (Directly from Surprise Strike)
+  
+- ☐ **Social Infiltration:** You can seamlessly blend into social situations and bypass security measures through deception and subtle maneuvering. You gain Advantage on Deception checks made to create disguises or false identities, and on checks made to bypass non-magical security measures. (Combines False Identities and elements of Secure Bypass)
 
 ------------------------------------------------
 ## Strong
@@ -595,23 +359,13 @@ You can bend, lift, and crush large objects with ease.
 - Breaking free from restraints.
 
 **Skill Perks:**
-- ☐
-- ☐
-- ☐
-- ☐
-
-- **Brute Force:**
-    - **Overwhelming Strength:** Your attacks are more likely to knock enemies prone or stun them.
-    - **Crushing Blows:** Your attacks deal additional damage to objects.
-- **Destroyer:**
-    - **Earthshaker:** Your powerful strikes can cause minor tremors or shake loose debris.
-    - **Unstoppable Force:** You can ignore minor obstacles, such as barricades or small doors.
-- **Unbreakable Grip:**
-    - **Superior Strength:** You have a higher chance of succeeding on strength checks.
-    - **Iron Will:** You are more resistant to being grappled or restrained.
-- **Heavy Lifting:**
-    - **Effortless Lifting:** You can lift and carry heavier loads than others.
-    - **Master Craftsman:** You can create or repair complex objects that require significant strength.
+- ☐ **Overpowering Might:** Your raw strength allows you to easily overcome physical challenges. You gain Advantage on Strength checks made to lift, push, pull, or break objects. (Combines Superior Strength and general ease with heavy tasks)
+  
+- ☐ **Crushing Impact:** Your powerful strikes can shatter defenses and leave opponents reeling. When you hit a creature or object with a melee attack using Strength, you deal additional damage to objects or have a chance to knock a creature prone (on a successful Strength saving throw by the target). (Blends Crushing Blows and Overwhelming Strength)
+  
+- ☐ **Unbreakable Hold:** Your grip is incredibly strong, making it difficult to escape your grasp. You gain Advantage on Strength checks made to grapple or maintain a grapple, and you have Advantage on Strength saving throws made to resist being grappled or restrained. (Directly from Iron Will and the grappling aspect of Superior Strength)
+  
+- ☐ **Titanic Effort:** You can exert tremendous force for extended periods. You can carry significantly heavier loads without penalty, and you have Advantage on Strength (Athletics) checks made to perform feats of endurance, such as swimming against strong currents or climbing sheer surfaces for long durations. (Combines Effortless Lifting with the concept of sustained strength)
 
 ------------------------------------------------
 ## Survivalist
@@ -625,23 +379,14 @@ You know how to get by on limited resources.
 - Building or finding shelter.
 
 **Skill Perks:**
-- ☐
-- ☐
-- ☐
-- ☐
 
-- **Tracker**:
-    - **Keen Scent**: You can track creatures by scent, even in difficult conditions.
-    - **Predator's Instincts**: You can anticipate the movements of animals and humanoids, giving you an advantage in hunting or combat.
-- **Wilderness Lore**:
-    - **Nature's Wisdom**: You have extensive knowledge of plants, animals, and natural phenomena, allowing you to survive in a variety of environments.
-    - **Environmental Awareness**: You can predict changes in weather or terrain, allowing you to prepare for potential hazards.
-- **Forager**:
-    - **Resourceful Gathering**: You can find and utilize a wider variety of edible plants and animals, increasing your chances of survival.
-    - **Efficient Hunting**: You are skilled at hunting and trapping small game, providing a reliable source of food.
-- **Find Shelter**:
-    - **Improvised Shelter**: You can quickly construct effective shelters from available materials, providing protection from the elements.
-    - **Natural Fortifications**: You can identify and utilize natural features to create defensible positions.
+- ☐ **Master Tracker:** Your ability to follow trails and signs is unmatched. You gain Advantage on Survival checks made to track creatures, even in difficult terrain or with faint trails. (Combines Keen Scent and general tracking prowess)
+  
+- ☐ **Wilderness Expert:** Your deep knowledge of the natural world provides significant advantages. You gain Advantage on Survival checks related to identifying safe food and water, predicting weather, and navigating using natural landmarks. (Blends Nature's Wisdom and Environmental Awareness)
+  
+- ☐ **Resourceful Gatherer:** You can efficiently procure essential resources from your surroundings. You gain Advantage on Survival checks made to forage for food and water, and you can sustain yourself and a small group with less effort than others. (Enhanced Resourceful Gathering)
+  
+- ☐ **Shelter Mastery:** You are adept at finding or creating secure shelter in any environment. You can quickly construct sturdy shelters, and you gain Advantage on checks made to identify naturally defensible locations or improve existing shelters. (Combines Improvised Shelter and Natural Fortifications)
 
 ------------------------------------------------
 ## Thief
@@ -654,23 +399,13 @@ You can make things disappear… into your pockets.
 - Disabling traps and security systems.
 
 **Skill Perks:**
-- ☐
-- ☐
-- ☐
-- ☐
-
-- **Pickpocket**:
-    - **Sleight of Hand Master**: You can pickpocket with exceptional skill, making it nearly impossible to detect your actions.
-    - **Quick Retrieval**: You can quickly retrieve hidden objects from your person, giving you an advantage in combat or tense situations.
-- **Lockpicker**:
-    - **Trap Disabler**: You can disarm traps and bypass security systems with ease, allowing you to access even the most secure locations.
-    - **Master Key**: You have a knack for opening locks, often finding unconventional methods to bypass security.
-- **Forgery**:
-    - **Perfect Forgery**: You can create forgeries that are indistinguishable from the real thing, allowing you to deceive even the most discerning eyes.
-    - **Identity Theft**: You can create convincing false identities, allowing you to blend into different groups and gain access to restricted areas.
-- **Criminal Network**
-    - **Information Broker**: You have a wide network of contacts within the criminal underworld, providing you with valuable information and resources.
-    - **Fence Connections**: You have access to reliable fences, allowing you to sell stolen goods quickly and discreetly.
+- ☐ **Sleight of Shadows:** Your movements are so subtle and swift that your manipulations often go unnoticed. You gain Advantage on Sleight of Hand checks, and creatures have Disadvantage on Perception checks made to detect your attempts to pickpocket or plant small objects. (Enhanced Sleight of Hand Master)
+  
+- ☐ **Lock and Trap Mastery:** You possess a knack for bypassing security measures. You gain Advantage on checks made to pick locks and disarm non-magical traps. (Combines Trap Disabler and Master Key)
+  
+- ☐ **Deceptive Guise:** You can create convincing illusions and assume false identities with ease. You gain Advantage on Deception checks made to create disguises or forge documents, and creatures have Disadvantage on attempts to see through your deceptions. (Combines Perfect Forgery and Identity Theft)
+  
+- ☐ **Underworld Connections:** You have established a network of contacts within the criminal underworld. You gain Advantage on checks made to gather information within urban environments and can more easily locate fences or other illicit services. (Directly from Information Broker and Fence Connections)
 
 ------------------------------------------------
 ## Tough
@@ -683,27 +418,13 @@ You can tolerate pain and discomfort that others can’t.
 - Pushing through physical limitations.
 
 **Skill Perks:**
-- ☐
-- ☐
-- ☐
-- ☐
-
-- **Iron Skin**:
-    
-    - **Damage Reduction**: You gain a bonus to your Defense rolls or a reduction in damage taken.
-    - **Natural Armor**: You are more resistant to certain types of damage, such as piercing or slashing.
-- **Stamina**:
-    
-    - **Extended Endurance**: You can perform physical tasks for longer periods without tiring.
-    - **Rapid Recovery**: You recover from fatigue or exhaustion more quickly.
-- **Pain Tolerance**:
-    
-    - **Ignore Wounds**: You can ignore the effects of pain, allowing you to function normally even when injured.
-    - **Reduced Penalties**: You suffer fewer penalties from injuries or debilitating effects.
-- **Unbreakable**:
-    
-    - **Resist Forced Movement**: You are more resistant to being pushed, pulled, or knocked prone.
-    - **Unwavering Resolve**: You are immune to fear effects and gain advantage on rolls to resist mental manipulation.
+- ☐ **Resilient Body:** Your physical constitution allows you to shrug off minor injuries and discomfort. You gain a small bonus to your Defense rolls against physical attacks. (Inspired by Damage Reduction and general toughness)
+  
+- ☐ **Relentless Stamina:** You can endure prolonged physical exertion without succumbing to fatigue. You gain Advantage on Constitution saving throws made to resist exhaustion and recover from it more quickly. (Directly from Extended Endurance and Rapid Recovery)
+  
+- ☐ **Stoic Endurance:** You possess a high tolerance for pain and debilitating effects. You have Advantage on saving throws against pain and suffer reduced penalties from injuries that would impair others. (Combines Ignore Wounds and Reduced Penalties)
+  
+- ☐ **Unyielding Stance:** Your physical and mental fortitude makes you difficult to move or control. You gain Advantage on Strength saving throws to resist being pushed, pulled, or knocked prone, and you have Advantage on saving throws against fear effects. (Blends Resist Forced Movement and Unwavering Resolve)
 
 ------------------------------------------------
 ## Trickster
@@ -716,27 +437,13 @@ You know how to fool others into seeing your truth.
 - Creating diversions or distractions to flee.
 
 **Skill Perks:**
-- ☐
-- ☐
-- ☐
-- ☐
-
-- **Agent of Chaos**:
-    
-    - **Unpredictable Actions**: Your actions are erratic and unpredictable, making it difficult for others to anticipate your moves.
-    - **Controlled Chaos**: You can create controlled distractions and diversions that benefit your allies or hinder your enemies.
-- **Improvisation**:
-    
-    - **On-the-Fly Tactics**: You can quickly adapt to changing situations, using whatever resources are available to your advantage.
-    - **Creative Solutions**: You can find unconventional solutions to problems, often using humor or trickery.
-- **Logic Traps**:
-    
-    - **Mental Snares**: You can create logical fallacies and mental traps that confuse or mislead others.
-    - **Wordplay Mastery**: You can use wordplay and riddles to manipulate or deceive others.
-- **Master of Mischief**:
-    
-    - **Harmless Pranks**: You can create pranks that are amusing rather than harmful, building rapport with others.
-    - **Subtle Sabotage**: You can subtly sabotage enemy plans or operations, causing confusion and delays.
+- ☐ **Illusory Mastermind:** Your illusions are incredibly convincing and difficult to disbelieve. Creatures have Disadvantage on saving throws made to disbelieve your illusions that affect their senses. (Enhanced elaborate illusions)
+  
+- ☐ **Unpredictable Maneuvers:** Your actions are erratic and confusing, making you a difficult target. Enemies have Disadvantage on attack rolls against you in the round immediately after you take a non-standard or unexpected action (GM's discretion). (Directly from Unpredictable Actions)
+  
+- ☐ **Verbal Deception:** You excel at using words to mislead and manipulate. You gain Advantage on Deception checks, and on checks made to create diversions or use wordplay to your advantage. (Combines Wordplay Mastery with general deception)
+  
+- ☐ **Improvisational Escape:** You can quickly create diversions and utilize your surroundings to make a swift getaway. When you take the Disengage action, you can also attempt a Sleight of Hand check to create a minor distraction, potentially allowing allies to also disengage without provoking attacks of opportunity. (Blends diversions for fleeing with on-the-fly tactics)
 
 ------------------------------------------------
 ## Wise
@@ -749,26 +456,12 @@ You know from experience how to handle most situations.
 - Recognizing deception.
 
 **Skill Perks:**
-- ☐
-- ☐
-- ☐
-- ☐
-
-- **Guidance**:
-    
-    - **Sage Advice**: You can provide advice that grants allies advantage on specific rolls related to the situation.
-    - **Mentor's Wisdom**: You can guide others through difficult decisions, increasing their chance of success.
-- **Understanding**:
-    
-    - **Empathic Insight**: You can quickly understand the motivations and emotions of others, allowing you to build rapport and resolve conflicts.
-    - **Situational Awareness**: You can quickly assess complex situations and identify potential dangers or opportunities.
-- **Inner Calm**:
-    
-    - **Mental Fortitude**: You are resistant to mental manipulation and fear effects.
-    - **Steady Presence**: Your calm demeanor can soothe agitated individuals or groups.
-- **Wisdom of the Ages**:
-    
-    - **Ancient Knowledge**: You have access to a vast reservoir of knowledge, allowing you to recall obscure facts and historical events.
-    - **Foresight**: You can interpret signs and omens, giving you glimpses of potential future events.
+- ☐ **Insightful Guidance:** You can draw upon your wisdom to offer valuable advice. As a bonus action, you can grant one ally Advantage on their next skill check or saving throw related to the current situation. (Combines Sage Advice and Mentor's Wisdom)
+  
+- ☐ **Perceptive Understanding:** Your experience allows you to quickly grasp the nuances of social interactions and situations. You gain Advantage on Insight checks made to read intentions, detect lies, or understand the underlying dynamics of a situation. (Blends Empathic Insight and Situational Awareness)
+  
+- ☐ **Unflappable Mind:** Your inner calm provides resilience against mental duress. You gain Advantage on saving throws against being charmed or frightened, and your presence can help calm others, granting them a bonus to resist fear effects. (Combines Mental Fortitude and Steady Presence)
+  
+- ☐ **Experienced Recall:** Your vast knowledge and life experiences allow you to access relevant information when needed. You gain Advantage on checks made to recall obscure facts, historical events, or recognize patterns based on past experiences. (Draws from Ancient Knowledge and the general benefit of accumulated wisdom)
 
 ------------------------------------------------
