@@ -13,6 +13,12 @@ Complications and Benefits Examples Chart
 
 Assigning Party Roles
 
+Encounter / Battlefield Features table - Pillars, pits, central features, etc
+
+Melee -> Near -> Far -> Ranged?
+Melee and Ranged?
+Near and Far?
+
 Advice
 - Public DCs
 - Frequent Skill Checks for Exp
