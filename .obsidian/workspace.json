@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "7b85c55333add8d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Expeditions/Player Resources/Skills Detailed List.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Skills Detailed List"
+            }
+          },
+          {
             "id": "05db7874c264d147",
             "type": "leaf",
             "state": {
@@ -35,7 +49,8 @@
               "title": "Ability List"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -177,35 +192,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "94f93929d95f4c53",
+  "active": "7b85c55333add8d0",
   "lastOpenFiles": [
-    "Expeditions/Guide Resources/Premade Adventures/Open Table Campaigns/Cloudskippers.md",
+    "Expeditions/Player Resources/General Skills/Kind.md",
     "Expeditions/Player Resources/Skills Detailed List.md",
+    "Expeditions/Player Resources/General Skills/Intimidating.md",
+    "Expeditions/Player Resources/General Skills/Fast.md",
+    "Expeditions/Player Resources/General Skills/Dexterous.md",
+    "Expeditions/Player Resources/General Skills/Evade.md",
+    "Expeditions/Player Resources/General Skills/Explorer.md",
+    "Expeditions/Player Resources/General Skills/Charismatic.md",
+    "Expeditions/Player Resources/Player Resources Index.md",
+    "Expeditions/Player Resources/General Skills/Careful.md",
     "Expeditions/Player Resources/Trade Skills/Alchemist.md",
-    "Expeditions/Player Resources/Trade Skills/Animal Handler.md",
-    "Expeditions/Player Resources/Trade Skills/Blacksmith.md",
-    "Expeditions/Player Resources/Trade Skills/Brewer.md",
-    "Expeditions/Player Resources/Trade Skills/Carpenter.md",
-    "Expeditions/Player Resources/Trade Skills/Cartographer.md",
-    "Expeditions/Player Resources/Trade Skills/Cook.md",
-    "Expeditions/Player Resources/Trade Skills/Enchanter.md",
-    "Expeditions/Player Resources/Trade Skills/Historian.md",
-    "Expeditions/Player Resources/Trade Skills/Jeweler.md",
+    "Expeditions/Player Resources/General Skills/Attack.md",
     "Expeditions/Player Resources/Trade Skills/Mechanic.md",
-    "Expeditions/Player Resources/Trade Skills/Musician.md",
-    "Expeditions/Player Resources/Trade Skills Detailed List.md",
-    "Expeditions/System Rules/Rules/Rules Index.md",
     "Expeditions/Player Resources/Trade Skills/Leather Worker.md",
+    "Expeditions/Player Resources/Trade Skills/Jeweler.md",
+    "Expeditions/Player Resources/Trade Skills/Historian.md",
     "Expeditions/Player Resources/Trade Skills/Fletcher.md",
-    "Expeditions/Player Resources/Trade Skills/Tailor.md",
-    "Expeditions/Player Resources/Trade Skills/Trapper.md",
-    "UnchartedWaters/Guide Materials/Maps/Guide Sea Hex Map (121 Hex).md",
-    "UnchartedWaters/Locations/TheEmeraldDawn.md",
-    "index.md",
+    "Expeditions/Player Resources/Trade Skills/Enchanter.md",
+    "Expeditions/Player Resources/Trade Skills/Cook.md",
+    "Expeditions/Player Resources/Trade Skills/Carpenter.md",
+    "Expeditions/Player Resources/Trade Skills/Brewer.md",
+    "Expeditions/Player Resources/Trade Skills/Blacksmith.md",
+    "Expeditions/Player Resources/Trade Skills/Animal Handler.md",
+    "Expeditions/Guide Resources/Adversaries/Modifier List.md",
+    "Expeditions/Guide Resources/Adversaries/Adversary List.md",
+    "Expeditions/Guide Resources/Premade Adventures/Open Table Campaigns/Cloudskippers.md",
     "Pasted image 20250323200909.png",
-    "UnchartedWaters/Guide Materials/Maps/Player Sea Hex Map.md",
-    "UnchartedWaters/Locations/Locations.md",
-    "Expeditions/Guide Resources/Premade Adventures/Open Table Campaigns/Uncharted Waters.md",
     "{{site.baseurl}}/PlayerResources/Skills",
     "{{site.baseurl}}/PlayerResources",
     "{{site.baseurl}}",
