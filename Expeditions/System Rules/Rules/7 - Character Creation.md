@@ -9,7 +9,7 @@ permalink: /Rules/7/
 2. (Optional) Choose a **Feature Set** and choose any of the corresponding features.
 3. Choose a **Size**. Gain all corresponding benefits. 
 4. Choose a **Starting Node** on the Hero Grid and learn the corresponding Abilities.
-5. Choose up to 4 **General Skills**.
+5. Choose 4 **General Skills** and set them to +0.
 6. Choose a starting **Equipment Set**. Gain corresponding equipment, items, and gold.
 
 ### [1. Speed](#feature-sets)
