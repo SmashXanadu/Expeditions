@@ -14,6 +14,8 @@ permalink: /Rules/7/
 
 ### [1. Speed](#feature-sets)
 
+- Set **Speed** to 20.
+
 ### [2. Feature Set](#feature-set)
 
 - **Aquatic**: Gills, Fins, Deep-Sea Eyes, Shimmering Scales
@@ -29,7 +31,6 @@ permalink: /Rules/7/
 
 ### [4. Starting Node](#startingNode)
 
-#### Physical
 - **[1 Handed Weapons]({{site.baseurl}}/PlayerResources/Abilities/1HandedWeapons/#1-Handed-Weapons)**
 - **[2 Handed Weapons]({{site.baseurl}}/PlayerResources/Abilities/2HandedWeapons/#2-Handed-Weapons)**
 - **[Ranged Weapons]({{site.baseurl}}/PlayerResources/Abilities/RangedWeapons/#Ranged-Weapons)**
@@ -37,8 +38,7 @@ permalink: /Rules/7/
 - **[Armored]({{site.baseurl}}/PlayerResources/Abilities/Armored/#Armored)**
 - **[Unarmored]({{site.baseurl}}/PlayerResources/Abilities/Unarmored/#Unarmored)**
 - **[Brawler]({{site.baseurl}}/PlayerResources/Abilities/Brawler/#Brawler)**
-
-#### Magical
+---
 - **[Earth]({{site.baseurl}}/PlayerResources/Abilities/Earth/#Earth)**
 - **[Air]({{site.baseurl}}/PlayerResources/Abilities/Air/#Air)**
 - **[Fire]({{site.baseurl}}/PlayerResources/Abilities/Fire/#Fire)**
