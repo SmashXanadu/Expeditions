@@ -8,7 +8,7 @@ permalink: /Rules/7/
 1. Set your **Speed** to 20.
 2. (Optional) Choose a **Feature Set** and choose any of the corresponding features.
 3. Choose a **Size**. Gain all corresponding benefits. 
-4. Choose a **Starting Node** on the **Hero Grid** and learn the corresponding **Abilities**.
+4. Choose a **Starting Node** on the Hero Grid and learn the corresponding Abilities.
 5. Choose up to 4 **General Skills**.
 6. Choose a starting **Equipment Set**. Gain corresponding equipment, items, and gold.
 
@@ -23,9 +23,9 @@ permalink: /Rules/7/
 
 ### [3. Size](#size)
 
-- **Small**: +2 **Speed**
-- **Average**: +1 **Maximum** **Health**
-- **Large**: +2 **Maximum** **Health**, -2 **Speed**
+- **Small**: +2 Speed
+- **Average**: +1 Maximum Health
+- **Large**: +2 Maximum Health, -2 Speed
 
 ### [4. Starting Node](#startingNode)
 
@@ -37,6 +37,7 @@ permalink: /Rules/7/
 - **[Armored]({{site.baseurl}}/PlayerResources/Abilities/Armored/#Armored)**
 - **[Unarmored]({{site.baseurl}}/PlayerResources/Abilities/Unarmored/#Unarmored)**
 - **[Brawler]({{site.baseurl}}/PlayerResources/Abilities/Brawler/#Brawler)**
+
 #### Magical
 - **[Earth]({{site.baseurl}}/PlayerResources/Abilities/Earth/#Earth)**
 - **[Air]({{site.baseurl}}/PlayerResources/Abilities/Air/#Air)**
@@ -45,6 +46,7 @@ permalink: /Rules/7/
 - **[Nature]({{site.baseurl}}/PlayerResources/Abilities/Nature/#Nature)**
 - **[Light]({{site.baseurl}}/PlayerResources/Abilities/Light/#Light)**
 - **[Dark]({{site.baseurl}}/PlayerResources/Abilities/Dark/#Dark)**
+
 ### [5. General Skills](#generalskills)
 - **[Careful]({{site.baseurl}}/PlayerResources/Skills/Careful/#Careful)**: You have nimble hands, patience, and attention to detail.
 - **[Charismatic]({{site.baseurl}}/PlayerResources/Skills/Charismatic/#Charismatic)**: You have a way with words and use them well.
@@ -67,6 +69,7 @@ permalink: /Rules/7/
 - **[Tough]({{site.baseurl}}/PlayerResources/Skills/Tough/#Tough)**: You can tolerate pain and discomfort that others can’t.
 - **[Trickster]({{site.baseurl}}/PlayerResources/Skills/Trickster/#Trickster)**: You know how to fool others into seeing your truth.
 - **[Wise]({{site.baseurl}}/PlayerResources/Skills/Wise/#Wise)**: You know from experience how to handle most situations.
+
 ## [6. Equipment Set](#equipment-set)
 
 **Scholar**:
