@@ -3,7 +3,7 @@ layout: default
 title: Guide Index
 permalink: /GuideResources/Index/
 ---
-[Cloudskippers Quick Start Scenario]({{site.baseurl}}/GuideResources/Adventures/QuickStart1/)
+[Quick Start Scenario]({{site.baseurl}}/GuideResources/Adventures/QuickStart/)
 
 [Adversary List]({{site.baseurl}}/GuideResources/Adversaries/AdversaryList/)
  

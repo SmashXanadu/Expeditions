@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Modifier List
-permalink: /GuideResources/Adventures/QuickStart1/
+permalink: /GuideResources/Adventures/QuickStart/
 ---
 # Expedition: Into the Maw
 ![The Maw - Dyson Logos](https://dysonlogos.blog/wp-content/uploads/2023/02/with-teeth.jpg)
