@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Expeditions/Guide Resources/Premade Adventures/Quick Start Scenario.md",
+                "file": "Expeditions/Guide Resources/Premade Adventures/Open Table Campaigns/Cloudskippers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Quick Start Scenario"
+              "title": "Cloudskippers"
             }
           },
           {
@@ -179,13 +179,15 @@
   },
   "active": "7b85c55333add8d0",
   "lastOpenFiles": [
-    "Expeditions/Guide Resources/Index.md",
-    "Expeditions/Guide Resources/Premade Adventures/Quick Start Scenario.md",
-    "Expeditions/Guide Resources/Adversaries/Modifier List.md",
     "Expeditions/Guide Resources/Premade Adventures/Open Table Campaigns/Uncharted Waters.md",
-    "Pasted image 20250323200909.png",
-    "Expeditions/Guide Resources/Premade Adventures/Open Table Campaigns/Cloudskippers.md",
+    "Expeditions/Guide Resources/Index.md",
+    "Expeditions/Guide Resources/Premade Adventures/(ROUGH) Shatterlands Quick Start.md",
+    "Expeditions/Guide Resources/Premade Adventures/(ROUGH) Uncharted Waters Quick Start.md",
+    "Expeditions/Guide Resources/Premade Adventures/Cloudskippers Quick Start.md",
     "Expeditions/Guide Resources/Premade Adventures/Open Table Campaigns/The Shatterlands.md",
+    "Expeditions/Guide Resources/Premade Adventures/Open Table Campaigns/Cloudskippers.md",
+    "Expeditions/Guide Resources/Adversaries/Modifier List.md",
+    "Pasted image 20250323200909.png",
     "Expeditions/System Rules/Rules/7 - Character Creation.md",
     "Expeditions/System Rules/Rules/Rules Summary.md",
     "Expeditions/Player Resources/Abilities/Ability List.md",
@@ -204,8 +206,6 @@
     "Expeditions/Player Resources/General Skills/Survivalist.md",
     "Expeditions/Player Resources/General Skills/Strong.md",
     "Expeditions/Player Resources/General Skills/Sneaky.md",
-    "Expeditions/Player Resources/General Skills/Smart.md",
-    "Expeditions/Player Resources/General Skills/Scavenger.md",
     "{{site.baseurl}}/PlayerResources/Skills",
     "{{site.baseurl}}/PlayerResources",
     "{{site.baseurl}}",
