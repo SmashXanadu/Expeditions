@@ -38,7 +38,7 @@ permalink: /Rules/7/
 - **[Armored]({{site.baseurl}}/PlayerResources/Abilities/Armored/#Armored)**
 - **[Unarmored]({{site.baseurl}}/PlayerResources/Abilities/Unarmored/#Unarmored)**
 - **[Brawler]({{site.baseurl}}/PlayerResources/Abilities/Brawler/#Brawler)**
----
+  
 - **[Earth]({{site.baseurl}}/PlayerResources/Abilities/Earth/#Earth)**
 - **[Air]({{site.baseurl}}/PlayerResources/Abilities/Air/#Air)**
 - **[Fire]({{site.baseurl}}/PlayerResources/Abilities/Fire/#Fire)**

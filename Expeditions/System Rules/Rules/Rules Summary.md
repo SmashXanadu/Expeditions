@@ -42,6 +42,7 @@ A **Natural 20** is a Success with a **Major Benefit**
 2. b) Roll **Magic** vs Enemy **Resistance** DC
 3. If success, **No Damage**
 4. If fail, **Take Damage** to **Health** and/or **Durability**
+
 ## Range / Distance to Target
 
 **Close**: In the same zone as target
