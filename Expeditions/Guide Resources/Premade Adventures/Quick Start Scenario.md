@@ -3,12 +3,12 @@ layout: default
 title: Modifier List
 permalink: /GuideResources/Adventures/QuickStart/
 ---
-# Into the Maw: A Goblin Hills Adventure
+# Expedition: Into the Maw
 ![The Maw - Dyson Logos](https://dysonlogos.blog/wp-content/uploads/2023/02/with-teeth.jpg)
 
 The "Great Gnawer," a subterranean deity revered (and feared) by goblin clans, is furious. The **grinding sound** from the "Giant Stone Teeth" has become chaotic and maddening, driving goblins to frenzy. Desperate shamans warn of doom.
 
-**Quest Hook:** Sniv, a trembling goblin, explains his brother, **Grubl** (a powerful shaman), and his crew ventured into the "Giant Stone Teeth" a week ago to "appease the Gnawer" and fix the erratic grinding. None returned. Sniv begs for help, offering his tribe's "most cherished" **Gobloon**.
+**Quest Hook:** **Sniv**, a trembling goblin, explains his brother, **Grubl** (a powerful shaman), and his crew ventured into the "Giant Stone Teeth" a week ago to "appease the Gnawer" and fix the erratic grinding. None returned. Sniv begs for help, offering his tribe's "most cherished" **Gobloon**.
 ## 1. The Descent
 
 - **Approach:** Ground trembles from a horrible grinding sound. Wide stairwell leads into the hill. Air is stale and metallic.
