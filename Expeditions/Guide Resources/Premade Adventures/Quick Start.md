@@ -18,9 +18,8 @@ You approach a large hill with a two paths leading to the top from opposite side
 - **20 Large white stone pillars** sit atop a hill in a circular arrangement.
 - **The ground trembles** along with a horrible **grinding sound**. 
 - At the center of the "teeth" a **wide stairwell** leads underground into the hill.
-- The air is stale and metallic.
 
-- **Environmental Hazards:** TBD
+- **Environmental Hazards:**
     - **Grinding Floor:** Shifting, grinding sections cause trips or injury.
     - **Jutting Teeth:** Sharp, loose rocks on walls scrape or impale.
     - **Falling Debris:** Constant grinding dislodges rocks and dust.
@@ -44,37 +43,43 @@ You enter a small chamber...
 
 ---
 ## 3. The Still Pool
-You enter a natural, cool, damp cavern whithin which the grinding sound is muffled, replaced by the sound of **dripping water**.
-- Shallow **pool of dark water** reflects faint phosphorescent glow.
+You enter a natural, cool, damp cavern whithin which the grinding sound is muffled, replaced by the sound of dripping water...
+- Shallow **pool of dark water** with dark steam rising above it.
 - **Crude altar** in an alcove with a **slumped robed figure** next to it.
 - A few steps lead to a **wooden door** (To Area 4).
   
-**Crude Altar**: Upon the altar are scribbled notes about 'fiend magic', and rituals to perhaps become a host of a powerful fiend bound by a dark pact.
+**Crude Altar**: Upon the altar are **scribbled notes** about 'fiend magic', and rituals to perhaps become a host of a powerful fiend bound by a dark pact.
 
 **Pool of Dark Water**: Under the still surface an impossibly dark swirling current churns.
 
-**Slumped Robed Figure**: A gaunt, desperate **Goblin Shaman**, **Grubb** (Sniv's Brother), is shackled to the altar, softly moaning a mournful chant.
+**Slumped Robed Figure**: A gaunt, desperate Goblin Shaman, **Grubb** (Sniv's Brother), is **shackled** to the altar, softly moaning a mournful chant.
 - Captured while investigating the unsettling silence.
 - Shaman of the "Whispering Stone" tribe.
 - Observes captors, hopes to share dire warnings...
 	- The "Great Gnawer" was a lie.. it is just a machine.
 	- The other goblins here seem to be operated by mind control.
-	- The goblins speak of "Zixx" who seems to be their leader.
 
-- **Encounter:** Opportunity for roleplay and negotiation. Grubb is a prisoner seeking freedom. TBD
+- **Encounter:** Opportunity for roleplay and negotiation. Grubb wants to return to his tribe, but is locked to the altar.
 
 
 ---
 ## 4. The Chamber of Whispers
 You enter a small, unassuming chamber...
-- A **Glowing, Crystalline Key** sits on a central pedestal
-- Upon Investigation:
-	- Etched into the floor around the pedestal are **Faded, Abstract Symbols.*
+- There are **Four Stone Goblin Statues** around the outer edge of the room.
+- At the center of a room is a pedestal with a **circular indentation** on the top
 
-**Glowing Crystalline Key**: Encased in a translucent, humming magical barrier. Will not be accessible until the puzzle is solved
-
-- **Puzzle:** Deactivate the magical barrier to access the key, which unlocks Zixx's chambers.
-	- TBD
+**Stone Statues:**
+- **Goblin Raising a Torch**: If touched by flame, it starts to glow.
+- **Goblin Digging with a Shovel**: If touched by water, it starts to glow.
+- **Goblin Playing a Flute**: If touched by a gust of air, it starts to glow.
+- **Goblin Drinking from a Skin**: If touched by flame, it starts to glow.
+- If any incorrect types of magic hit a statue: 
+	- 1st time: That type of magic is reflected back at the caster and they must attempt to avoid taking damage.
+	- 2nd time: The impacted statue animates briefly and strikes the caster. The rest of the statues rumble.
+	- 3rd time: All statues animate and begin to fight the players.
+  
+**If all 4 statues are glowing OR if they are all destroyed...**
+- There is a grinding sound heard from the direction of one of the previous chambers (Door to Area 5 in Area 2 is now open)
 
 
 ---
@@ -85,13 +90,13 @@ You enter a large cavern humming with dark energy.
 - A pair of silent, still **elite goblin guards** stand ready on either side of the throne.
 
 **Pale green goblin**: Zixx the Warlock.
-- Former shaman-in-training un Grubb.
+- Holds the key to Grubbs shackles
+- Former shaman-in-training under Grubb.
 - Made a dark pact with a fiend.
-- Uses granted magic to brutally subjugate goblin clans.
 - Exerts influence through impersonating the "Great Gnawer" to reinforce his power and instill fear.
   
 - **Encounter Opportunities:**
-	- Zixx engages the player in conversation as they enter the chamber...
+	- **Zixx engages the player in conversation as they enter the chamber...**
 		- "What unfortunate timing... who are you and why are you here?"
 		- Passively mentions that once the **ritual is complete** he will no longer need to simply "pretend" to be the Great Gnawer.
 		- Offers to empower the players with dark magic if they leave him to complete the ritual.
@@ -117,13 +122,16 @@ You enter a large cavern humming with dark energy.
 		- The holder can roll to see if they can instead control the magic
 		- If they keep the orb, have the scribbled notes, and perform the ritual, they can gain the **Dark** node for free as long as they continue to hold the orb.
 
+
 ---
 ## Epilogue: Returning to Sniv
 
 After the encounter, the party returns to Sniv to discuss what transpired.
 
 - If Grubb or any other goblins return with the players...
-	- TBD
+	- Sniv is thrilled to see them, and sad to hear if any of them didn't make it.
+- If Zixx escaped...
+	- Sniv urges the players to hunt him down and destroy him.
 - **The Gobloon's Unveiling:** Sniv carefully unrolls a bundle of finely woven, tightly stretched animal hides or cured monster bladders—a patchwork sphere that collapses with a soft sigh. "This," he whispers, "this is our tribe's greatest secret! The **Gobloon**!"
 - **Gnawer's Breath:** From a small, intricately carved pouch, he extracts shimmering fungi containing "Gnawer's Breath"—a rare, combustible gas gathered deep undergound.
 - **Promise of Flight:** Sniv explains the **Gobloon**, when inflated, allows flight above the world, offering unique perspective. He demonstrates how its woven basket can hold several individuals and float them for a limited amount of time high above the ground.
