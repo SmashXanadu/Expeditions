@@ -6,67 +6,124 @@ permalink: /GuideResources/Adventures/QuickStart/
 # Expedition: Into the Maw
 ![The Maw - Dyson Logos](https://dysonlogos.blog/wp-content/uploads/2023/02/with-teeth.jpg)
 
-The "**Great Gnawer**," a subterranean deity revered (and feared) by goblin clans, is furious. The **grinding sound** from the "Giant Stone Teeth" has become chaotic and maddening, driving goblins to frenzy. Desperate shamans warn of doom.
+The "**Great Gnawer**," a subterranean deity revered (and feared) by goblin clans, is furious. The grinding sound from the "**Gnawer's Teeth**" has become chaotic and maddening, driving local goblin clans into a frenzy.
 
-**Quest Hook:** **Sniv**, a trembling goblin, explains his brother, **Grubl** (a powerful shaman), and his crew ventured into the "Giant Stone Teeth" a week ago to "appease the Gnawer" and fix the erratic grinding. None returned. Sniv begs for help, offering his tribe's "most cherished" **Gobloon**.
+**Hook**:
+**Sniv**, a trembling goblin, explains that his brother, **Grubb** (a powerful shaman), and his crew ventured into the "Giant Stone Teeth" a week ago to "appease the Gnawer" and fix the erratic grinding. None returned. Sniv begs for help, offering his tribe's "most cherished" **Gobloon**.
+
+
+---
 ## 1. The Descent
+You approach a large hill with a two paths leading to the top from opposite sides...
+- **20 Large white stone pillars** sit atop a hill in a circular arrangement.
+- **The ground trembles** along with a horrible **grinding sound**. 
+- At the center of the "teeth" a **wide stairwell** leads underground into the hill.
+- The air is stale and metallic.
 
-- **Approach:** Ground trembles from a horrible grinding sound. Wide stairwell leads into the hill. Air is stale and metallic.
-- **Environmental Hazards:**
+- **Environmental Hazards:** TBD
     - **Grinding Floor:** Shifting, grinding sections cause trips or injury.
     - **Jutting Teeth:** Sharp, loose rocks on walls scrape or impale.
     - **Falling Debris:** Constant grinding dislodges rocks and dust.
 
+
+---
 ## 2. The Engine
+You enter a small chamber...
+- There are **jagged walls** with tooth-like rock formations.
+- A **massive, worn gear** mechanism rotates in the center.
+- **3 goblin engineers** are intently working on the mechanism. 
+- **Imposing stone doors** to the right (To Area 5).
+- **Stairs descending** to the left (To Area 3).
+  
+**Massive Worn Gear:** Seems to be the cause of the grinding. Could be disabled.
 
-- **Description:** Small chamber with walls of jagged, tooth-like rock formations. A **massive, worn gear mechanism** rotates in the center, producing the grinding sound.
-- **Inhabitants:** Several **goblin engineers** are frantically working on the mechanism. They are a new, mechanically inclined breed.
-    - **Klok:** Obsessed with gears, sees machinery's rhythm as order.
-    - **Wizg:** Tinkerer, seeks to "fix" the grind for Zrilx's favor.
-    - **Snag:** Forced engineer, fears Zrilx's punishment more than explosions.
-- **Encounter:** Goblins attack when they notice the party. Fight amidst environmental hazards (Grinding Floor, Jutting Teeth, Falling Debris).
-- **Exits:** Imposing stone doors to the right (blocked), stairs descending to the left.
+**Imposing stone doors**: Appear to be stuck or otherwise unable to be opened / budged.
+  
+**Encounter:** Goblins attack when they notice the party. Fight amidst environmental hazards (Grinding Floor, Jutting Teeth, Falling Debris).
 
+
+---
 ## 3. The Still Pool
+You enter a natural, cool, damp cavern whithin which the grinding sound is muffled, replaced by the sound of **dripping water**.
+- Shallow **pool of dark water** reflects faint phosphorescent glow.
+- **Crude altar** in an alcove with a **slumped robed figure** next to it.
+- A few steps lead to a **wooden door** (To Area 4).
+  
+**Crude Altar**: Upon the altar are scribbled notes about 'fiend magic', and rituals to perhaps become a host of a powerful fiend bound by a dark pact.
 
-- **Description:** Natural, cool, damp cavern. Grinding sound muffled, replaced by dripping water. Shallow pool of clear, dark water reflects faint phosphorescent glow.
-- **Inhabitants:** Crude altar in an alcove. A gaunt, desperate **Goblin Shaman**, **Grubl** (from a rival tribe), is shackled nearby, moaning a mournful chant.
-    - **Grubl:** Shaman of the "Whispering Stone" tribe. Captured while investigating the unsettling silence. Observes captors, hopes to share dire warnings.
-- **Encounter:** Opportunity for roleplay and negotiation. Grubl is a prisoner seeking freedom.
-- **Interaction:**
-    - Could become an **unlikely ally**, offering barrow layout, tribe strengths, or hidden passages for release.
-    - Can provide insight into barrow magic or the grinding.
-    - Party must decide whether to trust him and how to free him.
+**Pool of Dark Water**: Under the still surface an impossibly dark swirling current churns.
 
+**Slumped Robed Figure**: A gaunt, desperate **Goblin Shaman**, **Grubb** (Sniv's Brother), is shackled to the altar, softly moaning a mournful chant.
+- Captured while investigating the unsettling silence.
+- Shaman of the "Whispering Stone" tribe.
+- Observes captors, hopes to share dire warnings...
+	- The "Great Gnawer" was a lie.. it is just a machine.
+	- The other goblins here seem to be operated by mind control.
+	- The goblins speak of "Zixx" who seems to be their leader.
+
+- **Encounter:** Opportunity for roleplay and negotiation. Grubb is a prisoner seeking freedom. TBD
+
+
+---
 ## 4. The Chamber of Whispers
+You enter a small, unassuming chamber...
+- A **Glowing, Crystalline Key** sits on a central pedestal
+- Upon Investigation:
+	- Etched into the floor around the pedestal are **Faded, Abstract Symbols.*
 
-- **Description:** Small, unassuming antechamber. Quiet, faint cool breeze. Smooth, unadorned stone walls.
-- **Features:**
-    - **Glowing, Crystalline Key:** On a pedestal, visible but encased in a translucent, humming magical barrier.
-    - **Faded, Abstract Symbols:** Etched into the floor around the pedestal.
-    - **Stone Lever:** Set into the wall.
-- **Puzzle Goal:** Deactivate the magical barrier to access the key, which unlocks Zrilx's chambers.
-- **Solutions:**
-    - **Decipher Symbols (Investigation, Arcana, History):** Learn symbols represent magical/elemental forces for sequence activation.
-    - **Analyze Barrier (Arcana, Perception):** Identify magic signature to suggest counter-energy.
-    - **Manipulate Lever (Trial & Error, Arcana):** Lever is the release. Correct magical input on symbols (e.g., _Ray of Frost_ for cold) enables the lever to dissipate the barrier.
+**Glowing Crystalline Key**: Encased in a translucent, humming magical barrier. Will not be accessible until the puzzle is solved
 
+- **Puzzle:** Deactivate the magical barrier to access the key, which unlocks Zixx's chambers.
+	- TBD
+
+
+---
 ## 5. The Warlock's Audience
+You enter a large cavern humming with dark energy.
+- Smooth walls with crude, **glowing glyphs**.
+- Upon a raised platform sits a **pale green goblin** upon a jagged rock throne holding a **swirling orb of shadow** in his lap.
+- A pair of silent, still **elite goblin guards** stand ready on either side of the throne.
 
-- **Description:** Cavern humming with dark energy. Cold, ash-scented air. Smooth walls with crude, glowing glyphs.
-- **Boss:** **Zrilx**, the goblin warlock, on a jagged rock throne. Pale green skin, crimson eyes, gaunt, dark robes. Chanting over a pulsating orb of shadow and flame.
-    - **Zrilx:** Former shaman-in-training, made a dark pact with a fiend. Uses granted magic to brutally subjugate goblin clans, claiming influence over the "Great Gnawer" to reinforce his power and instill fear.
-- **Minions:** A handful of silent, devoted **elite goblin guards**.
+**Pale green goblin**: Zixx the Warlock.
+- Former shaman-in-training un Grubb.
+- Made a dark pact with a fiend.
+- Uses granted magic to brutally subjugate goblin clans.
+- Exerts influence through impersonating the "Great Gnawer" to reinforce his power and instill fear.
+  
 - **Encounter Opportunities:**
-    - **The Proposition (Negotiation/Roleplay):** Zrilx might offer passage or boons for tribute or service due to his arrogance.
-    - **The Display of Power (Intimidation/Magical Showdown):** Zrilx might unleash powerful magic (summon minor fiend from **Shadow Pools**, animate **Warped Pillars**) to intimidate or prove superiority.
-    - **The Ritual Disruption (Subtle Approach/Skill Challenge):** Attempt to subtly disrupt Zrilx's ritual (Stealth, Sleight of Hand, Arcana) to weaken or force his retreat.
-    - **Confrontation (Combat):** Zrilx uses dark magic and environmental control (shadowy tentacles, animated pillars). Aims to overwhelm and drive back; will escape through a shadowy portal if significantly damaged.
+	- Zixx engages the player in conversation as they enter the chamber...
+		- "What unfortunate timing... who are you and why are you here?"
+		- Passively mentions that once the **ritual is complete** he will no longer need to simply "pretend" to be the Great Gnawer.
+		- Offers to empower the players with dark magic if they leave him to complete the ritual.
+		  
+	- **If the players let Zixx complete the ritual...**
+		- Zixx is massively empowered by darkness and appears to be of living shadow.
+		- Tendrils reach out from Zixx in all directions into the floor and walls as the grinding begins again.
+		- Zixx turns to the players, calls them fools, and attacks them with empowered shadow magic and extra health.
+		  
+	- **If the players engage Zixx in combat**...
+		- Zixx whispers into the orb and a large **Shadowy Fiend** starts to crawl out of the **Pool of Dark Water** in room 3. Slowly clambering toward the party.
+		- The **Elite Goblin Guards** snap into action immediately placing themselves in front of Zixx and attack the players.
+		- Zixx attacks with small **shadow tendrils** and **shadow bolts**.
+		- Upon reaching low health, he spends a round opening a **shadow portal**, which he will use to escape on the next round.
+		  
+	- **If the Swirling Orb of Shadow is Destroyed OR Zixx dies...**
+		- The **Shadow Portal** collapses
+		- The **Shadowy Fiend** loses form
+		- Any other active **Shadow Magic** dissipates
+		  
+	- **If the Swirling Orb of Shadow is Held by a Player Character...**
+		- The holder can choose to immediately disable any active shadow magic. **Or...**
+		- The holder can roll to see if they can instead control the magic
+		- If they keep the orb, have the scribbled notes, and perform the ritual, they can gain the **Dark** node for free as long as they continue to hold the orb.
 
+---
 ## Epilogue: Returning to Sniv
 
 After the encounter, the party returns to Sniv to discuss what transpired.
 
+- If Grubb or any other goblins return with the players...
+	- TBD
 - **The Gobloon's Unveiling:** Sniv carefully unrolls a bundle of finely woven, tightly stretched animal hides or cured monster bladders—a patchwork sphere that collapses with a soft sigh. "This," he whispers, "this is our tribe's greatest secret! The **Gobloon**!"
-- **Gnawer's Breath:** From a small, intricately carved pouch, he extracts shimmering fungi containing "Gnawer's Breath"—a rare, combustible gas gathered from hidden fissures.
-- **Promise of Flight:** Sniv explains the **Gobloon**, when inflated, allows flight above the world, offering unique perspective. He demonstrates how its woven basket can hold several individuals, believing it reveals the "Gnawer's patterns" or the barrow's true magical "heart."
+- **Gnawer's Breath:** From a small, intricately carved pouch, he extracts shimmering fungi containing "Gnawer's Breath"—a rare, combustible gas gathered deep undergound.
+- **Promise of Flight:** Sniv explains the **Gobloon**, when inflated, allows flight above the world, offering unique perspective. He demonstrates how its woven basket can hold several individuals and float them for a limited amount of time high above the ground.
