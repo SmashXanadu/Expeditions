@@ -88,15 +88,15 @@ You enter a large cavern humming with dark energy.
 - A pair of silent, still **elite goblin guards** stand ready on either side of the throne.
 
 **Pale green goblin**: Zixx the Warlock.
-- Holds the key to Grubbs shackles
+- Holds the key to Grubb's shackles
 - Former shaman-in-training under Grubb.
 - Made a dark pact with a fiend.
 - Exerts influence through impersonating the "Great Gnawer" to reinforce his power and instill fear.
   
 - **Encounter Opportunities:**
-	- **Zixx engages the player in conversation as they enter the chamber...**
+	- **Zixx engages the players in conversation as they enter the chamber...**
 		- "What unfortunate timing... who are you and why are you here?"
-		- Passively mentions that once the **ritual is complete** he will no longer need to simply "pretend" to be the Great Gnawer.
+		- Mentions that once the **ritual is complete** he will no longer need to simply "pretend" to be the Great Gnawer.
 		- Offers to empower the players with dark magic if they leave him to complete the ritual.
 		  
 	- **If the players let Zixx complete the ritual...**
@@ -117,7 +117,7 @@ You enter a large cavern humming with dark energy.
 		  
 	- **If the Swirling Orb of Shadow is Held by a Player Character...**
 		- The holder can choose to immediately disable any active shadow magic. **Or...**
-		- The holder can roll to see if they can instead control the magic
+		- The holder can roll to see if they can instead control the magic DC15
 		- If they keep the orb, have the scribbled notes, and perform the ritual, they can gain the **Dark** node for free as long as they continue to hold the orb.
 
 
