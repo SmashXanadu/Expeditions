@@ -3,8 +3,5 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
-.obsidian
 .trash
-/.obsidian
-/.obsidian/
-.obsidian/workspace.json
+.obsidian\

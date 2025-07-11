@@ -6,7 +6,7 @@ permalink: /GuideResources/Adventures/QuickStart/
 # Expedition: Into the Maw
 ![The Maw - Dyson Logos](https://dysonlogos.blog/wp-content/uploads/2023/02/with-teeth.jpg)
 
-The "**Great Gnawer**," a subterranean deity revered (and feared) by goblin clans, is furious. The grinding sound from the "**Gnawer's Teeth**" has become chaotic and maddening, driving local goblin clans into a frenzy.
+The "**Great Gnawer**," a subterranean deity revered (and feared) by local goblin clans, is furious. The grinding sound from the "**Gnawer's Teeth**" has become chaotic and maddening, driving nearby goblins into a frenzy.
 
 **Hook**:
 **Sniv**, a trembling goblin, explains that his brother, **Grubb** (a powerful shaman), and his crew ventured into the "Giant Stone Teeth" a week ago to "appease the Gnawer" and fix the erratic grinding. None returned. Sniv begs for help, offering his tribe's "most cherished" **Gobloon**.
@@ -14,10 +14,10 @@ The "**Great Gnawer**," a subterranean deity revered (and feared) by goblin clan
 
 ---
 ## 1. The Descent
-You approach a large hill with a two paths leading to the top from opposite sides...
+You approach a large hill with two paths leading to the top from opposite sides...
 - **20 Large white stone pillars** sit atop a hill in a circular arrangement.
-- **The ground trembles** along with a horrible **grinding sound**. 
-- At the center of the "teeth" a **wide stairwell** leads underground into the hill.
+- **The ground trembles** and your can hear a horrible **grinding sound**. 
+- At the center of the "teeth", a **wide tunnel** leads underground into the hill.
 
 - **Environmental Hazards:**
     - **Grinding Floor:** Shifting, grinding sections cause trips or injury.
@@ -43,7 +43,7 @@ You enter a small chamber...
 
 ---
 ## 3. The Still Pool
-You enter a natural, cool, damp cavern whithin which the grinding sound is muffled, replaced by the sound of dripping water...
+You enter a natural, cool, damp cavern within which the grinding sound is muffled, replaced by the sound of dripping water...
 - Shallow **pool of dark water** with dark steam rising above it.
 - **Crude altar** in an alcove with a **slumped robed figure** next to it.
 - A few steps lead to a **wooden door** (To Area 4).
@@ -53,7 +53,7 @@ You enter a natural, cool, damp cavern whithin which the grinding sound is muffl
 **Pool of Dark Water**: Under the still surface an impossibly dark swirling current churns.
 
 **Slumped Robed Figure**: A gaunt, desperate Goblin Shaman, **Grubb** (Sniv's Brother), is **shackled** to the altar, softly moaning a mournful chant.
-- Captured while investigating the unsettling silence.
+- Captured while investigating the unsettling grinding noises.
 - Shaman of the "Whispering Stone" tribe.
 - Observes captors, hopes to share dire warnings...
 	- The "Great Gnawer" was a lie.. it is just a machine.
@@ -66,13 +66,12 @@ You enter a natural, cool, damp cavern whithin which the grinding sound is muffl
 ## 4. The Chamber of Whispers
 You enter a small, unassuming chamber...
 - There are **Four Stone Goblin Statues** around the outer edge of the room.
-- At the center of a room is a pedestal with a **circular indentation** on the top
 
 **Stone Statues:**
 - **Goblin Raising a Torch**: If touched by flame, it starts to glow.
-- **Goblin Digging with a Shovel**: If touched by water, it starts to glow.
+- **Goblin Digging with a Shovel**: If touched by earth, it starts to glow.
 - **Goblin Playing a Flute**: If touched by a gust of air, it starts to glow.
-- **Goblin Drinking from a Skin**: If touched by flame, it starts to glow.
+- **Goblin Drinking from a Skin**: If touched by water, it starts to glow.
 - If any incorrect types of magic hit a statue: 
 	- 1st time: That type of magic is reflected back at the caster and they must attempt to avoid taking damage.
 	- 2nd time: The impacted statue animates briefly and strikes the caster. The rest of the statues rumble.
@@ -85,7 +84,6 @@ You enter a small, unassuming chamber...
 ---
 ## 5. The Warlock's Audience
 You enter a large cavern humming with dark energy.
-- Smooth walls with crude, **glowing glyphs**.
 - Upon a raised platform sits a **pale green goblin** upon a jagged rock throne holding a **swirling orb of shadow** in his lap.
 - A pair of silent, still **elite goblin guards** stand ready on either side of the throne.
 

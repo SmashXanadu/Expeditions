@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Expeditions/System Rules/Rules/Rules Summary.md",
+                "file": "Expeditions/Guide Resources/Premade Adventures/Quick Start.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rules Summary"
+              "title": "Quick Start"
             }
           }
         ]
@@ -165,6 +165,7 @@
   },
   "active": "7b85c55333add8d0",
   "lastOpenFiles": [
+    "Expeditions/System Rules/Rules/Rules Summary.md",
     "Expeditions/System Rules/Rules/Rules Index.md",
     "Expeditions/System Rules/Rules/12 - Trade Skills.md",
     "Expeditions/System Rules/Rules/11 - General Skills.md",
@@ -190,7 +191,6 @@
     "Expeditions/Playtest/Premade Characters/Template.md",
     "Expeditions/Playtest/Premade Characters/Cam.md",
     "Expeditions/Playtest/Premade Characters/Brigg.md",
-    "Expeditions/Player Resources/Player Resources Index.md",
     "Pasted image 20250323200909.png",
     "{{site.baseurl}}/PlayerResources/Skills",
     "{{site.baseurl}}/PlayerResources",
