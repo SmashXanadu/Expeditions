@@ -19,14 +19,16 @@ permalink: /Rules/9/
 
 ## [Abilities](#abilities)
 - [Abilities]({{site.baseurl}}/PlayerResources/Abilities/AbilityList/#ability-list) from the **Hero Grid** will either use **Attack** or **Magic** rolls to determine success or failure.
-- All abilities will have detailed **General Rules** and **Combat Rules** which will have additional details such as what you can target, and what range the ability works from.
-- Abilities may cost **Charges**, which can be regained during Downtime with the Rest option, or by other specific Abilities and Magical Items.
+- All abilities will have detailed **General Rules** and **Combat Rules** with information such as what you can target, and what range the ability works from.
+- Abilities may cost **Charges**, which can be regained during **Downtime** with the Rest **option**, or by other specific Abilities and Magical Items.
+- When using an ability with **Charges**, mark off one of the available charge icons, and resolve the Ability rules as states on the card.
+- If there are no available charge icons, you can not use this ability until you regain charges.
 
 ![Player Characters 3](https://raw.githubusercontent.com/SmashXanadu/Expeditions/refs/heads/main/images/PlayerCharacters3.png)
 
 ## [Skills](#skills)
 - All characters will have a **Maximum of 12 Skills**.
-- **Evade** & **Resist** are rolled to avoid incoming attacks.
+- **Evade** & **Resist** are standard skills for all characters, and are rolled to avoid incoming attacks.
 - **General Skills** & **Trade Skills** may be used on checks in or out of combat
 - Each skill has a corresponding **Modifier** value that will start at +0. Over time you will gain experience to make progress on each skill track in order to unlock additional capabilities and increase modifiers to a **Maximum of +5**.
 

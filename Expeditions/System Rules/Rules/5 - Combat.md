@@ -20,16 +20,16 @@ Read the description of your ability to the group and describe what you are atte
 
 ### [Attacking](#attacking)
 If you are using an ability to **Attack** an enemy directly...
-4. Declare your ability and valid targets
-5. Your Guide will tell you the **Defense** or **Resistance** (for Magic attacks) **DC**(s) that you must roll against.
-6. Roll! If your roll plus modifiers meets or exceeds the DC, the ability successfully hits.
-7. If successful, you deal **Damage** to the enemy according to the ability or weapon used and apply additional effects if applicable.
+1. Declare your ability and valid targets
+2. Your Guide will tell you the **Defense** or **Resistance** (for Magic attacks) **DC**(s) that you must roll against.
+3. Roll! If your roll plus modifiers meets or exceeds the DC, the ability successfully hits.
+4. If successful, you deal **Damage** to the enemy according to the ability or weapon used and apply additional effects if applicable.
 
 Remember you can **Stretch** or **Over-Exert** on Attacks!
 ## [Enemy Turn](#enemy-turn)
 If an enemy attacks you…
-8. The Guide will tell you the enemy’s **Attack** or **Magic** **DC** (depending on the type of attack).
-9. You roll to **Evade** an Attack or **Resist** Magic.
+1. The Guide will tell you the enemy’s **Attack** or **Magic** **DC** (depending on the type of attack).
+2. You roll to **Evade** an Attack or **Resist** Magic.
 	- If you **Succeed** on the check, you avoid taking damage.
 	- If you **Fail** the check, the guide will tell you how much damage to take.
 
