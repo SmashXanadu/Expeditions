@@ -74,27 +74,27 @@ permalink: /Rules/7/
 
 **Scholar**:
 - **Inventory**: 2 Gold, Journal, Books, Magic Scrolls, Specimen Containers
-- **Equipment**: Cloth Robes, Leather Boots
-- **Weapon**: Staff or Dagger and Magical Object
+- **Equipment**: Cloth Robes (1), Leather Boots (1)
+- **Weapon**: Staff (2) or Dagger (1) and Magical Object (1)
 
 **Explorer**: 
 - **Inventory**: 3 Gold, Rope, Torches, Climbing Gear, Flint & Tinder, Throwing Knives or Arrows
-- **Equipment**: Leather Tunic, Leather Boots, Leather Pants, Leather Gloves, Leather Cap
-- **Weapon**: Dagger, Hand Axe, Hand Crossbow, or Short bow
+- **Equipment**: Leather Tunic (1), Leather Boots (1), Leather Pants (1), Leather Gloves (1), Leather Cap (1)
+- **Weapon**: Dagger (1), Hand Axe (1), Hand Crossbow (1), or Short bow (1)
 
 **Combatant**: 
 - **Inventory**: 2 Gold
-- **Equipment**: Chain Mail Helmet, Steel Breast Plate, Boots, Pants, and Gauntlets
-- **Weapon**: Long sword, Mace, Battle Axe,or Spear, Iron Shield
+- **Equipment**: Chain Mail Helmet (2), Steel Breast Plate (2), Boots (2), Pants (2), and Gauntlets (2)
+- **Weapon**: Long sword(2), Mace (2), Battle Axe (2), or Spear (1) & Iron Shield (2)
 
 **Performer**: 
 - **Inventory**: 5 Gold, Instrument / Tool / Prop, Costume or Disguise, Lucky Trinket, Prop, Wine skin
-- **Equipment**: Leather Tunic, Boot, Pant, Gloves, Cap
-- **Weapon**: Dagger or Short Sword
+- **Equipment**: Leather Tunic (1), Boot (1), Pant (1), Gloves (1), Cap (1)
+- **Weapon**: Dagger (1) or Short Sword (1)
 
 **Trader**: 
 - **Inventory**: 10 Gold, Trader’s Bag (5 Extra Inventory), 
-- **Equipment**: Leather Tunic, Boots, and Pants
+- **Equipment**: Leather Tunic (1), Boots (1), and Pants (1)
 - **Weapon**: Dagger
 
 [Previous]({{site.baseurl}}/Rules/6/#downtime) | **[Next: Hero Grid]({{site.baseurl}}/Rules/8/)** | [Rules]({{site.baseurl}}/Rules/Index/#rules)

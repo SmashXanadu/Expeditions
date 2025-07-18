@@ -5,6 +5,7 @@ permalink: /GuideResources/Adventures/QuickStart/
 ---
 # Expedition: Into the Maw
 ![The Maw - Dyson Logos](https://dysonlogos.blog/wp-content/uploads/2023/02/with-teeth.jpg)
+https://dysonlogos.blog/2023/02/10/the-maw-a-five-room-dungeon/
 
 The "**Great Gnawer**," a subterranean deity revered (and feared) by local goblin clans, is furious. The grinding sound from the "**Gnawer's Teeth**" has become chaotic and maddening, driving nearby goblins into a frenzy.
 

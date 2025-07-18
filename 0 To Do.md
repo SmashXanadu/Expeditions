@@ -1,4 +1,4 @@
-# To Do 
+# To Do
 
 ## Expeditions
 - Playtest Quick Start Scenario, **Expedition: Into the Maw**
