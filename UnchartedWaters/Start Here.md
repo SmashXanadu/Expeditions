@@ -7,6 +7,9 @@ permalink: /UnchartedWaters/StartHere/
 
 Ready for adventure? **Uncharted Waters** is an ongoing, open-table campaign using the **Expeditions** ruleset. This means you can drop in and out as your schedule allows, playing with a rotating cast of fellow adventurers in a living, breathing world. Get ready to explore, fight, and tell amazing stories together!
 
+In **Uncharted Waters**, you'll embark on a grand adventure aboard **The Emerald Dawn**, your trusty ship, as you sail ever westward into lands unknown. Every expedition brings you closer to discovering bizarre new islands, encountering strange creatures, and unraveling ancient secrets that lie hidden beyond the known world.
+
+Each session of Expeditions is a new foray into this vast, uncharted frontier. Will you discover a floating city, brave a storm-tossed archipelago, or unearth a relic from a forgotten civilization? The possibilities are as endless as the ocean itself, and your courage will chart the course.
 ## What to expect as a Player
 Here’s what you can look forward to when you join an **Expeditions** session in **Uncharted Waters**:
 - **Weekly Adventures:** We play **every week** on **[Day] at [X PM] for [Y hours]**. We only skip if there's an emergency or fewer than two players sign up.
