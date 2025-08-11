@@ -23,14 +23,6 @@
 	- Cloudskippers
 	- Uncharted Waters
 	- Shatterlands
-## Uncharted Waters
 
-- Create 1 Page Player's Guide / Gazetteer on Emerald Dawn page
-- Build out in world concept for Expedition System
-	- Magical person on the boat has a number of crystals, or can create these crystals from magical objects
-	- These crystals act as fast travel points back to the large crystal on the emerald dawn
-	- When players go on an excursion, if they do not return within 2 hours of real time they will be recalled to the Emerald Dawn
-	  
-- Share with prospective players to get interest
 
 
