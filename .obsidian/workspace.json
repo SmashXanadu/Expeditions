@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 To Do.md",
+                "file": "UnchartedWaters/Start Here.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0 To Do"
+              "title": "Start Here"
             }
           }
         ]
@@ -166,20 +166,21 @@
   },
   "active": "7b85c55333add8d0",
   "lastOpenFiles": [
-    "UnchartedWaters/Start Here.md",
-    "UnchartedWaters/Gazetteer.md",
     "UnchartedWaters/Uncharted Waters Index.md",
+    "UnchartedWaters/Start Here.md",
     "index.md",
-    "UnchartedWaters/Guide Materials/NPCs/Wren.md",
-    "images/uwmap.png",
-    "images/emeraldDawnship.png",
-    "UnchartedWaters/Guide Materials/NPCs/Finn.md",
     "0 To Do.md",
     "UnchartedWaters/Guide Materials/NPCs/Oz.md",
+    "UnchartedWaters/Guide Materials/NPCs/0 Template.md",
+    "UnchartedWaters/Guide Materials/NPCs/Finn.md",
+    "UnchartedWaters/Guide Materials/NPCs/Pip.md",
+    "UnchartedWaters/Guide Materials/NPCs/Wren.md",
+    "UnchartedWaters/Gazetteer.md",
+    "images/uwmap.png",
+    "images/emeraldDawnship.png",
     "images/oz.png",
     "UnchartedWaters/Guide Materials/Factions/The Cartographers' Guild.md",
     "UnchartedWaters/Guide Materials/Factions",
-    "UnchartedWaters/Guide Materials/NPCs/Pip.md",
     "UnchartedWaters/Locations/Locations.md",
     "UnchartedWaters/Guide Materials/Rules/Waystones.md",
     "UnchartedWaters/Locations/TheEmeraldDawn.md",
@@ -190,7 +191,6 @@
     "UnchartedWaters/Guide Materials/Ship Events/Ship Events.md",
     "UnchartedWaters/Guide Materials/Maps/Guide Sea Hex Map (121 Hex).md",
     "UnchartedWaters/Guide Materials/Maps/Player Sea Hex Map.md",
-    "UnchartedWaters/Guide Materials/NPCs/0 Template.md",
     "images/finn.png",
     "images/pip.png",
     "images/wren.png",

@@ -5,7 +5,7 @@ permalink: /UnchartedWaters/StartHere/
 ---
 # [Uncharted Waters - Start Here](#StartHere)
 
-Ready for adventure? **Uncharted Waters** is an ongoing, open-table campaign using the **Expeditions** ruleset. This means you can drop in and out as your schedule allows, playing with a rotating cast of fellow adventurers in a living, breathing world. Get ready to explore, fight, and tell amazing stories together!
+Ready for adventure? **Uncharted Waters** is an ongoing, open-table campaign using the **[Expeditions]({{site.baseurl}}/Rules/Index/)** ruleset. This means you can drop in and out as your schedule allows, playing with a rotating cast of fellow adventurers in a living, breathing world. Get ready to explore, fight, and tell amazing stories together!
 
 In **Uncharted Waters**, you'll embark on a grand adventure aboard **[The Emerald Dawn]({{site.baseurl}}/UnchartedWaters/Gazetteer/#emeraldDawn)**, your trusty ship, as you sail ever westward into lands unknown. Every expedition brings you closer to discovering bizarre new islands, encountering strange creatures, and unraveling ancient secrets that lie hidden beyond the known world.
 
