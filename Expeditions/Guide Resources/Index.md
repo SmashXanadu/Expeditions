@@ -25,11 +25,11 @@ Advice
 - Public DCs
 - Frequent Skill Checks for Exp
 
-| **DC** | **Difficulty** |
-| ------ | -------------- |
-| 8      | Trivial        |
-| 10     | Easy           |
-| 12     | Normal         |
-| 15     | Hard           |
-| 18     | Very Hard      |
-| 25     | Impossible     |
+| **Target Number** | **Difficulty** |
+| ----------------- | -------------- |
+| 8                 | Trivial        |
+| 10                | Easy           |
+| 12                | Normal         |
+| 15                | Hard           |
+| 18                | Very Hard      |
+| 25                | Impossible     |
