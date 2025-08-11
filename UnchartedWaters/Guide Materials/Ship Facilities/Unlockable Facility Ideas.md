@@ -1,0 +1,19 @@
+
+- **Alchemist's Lab:** A small, organized lab filled with bubbling beakers and strange ingredients where you can mix potions and salves. **(Run by a skilled Alchemist)**
+- **Menagerie:** A secure, climate-controlled space for caring for and studying animals brought back from expeditions. **(Run by a skilled Animal Handler)**
+- **Forge:** A compact but powerful forge for shaping metal into weapons and heavy armor. **(Run by a skilled Blacksmith)**
+- **Brewery:** A small collection of stills and casks for creating refreshing or intoxicating beverages. **(Run by a skilled Brewer)**
+- **Woodshop:** A dedicated space with a workbench and tools for shaping wood into structures and furniture. **(Run by a skilled Carpenter)**
+- **Galley:** The ship's kitchen, stocked with an ever-changing variety of ingredients to prepare delicious meals. **(Run by a skilled Cook)**
+- **Enchanter's Chamber:** A quiet room filled with arcane symbols and crystals for imbuing equipment with magical properties. **(Run by a skilled Enchanter)**
+- **Fletcher's Bench:** A simple workbench for crafting bows and arrows with precision. **(Run by a skilled Fletcher)**
+- **Library:** A small library with a growing collection of ancient lore and research materials from your travels. **(Run by a skilled Historian)**
+- **Jeweler's Studio:** A precise workspace for appraising gems and crafting intricate accessories. **(Run by a skilled Jeweler)**
+- **Tannery:** A section on deck for treating hides and scales to create lightweight armor. **(Run by a skilled Leatherworker)**
+- **Workshop:** A cluttered space filled with gears, cogs, and tools for building and fixing complex contraptions. **(Run by a skilled Mechanic)**
+- **Music Hall:** A small space with various instruments for practicing music and entertaining the crew. **(Run by a skilled Musician)**
+- **Tailor's Loft:** A loft with a loom and sewing materials for creating fine garments and tapestries. **(Run by a skilled Tailor)**
+- **Trapper's Nook:** A small nook for organizing and maintaining traps and tools for harvesting resources from wildlife. **(Run by a skilled Trapper)**
+- **Fishing Deck:** A dedicated spot on the ship's deck with all the necessary gear for catching fish from the sea. **(Run by a skilled Fisherman)**
+- **Archaeology Tent:** A small tent for examining artifacts and ruins recovered during your expeditions. **(Run by a skilled Archaeologist)**
+- **Poisoner's Cabinet:** A locked cabinet filled with vials and rare ingredients for crafting dangerous concoctions. **(Run by a skilled Poisoner)**
