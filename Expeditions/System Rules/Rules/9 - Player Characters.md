@@ -11,26 +11,25 @@ permalink: /Rules/9/
 
 ![Player Characters 1](https://raw.githubusercontent.com/SmashXanadu/Expeditions/refs/heads/main/images/PlayerCharacters1.png)
 ## [Equipment](#equipment)
-- Each equipped item has **Durability** that can be used instead of **Health** when taking damage.
-- Equipment can be **Repaired** up to its maximum durability.
-- If a piece of equipment reaches 0 Durability, it becomes **Broken**.
+- Each piece of equipment you wear has a **Durability** score.
+- Instead of losing **Health**, you can use an item's Durability to absorb damage.
+- If an item's Durability drops to 0, it becomes **Broken** and cannot be used until it's **Repaired**.
 
 ![Player Characters 2](https://raw.githubusercontent.com/SmashXanadu/Expeditions/refs/heads/main/images/PlayerCharacters2.png)
 
 ## [Abilities](#abilities)
-- [Abilities]({{site.baseurl}}/PlayerResources/Abilities/AbilityList/#ability-list) from the **Hero Grid** will either use **Attack** or **Magic** rolls to determine success or failure.
-- All abilities will have detailed **General Rules** and **Combat Rules** with information such as what you can target, and what range the ability works from.
-- Abilities may cost **Charges**, which can be regained during **Downtime** with the Rest **option**, or by other specific Abilities and Magical Items.
-- When using an ability with **Charges**, mark off one of the available charge icons, and resolve the Ability rules as states on the card.
-- If there are no available charge icons, you can not use this ability until you regain charges.
+- [Abilities]({{site.baseurl}}/PlayerResources/Abilities/AbilityList/#ability-list) are special actions you can take on your turn.
+- Your abilities come from the **Hero Grid** and use either an **Attack** or **Magic** roll to see if they succeed.
+- Abilities have a cost called **Charges**. When you use an ability, you mark off a charge. If you have no charges left, you cannot use the ability.
+- You regain charges by resting during **Downtime** or by using other specific abilities or items.
 
 ![Player Characters 3](https://raw.githubusercontent.com/SmashXanadu/Expeditions/refs/heads/main/images/PlayerCharacters3.png)
 
 ## [Skills](#skills)
-- All characters will have a **Maximum of 12 Skills**.
-- **Evade** & **Resist** are standard skills for all characters, and are rolled to avoid incoming attacks.
-- **General Skills** & **Trade Skills** may be used on checks in or out of combat
-- Each skill has a corresponding **Modifier** value that will start at +0. Over time you will gain experience to make progress on each skill track in order to unlock additional capabilities and increase modifiers to a **Maximum of +5**.
+Your character can have a maximum of 12 skills.
+- **Evade** and **Resist** are standard skills that help you avoid incoming attacks.
+- **General Skills** and **Trade Skills** can be used to perform actions in or out of combat.
+- Each skill has a **Modifier** value that starts at +0. Over time, you can improve a skill to a maximum of +5.
 
 ![Player Characters 4](https://raw.githubusercontent.com/SmashXanadu/Expeditions/refs/heads/main/images/PlayerCharacters4.png)
 

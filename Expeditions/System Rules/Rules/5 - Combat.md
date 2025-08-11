@@ -4,50 +4,49 @@ title: Combat
 permalink: /Rules/5/
 ---
 # [Combat](#combat)
+When conflict breaks out, the game shifts into **Combat** mode. Combat is organized into rounds, where characters and enemies take turns performing actions.
 ## [Turn Order](#turn-order)
-The Guide will determine whether the players or enemies "have the jump". Usually this is whichever side is choosing to initiate combat.
+The **Guide** decides who acts first: the **players** or the **adversaries**. Usually, it's the side that starts the fight.
 
-## [Heroes Turn](#heroes-turn)
-Each Character acts in order of their **Speed**. The character with the highest Speed goes first, then in descending order. Players decide how to break any ties.
+## [Your Turn (Players)](#heroes-turn)
+During your turn, your character can do a few things in any order:
+- **Use an Ability** (like an attack or a special move) or **Equip Gear**
+- **Move** to a new location
+- **Speak** or **Interact** with something
 
-**On your turn you may** (in any order)...
- 1. **Use an Ability**, do a **Skill Check**, or **Equip Gear**
- 2. **Move**
- 3. **Speak** or **Interact** with something in the environment
+Characters act in order of their **Speed** score, from highest to lowest. If there's a tie in Speed, players decide who goes first among themselves.
 
-### [Use an Ability](#use-an-ability)
-Read the description of your ability to the group and describe what you are attempting to do. Ensure that you are in range and line of sight of your target(s). Roll to resolve the ability if necessary.
+### [Using Abilities](#use-an-ability)
+When you use an **Ability**, describe what you're trying to do. Make sure your target is within range and line of sight. Roll to resolve the ability if necessary.
 
 ### [Attacking](#attacking)
-If you are using an ability to **Attack** an enemy directly...
-1. Declare your ability and valid targets
-2. Your Guide will tell you the **Defense** or **Resistance** (for Magic attacks) **DC**(s) that you must roll against.
-3. Roll! If your roll plus modifiers meets or exceeds the DC, the ability successfully hits.
-4. If successful, you deal **Damage** to the enemy according to the ability or weapon used and apply additional effects if applicable.
+If your Ability is an **Attack** against an enemy:
+1. Tell the Guide what you're attacking and with which Ability.
+2. The Guide will tell you the **target number** you need to beat. This will be a **Defense** target number for physical attacks or **Resistance** for magic attacks.
+3. Roll your D20 and add any relevant bonuses. If your total meets or beats the target number, your attack hits!
+4. If you hit, you deal **Damage** as described by your Ability or weapon, and any other effects happen.
 
-Remember you can **Stretch** or **Over-Exert** on Attacks!
-## [Enemy Turn](#enemy-turn)
-If an enemy attacks you…
-1. The Guide will tell you the enemy’s **Attack** or **Magic** **DC** (depending on the type of attack).
-2. You roll to **Evade** an Attack or **Resist** Magic.
-	- If you **Succeed** on the check, you avoid taking damage.
-	- If you **Fail** the check, the guide will tell you how much damage to take.
+Remember you can **Stretch** or **Over-Exert** on your attacks to succeed even on a missed roll, as explained in the "Resolving Dice Rolls" section!
+## [Adversary Turns](#enemy-turn)
+When an enemy attacks you:
+1. The Guide will tell you the enemy's **Attack target number** (for physical attacks) or **Magic target number** (for magic attacks).
+2. You roll to **Evade** (for physical attacks) or **Resist** (for magic attacks).
+    - If you **succeed**, you avoid the damage.
+    - If you **fail**, the Guide tells you how much damage you take.
 
 ### [Taking Damage](#taking-damage)
-- Decide how much damage will be taken from your health and how much will be taken from any specific equipment durability.
-	- When taking damage from armor durability, describe how your character takes the brunt of the impact with that equipped item.
-- If your health ever reaches 0, you will fall **Unconscious**.	
-- If any specific equipment durability ever reaches 0, it will become **Broken**.
+When you take damage:
+- You decide how much damage comes from your **Health** and how much comes from your **Equipment Durability**. When taking damage from equipment, describe how that item protected you.
+- If your **Health** drops to 0, you fall **Unconscious**.
+- If an **Equipment's Durability** drops to 0, that item becomes **Broken**.
 
 ### [Zoned Combat](#zoned-combat)
-During combat, the play area is broken up into clearly established spaces on a map or table called **Zones**.
-
-Generally, using **Move** on your turn will allow you to move to an adjacent zone.
-
-**Range** to your targets is also dictated by Zones.
-- **Close**: In the same zone as target
-- **Near**: In adjacent zone to target
-- **Far**: At least 1 zone away from target
-- **Distant**: Beyond the field of battle
+Combat takes place in **Zones**, which are clearly defined areas on a map or table.
+- When you **Move** on your turn, you generally move to an **adjacent zone**.
+- The **Range** to your targets is also determined by these Zones:
+    - **Close**: You are in the same zone as your target.
+    - **Near**: Your target is in an adjacent zone.
+    - **Far**: Your target is at least one zone away from you.
+    - **Distant**: Your target is beyond the current combat area.
 
 [Previous]({{site.baseurl}}/Rules/4/#flow-of-the-game) | **[Next: Downtime]({{site.baseurl}}/Rules/6/)** | [Rules]({{site.baseurl}}/Rules/Index/#rules)

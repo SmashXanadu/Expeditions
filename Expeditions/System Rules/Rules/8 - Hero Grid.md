@@ -8,7 +8,7 @@ The [Hero Grid](https://raw.githubusercontent.com/SmashXanadu/Expeditions/refs/h
 
 You will start with a single node unlocked as part of the character creation process. Over time you will gain enough experience points (EXP) on the **Hero Track** to reach certain boxes that will allow you to unlock additional nodes (up to a maximum of 5).
 
-When you unlock a node on the Hero Grid, it must be linked to the large central node or linked to a node that you have unlocked already. 
+You can only unlock a new node if it's connected to a node you've already unlocked, or connected to the center of the grid. Think of it like a path you're creating across the grid.
 
 The numbered nodes here represent what a character’s progression through the grid could look like.
 

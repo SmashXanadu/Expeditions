@@ -6,7 +6,7 @@ permalink: /Rules/Summary/
 # [Rules Summary](#summary)
 ------------------------------------------------------------------------
 ## Rolling Dice
-**Roll + Modifier(s) ≥ DC** is a **Success**
+**Roll + Modifier(s) ≥ Target Number** is a **Success**
 
 If **within 2, Stretch** for Success with a **Minor Complication**
 
@@ -33,13 +33,13 @@ A **Natural 20** is a Success with a **Major Benefit**
 
 **When Attacking** an Enemy
 1. If needed, mark off a Charge on your ability
-2. a) Roll Attack vs Enemy Defense DC
-3. b) Roll Magic vs Enemy Resistance DC
+2. a) Roll Attack vs Enemy Defense
+3. b) Roll Magic vs Enemy Resistance
 4. If success, deal Damage
 
 **When being Attacked** by an Enemy
-1. a) Roll **Evade** vs Enemy **Attack** DC
-2. b) Roll **Resist** vs Enemy **Magic** DC
+1. a) Roll **Evade** vs Enemy **Attack**
+2. b) Roll **Resist** vs Enemy **Magic**
 3. If success, **No Damage**
 4. If fail, **Take Damage** to **Health** and/or **Durability**
 

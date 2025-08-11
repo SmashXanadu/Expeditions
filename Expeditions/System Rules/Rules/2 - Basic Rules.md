@@ -4,11 +4,6 @@ title: Basic Rules
 permalink: /Rules/2/
 ---
 # [Basic Rules](#basic-rules)
-In order to play Expeditions you will need...
-- This Rules Zine
-- Pencils and pens
-- A 20-Sided Die
-- 1 or more people to play with
 
 You and a group of friends are about to embark on your first expedition where you will laugh, grow, fight, solve problems and discover secrets together.
 
@@ -16,20 +11,20 @@ As you create a story collaboratively, the **Guide** will describe your environm
 	or
 ...ask you for a roll to determine what happens.
 
->**Sam**: “I want to move this boulder off the road.”
+>**Player**: “I want to move this boulder off the road.”
 >
->**Ash**: “What skill would do you want to use?”
+>**Guide**: “What skill would do you want to use?”
 >
->**Sam**: “I would just try to muscle it out of the way using my Strong skill.”
+>**Player**: “I would just try to muscle it out of the way using my Strong skill.”
 >
->**Ash**: “Okay, you are exceptionally strong. You move the boulder without much effort at all.”
->
->**or**
->
->**Ash**: “This boulder is beyond your capability to move with strength alone.”
+>**Guide**: “Okay, you are exceptionally strong. You move the boulder without much effort at all.”
 >
 >**or**
 >
->**Ash**: “I’m not sure if you are strong enough to lift this, let’s roll to see...”
+>**Guide**: “This boulder is beyond your capability to move with strength alone.”
+>
+>**or**
+>
+>**Guide**: “I’m not sure if you are strong enough to lift this, let’s roll to see...”
 
 [Previous]({{site.baseurl}}/Rules/1/#about-expeditions) | **[Next: Resolving Dice Rolls]({{site.baseurl}}/Rules/3/)** | [Rules]({{site.baseurl}}/Rules/Index/#rules)

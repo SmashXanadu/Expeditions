@@ -4,33 +4,38 @@ title: Character Creation
 permalink: /Rules/7/
 ---
 # [Character Creation](#character-creation)
-## Steps of Character Creation
-1. Set your **Speed** to 20.
-2. (Optional) Choose a **Feature Set** and choose any of the corresponding features.
-3. Choose a **Size**. Gain all corresponding benefits. 
-4. Choose a **Starting Node** on the Hero Grid and learn the corresponding Abilities.
-5. Choose 4 **General Skills** and set them to +0.
-6. Choose a starting **Equipment Set**. Gain corresponding equipment, items, and gold.
+
+Creating your character is done in six simple steps. Follow the steps below and make your choices to create the perfect hero for your next expedition.
+
+### The Steps:
+
+1. **Set Your Speed:** Your base **Speed** is 20.
+2. **Choose a Feature Set** (Optional): Pick a set of features that fits your character's background, like **Aquatic** or **Avian**.
+3. **Choose a Size:** Select a size (**Small**, **Medium**, or **Large**) and adjust your **Speed** or **Health**.
+4. **Choose a Starting Node:** Select a starting point on the Hero Grid to determine your first abilities.
+5. **Choose 4 General Skills:** Pick four skills from the list to start with, setting each to +0.
+6. **Choose a Starting Equipment Set:** Select a pre-made set of gear to begin your journey.
 
 ### [1. Speed](#feature-sets)
-
-- Set **Speed** to 20.
-
+Everyone starts with a **Speed** of 20.
+  
 ### [2. Feature Set](#feature-set)
-
-- **Aquatic**: Gills, Fins, Deep-Sea Eyes, Shimmering Scales
+Choose a set of features that describe your character's look or heritage.
+- **Aquatic:** Gills, Fins, Deep-Sea Eyes, Shimmering Scales
 - **Bestial:** Fangs, Fur, Horns, Hooves, Scales
-- **Avian**: Feathers, Beak, Talons, Wings
-- **Angelic/Demonic**: Fangs, Horns, Glowing Eyes, Sparkling Skin
-
+- **Avian:** Feathers, Beak, Talons, Wings
+- **Angelic/Demonic:** Fangs, Horns, Glowing Eyes, Sparkling Skin
+  
 ### [3. Size](#size)
-
-- **Small**: +2 Speed
-- **Average**: +1 Maximum Health
-- **Large**: +2 Maximum Health, -2 Speed
-
+Your size gives you a starting bonus.
+- **Small:** +2 Speed
+- **Average:** +1 Maximum Health
+- **Large:** +2 Maximum Health, -2 Speed
+  
 ### [4. Starting Node](#startingNode)
+This is your character's starting specialization. You will learn the corresponding abilities for the node you choose.
 
+#### Martial Nodes:
 - **[1 Handed Weapons]({{site.baseurl}}/PlayerResources/Abilities/1HandedWeapons/#1-Handed-Weapons)**
 - **[2 Handed Weapons]({{site.baseurl}}/PlayerResources/Abilities/2HandedWeapons/#2-Handed-Weapons)**
 - **[Ranged Weapons]({{site.baseurl}}/PlayerResources/Abilities/RangedWeapons/#Ranged-Weapons)**
@@ -38,7 +43,7 @@ permalink: /Rules/7/
 - **[Armored]({{site.baseurl}}/PlayerResources/Abilities/Armored/#Armored)**
 - **[Unarmored]({{site.baseurl}}/PlayerResources/Abilities/Unarmored/#Unarmored)**
 - **[Brawler]({{site.baseurl}}/PlayerResources/Abilities/Brawler/#Brawler)**
-  
+#### Magic Nodes:
 - **[Earth]({{site.baseurl}}/PlayerResources/Abilities/Earth/#Earth)**
 - **[Air]({{site.baseurl}}/PlayerResources/Abilities/Air/#Air)**
 - **[Fire]({{site.baseurl}}/PlayerResources/Abilities/Fire/#Fire)**
@@ -48,6 +53,7 @@ permalink: /Rules/7/
 - **[Dark]({{site.baseurl}}/PlayerResources/Abilities/Dark/#Dark)**
 
 ### [5. General Skills](#generalskills)
+Choose any four skills from this list. Each starts at +0.
 - **[Careful]({{site.baseurl}}/PlayerResources/Skills/Careful/#Careful)**: You have nimble hands, patience, and attention to detail.
 - **[Charismatic]({{site.baseurl}}/PlayerResources/Skills/Charismatic/#Charismatic)**: You have a way with words and use them well.
 - **[Dexterous]({{site.baseurl}}/PlayerResources/Skills/Dexterous/#Dexterous)**: You can control your body and move with confidence.
@@ -71,6 +77,7 @@ permalink: /Rules/7/
 - **[Wise]({{site.baseurl}}/PlayerResources/Skills/Wise/#Wise)**: You know from experience how to handle most situations.
 
 ## [6. Equipment Set](#equipment-set)
+Choose one of these pre-made equipment sets to start the game with.
 
 **Scholar**:
 - **Inventory**: 2 Gold, Journal, Books, Magic Scrolls, Specimen Containers

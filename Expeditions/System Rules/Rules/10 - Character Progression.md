@@ -4,29 +4,23 @@ title: Character Progression
 permalink: /Rules/10/
 ---
 # [Character Progression](#character-progression)
-Characters will progress primarily in two ways:
-**Gaining Experience** (EXP) and **Managing Equipment**
+Your character grows and gets stronger in two main ways: gaining **Experience (EXP)** and managing your **Equipment**.
 
 ## [Gaining Experience](#gaining-experience)
-**Learn by Failure**: Whenever you fail a roll you gain an experience point. Check off the left most unchecked box on the corresponding skill track.
+You gain EXP primarily in two ways:
+- **Learning by Failure:** Whenever you fail a roll, you gain an EXP point for that skill. You'll mark this on your skill's track.
+- **Training:** During **Downtime**, you can choose to train a skill to gain an EXP point for it.
 
-**Train**: During Downtime you will also have the opportunity to gain experience points for specific skills by using the **Train** downtime action.
-
-If the box you check has a “**+1**” in it, add one to the skill’s modifier. 
-
-If the box you check has a **star icon** in it, you can select and check a permanent enhancement box on your skill card.
-
-If the box you check is on the **Hero Track** and it has a **circle** in it, you get to select a new **Node** on the **Hero Grid** and learn the associated **4 Abilities**.
+As you gain EXP, you'll mark off boxes on your character sheet. These boxes give you different rewards:
+- **+1**: This increases your skill's **Modifier**, making you better at using that skill.
+- **Star**: This lets you gain a permanent enhancement for that skill.
+- **Circle**: This lets you unlock a new **Node** on the **Hero Grid** and learn the four abilities associated with it.
 
 ## [Managing Equipment](#managing-equipment)
+Your character has a set number of slots for **Weapons** and **Armor**.
 
-**Equipment**: Characters have a set number of slots to equip **Armor** and **Weapons**.
-- **Armor** Durability and Speed Penalties will vary based on the armor type (**Light**, **Medium**, or **Heavy**).
-- **Weapons** will be held with either 1 or 2 hands and will also have durability and speed penalties.
-- Both Armor and Weapons may have additional magical properties!
-
- **Inventory**: Hold up to 10 non-equipped items.
- 
- **Gold**: Represents the amount of gold you are carrying.
+- **Weapons** and **Armor** have durability, and some may have penalties to your speed  based on the armor type (**Light**, **Medium**, or **Heavy**). They can also have magical properties.
+- Your **Inventory** can hold up to 10 unequipped items.
+- **Gold** is the currency you use to buy and sell items.
 
 [Previous]({{site.baseurl}}/Rules/9/#player-characters) | **[Next: General Skills]({{site.baseurl}}/Rules/11/)** | [Rules]({{site.baseurl}}/Rules/Index/#rules)

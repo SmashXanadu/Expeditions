@@ -4,6 +4,9 @@ title: General Skills
 permalink: /Rules/11/
 ---
 # [General Skills](#general-skills)
+**General Skills** represent your character's natural talents and learned abilities. You'll use these skills for actions outside of combat, or whenever your Guide asks for a **Skill Check**.
+
+Here's a list of available General Skills:
 - **[Careful]({{site.baseurl}}/PlayerResources/Skills/Careful/#Careful)**: You have nimble hands, patience, and attention to detail.
 - **[Charismatic]({{site.baseurl}}/PlayerResources/Skills/Charismatic/#Charismatic)**: You have a way with words and use them well.
 - **[Dexterous]({{site.baseurl}}/PlayerResources/Skills/Dexterous/#Dexterous)**: You can control your body and move with confidence.
@@ -26,7 +29,7 @@ permalink: /Rules/11/
 - **[Trickster]({{site.baseurl}}/PlayerResources/Skills/Trickster/#Trickster)**: You know how to fool others into seeing your truth.
 - **[Wise]({{site.baseurl}}/PlayerResources/Skills/Wise/#Wise)**: You know from experience how to handle most situations.
 
-If your character has a skill that is not represented in this list, work with your **Guide** to define a custom skill.
+If your character has a skill not on this list, work with your **Guide** to create a **custom skill**.
 
 [Previous]({{site.baseurl}}/Rules/10/#character-progression) | **[Next: Tradeskills]({{site.baseurl}}/Rules/12/)** | [Rules]({{site.baseurl}}/Rules/Index/#rules)
 

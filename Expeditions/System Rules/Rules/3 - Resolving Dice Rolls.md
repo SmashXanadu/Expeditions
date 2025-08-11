@@ -4,30 +4,31 @@ title: Resolving Dice Rolls
 permalink: /Rules/3/
 ---
 # [Resolving Dice Rolls](#resolving-dice-rolls)
-You and your **Guide** will discuss which **Skill** or **Ability** you will be using that is appropriate to attempt your desired action, and provide you a **Difficulty Check (DC)** value between 8 (trivial) and 25 (near impossible).
+When you try to do something with an uncertain outcome, your **Guide** will set a **target number** for you to beat. This number will be between 8 (easy) and 25 (almost impossible).
 
-To succeed in your intended action, you must
-1. Roll a D20
-2. Add any skill-specific modifier(s)
-3. Compare the resulting value to the DC.
+To find out if you succeed, follow these steps:
+1. Roll a 20-sided die.
+2. Add any bonuses from your **Skills** or **Abilities**.
+3. Compare the total to the target number.
 
-  **If your Roll, plus your Modifier(s), is equal to or greater**
-  **than the DC, it is a Success.**
+**Success and Failure**
+- **Success**: If your total is **equal to or higher** than the target number, you succeed!
+- **Failure**: If your total is **lower** than the target number, you fail.
 
-**Rolling a 1** (ignoring modifiers) is always a **Failure** with a **Major Complication**.
+**Critical Rolls**
+- **A roll of 1** (before adding any bonuses) is always a **Failure** with a **Major Complication**.
+- **A roll of 20** (before adding any bonuses) is always a **Success** with a **Major Benefit**.
 
-**Rolling a 20** (ignoring modifiers) is always a Success with a **Major Benefit**.
+**Pushing Yourself**
+If you fail, you can choose to succeed by "pushing" yourself, but this comes with a consequence.
+- If you miss the target number by **2 or less**, you can **Stretch** for **Success** with a **Minor Complication**.
+- If you miss the target number by **3-5**, you can **Over-Exert** for **Success** with a **Major Complication**.
+- If you miss by **more than 5**, you **Fail**.
 
-If your Roll, plus your Modifier, is lower than the DC,
-you may still be able to succeed in your attempt…
-- **If within 2**, you may **Stretch** to succeed with a **Minor Complication**. 
-- **If within 5**, you may **Over-Exert** to succeed with a  **Major Complication**. 
-- **If more than 5** away from the DC, you **Fail**.
-
->**Ash**: “To move the boulder, you will need to roll a 16.” 
+>**Guide**: "To move the boulder, you need to roll a 16."
 >
->**Sam**: “I rolled a 13, but my Strong skill is at +2. So 15 	total. I want to stretch to make sure I succeed.”
+>**Player**: "I rolled a 13, and my Strong skill adds +2, for a total of 15. That's a fail by 1. I'll push myself to succeed."
 >
->**Ash**: “You move the boulder, but in the process it rolls over your feet and destroys your boots.”
+>**Guide**: "You move the boulder, but in the process, you damage your boots."
 
 [Previous]({{site.baseurl}}/Rules/2/#basic-rules) | **[Next: Flow of the Game]({{site.baseurl}}/Rules/4/)** | [Rules]({{site.baseurl}}/Rules/Index/#rules)
