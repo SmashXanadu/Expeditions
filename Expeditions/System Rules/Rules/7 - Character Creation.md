@@ -43,6 +43,7 @@ This is your character's starting specialization. You will learn the correspondi
 - **[Armored]({{site.baseurl}}/PlayerResources/Abilities/Armored/#Armored)**
 - **[Unarmored]({{site.baseurl}}/PlayerResources/Abilities/Unarmored/#Unarmored)**
 - **[Brawler]({{site.baseurl}}/PlayerResources/Abilities/Brawler/#Brawler)**
+
 #### Magic Nodes:
 - **[Earth]({{site.baseurl}}/PlayerResources/Abilities/Earth/#Earth)**
 - **[Air]({{site.baseurl}}/PlayerResources/Abilities/Air/#Air)**
