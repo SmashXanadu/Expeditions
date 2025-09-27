@@ -19,15 +19,15 @@ To find out if you succeed, follow these steps:
 - **A roll of 1** (before adding any bonuses) is always a **Failure** with a **Major Complication**.
 - **A roll of 20** (before adding any bonuses) is always a **Success** with a **Major Benefit**.
 
-**Pushing Yourself**
-If you fail, you can choose to succeed by "pushing" yourself, but this comes with a consequence.
-- If you miss the target number by **2 or less**, you can **Stretch** for **Success** with a **Minor Complication**.
-- If you miss the target number by **3-5**, you can **Over-Exert** for **Success** with a **Major Complication**.
+**Succeeding with Complications**
+If you fail to hit your target number, you can choose to succeed by pushing yourself beyond your limits and accepting a complication.
+- If you miss the target number by **2 or less**, you can **Succeed** by accepting a **Minor Complication**.
+- If you miss the target number by **3-5**, you can **Succeed** by accepting a **Major Complication**.
 - If you miss by **more than 5**, you **Fail**.
 
 >**Guide**: "To move the boulder, you need to roll a 16."
 >
->**Player**: "I rolled a 13, and my Strong skill adds +2, for a total of 15. That's a fail by 1. I'll push myself to succeed."
+>**Player**: "I rolled a 13, and my Strong skill adds +2, for a total of 15. That's a fail by 1... but I will take a complication to succeed."
 >
 >**Guide**: "You move the boulder, but in the process, you damage your boots."
 

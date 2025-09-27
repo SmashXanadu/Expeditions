@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Expeditions/Guide Resources/Premade Adventures/Open Table Campaigns/Ideas.md",
+                "file": "Expeditions/System Rules/Rules/6 - Downtime.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ideas"
+              "title": "6 - Downtime"
             }
           }
         ]
@@ -155,6 +155,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -166,8 +167,18 @@
   },
   "active": "7b85c55333add8d0",
   "lastOpenFiles": [
-    "0 To Do.md",
+    "Expeditions/System Rules/Rules/10 - Character Progression.md",
+    "Expeditions/System Rules/Rules/11 - General Skills.md",
+    "Expeditions/System Rules/Rules/9 - Player Characters.md",
+    "Expeditions/System Rules/Rules/8 - Hero Grid.md",
+    "Expeditions/System Rules/Rules/7 - Character Creation.md",
+    "Expeditions/System Rules/Rules/6 - Downtime.md",
+    "Expeditions/System Rules/Rules/5 - Combat.md",
+    "Expeditions/System Rules/Rules/4 - Flow of the Game.md",
+    "Expeditions/System Rules/Rules/3 - Resolving Dice Rolls.md",
+    "Expeditions/System Rules/Rules/Rules Index.md",
     "Expeditions/Guide Resources/Premade Adventures/Open Table Campaigns/Ideas.md",
+    "0 To Do.md",
     "UnchartedWaters/Start Here.md",
     "UnchartedWaters/Uncharted Waters Index.md",
     "index.md",
@@ -186,19 +197,9 @@
     "UnchartedWaters/Guide Materials/Rules/Waystones.md",
     "UnchartedWaters/Locations/TheEmeraldDawn.md",
     "UnchartedWaters/Guide Materials/Rules/Cataloguing.md",
-    "UnchartedWaters/Characters/Characters.md",
-    "UnchartedWaters/Guide Materials/Rules/Open Table.md",
-    "UnchartedWaters/Guide Materials/Ship Facilities/Unlockable Facility Ideas.md",
-    "UnchartedWaters/Guide Materials/Ship Events/Ship Events.md",
-    "UnchartedWaters/Guide Materials/Maps/Guide Sea Hex Map (121 Hex).md",
-    "UnchartedWaters/Guide Materials/Maps/Player Sea Hex Map.md",
     "images/finn.png",
     "images/pip.png",
     "images/wren.png",
-    "Expeditions/System Rules/Rules/9 - Player Characters.md",
-    "Expeditions/System Rules/Rules/6 - Downtime.md",
-    "Expeditions/System Rules/Rules/7 - Character Creation.md",
-    "README.md",
     "{{site.baseurl}}/Rules",
     "{{site.baseurl}}",
     "{{site.baseurl}}/UnchartedWaters",

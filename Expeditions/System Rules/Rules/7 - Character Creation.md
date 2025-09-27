@@ -7,10 +7,10 @@ permalink: /Rules/7/
 
 Creating your character is done in six simple steps. Follow the steps below and make your choices to create the perfect hero for your next expedition.
 
-### The Steps:
+### The Steps At a Glance:
 
 1. **Set Your Speed:** Your base **Speed** is 20.
-2. **Choose a Feature Set** (Optional): Pick a set of features that fits your character's background, like **Aquatic** or **Avian**.
+2. **Choose a Feature Set** (Optional): Pick a set of features that fits your character's background.
 3. **Choose a Size:** Select a size (**Small**, **Medium**, or **Large**) and adjust your **Speed** or **Health**.
 4. **Choose a Starting Node:** Select a starting point on the Hero Grid to determine your first abilities.
 5. **Choose 4 General Skills:** Pick four skills from the list to start with, setting each to +0.
@@ -19,8 +19,8 @@ Creating your character is done in six simple steps. Follow the steps below and 
 ### [1. Speed](#feature-sets)
 Everyone starts with a **Speed** of 20.
   
-### [2. Feature Set](#feature-set)
-Choose a set of features that describe your character's look or heritage.
+### [2. (Optional) Feature Set](#feature-set)
+You may choose one or more features from a set below that describe your character's look or heritage.
 - **Aquatic:** Gills, Fins, Deep-Sea Eyes, Shimmering Scales
 - **Bestial:** Fangs, Fur, Horns, Hooves, Scales
 - **Avian:** Feathers, Beak, Talons, Wings
@@ -78,7 +78,7 @@ Choose any four skills from this list. Each starts at +0.
 - **[Wise]({{site.baseurl}}/PlayerResources/Skills/Wise/#Wise)**: You know from experience how to handle most situations.
 
 ## [6. Equipment Set](#equipment-set)
-Choose one of these pre-made equipment sets to start the game with.
+Choose one of these pre-made equipment sets to start the game with. The starting **durability** of equipment is the number in parenthesis next to each piece of equipment.
 
 **Scholar**:
 - **Inventory**: 2 Gold, Journal, Books, Magic Scrolls, Specimen Containers
@@ -96,7 +96,7 @@ Choose one of these pre-made equipment sets to start the game with.
 - **Weapon**: Long sword(2), Mace (2), Battle Axe (2), or Spear (1) & Iron Shield (2)
 
 **Performer**: 
-- **Inventory**: 5 Gold, Instrument / Tool / Prop, Costume or Disguise, Lucky Trinket, Prop, Wine skin
+- **Inventory**: 5 Gold, Instrument / Tool / Prop, Costume or Disguise, Lucky Trinket, Wine skin
 - **Equipment**: Leather Tunic (1), Boot (1), Pant (1), Gloves (1), Cap (1)
 - **Weapon**: Dagger (1) or Short Sword (1)
 

@@ -26,7 +26,7 @@ If your Ability is an **Attack** against an enemy:
 3. Roll your D20 and add any relevant bonuses. If your total meets or beats the target number, your attack hits!
 4. If you hit, you deal **Damage** as described by your Ability or weapon, and any other effects happen.
 
-Remember you can **Stretch** or **Over-Exert** on your attacks to succeed even on a missed roll, as explained in the "Resolving Dice Rolls" section!
+Remember you may be able to take a **consequence** to allow your attacks to succeed even on a missed roll, as explained in the "Resolving Dice Rolls" section!
 ## [Adversary Turns](#enemy-turn)
 When an enemy attacks you:
 1. The Guide will tell you the enemy's **Attack target number** (for physical attacks) or **Magic target number** (for magic attacks).

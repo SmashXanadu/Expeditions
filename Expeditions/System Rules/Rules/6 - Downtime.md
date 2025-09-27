@@ -14,7 +14,7 @@ During each Downtime phase, every player performs the **Standard Activities** an
 
 ## [Optional Downtime Activities (Choose 2)](#optional-downtime-activities)
 - **Repair**: Attempt to repair damaged equipment.
-- **Train**: Choose a skill and describe how you improve it. Gain 1 **EXP**.
+- **Train**: Choose a skill and describe how you improve it. Gain **EXP**.
 - **Craft**: Use a trade skill to create or modify items.
 - **Gather Information**: Mingle with locals and listen for rumors to learn about the area.
 - **Research**: Study a specific topic to learn as much as possible.

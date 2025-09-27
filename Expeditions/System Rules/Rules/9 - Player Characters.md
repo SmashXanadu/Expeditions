@@ -12,7 +12,7 @@ permalink: /Rules/9/
 ![Player Characters 1](https://raw.githubusercontent.com/SmashXanadu/Expeditions/refs/heads/main/images/PlayerCharacters1.png)
 ## [Equipment](#equipment)
 - Each piece of equipment you wear has a **Durability** score.
-- Instead of losing **Health**, you can use an item's Durability to absorb damage.
+- When **taking damage**, you may choose to lose points of Durability from an equipped items instead of losing health.
 - If an item's Durability drops to 0, it becomes **Broken** and cannot be used until it's **Repaired**.
 
 ![Player Characters 2](https://raw.githubusercontent.com/SmashXanadu/Expeditions/refs/heads/main/images/PlayerCharacters2.png)
