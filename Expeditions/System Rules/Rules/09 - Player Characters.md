@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Player Characters
 permalink: /Rules/9/
 ---
 # [Player Characters](#player-characters)

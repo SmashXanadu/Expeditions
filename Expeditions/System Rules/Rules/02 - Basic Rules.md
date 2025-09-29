@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Basic Rules
 permalink: /Rules/2/
 ---
 # [Basic Rules](#basic-rules)

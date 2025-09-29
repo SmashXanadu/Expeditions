@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Resolving Dice Rolls
 permalink: /Rules/3/
 ---
 # [Resolving Dice Rolls](#resolving-dice-rolls)

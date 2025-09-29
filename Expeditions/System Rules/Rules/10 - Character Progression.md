@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Character Progression
 permalink: /Rules/10/
 ---
 # [Character Progression](#character-progression)

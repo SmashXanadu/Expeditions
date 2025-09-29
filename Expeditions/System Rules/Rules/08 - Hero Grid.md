@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Hero Grid
 permalink: /Rules/8/
 ---
 # [Hero Grid](#hero-grid)

@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Trade Skills
 permalink: /Rules/12/
 ---
 # [Trade Skills](#tradeskills)

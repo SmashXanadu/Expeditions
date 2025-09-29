@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Combat
 permalink: /Rules/5/
 ---
 # [Combat](#combat)

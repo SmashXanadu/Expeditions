@@ -9,6 +9,7 @@ public class Program
         string userProfilePath = Environment.GetFolderPath(Environment.SpecialFolder.UserProfile);
         string downloadsPath = Path.Combine(userProfilePath, "Downloads");
         string solutionRoot = Path.GetFullPath(Path.Combine(currentDirectory, @"..\..\..\..\"));
+        //TODO Wrap All of these into a list to do full Asset Prints
         //string sourceFolder = Path.Combine(solutionRoot, "Expeditions", "Player Resources", "Abilities");
         //string sourceFolder = Path.Combine(solutionRoot, "Expeditions", "Player Resources", "General Skills");
         //string sourceFolder = Path.Combine(solutionRoot, "Expeditions", "Player Resources", "Trade Skills");
@@ -20,13 +21,6 @@ public class Program
         Directory.CreateDirectory(outputFolder);
 
         bool cleanupSuccess = false;
-
-        //TODO Update Markdown Templates to play nicer with Conversion
-        //Ability Sheets - Format Problems
-        //Skill Sheets - BROKEN Line Break after "Skill Perks". Remove Checkboxes. Replace with [ ]
-        //Rules
-
-        //TODO Remove Titles from md files themselves? Test?
 
         string localAppDataPath = Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData);
 
@@ -72,26 +66,24 @@ public class Program
             if (markdownFiles.Length == 0)
             {
                 Console.WriteLine("No Markdown files found in the temporary input directory. Exiting.");
-                cleanupSuccess = true; // Still mark for cleanup
+                cleanupSuccess = true; 
                 return;
             }
 
             Console.WriteLine($"--- Starting Conversion of {markdownFiles.Length} Individual Files ---");
 
-            // The loop iterates over each file to convert it separately
             foreach (string markdownFile in markdownFiles.OrderBy(f => f))
             {
-                // 1. Determine the output PDF path for the current file
                 string fileNameWithoutExtension = Path.GetFileNameWithoutExtension(markdownFile);
                 if (fileNameWithoutExtension.StartsWith("-")) { continue; }
                 string outputPdfPath = Path.Combine(outputFolder, $"{fileNameWithoutExtension}.pdf");
 
-                // 2. Call the conversion method for the single file
-                // NOTE: The ConvertMarkdownToPdf method must be adjusted to accept a single input path again!
+                if (sourceFolder.Contains("System Rules")) { RemoveLastLine(markdownFile); }
+
                 ConvertMarkdownToPdf(markdownFile, outputPdfPath, pdfEnginePath, pandocPath);
             }
 
-            cleanupSuccess = true; // Mark script success for final cleanup
+            cleanupSuccess = true; 
 
             Console.WriteLine("\n--- Conversion Process Complete ---");
 
@@ -139,7 +131,9 @@ public class Program
 
         string fontOption = $"-V mainfont=\"{fontName}\"";
         string geometryOption = "-V geometry:paperwidth=5.5in -V geometry:paperheight=8.5in -V geometry:margin=0.25in";
-        string arguments = $"-s \"{inputMarkdownPath}\" -o \"{outputPdfPath}\" --pdf-engine=xelatex {geometryOption} {fontOption}";
+        string fontSizeOption = "-V fontsize=8pt";
+
+        string arguments = $"-s \"{inputMarkdownPath}\" -o \"{outputPdfPath}\" --pdf-engine=xelatex {geometryOption} {fontOption} {fontSizeOption}";
 
 
         // Extract the directory of pdflatex.exe (the MiKTeX bin folder)
@@ -251,6 +245,43 @@ public class Program
         {
             outputDocument.Save(fullOutputFilePath);
             Console.WriteLine($"Successfully combined {files.Count} files into {Path.GetFileName(fullOutputFilePath)}.");
+        }
+    }
+    private static void RemoveLastLine(string filePath)
+    {
+        try
+        {
+            string[] lines = File.ReadAllLines(filePath);
+
+            if (lines.Length == 0) return;
+
+            int lastContentLineIndex = -1;
+
+            for (int i = lines.Length - 1; i >= 0; i--)
+            {
+                if (!string.IsNullOrWhiteSpace(lines[i]))
+                {
+                    lastContentLineIndex = i;
+                    break;
+                }
+            }
+
+            if (lastContentLineIndex == -1)
+            {
+                File.WriteAllText(filePath, string.Empty);
+                return;
+            }
+
+            // 4. Select all lines up to (but not including) the last content line
+            // This array now contains the content with trailing empty lines removed AND the last content line removed.
+            string[] linesToKeep = lines.Take(lastContentLineIndex).ToArray();
+
+            // 5. Write the truncated content back to the file
+            File.WriteAllLines(filePath, linesToKeep);
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"Error removing last line from {Path.GetFileName(filePath)}: {ex.Message}");
         }
     }
 }

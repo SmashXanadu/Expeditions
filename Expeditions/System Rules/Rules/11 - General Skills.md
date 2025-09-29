@@ -1,6 +1,5 @@
 ---
 layout: default
-title: General Skills
 permalink: /Rules/11/
 ---
 # [General Skills](#general-skills)

@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Flow of the Game
 permalink: /Rules/4/
 ---
 # [Flow of the Game](#flow-of-the-game)

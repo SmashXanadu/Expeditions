@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Character Creation
 permalink: /Rules/7/
 ---
 # [Character Creation](#character-creation)

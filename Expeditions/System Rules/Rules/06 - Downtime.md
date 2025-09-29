@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Downtime
 permalink: /Rules/6/
 ---
 # [Downtime](#downtime)
