@@ -36,6 +36,10 @@ When an enemy attacks you:
     - If you **succeed**, you avoid the damage.
     - If you **fail**, the Guide tells you how much damage you take.
 
+\newpage
+
+# [Combat](#combat)
+
 ### [Taking Damage](#taking-damage)
 When you take damage:
 

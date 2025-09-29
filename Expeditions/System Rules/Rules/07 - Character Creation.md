@@ -32,9 +32,14 @@ Your size gives you a starting bonus.
 - **Small:** +2 Speed
 - **Average:** +1 Maximum Health
 - **Large:** +2 Maximum Health, -2 Speed
-  
+
 ### [4. Starting Node](#startingNode)
 This is your character's starting specialization. You will learn the corresponding abilities for the node you choose.
+
+\newpage
+
+# [Character Creation](#character-creation)
+
 
 #### Martial Nodes:
 - **[1 Handed Weapons]({{site.baseurl}}/PlayerResources/Abilities/1HandedWeapons/#1-Handed-Weapons)**
@@ -78,6 +83,11 @@ Choose any four skills from this list. Each starts at +0.
 - **[Tough]({{site.baseurl}}/PlayerResources/Skills/Tough/#Tough)**: You can tolerate pain and discomfort that others can’t.
 - **[Trickster]({{site.baseurl}}/PlayerResources/Skills/Trickster/#Trickster)**: You know how to fool others into seeing your truth.
 - **[Wise]({{site.baseurl}}/PlayerResources/Skills/Wise/#Wise)**: You know from experience how to handle most situations.
+
+
+\newpage
+
+# [Character Creation](#character-creation)
 
 ## [6. Equipment Set](#equipment-set)
 Choose one of these pre-made equipment sets to start the game with. The starting **durability** of equipment is the number in parenthesis next to each piece of equipment.

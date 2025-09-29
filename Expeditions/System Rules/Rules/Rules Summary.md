@@ -32,7 +32,6 @@ A **Natural 20** is a Success with a **Major Benefit**
  2. **Move** to an adjacent zone
  3. **Speak** or **Interact**
 
-
 **When Attacking** an Enemy
 
 1. If needed, mark off a Charge on your ability
