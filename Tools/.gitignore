@@ -1,0 +1,48 @@
+# ----------------------------------------------------------------------
+# 1. IDE and System Folders (General Development)
+# ----------------------------------------------------------------------
+
+# Visual Studio (VS) IDE folder
+.vs/
+# Visual Studio Code (VS Code) settings folder
+.vscode/
+
+# Build and Binaries
+bin/
+obj/
+
+# Common OS temp files
+Thumbs.db
+.DS_Store
+
+# ----------------------------------------------------------------------
+# 2. Obsidian and Markdown Metadata
+# ----------------------------------------------------------------------
+
+# Obsidian's configuration folder
+.obsidian/
+# Obsidian's default trash/archive folder
+.trash/
+# Another common trash/archive pattern
+.Archive/
+Archives/
+
+# Custom folders often used for attachments, exports, or backups
+Attachments/
+Exports/
+Backups/
+
+# Folders for specific plugins (often start with a dot)
+.excalidraw/
+.review/
+
+# ----------------------------------------------------------------------
+# 3. File Extensions to Ignore (Temporary/Generated)
+# ----------------------------------------------------------------------
+
+# Generated PDFs from Pandoc/LaTeX conversion
+*.pdf
+
+# Vim/Nano swap files
+*~
+*.swp

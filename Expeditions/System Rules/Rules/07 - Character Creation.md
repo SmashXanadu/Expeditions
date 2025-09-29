@@ -21,6 +21,7 @@ Everyone starts with a **Speed** of 20.
   
 ### [2. (Optional) Feature Set](#feature-set)
 You may choose one or more features from a set below that describe your character's look or heritage.
+
 - **Aquatic:** Gills, Fins, Deep-Sea Eyes, Shimmering Scales
 - **Bestial:** Fangs, Fur, Horns, Hooves, Scales
 - **Avian:** Feathers, Beak, Talons, Wings
@@ -28,6 +29,7 @@ You may choose one or more features from a set below that describe your characte
   
 ### [3. Size](#size)
 Your size gives you a starting bonus.
+
 - **Small:** +2 Speed
 - **Average:** +1 Maximum Health
 - **Large:** +2 Maximum Health, -2 Speed
@@ -55,6 +57,7 @@ This is your character's starting specialization. You will learn the correspondi
 
 ### [5. General Skills](#generalskills)
 Choose any four skills from this list. Each starts at +0.
+
 - **[Careful]({{site.baseurl}}/PlayerResources/Skills/Careful/#Careful)**: You have nimble hands, patience, and attention to detail.
 - **[Charismatic]({{site.baseurl}}/PlayerResources/Skills/Charismatic/#Charismatic)**: You have a way with words and use them well.
 - **[Dexterous]({{site.baseurl}}/PlayerResources/Skills/Dexterous/#Dexterous)**: You can control your body and move with confidence.
@@ -81,26 +84,31 @@ Choose any four skills from this list. Each starts at +0.
 Choose one of these pre-made equipment sets to start the game with. The starting **durability** of equipment is the number in parenthesis next to each piece of equipment.
 
 **Scholar**:
+
 - **Inventory**: 2 Gold, Journal, Books, Magic Scrolls, Specimen Containers
 - **Equipment**: Cloth Robes (1), Leather Boots (1)
 - **Weapon**: Staff (2) or Dagger (1) and Magical Object (1)
 
 **Explorer**: 
+
 - **Inventory**: 3 Gold, Rope, Torches, Climbing Gear, Flint & Tinder, Throwing Knives or Arrows
 - **Equipment**: Leather Tunic (1), Leather Boots (1), Leather Pants (1), Leather Gloves (1), Leather Cap (1)
 - **Weapon**: Dagger (1), Hand Axe (1), Hand Crossbow (1), or Short bow (1)
 
 **Combatant**: 
+
 - **Inventory**: 2 Gold
 - **Equipment**: Chain Mail Helmet (2), Steel Breast Plate (2), Boots (2), Pants (2), and Gauntlets (2)
 - **Weapon**: Long sword(2), Mace (2), Battle Axe (2), or Spear (1) & Iron Shield (2)
 
 **Performer**: 
+
 - **Inventory**: 5 Gold, Instrument / Tool / Prop, Costume or Disguise, Lucky Trinket, Wine skin
 - **Equipment**: Leather Tunic (1), Boot (1), Pant (1), Gloves (1), Cap (1)
 - **Weapon**: Dagger (1) or Short Sword (1)
 
 **Trader**: 
+
 - **Inventory**: 10 Gold, Trader’s Bag (5 Extra Inventory), 
 - **Equipment**: Leather Tunic (1), Boots (1), and Pants (1)
 - **Weapon**: Dagger

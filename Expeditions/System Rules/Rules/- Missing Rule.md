@@ -1,6 +1,5 @@
 ---
 layout: default
-title: About
 permalink: /Rules/0/
 ---
 # [Missing Rule](#missing-rule)

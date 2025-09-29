@@ -7,6 +7,7 @@ permalink: /Rules/11/
 **General Skills** represent your character's natural talents and learned abilities. You'll use these skills for actions outside of combat, or whenever your Guide asks for a **Skill Check**.
 
 Here's a list of available General Skills:
+
 - **[Careful]({{site.baseurl}}/PlayerResources/Skills/Careful/#Careful)**: You have nimble hands, patience, and attention to detail.
 - **[Charismatic]({{site.baseurl}}/PlayerResources/Skills/Charismatic/#Charismatic)**: You have a way with words and use them well.
 - **[Dexterous]({{site.baseurl}}/PlayerResources/Skills/Dexterous/#Dexterous)**: You can control your body and move with confidence.

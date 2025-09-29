@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "RQqL94LpeU8N+RB8iHdSZKaHncSJHqS0xHdEBB/FK0LuOChm76XzCI4mATGlSvAk3QBF+RSM3PIoWvM+9rsedw==",
+  "dgSpecHash": "mxjv0ttTGvpxjxDu8n7SPreqdRAGY/R8k3LXTJFWJnWOT+2YbR+eLcIcEDO1rK4YzrO10WNQlwirl1Mu/bcI/g==",
   "success": true,
   "projectFilePath": "\\\\Knowhere\\data\\Will\\Projects\\Obsidian\\Expeditions\\Tools\\Tools.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\willi\\.nuget\\packages\\pdfsharpcore\\1.3.67\\pdfsharpcore.1.3.67.nupkg.sha512",
+    "C:\\Users\\willi\\.nuget\\packages\\sharpziplib\\1.4.2\\sharpziplib.1.4.2.nupkg.sha512",
+    "C:\\Users\\willi\\.nuget\\packages\\sixlabors.fonts\\1.0.0-beta17\\sixlabors.fonts.1.0.0-beta17.nupkg.sha512",
+    "C:\\Users\\willi\\.nuget\\packages\\sixlabors.imagesharp\\1.0.4\\sixlabors.imagesharp.1.0.4.nupkg.sha512"
+  ],
   "logs": []
 }

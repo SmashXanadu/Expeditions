@@ -1,6 +1,5 @@
 ---
 layout: default
-title: About
 permalink: /Rules/1/
 ---
 # [About Expeditions](#about-expeditions)

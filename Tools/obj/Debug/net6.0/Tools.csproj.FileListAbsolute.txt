@@ -13,3 +13,9 @@
 \\Knowhere\data\Will\Projects\Obsidian\Expeditions\Tools\obj\Debug\net6.0\Tools.pdb
 \\Knowhere\data\Will\Projects\Obsidian\Expeditions\Tools\obj\Debug\net6.0\Tools.genruntimeconfig.cache
 \\Knowhere\data\Will\Projects\Obsidian\Expeditions\Tools\obj\Debug\net6.0\ref\Tools.dll
+\\Knowhere\data\Will\Projects\Obsidian\Expeditions\Tools\bin\Debug\net6.0\PdfSharpCore.dll
+\\Knowhere\data\Will\Projects\Obsidian\Expeditions\Tools\bin\Debug\net6.0\ICSharpCode.SharpZipLib.dll
+\\Knowhere\data\Will\Projects\Obsidian\Expeditions\Tools\bin\Debug\net6.0\SixLabors.Fonts.dll
+\\Knowhere\data\Will\Projects\Obsidian\Expeditions\Tools\bin\Debug\net6.0\SixLabors.ImageSharp.dll
+\\Knowhere\data\Will\Projects\Obsidian\Expeditions\Tools\bin\Debug\net6.0\de\PdfSharpCore.resources.dll
+\\Knowhere\data\Will\Projects\Obsidian\Expeditions\Tools\obj\Debug\net6.0\Tools.csproj.CopyComplete

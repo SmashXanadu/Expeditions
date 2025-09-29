@@ -7,6 +7,7 @@ permalink: /Rules/12/
 **Trade Skills** are specialized knowledge and abilities your character can use to craft items, earn money, and help the party. You will use these skills for **Skill Checks** during **Downtime** and when a situation calls for them.
 
 Here's a list of available Trade Skills:
+
 - **[Alchemist]({{site.baseurl}}/PlayerResources/Skills/Alchemist/#Alchemist)**: Mix potions and salves with magical properties.
 - **[Animal Handler]({{site.baseurl}}/PlayerResources/Skills/AnimalHandler/#Animal-Handler)**: Live and work in harmony with animals.
 - **[Blacksmith]({{site.baseurl}}/PlayerResources/Skills/Blacksmith/#Blacksmith)**: Work ores and alloys into weapons and heavy armor.

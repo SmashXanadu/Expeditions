@@ -1,3 +1,4 @@
+using PdfSharpCore.Pdf.IO;
 using System.Diagnostics;
 
 public class Program
@@ -10,6 +11,7 @@ public class Program
         string solutionRoot = Path.GetFullPath(Path.Combine(currentDirectory, @"..\..\..\..\"));
         //string sourceFolder = Path.Combine(solutionRoot, "Expeditions", "Player Resources", "Abilities");
         //string sourceFolder = Path.Combine(solutionRoot, "Expeditions", "Player Resources", "General Skills");
+        //string sourceFolder = Path.Combine(solutionRoot, "Expeditions", "Player Resources", "Trade Skills");
         string sourceFolder = Path.Combine(solutionRoot, "Expeditions", "System Rules", "Rules");
 
         string tempInputFolder = Path.Combine(@"C:\\Users\\willi\\AppData\\Local\\Pandoc\\Temp", Path.GetRandomFileName());
@@ -20,13 +22,11 @@ public class Program
         bool cleanupSuccess = false;
 
         //TODO Update Markdown Templates to play nicer with Conversion
-            //Ability Sheets - Format Problems
-            //Skill Sheets - Line Break after "Skill Perks". Remove Checkboxes. Replace with [ ]
-            //Rules - 
-        //TODO Hyperlegible Font
-        //TODO Skip list for missing rules
-        //TODO Replace List for web navigation
+        //Ability Sheets - Format Problems
+        //Skill Sheets - BROKEN Line Break after "Skill Perks". Remove Checkboxes. Replace with [ ]
+        //Rules
 
+        //TODO Remove Titles from md files themselves? Test?
 
         string localAppDataPath = Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData);
 
@@ -37,7 +37,7 @@ public class Program
             "miktex",
             "bin",
             "x64",
-            "pdflatex.exe"
+            "xelatex.exe"
         );
 
         string pandocPath = Path.Combine(
@@ -64,7 +64,6 @@ public class Program
                 return;
             }
 
-            // A. COPY THE ENTIRE FOLDER CONTENTS
             CopyDirectory(sourceFolder, tempInputFolder, true);
             Console.WriteLine($"Successfully copied folder contents to temporary location.\n");
 
@@ -84,6 +83,7 @@ public class Program
             {
                 // 1. Determine the output PDF path for the current file
                 string fileNameWithoutExtension = Path.GetFileNameWithoutExtension(markdownFile);
+                if (fileNameWithoutExtension.StartsWith("-")) { continue; }
                 string outputPdfPath = Path.Combine(outputFolder, $"{fileNameWithoutExtension}.pdf");
 
                 // 2. Call the conversion method for the single file
@@ -94,6 +94,8 @@ public class Program
             cleanupSuccess = true; // Mark script success for final cleanup
 
             Console.WriteLine("\n--- Conversion Process Complete ---");
+
+            CombinePDFs(outputFolder, sourceFolder.Split("\\").ToList().Last() + ".pdf");
         }
         catch (Exception ex)
         {
@@ -133,8 +135,11 @@ public class Program
     public static void ConvertMarkdownToPdf(string inputMarkdownPath, string outputPdfPath, string pdfEnginePath, string fullPandocPath)
     {
         //string geometryOption = "-V geometry:paperwidth=5.5in -V geometry:paperheight=8.5in -V geometry:margin=0.25in";
-        string geometryOption = "-V geometry:paperwidth=5.5in -V geometry:paperheight=11in -V geometry:margin=0.5in";
-        string arguments = $"-s \"{inputMarkdownPath}\" -o \"{outputPdfPath}\" --pdf-engine=pdflatex {geometryOption} -V title=\\\"\\\"";
+        string fontName = "Atkinson Hyperlegible";
+
+        string fontOption = $"-V mainfont=\"{fontName}\"";
+        string geometryOption = "-V geometry:paperwidth=5.5in -V geometry:paperheight=8.5in -V geometry:margin=0.25in";
+        string arguments = $"-s \"{inputMarkdownPath}\" -o \"{outputPdfPath}\" --pdf-engine=xelatex {geometryOption} {fontOption}";
 
 
         // Extract the directory of pdflatex.exe (the MiKTeX bin folder)
@@ -156,7 +161,7 @@ public class Program
 
         try
         {
-            Console.Write($"Generating combined PDF...");
+            Console.Write($"Generating {inputMarkdownPath.Split("\\").ToList().Last().Replace(".md",".pdf")} ...");
             // ... (rest of the try/catch block for process execution) ...
             using (var process = Process.Start(startInfo))
             {
@@ -207,6 +212,45 @@ public class Program
                 string newDestinationDir = Path.Combine(destinationDir, subDir.Name);
                 CopyDirectory(subDir.FullName, newDestinationDir, true);
             }
+        }
+    }
+    private static void CombinePDFs(string folderPath, string fileName)
+    {
+        string fullOutputFilePath = Path.Combine(folderPath, fileName);
+        var outputDocument = new PdfSharpCore.Pdf.PdfDocument();
+
+        var files = Directory.GetFiles(folderPath)
+                   .Where(file => Path.GetExtension(file).Equals(".pdf", StringComparison.OrdinalIgnoreCase))
+                   .OrderBy(file => file)
+                   .ToList();
+
+        foreach (var file in files)
+        {
+            if (file.Equals(fullOutputFilePath, StringComparison.OrdinalIgnoreCase))
+            {
+                continue;
+            }
+
+            try
+            {
+                using (var inputDocument = PdfReader.Open(file, PdfDocumentOpenMode.Import))
+                {
+                    for (int i = 0; i < inputDocument.PageCount; i++)
+                    {
+                        outputDocument.AddPage(inputDocument.Pages[i]);
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"Error processing file {Path.GetFileName(file)}: {ex.Message}");
+            }
+        }
+
+        if (outputDocument.PageCount > 0)
+        {
+            outputDocument.Save(fullOutputFilePath);
+            Console.WriteLine($"Successfully combined {files.Count} files into {Path.GetFileName(fullOutputFilePath)}.");
         }
     }
 }

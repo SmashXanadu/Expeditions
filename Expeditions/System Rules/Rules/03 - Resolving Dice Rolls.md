@@ -7,20 +7,25 @@ permalink: /Rules/3/
 When you try to do something with an uncertain outcome, your **Guide** will set a **target number** for you to beat. This number will be between 8 (easy) and 25 (almost impossible).
 
 To find out if you succeed, follow these steps:
+
 1. Roll a 20-sided die.
 2. Add any bonuses from your **Skills** or **Abilities**.
 3. Compare the total to the target number.
 
 **Success and Failure**
+
 - **Success**: If your total is **equal to or higher** than the target number, you succeed!
 - **Failure**: If your total is **lower** than the target number, you fail.
 
 **Critical Rolls**
+
 - **A roll of 1** (before adding any bonuses) is always a **Failure** with a **Major Complication**.
 - **A roll of 20** (before adding any bonuses) is always a **Success** with a **Major Benefit**.
 
 **Succeeding with Complications**
+
 If you fail to hit your target number, you can choose to succeed by pushing yourself beyond your limits and accepting a complication.
+
 - If you miss the target number by **2 or less**, you can **Succeed** by accepting a **Minor Complication**.
 - If you miss the target number by **3-5**, you can **Succeed** by accepting a **Major Complication**.
 - If you miss by **more than 5**, you **Fail**.

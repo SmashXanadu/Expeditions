@@ -10,6 +10,7 @@ permalink: /Rules/9/
 - **Magic** -  Used for magic abilities
 
 ![Player Characters 1](https://raw.githubusercontent.com/SmashXanadu/Expeditions/refs/heads/main/images/PlayerCharacters1.png)
+
 ## [Equipment](#equipment)
 - Each piece of equipment you wear has a **Durability** score.
 - When **taking damage**, you may choose to lose points of Durability from an equipped items instead of losing health.
