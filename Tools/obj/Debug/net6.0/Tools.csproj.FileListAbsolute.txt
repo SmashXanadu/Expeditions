@@ -1,0 +1,15 @@
+\\Knowhere\data\Will\Projects\Obsidian\Expeditions\Tools\bin\Debug\net6.0\Tools.exe
+\\Knowhere\data\Will\Projects\Obsidian\Expeditions\Tools\bin\Debug\net6.0\Tools.deps.json
+\\Knowhere\data\Will\Projects\Obsidian\Expeditions\Tools\bin\Debug\net6.0\Tools.runtimeconfig.json
+\\Knowhere\data\Will\Projects\Obsidian\Expeditions\Tools\bin\Debug\net6.0\Tools.dll
+\\Knowhere\data\Will\Projects\Obsidian\Expeditions\Tools\bin\Debug\net6.0\Tools.pdb
+\\Knowhere\data\Will\Projects\Obsidian\Expeditions\Tools\obj\Debug\net6.0\Tools.csproj.AssemblyReference.cache
+\\Knowhere\data\Will\Projects\Obsidian\Expeditions\Tools\obj\Debug\net6.0\Tools.GeneratedMSBuildEditorConfig.editorconfig
+\\Knowhere\data\Will\Projects\Obsidian\Expeditions\Tools\obj\Debug\net6.0\Tools.AssemblyInfoInputs.cache
+\\Knowhere\data\Will\Projects\Obsidian\Expeditions\Tools\obj\Debug\net6.0\Tools.AssemblyInfo.cs
+\\Knowhere\data\Will\Projects\Obsidian\Expeditions\Tools\obj\Debug\net6.0\Tools.csproj.CoreCompileInputs.cache
+\\Knowhere\data\Will\Projects\Obsidian\Expeditions\Tools\obj\Debug\net6.0\Tools.dll
+\\Knowhere\data\Will\Projects\Obsidian\Expeditions\Tools\obj\Debug\net6.0\refint\Tools.dll
+\\Knowhere\data\Will\Projects\Obsidian\Expeditions\Tools\obj\Debug\net6.0\Tools.pdb
+\\Knowhere\data\Will\Projects\Obsidian\Expeditions\Tools\obj\Debug\net6.0\Tools.genruntimeconfig.cache
+\\Knowhere\data\Will\Projects\Obsidian\Expeditions\Tools\obj\Debug\net6.0\ref\Tools.dll

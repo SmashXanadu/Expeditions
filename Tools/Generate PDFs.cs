@@ -1,0 +1,212 @@
+using System.Diagnostics;
+
+public class Program
+{
+    public static void Main(string[] args)
+    {
+        string currentDirectory = AppContext.BaseDirectory;
+        string userProfilePath = Environment.GetFolderPath(Environment.SpecialFolder.UserProfile);
+        string downloadsPath = Path.Combine(userProfilePath, "Downloads");
+        string solutionRoot = Path.GetFullPath(Path.Combine(currentDirectory, @"..\..\..\..\"));
+        //string sourceFolder = Path.Combine(solutionRoot, "Expeditions", "Player Resources", "Abilities");
+        //string sourceFolder = Path.Combine(solutionRoot, "Expeditions", "Player Resources", "General Skills");
+        string sourceFolder = Path.Combine(solutionRoot, "Expeditions", "System Rules", "Rules");
+
+        string tempInputFolder = Path.Combine(@"C:\\Users\\willi\\AppData\\Local\\Pandoc\\Temp", Path.GetRandomFileName());
+        string inputFolder = tempInputFolder;
+        string outputFolder = downloadsPath + "\\Outputs";
+        Directory.CreateDirectory(outputFolder);
+
+        bool cleanupSuccess = false;
+
+        //TODO Update Markdown Templates to play nicer with Conversion
+            //Ability Sheets - Format Problems
+            //Skill Sheets - Line Break after "Skill Perks". Remove Checkboxes. Replace with [ ]
+            //Rules - 
+        //TODO Hyperlegible Font
+        //TODO Skip list for missing rules
+        //TODO Replace List for web navigation
+
+
+        string localAppDataPath = Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData);
+
+        string pdfEnginePath = Path.Combine(
+            localAppDataPath,
+            "Programs",
+            "MiKTeX",
+            "miktex",
+            "bin",
+            "x64",
+            "pdflatex.exe"
+        );
+
+        string pandocPath = Path.Combine(
+            localAppDataPath,
+            "Pandoc",
+            "pandoc.exe"
+        );
+
+        if (!File.Exists(pandocPath))
+        {
+            Console.WriteLine($"\nCRITICAL ERROR: Pandoc executable NOT FOUND at the calculated path. Please verify the installation folder.");
+            return;
+        }
+
+        try
+        {
+            Console.WriteLine("--- File Preparation ---");
+            Console.WriteLine($"Source Folder: {sourceFolder}");
+            Console.WriteLine($"Temporary Working Folder: {tempInputFolder}\n");
+
+            if (!Directory.Exists(sourceFolder))
+            {
+                Console.WriteLine($"Error: Source directory not found at {sourceFolder}.");
+                return;
+            }
+
+            // A. COPY THE ENTIRE FOLDER CONTENTS
+            CopyDirectory(sourceFolder, tempInputFolder, true);
+            Console.WriteLine($"Successfully copied folder contents to temporary location.\n");
+
+            string[] markdownFiles = Directory.GetFiles(inputFolder, "*.md", SearchOption.TopDirectoryOnly);
+
+            if (markdownFiles.Length == 0)
+            {
+                Console.WriteLine("No Markdown files found in the temporary input directory. Exiting.");
+                cleanupSuccess = true; // Still mark for cleanup
+                return;
+            }
+
+            Console.WriteLine($"--- Starting Conversion of {markdownFiles.Length} Individual Files ---");
+
+            // The loop iterates over each file to convert it separately
+            foreach (string markdownFile in markdownFiles.OrderBy(f => f))
+            {
+                // 1. Determine the output PDF path for the current file
+                string fileNameWithoutExtension = Path.GetFileNameWithoutExtension(markdownFile);
+                string outputPdfPath = Path.Combine(outputFolder, $"{fileNameWithoutExtension}.pdf");
+
+                // 2. Call the conversion method for the single file
+                // NOTE: The ConvertMarkdownToPdf method must be adjusted to accept a single input path again!
+                ConvertMarkdownToPdf(markdownFile, outputPdfPath, pdfEnginePath, pandocPath);
+            }
+
+            cleanupSuccess = true; // Mark script success for final cleanup
+
+            Console.WriteLine("\n--- Conversion Process Complete ---");
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"\n[FATAL ERROR] An unexpected exception occurred during processing: {ex.Message}");
+        }
+        finally
+        {
+            if (Directory.Exists(tempInputFolder))
+            {
+                try
+                {
+                    Directory.Delete(tempInputFolder, true); // true = recursive delete
+                    Console.WriteLine($"\nSuccessfully cleaned up temporary folder: {tempInputFolder}");
+                }
+                catch (Exception ex)
+                {
+                    // Catch cleanup errors but don't stop the program from exiting
+                    Console.WriteLine($"\n[CLEANUP ERROR] Failed to delete temporary folder. You may need to delete it manually: {ex.Message}");
+                }
+            }
+        }
+
+    }
+
+    /// <summary>
+    /// Executes the Pandoc process to convert a single Markdown file to a PDF.
+    /// </summary>
+    /// <param name="inputMarkdownPath">The full path to the input Markdown file.</param>
+    /// <param name="outputPdfPath">The full path for the output PDF file.</param>
+    /// <param name="pdfEnginePath">The full path to the PDF engine (pdflatex.exe).</param>
+    /// <summary>
+    /// Executes the Pandoc process to convert multiple Markdown files to a single PDF.
+    /// </summary>
+    /// <param name="inputFiles">A space-separated string of all quoted input Markdown file paths.</param>
+    /// <param name="outputPdfPath">The full path for the single output PDF file.</param>
+    // Note the updated parameter name for clarity
+    public static void ConvertMarkdownToPdf(string inputMarkdownPath, string outputPdfPath, string pdfEnginePath, string fullPandocPath)
+    {
+        //string geometryOption = "-V geometry:paperwidth=5.5in -V geometry:paperheight=8.5in -V geometry:margin=0.25in";
+        string geometryOption = "-V geometry:paperwidth=5.5in -V geometry:paperheight=11in -V geometry:margin=0.5in";
+        string arguments = $"-s \"{inputMarkdownPath}\" -o \"{outputPdfPath}\" --pdf-engine=pdflatex {geometryOption} -V title=\\\"\\\"";
+
+
+        // Extract the directory of pdflatex.exe (the MiKTeX bin folder)
+        string pdfEngineDirectory = Path.GetDirectoryName(pdfEnginePath);
+
+        var startInfo = new ProcessStartInfo
+        {
+            FileName = fullPandocPath,
+            Arguments = arguments,
+            UseShellExecute = false,
+            RedirectStandardOutput = true,
+            RedirectStandardError = true,
+            CreateNoWindow = true
+        };
+
+        // Temporarily inject the MiKTeX directory into the PATH for this process
+        startInfo.EnvironmentVariables["PATH"] =
+            $"{pdfEngineDirectory};{Environment.GetEnvironmentVariable("PATH")}";
+
+        try
+        {
+            Console.Write($"Generating combined PDF...");
+            // ... (rest of the try/catch block for process execution) ...
+            using (var process = Process.Start(startInfo))
+            {
+                string output = process.StandardOutput.ReadToEnd();
+                string error = process.StandardError.ReadToEnd();
+                process.WaitForExit();
+
+                if (process.ExitCode == 0)
+                {
+                    Console.WriteLine(" [SUCCESS]");
+                }
+                else
+                {
+                    Console.WriteLine(" [FAILED]");
+                    Console.WriteLine($"   Error: {error.Trim()}");
+                    throw new Exception(error);
+                }
+            }
+        }
+        catch (FileNotFoundException)
+        {
+            Console.WriteLine($"\nAn exception occurred: Pandoc executable not found at: {fullPandocPath}. Please verify the path.");
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"\nAn unexpected exception occurred: {ex.Message}");
+        }
+    }
+    private static void CopyDirectory(string sourceDir, string destinationDir, bool recursive)
+    {
+        var dir = new DirectoryInfo(sourceDir);
+
+        // Create all necessary directories
+        Directory.CreateDirectory(destinationDir);
+
+        // Copy all files
+        foreach (FileInfo file in dir.GetFiles())
+        {
+            string targetFilePath = Path.Combine(destinationDir, file.Name);
+            file.CopyTo(targetFilePath);
+        }
+
+        // Copy sub-directories
+        if (recursive)
+        {
+            foreach (DirectoryInfo subDir in dir.GetDirectories())
+            {
+                string newDestinationDir = Path.Combine(destinationDir, subDir.Name);
+                CopyDirectory(subDir.FullName, newDestinationDir, true);
+            }
+        }
+    }
+}

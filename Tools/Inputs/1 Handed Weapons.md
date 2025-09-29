@@ -44,5 +44,3 @@ Gain +2 on all 1 Handed Weapon attack rolls this turn.
 You are able to unleash a flurry of quick attacks.
 
 Attack twice with each equipped 1 Handed Weapon.
-
-
