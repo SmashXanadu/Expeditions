@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Abilities - Dual Wield
 permalink: /PlayerResources/Abilities/DualWield/
 ---
 ## [Dual Wield](#Dual-Wield)
 
 ------------------------------------------------
+
 ## Parry
 **Type:** Attack
  | **Hero Node:** Dual Wield
@@ -14,6 +14,7 @@ permalink: /PlayerResources/Abilities/DualWield/
 When being attacked by a melee weapon, gain Advantage on the Evade roll.
 
 ------------------------------------------------
+
 ## Flurry
 **Type:** Attack
  | **Hero Node:** Dual Wield
@@ -22,6 +23,7 @@ When being attacked by a melee weapon, gain Advantage on the Evade roll.
 Attack twice with each equipped weapon.
 
 ------------------------------------------------
+
 ## Strafing Strikes
 **Type:** Attack
  | **Hero Node:** Dual Wield
@@ -30,6 +32,7 @@ Attack twice with each equipped weapon.
 Make an Attack against an enemy in your zone, move to an adjacent zone, and make an Attack against another enemy.
 
 ------------------------------------------------
+
 ## Whirlwind
 **Type:** Attack
  | **Hero Node:** Dual Wield

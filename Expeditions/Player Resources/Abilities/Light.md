@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Abilities - Light
 permalink: /PlayerResources/Abilities/Light/
 ---
 ## [Light](#Light)
 
 ------------------------------------------------
+
 ## Bless
 **Type:** Magic
  | **Hero Node:** Light
@@ -16,6 +16,7 @@ Infuse your allies with divine energy, bolstering their resolve and granting the
 Grant Advantage to all Allies on their next attack or magic roll.
 
 ------------------------------------------------
+
 ## Restoring Light
 **Type:** Magic
  | **Hero Node:** Light
@@ -26,6 +27,7 @@ Channel healing light to mend wounds and restore vitality.
 Restore 2 health to yourself or an ally.
 
 ------------------------------------------------
+
 ## Holy Armaments
 **Type:** Magic
  | **Hero Node:** Light
@@ -36,6 +38,7 @@ You imbue weapons with holy power, granting them the ability to harm even the mo
 Infuse the Weapons of all Allies in your zone. Their next attack, they will deal an additional point of light damage.
 
 ------------------------------------------------
+
 ## Bend Light
 **Type:** Magic
  | **Hero Node:** Light

@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Abilities - Water
 permalink: /PlayerResources/Abilities/Water/
 ---
 ## [Water](#Water)
 
 ------------------------------------------------
+
 ## Water Jet
 **Type:** Magic
  | **Hero Node:** Water
@@ -16,6 +16,7 @@ Conjure a jet of water to propel yourself or objects, extinguish flames, or even
 Make a Magic attack against an enemy in Near range. On a successful hit,choose an object or enemy within 1 zone to slam them into for 1 damage.
 
 ------------------------------------------------
+
 ## Shape Water
 **Type:** Magic
  | **Hero Node:** Water
@@ -24,6 +25,7 @@ Make a Magic attack against an enemy in Near range. On a successful hit,choose a
 You have the ability to manipulate and move water with ease. Moving large amounts of water requires intense focus and concentration.
 
 ------------------------------------------------
+
 ## Downpour
 **Type:** Magic
  | **Hero Node:** Water
@@ -34,6 +36,7 @@ Summon a torrential downpour of rain to extinguish flames, hinder movement, or e
 Create a downpour of rain in a Near zone. Enemies in this zone have Disadvantage on all attack rolls and Evade rolls until the start of your next turn.
 
 ------------------------------------------------
+
 ## One With Water
 **Type:** Magic
  | **Hero Node:** Water

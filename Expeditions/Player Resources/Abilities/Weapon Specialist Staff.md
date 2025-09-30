@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Abilities - Weapon Specialist
 permalink: /PlayerResources/Abilities/WeaponSpecialist/Staff/
 ---
 ## [Weapon Specialist Staff](#Staff)
 
 ------------------------------------------------
+
 ## Magically Imbued
 **Type:** Attack
  | **Hero Node:** Weapon Specialist: Staff
@@ -16,6 +16,7 @@ When making Melee attacks with a Staff, use your Magic stat instead of your Atta
 Make a Melee attack with a staff. On Success, it deals an additional point of damage.
 
 ------------------------------------------------
+
 ## Whirling Dervish
 **Type:** Attack
  | **Hero Node:** Weapon Specialist: Staff
@@ -24,6 +25,7 @@ Make a Melee attack with a staff. On Success, it deals an additional point of da
 Make Melee Staff attacks against all enemies in your zone. 
 
 ------------------------------------------------
+
 ## Extending Strike
 **Type:** Attack
  | **Hero Node:** Weapon Specialist: Staff
@@ -32,6 +34,7 @@ Make Melee Staff attacks against all enemies in your zone.
 Make Melee attacks with a staff against two close enemies.
 
 ------------------------------------------------
+
 ## Leg Sweep
 **Type:** Attack
  | **Hero Node:** Weapon Specialist: Staff

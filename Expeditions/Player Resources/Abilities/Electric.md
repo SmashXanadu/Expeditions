@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Abilities - Electric
 permalink: /PlayerResources/Abilities/Electric/
 ---
 ## [Electric](#Electric)
 
 ------------------------------------------------
+
 ## Shock
 **Type:** Magic
  | **Hero Node:** Electric
@@ -16,6 +16,7 @@ Unleash a bolt of electricity to shock and stun your enemies.
 Make a Magic attack against an enemy in Near range. On success, the target takes 1 damage and is unable to act until the start of your next turn.
 
 ------------------------------------------------
+
 ## Live Wire
 **Type:** Magic
  | **Hero Node:** Electric
@@ -24,6 +25,7 @@ Make a Magic attack against an enemy in Near range. On success, the target takes
 Electrify your body, becoming a living conductor of electricity until the end of this combat or after 10 minutes. You are immune to electricity damage. While electrified, you deal 1 additional lightning damage with your weapon attacks.
 
 ------------------------------------------------
+
 ## Overload
 **Type:** Magic
  | **Hero Node:** Electric
@@ -36,6 +38,7 @@ Do one of the following:
 2. Supercharge an ally, giving them Advantage and +1 damage on their next attack.
 
 ------------------------------------------------
+
 ## Chain Lightning
 **Type:** Magic
  | **Hero Node:** Electric

@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Abilities - Unarmored
 permalink: /PlayerResources/Abilities/Unarmored/
 ---
 ## [Unarmored](#Unarmored)
 
 ------------------------------------------------
+
 ## Mind Over Matter
 **Type:** Attack
  | **Hero Node:** Unarmored
@@ -17,6 +17,7 @@ If you are not wearing any armor...
 - Your speed is increased by 5.
 
 ------------------------------------------------
+
 ## Core Strike
 **Type:** Attack
  | **Hero Node:** Unarmored
@@ -27,6 +28,7 @@ Channel your inner energy into a focused strike, bypassing physical defenses.
 Make an attack with Advantage. This attack is against the target's Resistance DC instead of Defense.
 
 ------------------------------------------------
+
 ## Lightning Reflexes
 **Type:** Attack
  | **Hero Node:** Unarmored
@@ -37,6 +39,7 @@ Your reactions are honed to an incredible degree, allowing you to anticipate and
 After successfully Evading a melee attack,**Expend a Charge**make an Attack roll back at the enemy who attacked you.
 
 ------------------------------------------------
+
 ## Dash
 **Type:** Attack
  | **Hero Node:** Unarmored

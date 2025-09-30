@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Abilities - Time
 permalink: /PlayerResources/Abilities/Time/
 ---
 ## [Time](#Time)
 
 ------------------------------------------------
+
 ## Stasis
 **Type:** Magic
  | **Hero Node:** Time
@@ -16,6 +16,7 @@ Stop time in your zone for everyone except yourself and your choice of additiona
 In Combat, this allows everyone on your team to take an additional turn before the enemies take their turn. The expedition timer is paused until it is the enemy's turn.
 
 ------------------------------------------------
+
 ## Temporal Acceleration
 **Type:** Magic
  | **Hero Node:** Time
@@ -26,6 +27,7 @@ You accelerate the flow of time for yourself or an ally, granting them increased
 Choose an ally within Near range. They gain Advantage on all attack rolls and Evade rolls and can move twice until the start of your next turn.
 
 ------------------------------------------------
+
 ## Chains of Time
 **Type:** Magic
  | **Hero Node:** Time
@@ -36,6 +38,7 @@ You create temporal shackles that bind your enemies, slowing their movements.
 Make a Magic attack against an enemy in Near range. On a successful hit, they skip their next turn. 
 
 ------------------------------------------------
+
 ## Chrono Barrier
 **Type:** Magic
  | **Hero Node:** Time

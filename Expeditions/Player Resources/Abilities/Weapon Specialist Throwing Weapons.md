@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Abilities - Weapon Specialist
 permalink: /PlayerResources/Abilities/WeaponSpecialist/ThrowingWeapons/
 ---
 ## [Weapon Specialist Throwing Weapons](#Throwing-Weapons)
 
 ------------------------------------------------
+
 ## Ricochet
 **Type:** Attack
  | **Hero Node:** Weapon Specialist: Throwing
@@ -16,6 +16,7 @@ You are able to quickly calculate angles to accurately bounce projectiles off of
 Attack an enemy with a Thrown Weapon. On success, choose a different enemy in the same zone as your target to also take damage.
 
 ------------------------------------------------
+
 ## Aerial Assault
 **Type:** Attack
  | **Hero Node:** Weapon Specialist: Throwing
@@ -26,6 +27,7 @@ Gain advantage on attacks with Throwing Weapons when your entire body is in mid 
 Launch yourself high into the air and make an attack with a Throwing Weapon.
 
 ------------------------------------------------
+
 ## Subtle Throw
 **Type:** Attack
  | **Hero Node:** Weapon Specialist: Throwing
@@ -36,6 +38,7 @@ Throw a weapon with minimal movement, often catching foes off guard.
 If you are attacking an unsuspecting target with a Throwing Weapon you have Advantage. On success, deal +1 damage.
 
 ------------------------------------------------
+
 ## Deadly Accuracy
 **Type:** Attack
  | **Hero Node:** Weapon Specialist: Throwing

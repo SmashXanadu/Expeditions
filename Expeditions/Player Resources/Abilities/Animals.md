@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Abilities - Animals
 permalink: /PlayerResources/Abilities/Animals/
 ---
 ## [Animals](#Animals)
 
 ------------------------------------------------
+
 ## Bestial Power
 **Type:** Magic
  | **Hero Node:** Animals
@@ -20,6 +20,7 @@ Tap into the raw power of the animal kingdom, temporarily gaining one bestial fe
 This ability does not use your action for the turn.
 
 ------------------------------------------------
+
 ## Animal Companion
 **Type:** Magic
  | **Hero Node:** Animals
@@ -30,6 +31,7 @@ You are able quickly form bonds with beasts. Wild animals naturally respect you 
 Make a Magic roll to form a long term bond with a friendly beast. On success, they will protect and defend you at all costs until you dismiss them back into the wild.only bond with one beast at a time. The guide will control your beast's actions, but allow you to issue short commands to them on your turn. 
 
 ------------------------------------------------
+
 ## Control Beasts
 **Type:** Magic
  | **Hero Node:** Animals
@@ -38,6 +40,7 @@ Make a Magic roll to form a long term bond with a friendly beast. On success, th
 Make a Magic roll against a Beast target. On Success, the beast is under your control for the rest of this combat or until you choose to sever the connection. If used out of combat, the connection lasts for up to 10 minutes.
 
 ------------------------------------------------
+
 ## Speak with Animals
 **Type:** Magic
  | **Hero Node:** Animals

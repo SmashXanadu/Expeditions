@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Abilities - Impact
 permalink: /PlayerResources/Abilities/Impact/
 ---
 ## [Impact](#Impact)
 
 ------------------------------------------------
+
 ## Spellbreaker
 **Type:** Attack
  | **Hero Node:** Impact
@@ -14,6 +14,7 @@ permalink: /PlayerResources/Abilities/Impact/
 Attack an enemy. On success, their Magic stat is halved until your next turn.
 
 ------------------------------------------------
+
 ## Push
 **Type:** Attack
  | **Hero Node:** Impact
@@ -22,6 +23,7 @@ Attack an enemy. On success, their Magic stat is halved until your next turn.
 Attack an enemy. On success, they are pushed up to 1 zone away. turn.
 
 ------------------------------------------------
+
 ## Stun
 **Type:** Attack
  | **Hero Node:** Impact
@@ -30,6 +32,7 @@ Attack an enemy. On success, they are pushed up to 1 zone away. turn.
 Attack an enemy. On success, they are unable to act on their next turn.
 
 ------------------------------------------------
+
 ## Death Blow
 **Type:** Attack
  | **Hero Node:** Impact

@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Abilities - Air
 permalink: /PlayerResources/Abilities/Air/
 ---
 ## [Air](#Air)
 
 ------------------------------------------------
+
 ## Sphere of Air
 **Type:** Magic
  | **Hero Node:** Air
@@ -18,6 +18,7 @@ In combat, on your turn send a sphere of air into a a Near Enemy, making a Magic
 In combat, immediately after an enemy makes a ranged attack against you or an ally, send a sphere of air to intercept it. Make a DC12 Magic roll. On success, the attack misses.
 
 ------------------------------------------------
+
 ## Gale Stride
 **Type:** Magic
  | **Hero Node:** Air
@@ -28,6 +29,7 @@ Harness the wind to increase your speed and agility.
  Increase your movement speed by 2 zones for this combat.
 
 ------------------------------------------------
+
 ## Gust of Wind
 **Type:** Magic
  | **Hero Node:** Air
@@ -38,6 +40,7 @@ Summon a powerful gust of wind to clear smoke, propel small objects, or even pro
 Push all enemies within Near range 1 zone away.
 
 ------------------------------------------------
+
 ## Wall of Wind
 **Type:** Magic
  | **Hero Node:** Air

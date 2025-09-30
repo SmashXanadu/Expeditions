@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Abilities - Armored
 permalink: /PlayerResources/Abilities/Armored/
 ---
 ## [Armored](#Armored)
 
 ------------------------------------------------
+
 ## Shield Wall
 **Type:** Attack
  | **Hero Node:** Armored
@@ -14,6 +14,7 @@ permalink: /PlayerResources/Abilities/Armored/
 When allies in Close range take damage, take any amount of it for them.
 
 ------------------------------------------------
+
 ## Defensive Stance
 **Type:** Attack
  | **Hero Node:** Armored
@@ -22,6 +23,7 @@ When allies in Close range take damage, take any amount of it for them.
  Gain Advantage on all Evade rolls until your next turn
 
 ------------------------------------------------
+
 ## Unstoppable
 **Type:** Attack
  | **Hero Node:** Armored
@@ -32,6 +34,7 @@ Your Speed is no longer lowered by 'Heavy Armor'.
 Run in a straight line through Close enemies, pushing them out of the way as you make an Attack roll against each enemy you touch.
 
 ------------------------------------------------
+
 ## Tackle
 **Type:** Attack
  | **Hero Node:** Armored

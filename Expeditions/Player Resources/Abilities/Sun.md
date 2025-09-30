@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Abilities - Sun
 permalink: /PlayerResources/Abilities/Sun/
 ---
 ## [Sun](#Sun)
 
 ------------------------------------------------
+
 ## Sun Beam
 **Type:** Magic
  | **Hero Node:** Sun
@@ -16,6 +16,7 @@ You unleash a concentrated beam of solar energy, searing your enemies.
 Make a Magic attack against an enemy in Near range. On a successful hit, they take 1 damage and are blinded until the start of your next turn.
 
 ------------------------------------------------
+
 ## Daylight
 **Type:** Magic
  | **Hero Node:** Sun
@@ -26,6 +27,7 @@ You dispel magical darkness and illuminate the surrounding area with the power o
 Dispel any magical darkness in a Near zone.
 
 ------------------------------------------------
+
 ## Solar Flare
 **Type:** Magic
  | **Hero Node:** Sun
@@ -36,6 +38,7 @@ You unleash a burst of intense solar energy, incinerating your foes.
 Target all enemies in a Near zone. They take 2 damage.
 
 ------------------------------------------------
+
 ## Warmth
 **Type:** Magic
  | **Hero Node:** Sun

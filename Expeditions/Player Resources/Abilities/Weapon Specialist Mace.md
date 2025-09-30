@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Abilities - Weapon Specialist
 permalink: /PlayerResources/Abilities/WeaponSpecialist/Mace/
 ---
 ## [Weapon Specialist Mace](#Mace)
 
 ------------------------------------------------
+
 ## Thump
 **Type:** Attack
  | **Hero Node:** Weapon Specialist: Mace
@@ -14,6 +14,7 @@ permalink: /PlayerResources/Abilities/WeaponSpecialist/Mace/
 Attack an enemy with a Mace, On success, their Evade stat is halved until your next turn.
 
 ------------------------------------------------
+
 ## Bone Breaker
 **Type:** Attack
  | **Hero Node:** Weapon Specialist: Mace
@@ -24,6 +25,7 @@ Attack an enemy with a Mace, On success, choose one of the following...
 2. Your target cannot move until your next turn.
 
 ------------------------------------------------
+
 ## Concuss
 **Type:** Attack
  | **Hero Node:** Weapon Specialist: Mace
@@ -32,6 +34,7 @@ Attack an enemy with a Mace, On success, choose one of the following...
 Attack an enemy with a Mace, On success, all ongoing magical effects being maintained by your target are interrupted. If an effect is interrupted in this way, you deal an additional damage.
 
 ------------------------------------------------
+
 ## Crushing Blow
 **Type:** Attack
  | **Hero Node:** Weapon Specialist: Mace

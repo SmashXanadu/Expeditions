@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Ability List
 permalink: /PlayerResources/Abilities/AbilityList/
 ---
 ## [Ability List](#ability-list)
+
 - ### [1 Handed Weapons]({{site.baseurl}}/PlayerResources/Abilities/1HandedWeapons/#1-Handed-Weapons)
 - ### [2 Handed Weapons]({{site.baseurl}}/PlayerResources/Abilities/2HandedWeapons/#2-Handed-Weapons)
 - ### [Air]({{site.baseurl}}/PlayerResources/Abilities/Air/#Air)

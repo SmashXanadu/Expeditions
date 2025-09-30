@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Abilities - Weapon Specialist
 permalink: /PlayerResources/Abilities/WeaponSpecialist/Axe/
 ---
 ## [Weapon Specialist Axe](#Axe)
 
 ------------------------------------------------
+
 ## Execute
 **Type:** Attack
  | **Hero Node:** Weapon Specialist: Axe
@@ -14,6 +14,7 @@ permalink: /PlayerResources/Abilities/WeaponSpecialist/Axe/
 Attack a damaged enemy with Advantage.
 
 ------------------------------------------------
+
 ## Versatile
 **Type:** Attack
  | **Hero Node:** Weapon Specialist: Axe
@@ -22,6 +23,7 @@ Attack a damaged enemy with Advantage.
  Throw an Axe as a Ranged Attack with Advantage.
 
 ------------------------------------------------
+
 ## Bleed
 **Type:** Attack
  | **Hero Node:** Weapon Specialist: Axe
@@ -30,6 +32,7 @@ Attack a damaged enemy with Advantage.
 Attack an enemy with an Axe. On Success, the target is bleeding and will take an additional damage at the start of each of their turns. Only works on enemies that bleed.
 
 ------------------------------------------------
+
 ## Dismember
 **Type:** Attack
  | **Hero Node:** Weapon Specialist: Axe

@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Skills - Careful
 permalink: /PlayerResources/Skills/Careful/
 ---
 ## [Careful](#Careful)
 You have nimble hands, patience, and attention to detail.
 
 **Example Actions**: 
+
 - Repairing a delicate piece of jewelry.
 - Walking across a narrow beam high above a chasm.
 - Threading a needle in a moving carriage.

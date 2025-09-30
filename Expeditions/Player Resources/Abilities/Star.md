@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Abilities - Star
 permalink: /PlayerResources/Abilities/Star/
 ---
 ## [Star](#Star)
 
 ------------------------------------------------
+
 ## Comet
 **Type:** Magic
  | **Hero Node:** Star
@@ -16,6 +16,7 @@ You summon a small comet to strike your foes with celestial force.
 Make a Magic attack against an enemy up to far range. On a successful hit, they take 1 damage and are knocked down.
 
 ------------------------------------------------
+
 ## Starfall
 **Type:** Magic
  | **Hero Node:** Star
@@ -26,6 +27,7 @@ You call down a shower of star fragments, illuminating the battlefield and damag
 Target all enemies in a Near zone. They take 1 damage.
 
 ------------------------------------------------
+
 ## Meteor Storm
 **Type:** Magic
  | **Hero Node:** Star
@@ -36,6 +38,7 @@ You summon a devastating barrage of meteors, obliterating your enemies with cosm
 Target everyone in a Far zone. They take 2 damage.
 
 ------------------------------------------------
+
 ## Star Surge
 **Type:** Magic
  | **Hero Node:** Star

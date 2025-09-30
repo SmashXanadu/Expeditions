@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Abilities - Earth
 permalink: /PlayerResources/Abilities/Earth/
 ---
 ## [Earth](#Earth)
 
 ------------------------------------------------
+
 ## Stone Shards
 **Type:** Magic
  | **Hero Node:** Earth
@@ -16,6 +16,7 @@ Conjure a hail of razor-sharp stone shards to lacerate your foes.
 Make a Magic attack against all enemies in a Near zone. 
 
 ------------------------------------------------
+
 ## Displace Earth
 **Type:** Magic
  | **Hero Node:** Earth
@@ -26,6 +27,7 @@ Manipulate stone and earth to create small structures, repair damage, or even re
 Raise a wall of earth or stone in your zone. Allies behind this wall gain Advantage against all incoming ranged attacks. This wall persist until it is destroyed or until you dismiss it.
 
 ------------------------------------------------
+
 ## Living Earth
 **Type:** Magic
  | **Hero Node:** Earth
@@ -36,6 +38,7 @@ You animate a portion of the earth, creating a temporary earth elemental to figh
 Command you Earth Elemental to move and attack an Enemy using your Attack or Magic stat. This does not count as your action for the turn.
 
 ------------------------------------------------
+
 ## Earthen Armor
 **Type:** Magic
  | **Hero Node:** Earth

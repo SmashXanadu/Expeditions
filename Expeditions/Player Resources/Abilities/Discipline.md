@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Abilities - Discipline
 permalink: /PlayerResources/Abilities/Discipline/
 ---
 ## [Discipline](#Discipline)
 
 ------------------------------------------------
+
 ## Disengage
 **Type:** Attack
  | **Hero Node:** Discipline
@@ -16,6 +16,7 @@ You utilize precise footwork and calculated movements to escape dangerous situat
 Make an attack, then move up to 2 zones away.
 
 ------------------------------------------------
+
 ## Unerring Focus
 **Type:** Attack
  | **Hero Node:** Discipline
@@ -24,6 +25,7 @@ Make an attack, then move up to 2 zones away.
 Once per turn reroll a critical fail on an attack roll.
 
 ------------------------------------------------
+
 ## Deflect Missiles
 **Type:** Attack
  | **Hero Node:** Discipline
@@ -34,6 +36,7 @@ Your keen senses and agility allow you to anticipate and deflect incoming projec
 After successfully Evading a ranged attack, deflect the projectile back to the attacker, dealing damage to them instead.
 
 ------------------------------------------------
+
 ## Mental Fortitude
 **Type:** Attack
  | **Hero Node:** Discipline

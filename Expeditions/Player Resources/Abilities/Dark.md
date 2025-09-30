@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Abilities - Dark
 permalink: /PlayerResources/Abilities/Dark/
 ---
 ## [Dark](#Dark)
 
 ------------------------------------------------
+
 ## Shadow Step
 **Type:** Magic
  | **Hero Node:** Dark
@@ -16,6 +16,7 @@ You are able to step through the shadows and reappear in distant locations.
  to instantly move to shadowed location that see. 
 
 ------------------------------------------------
+
 ## Shroud of Darkness
 **Type:** Magic
  | **Hero Node:** Dark
@@ -26,6 +27,7 @@ Create a cloud of darkness to obscure vision and disorient enemies.
 Create a zone of darkness in a Near zone. Enemies in this zone have Disadvantage on all attack rolls until the start of your next turn.
 
 ------------------------------------------------
+
 ## Become Shadow
 **Type:** Magic
  | **Hero Node:** Dark
@@ -36,6 +38,7 @@ You are no stranger to shadows. see perfectly in the darkest natural conditions.
 Become incorporeal until the start of your next turn. While incorporeal, you are immune to physical damage, but have Disadvantage on Resist rolls, and move through solid objects.
 
 ------------------------------------------------
+
 ## Abyssal Grasp
 **Type:** Magic
  | **Hero Node:** Dark

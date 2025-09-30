@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Abilities - Growth
 permalink: /PlayerResources/Abilities/Growth/
 ---
 ## [Growth](#Growth)
 
 ------------------------------------------------
+
 ## Overgrowth
 **Type:** Magic
  | **Hero Node:** Growth
@@ -16,6 +16,7 @@ You accelerate the natural growth of plants, creating a dense thicket that hinde
 Choose a Near zone. Enemies cannot move out of the zone. Allies have advantage on Evade Rolls while in the zone.
 
 ------------------------------------------------
+
 ## Flourish
 **Type:** Magic
  | **Hero Node:** Growth
@@ -29,6 +30,7 @@ Choose a Near zone one one of the following effects:
 2. All allies in the zone regain 1 hit point (representing restorative pollen).
 
 ------------------------------------------------
+
 ## Temporal Seed
 **Type:** Magic
  | **Hero Node:** Growth
@@ -39,6 +41,7 @@ You plant a seed of accelerated growth, creating a temporary surge of energy.
 Choose an ally within Near range. They gain Advantage on all rolls until the start of your next turn.
 
 ------------------------------------------------
+
 ## Living Barricade
 **Type:** Magic
  | **Hero Node:** Growth

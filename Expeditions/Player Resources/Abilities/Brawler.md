@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Abilities - Brawler
 permalink: /PlayerResources/Abilities/Brawler/
 ---
 ## [Brawler](#Brawler)
 
 ------------------------------------------------
+
 ## Blind
 **Type:** Attack
  | **Hero Node:** Brawler
@@ -14,6 +14,7 @@ permalink: /PlayerResources/Abilities/Brawler/
 Make a Melee Attack against an enemy. On Success, they have Disadvantage on all attacks on their next round.
 
 ------------------------------------------------
+
 ## Improvised Weapons
 **Type:** Attack
  | **Hero Node:** Brawler
@@ -22,6 +23,7 @@ Make a Melee Attack against an enemy. On Success, they have Disadvantage on all 
 If you are wielding something that is not traditionally used as a weapon, Attack with Advantage.
 
 ------------------------------------------------
+
 ## Grappler
 **Type:** Attack
  | **Hero Node:** Brawler
@@ -30,6 +32,7 @@ If you are wielding something that is not traditionally used as a weapon, Attack
 Gain Advantage on a roll related to grappling, throwing, or toppling.
 
 ------------------------------------------------
+
 ## Fist Fighting
 **Type:** Attack
  | **Hero Node:** Brawler

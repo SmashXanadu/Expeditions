@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Abilities - Moon
 permalink: /PlayerResources/Abilities/Moon/
 ---
 ## [Moon](#Moon)
 
 ------------------------------------------------
+
 ## Eclipse
 **Type:** Magic
  | **Hero Node:** Moon
@@ -16,6 +16,7 @@ You shroud an area in magical darkness, obscuring vision and disrupting magical 
 Choose a Near zone. Enemies within that zone -10 Attack and -10 Magic until your next turn.
 
 ------------------------------------------------
+
 ## Blood Moon
 **Type:** Magic
  | **Hero Node:** Moon
@@ -26,6 +27,7 @@ You invoke the power of the blood moon, enhancing aggression and weakening defen
 Choose a target in Near range. They deal 1 extra damage on attacks, but have disadvantage on Evade rolls until the start of your next turn.
 
 ------------------------------------------------
+
 ## Moonlight
 **Type:** Magic
  | **Hero Node:** Moon
@@ -36,6 +38,7 @@ You summon the soft soothing light of the moon, healing wounds and calming minds
 Choose an ally in Near range. They regain 1 hit point.
 
 ------------------------------------------------
+
 ## Lycanthropy
 **Type:** Magic
  | **Hero Node:** Moon

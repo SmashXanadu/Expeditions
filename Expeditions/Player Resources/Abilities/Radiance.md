@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Abilities - Radiance
 permalink: /PlayerResources/Abilities/Radiance/
 ---
 ## [Radiance](#Radiance)
 
 ------------------------------------------------
+
 ## Blinding Light
 **Type:** Magic
  | **Hero Node:** Radiance
@@ -16,6 +16,7 @@ Create a sudden burst of light to disorient or illuminate.
 Make a Magic attack against all enemies in your zone. On success, they are blinded until the start of your next turn. They have -5 to their Attack and Defense.
 
 ------------------------------------------------
+
 ## Radiate
 **Type:** Magic
  | **Hero Node:** Radiance
@@ -26,6 +27,7 @@ You emanate a powerful aura of warm radiant energy, bolstering your allies and w
 All allies in your zone gain +2 to all attack rolls until the start of your next turn. All enemies within Near range have -2 to all Evade rolls until the start of your next turn.
 
 ------------------------------------------------
+
 ## Scorching Ray
 **Type:** Magic
  | **Hero Node:** Radiance
@@ -36,6 +38,7 @@ You conjure a beam of searing light, burning your enemies with radiant energy.
 Make a Magic attack against an enemy in Near range. On a successful hit, they take 1 radiant damage and all allies have Advantage on attacks against them until your next turn.
 
 ------------------------------------------------
+
 ## Holy Ground
 **Type:** Magic
  | **Hero Node:** Radiance

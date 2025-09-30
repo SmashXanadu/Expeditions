@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Abilities - Explosion
 permalink: /PlayerResources/Abilities/Explosion/
 ---
 ## [Explosion](#Explosion)
 
 ------------------------------------------------
+
 ## Disrupting Blast
 **Type:** Magic
  | **Hero Node:** Explosion
@@ -16,6 +16,7 @@ Unleash a small explosion of energy that disrupts the flow of magic.
 Target an enemy in Near range with a Magic Attack. On Success, their Magic stat is reduced by 5 until your next turn and any active magical effects that they are maintaining are broken.
 
 ------------------------------------------------
+
 ## Sonic Boom
 **Type:** Magic
  | **Hero Node:** Explosion
@@ -26,6 +27,7 @@ Create an extremely loud and powerful sonic wave that stuns and disorients your 
 Make a Magic Roll against everyone in your zone. On Success, they take a damage and cannot act on their next turn.
 
 ------------------------------------------------
+
 ## Fireball
 **Type:** Magic
  | **Hero Node:** Explosion
@@ -36,6 +38,7 @@ Conjure a large ball of fire to incinerate your enemies.
 Target an enemy in Near range with a Magic Attack. On success, they take a damage and are set on fire. While on fire, they take 1 fire damage at the start of each of their turns until they extinguish the flames.
 
 ------------------------------------------------
+
 ## Living Bomb
 **Type:** Magic
  | **Hero Node:** Explosion

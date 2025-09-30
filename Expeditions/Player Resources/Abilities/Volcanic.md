@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Abilities - Volcanic
 permalink: /PlayerResources/Abilities/Volcanic/
 ---
 ## [Volcanic](#Volcanic)
 
 ------------------------------------------------
+
 ## Sunder Earth
 **Type:** Magic
  | **Hero Node:** Volcanic
@@ -16,6 +16,7 @@ You crack the earth, creating fissures and chasms.
 Create a fissure in a Near zone. Enemies that enter the fissure take 2 damage.
 
 ------------------------------------------------
+
 ## Earthquake
 **Type:** Magic
  | **Hero Node:** Volcanic
@@ -26,6 +27,7 @@ You cause the ground to shake violently, disrupting your enemies' balance.
 Target a zone within Near range. All enemies in that zone either: take 1 damage or fall into a fissure.
 
 ------------------------------------------------
+
 ## Lava Spray
 **Type:** Magic
  | **Hero Node:** Volcanic
@@ -36,6 +38,7 @@ You unleash a burst of molten lava, burning your foes.
 Make a Magic attack against all close enemies. If successful, they take 1 damage and have their Defense reduced by 5 until your next turn.
 
 ------------------------------------------------
+
 ## Eruption
 **Type:** Magic
  | **Hero Node:** Volcanic

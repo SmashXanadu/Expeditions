@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Abilities - Oracle
 permalink: /PlayerResources/Abilities/Oracle/
 ---
 ## [Oracle](#Oracle)
 
 ------------------------------------------------
+
 ## Influence Fate
 **Type:** Magic
  | **Hero Node:** Oracle
@@ -16,6 +16,7 @@ You subtly nudge the threads of fate, altering the outcome of events.
 When an ally chooses to **Stretch** or **Over-exert** you may make a Magic roll. On success, you get to change the Consequences into something more positive. (With Guide Approval)
 
 ------------------------------------------------
+
 ## Mnemonic Touch
 **Type:** Magic
  | **Hero Node:** Oracle
@@ -31,6 +32,7 @@ You may choose one of the following:
 2. Name something that this has come into contact with. Learn the general location of it.
 
 ------------------------------------------------
+
 ## Predict Intent
 **Type:** Magic
  | **Hero Node:** Oracle
@@ -41,6 +43,7 @@ You peer into the future, anticipating the actions of your target.
 Choose an enemy within Near range. You learn their intended action for their next turn.
 
 ------------------------------------------------
+
 ## Seer's Visions
 **Type:** Magic
  | **Hero Node:** Oracle
