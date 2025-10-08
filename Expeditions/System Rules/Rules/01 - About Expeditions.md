@@ -4,8 +4,7 @@ permalink: /Rules/1/
 ---
 # [About Expeditions](#about-expeditions)
 ## What is Expeditions?
-Expeditions is a fast-paced tabletop RPG that uses a D20 die. The game is designed for players who want to have maximum fun in a short amount of time. It's built to be easy for new players and kids to learn while still feeling familiar to experienced players.
-
+Expeditions is a fast-paced tabletop roleplaying game that uses a D20 die to cooperatively create fun stories with a group of players.
 ## What do I need to Play?
 - This rulebook
 - Pencils and pens
