@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Modifier List
 permalink: /GuideResources/Adversaries/ModifierList/
 ---
 - Beyond the statistics detailed below, modifiers may have information for the following:
@@ -15,6 +14,10 @@ permalink: /GuideResources/Adversaries/ModifierList/
 - **Res**: Resistance
 - If a modifier causes a value to go below 1, set it to 1.
 - Round down for any non-integer results.
+
+\newpage
+
+## Modifiers
 
 | Name             | Health     | DPR         | Attack      | Magic       | Def         | Res         |
 | ---------------- | ---------- | ----------- | ----------- | ----------- | ----------- | ----------- |

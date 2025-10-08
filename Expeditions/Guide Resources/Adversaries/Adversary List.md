@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Adversary List
 permalink: /GuideResources/Adversaries/AdversaryList/
 ---
 - Beyond the statistics detailed below, adversaries will have information for the following:
@@ -14,6 +13,10 @@ permalink: /GuideResources/Adversaries/AdversaryList/
 - **DPR**: Damage Per Round
 - **Def**: Defense
 - **Res**: Resistance
+
+\newpage
+
+## Adversaries
 
 | Name             | Health    | DPR       | Attack     | Magic      | Def        | Res        |
 | ---------------- | --------- | --------- | ---------- | ---------- | ---------- | ---------- |
