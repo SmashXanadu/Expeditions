@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Expeditions/Guide Resources/Adversaries/Adversary List.md",
+                "file": "Expeditions/Guide Resources/Adversaries/Adversary Card.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Adversary List"
+              "title": "Adversary Card"
             }
           }
         ],
@@ -182,9 +182,9 @@
   },
   "active": "3d8e8473b1585169",
   "lastOpenFiles": [
+    "Expeditions/Guide Resources/Adversaries/Adversary List.md",
     "Tools/u0kk2wya.k0q~",
     "Expeditions/Guide Resources/Adversaries/Modifier List.md",
-    "Expeditions/Guide Resources/Adversaries/Adversary List.md",
     "Expeditions/Guide Resources/Adversaries/Adversary Card.md",
     "Tools/deikrlq4.5dc~",
     "Expeditions/Guide Resources/Premade Adventures/Quick Start.md",
@@ -217,7 +217,6 @@
     "Tools/b05mgyxc.2jq~",
     "Tools/lmqwky3j.d41~",
     "Tools/h1skna3o.y2g~",
-    "{{site.baseurl}}/Rules",
     "images/uwmap.png",
     "images/emeraldDawnship.png",
     "images/oz.png",
