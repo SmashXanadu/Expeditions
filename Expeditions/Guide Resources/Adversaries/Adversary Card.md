@@ -2,6 +2,7 @@
 layout: default
 permalink: /GuideResources/Adversaries/AdversaryCard/
 ---
+## Adversary Stat Sheets
 
 |           | **Name** | **Health** | **DPR** | **Atk** | **Mag** | **Def** | **Res** |
 | :-------- | :------- | :--------: | :-----: | :-----: | :-----: | :-----: | :-----: |

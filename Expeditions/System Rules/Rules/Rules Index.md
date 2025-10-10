@@ -7,18 +7,18 @@ Page numbers are listed with a "p" for this Player Booklet, and a "g" for the Gu
 
 **[Rules Summary]({{site.baseurl}}/Rules/Summary/#summary)**
 
-1. **[About]({{site.baseurl}}/Rules/1/#about-expeditions)** (p.XX, g.XX)
-2. **[Basic Rules]({{site.baseurl}}/Rules/2/#basic-rules)** (p.XX, g.XX)
-3. **[Resolving Dice Rolls]({{site.baseurl}}/Rules/3/#resolving-dice-rolls)** (p.XX, g.XX)
-4. **[Flow of the Game]({{site.baseurl}}/Rules/4/#flow-of-the-game)** (p.XX, g.XX)
-5. **[Combat]({{site.baseurl}}/Rules/5/#combat)** (p.XX, g.XX)
-6. **[Downtime]({{site.baseurl}}/Rules/6/#downtime)** (p.XX, g.XX)
-7. **[Character Creation]({{site.baseurl}}/Rules/7/#character-creation)** (p.XX, g.XX)
-8. **[Hero Grid]({{site.baseurl}}/Rules/8/#hero-grid)** (p.XX, g.XX)
-9. **[Player Characters]({{site.baseurl}}/Rules/9/#player-characters)** (p.XX, g.XX)
-10. **[Character Progression]({{site.baseurl}}/Rules/10/#character-progression)** (p.XX, g.XX)
-11. **[General Skills]({{site.baseurl}}/Rules/11/#general-skills)** (p.XX, g.XX)
-12. **[Trade Skills]({{site.baseurl}}/Rules/12/#tradeskills)** (p.XX, g.XX)
+1. **[About]({{site.baseurl}}/Rules/1/#about-expeditions)** (p.1, g.XX)
+2. **[Basic Rules]({{site.baseurl}}/Rules/2/#basic-rules)** (p.2, g.XX)
+3. **[Resolving Dice Rolls]({{site.baseurl}}/Rules/3/#resolving-dice-rolls)** (p.3, g.XX)
+4. **[Flow of the Game]({{site.baseurl}}/Rules/4/#flow-of-the-game)** (p.4, g.XX)
+5. **[Combat]({{site.baseurl}}/Rules/5/#combat)** (p.5, g.XX)
+6. **[Downtime]({{site.baseurl}}/Rules/6/#downtime)** (p.7, g.XX)
+7. **[Character Creation]({{site.baseurl}}/Rules/7/#character-creation)** (p.8, g.XX)
+8. **[Hero Grid]({{site.baseurl}}/Rules/8/#hero-grid)** (p.11, g.XX)
+9. **[Player Characters]({{site.baseurl}}/Rules/9/#player-characters)** (p.13, g.XX)
+10. **[Character Progression]({{site.baseurl}}/Rules/10/#character-progression)** (p.14, g.XX)
+11. **[General Skills]({{site.baseurl}}/Rules/11/#general-skills)** (p.15, g.XX)
+12. **[Trade Skills]({{site.baseurl}}/Rules/12/#tradeskills)** (p.16, g.XX)
 
 ## [Index](#index)
 

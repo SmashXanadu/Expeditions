@@ -102,19 +102,19 @@ Choose one of these pre-made equipment sets to start the game with. The starting
 
 - **Inventory**: 3 Gold, Rope, Torches, Climbing Gear, Flint & Tinder, Throwing Knives or Arrows
 - **Equipment**: Leather Tunic (1), Leather Boots (1), Leather Pants (1), Leather Gloves (1), Leather Cap (1)
-- **Weapon**: Dagger (1), Hand Axe (1), Hand Crossbow (1), or Short bow (1)
+- **Weapon**: Dagger (1) **or** Hand Axe (1), Hand Crossbow (1) **or** Short bow (1)
 
 **Combatant**: 
 
 - **Inventory**: 2 Gold
 - **Equipment**: Chain Mail Helmet (2), Steel Breast Plate (2), Boots (2), Pants (2), and Gauntlets (2)
-- **Weapon**: Long sword(2), Mace (2), Battle Axe (2), or Spear (1) & Iron Shield (2)
+- **Weapon**: Long sword(2), Mace (2), Battle Axe (2), **or** Spear (1) & Iron Shield (2)
 
 **Performer**: 
 
 - **Inventory**: 5 Gold, Instrument / Tool / Prop, Costume or Disguise, Lucky Trinket, Wine skin
-- **Equipment**: Leather Tunic (1), Boot (1), Pant (1), Gloves (1), Cap (1)
-- **Weapon**: Dagger (1) or Short Sword (1)
+- **Equipment**: Leather Tunic (1), Boots (1), Pant (1), Gloves (1), Cap (1)
+- **Weapon**: Dagger (1) **or** Short Sword (1)
 
 **Trader**: 
 
