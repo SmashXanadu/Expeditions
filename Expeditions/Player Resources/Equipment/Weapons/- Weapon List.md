@@ -3,8 +3,8 @@ layout: default
 permalink: /PlayerResources/Equipment/Weapons/List/
 ---
 
-| Category   | Item Name                                                                     | Durability | Speed Mod |
-| :--------- | :---------------------------------------------------------------------------- | :--------- | :-------- |
+| Category   | Item Name                                                                                     | Durability | Speed Mod |
+| :--------- | :-------------------------------------------------------------------------------------------- | :--------- | :-------- |
 | **Light**  | [Dagger]({{site.baseurl}}/PlayerResources/Equipment/Weapons/Dagger/)                          | 1          | 0         |
 | **Light**  | [Short Sword]({{site.baseurl}}/PlayerResources/Equipment/Weapons/ShortSword/)                 | 1          | -1        |
 | **Light**  | [Hand Axe]({{site.baseurl}}/PlayerResources/Equipment/Weapons/HandAxe/)                       | 1          | -1        |
