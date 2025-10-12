@@ -52,12 +52,14 @@ Page numbers are listed with a "p" for this Player Booklet, and a "g" for the Gu
 ## Other Player Resources
 - [Playtest]({{site.baseurl}}/Playtest/Index/)
 - [Ability List]({{site.baseurl}}/PlayerResources/Abilities/AbilityList/#ability-list)
+- [Weapon List]({{site.baseurl}}/PlayerResources/Equipment/Weapons/List/)
+- [Armor List]({{site.baseurl}}/PlayerResources/Equipment/Armor/List/)
+- [Equipment Sets List]({{site.baseurl}}/PlayerResources/EquipmentSets/List/)
 - [Hero Grid](https://raw.githubusercontent.com/SmashXanadu/Expeditions/refs/heads/main/images/HeroGridSheet.png)
 - [Blank Character Sheet](https://raw.githubusercontent.com/SmashXanadu/Expeditions/refs/heads/main/images/CharacterSheet.png)
 - [Blank Equipment Sheet](https://raw.githubusercontent.com/SmashXanadu/Expeditions/refs/heads/main/images/EquipmentSheet.png)
 - [Blank Ability Sheet](https://raw.githubusercontent.com/SmashXanadu/Expeditions/refs/heads/main/images/AbilitySheet.png)
 - [Blank Skill Sheet](https://raw.githubusercontent.com/SmashXanadu/Expeditions/refs/heads/main/images/SkillSheet.png)
-
 
 [Submit an Edit, Correction, or Idea in GitLab](https://github.com/SmashXanadu/Expeditions/issues/new) or E-Mail ExpeditionsRPG@pm.me
 

@@ -90,36 +90,36 @@ Choose any four skills from this list. Each starts at +0.
 # [Character Creation](#character-creation)
 
 ## [6. Equipment Set](#equipment-set)
-Choose one of these pre-made equipment sets to start the game with. The starting **durability** of equipment is the number in parenthesis next to each piece of equipment.
+Choose one of these pre-made equipment sets to start the game with.
 
-**Scholar**:
+**[Scholar](/PlayerResources/EquipmentSets/Scholar/)**:
 
 - **Inventory**: 2 Gold, Journal, Books, Magic Scrolls, Specimen Containers
-- **Equipment**: Cloth Robes (1), Leather Boots (1)
-- **Weapon**: Staff (2) or Dagger (1) and Magical Object (1)
+- **Equipment**: [Cloth Robes](/PlayerResources/Equipment/Armor/ClothRobes/), [Leather Boots](/PlayerResources/Equipment/Armor/LeatherBoots/)
+- **Weapon**: [Staff](/PlayerResources/Equipment/Weapons/Staff/) or [Dagger](/PlayerResources/Equipment/Weapons/Dagger/) and [Magical Object](/PlayerResources/Equipment/Weapons/MagicalObject/)
 
-**Explorer**: 
+**[Explorer](/PlayerResources/EquipmentSets/Explorer/)**:
 
 - **Inventory**: 3 Gold, Rope, Torches, Climbing Gear, Flint & Tinder, Throwing Knives or Arrows
-- **Equipment**: Leather Tunic (1), Leather Boots (1), Leather Pants (1), Leather Gloves (1), Leather Cap (1)
-- **Weapon**: Dagger (1) **or** Hand Axe (1), Hand Crossbow (1) **or** Short bow (1)
+- **Equipment**: [Leather Tunic](/PlayerResources/Equipment/Armor/LeatherTunic/), [Leather Boots](/PlayerResources/Equipment/Armor/LeatherBoots/), [Leather Pants](/PlayerResources/Equipment/Armor/LeatherPants/), [Leather Gloves](/PlayerResources/Equipment/Armor/LeatherGloves/), [Leather Cap](/PlayerResources/Equipment/Armor/LeatherCap/)
+- **Weapon**: [Dagger](/PlayerResources/Equipment/Weapons/Dagger/) **or** [Hand Axe](/PlayerResources/Equipment/Weapons/HandAxe/), [Hand Crossbow](/PlayerResources/Equipment/Weapons/HandCrossbow/) **or** [Short Bow](/PlayerResources/Equipment/Weapons/ShortBow/)
 
-**Combatant**: 
+**[Combatant](/PlayerResources/EquipmentSets/Combatant/)**:
 
 - **Inventory**: 2 Gold
-- **Equipment**: Chain Mail Helmet (2), Steel Breast Plate (2), Boots (2), Pants (2), and Gauntlets (2)
-- **Weapon**: Long sword(2), Mace (2), Battle Axe (2), **or** Spear (1) & Iron Shield (2)
+- **Equipment**: [Chain Mail Helmet](/PlayerResources/Equipment/Armor/ChainCoif/), [Steel Breast Plate](/PlayerResources/Equipment/Armor/SteelBreastPlate/), [Boots](/PlayerResources/Equipment/Armor/SteelBoots/), [Pants](/PlayerResources/Equipment/Armor/ChainmailLeggings/), and [Gauntlets](/PlayerResources/Equipment/Armor/SteelGauntlets/)
+- **Weapon**: [Long sword](/PlayerResources/Equipment/Weapons/LongSword/), [Mace](/PlayerResources/Equipment/Weapons/Mace/), [Battle Axe](/PlayerResources/Equipment/Weapons/BattleAxe/), **or** [Spear](/PlayerResources/Equipment/Weapons/Spear/) & [Iron Shield](/PlayerResources/Equipment/Weapons/IronShield/)
 
-**Performer**: 
+**[Performer](/PlayerResources/EquipmentSets/Performer/)**:
 
 - **Inventory**: 5 Gold, Instrument / Tool / Prop, Costume or Disguise, Lucky Trinket, Wine skin
-- **Equipment**: Leather Tunic (1), Boots (1), Pant (1), Gloves (1), Cap (1)
-- **Weapon**: Dagger (1) **or** Short Sword (1)
+- **Equipment**: [Leather Tunic](/PlayerResources/Equipment/Armor/LeatherTunic/), [Boots](/PlayerResources/Equipment/Armor/LeatherBoots/), [Pant](/PlayerResources/Equipment/Armor/LeatherPants/), [Gloves](/PlayerResources/Equipment/Armor/LeatherGloves/), [Cap](/PlayerResources/Equipment/Armor/LeatherCap/)
+- **Weapon**: [Dagger](/PlayerResources/Equipment/Weapons/Dagger/) **or** [Short Sword](/PlayerResources/Equipment/Weapons/ShortSword/)
 
-**Trader**: 
+**[Trader](/PlayerResources/EquipmentSets/Trader/)**:
 
-- **Inventory**: 10 Gold, Trader’s Bag (5 Extra Inventory), 
-- **Equipment**: Leather Tunic (1), Boots (1), and Pants (1)
-- **Weapon**: Dagger
+- **Inventory**: 10 Gold, Trader’s Bag (5 Extra Inventory),
+- **Equipment**: [Leather Tunic](/PlayerResources/Equipment/Armor/LeatherTunic/), [Boots](/PlayerResources/Equipment/Armor/LeatherBoots/), and [Pants](/PlayerResources/Equipment/Armor/LeatherPants/)
+- **Weapon**: [Dagger](/PlayerResources/Equipment/Weapons/Dagger/)
 
 [Previous]({{site.baseurl}}/Rules/6/#downtime) | **[Next: Hero Grid]({{site.baseurl}}/Rules/8/)** | [Rules]({{site.baseurl}}/Rules/Index/#rules)
