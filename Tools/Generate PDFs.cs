@@ -10,12 +10,13 @@ public class Program
         string downloadsPath = Path.Combine(userProfilePath, "Downloads");
         string solutionRoot = Path.GetFullPath(Path.Combine(currentDirectory, @"..\..\..\..\"));
         //TODO Wrap All of these into a list to do full Asset Prints
-        string sourceFolder = Path.Combine(solutionRoot, "Expeditions", "Player Resources", "Abilities");
+        //string sourceFolder = Path.Combine(solutionRoot, "Expeditions", "Player Resources", "Abilities");
         //string sourceFolder = Path.Combine(solutionRoot, "Expeditions", "Player Resources", "General Skills");
         //string sourceFolder = Path.Combine(solutionRoot, "Expeditions", "Player Resources", "Trade Skills");
         //string sourceFolder = Path.Combine(solutionRoot, "Expeditions", "System Rules", "Rules");
         //string sourceFolder = Path.Combine(solutionRoot, "Expeditions", "Guide Resources", "Premade Adventures");
         //string sourceFolder = Path.Combine(solutionRoot, "Expeditions", "Guide Resources", "Adversaries");
+        string sourceFolder = Path.Combine(solutionRoot, "Expeditions", "Player Resources", "Equipment", "Sets");
 
         string tempInputFolder = Path.Combine(@"C:\\Users\\willi\\AppData\\Local\\Pandoc\\Temp", Path.GetRandomFileName());
         string inputFolder = tempInputFolder;

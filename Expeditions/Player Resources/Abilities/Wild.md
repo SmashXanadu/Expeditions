@@ -31,11 +31,11 @@ permalink: /PlayerResources/Abilities/Wild/
 | |
 | Move up to **3 zones** and make a **melee attack with Advantage** against an enemy at the end of your movement. |
 
-|                                                                                                                                                            |
-| :--------------------------------------------------------------------------------------------------------- |
-| **Furious Frenzy** |
-| *Your killing strike feeds your fury, allowing you to chain devastating attacks against multiple nearby foes as long as you maintain your murderous momentum.* |
-| |
-| **Type**: Attack \| **Node**: Wild \| **Charges**: 5 |
-| |
+|                                                                                                                                                                                                                                                                                       |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Furious Frenzy**                                                                                                                                                                                                                                                                    |
+| *Your killing strike feeds your fury, allowing you to chain devastating attacks against multiple nearby foes as long as you maintain your murderous momentum.*                                                                                                                        |
+|                                                                                                                                                                                                                                                                                       |
+| **Type**: Attack \| **Node**: Wild \| **Charges**: 5                                                                                                                                                                                                                                  |
+|                                                                                                                                                                                                                                                                                       |
 | Make an **Attack roll** against a target. If your target dies from this attack, you may immediately use this ability again to attack another target in your zone. You may continue this until you attack a target and it doesn't die, or until you decide not to **Expend a Charge**. |

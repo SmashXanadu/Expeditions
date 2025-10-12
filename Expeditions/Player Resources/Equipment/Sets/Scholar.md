@@ -15,8 +15,8 @@ permalink: /PlayerResources/EquipmentSets/Scholar/
 
 | Item Name | Type | Slot | Max Durability | Speed Mod |
 | :--- | :--- | :--- | :--- | :--- |
-| [Cloth Robes](/PlayerResources/Equipment/Armor/ClothRobes/) | Light | Chest | 1 | -1 |
-| [Leather Boots](/PlayerResources/Equipment/Armor/LeatherBoots/) | Medium | Feet | 1 | -1 |
+| [Cloth Robes]({{site.baseurl}}/PlayerResources/Equipment/Armor/ClothRobes/) | Light | Chest | 1 | -1 |
+| [Leather Boots]({{site.baseurl}}/PlayerResources/Equipment/Armor/LeatherBoots/) | Medium | Feet | 1 | -1 |
 
 ## Weapon Stats
 
@@ -24,11 +24,11 @@ permalink: /PlayerResources/EquipmentSets/Scholar/
 
 | Item Name | Type | Slot | Max Durability | Speed Mod |
 | :--- | :--- | :--- | :--- | :--- |
-| [Staff](/PlayerResources/Equipment/Weapons/Staff/) | Medium | Main Hand (Two-Handed) | 2 | -2 |
+| [Staff]({{site.baseurl}}/PlayerResources/Equipment/Weapons/Staff/) | Medium | Main Hand (Two-Handed) | 2 | -2 |
 
 ### Option B (Dagger/Magic Focus)
 
 | Item Name | Type | Slot | Max Durability | Speed Mod |
 | :--- | :--- | :--- | :--- | :--- |
-| [Dagger](/PlayerResources/Equipment/Weapons/Dagger/) | Light | Main Hand / Off Hand | 1 | 0 |
-| [Magical Object](/PlayerResources/Equipment/Weapons/MagicalObject/) | Light | Main Hand / Off Hand | 1 | 0 |
+| [Dagger]({{site.baseurl}}/PlayerResources/Equipment/Weapons/Dagger/) | Light | Main Hand / Off Hand | 1 | 0 |
+| [Magical Object]({{site.baseurl}}/PlayerResources/Equipment/Weapons/MagicalObject/) | Light | Main Hand / Off Hand | 1 | 0 |

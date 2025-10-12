@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /PlayerResources/Equipment/Armor/List
+permalink: /PlayerResources/Equipment/Armor/List/
 ---
 
 | Category   | Slot  | Item Name                                                                 | Durability | Speed Mod |
