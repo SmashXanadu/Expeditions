@@ -98,7 +98,7 @@ Choose one of these pre-made equipment sets to start the game with.
 
 - **Inventory**: 2 Gold, Journal, Books, Magic Scrolls, Specimen Containers
 - **Equipment**: [Cloth Robes]({{site.baseurl}}/PlayerResources/Equipment/Armor/ClothRobes/), [Leather Boots]({{site.baseurl}}/PlayerResources/Equipment/Armor/LeatherBoots/)
-- **Weapon**: [Staff]({{site.baseurl}}/PlayerResources/Equipment/Weapons/Staff/) or [Dagger]({{site.baseurl}}/PlayerResources/Equipment/Weapons/Dagger/) and [Magical Object]({{site.baseurl}}/PlayerResources/Equipment/Inventory/MagicalObject/)
+- **Weapon**: [Staff]({{site.baseurl}}/PlayerResources/Equipment/Weapons/Staff/) or [Dagger]({{site.baseurl}}/PlayerResources/Equipment/Weapons/Dagger/) and [Magical Object]({{site.baseurl}}/PlayerResources/Equipment/Weapons/MagicalObject/)
 
 ---
 
@@ -114,7 +114,7 @@ Choose one of these pre-made equipment sets to start the game with.
 
 - **Inventory**: 2 Gold
 - **Equipment**: [Chain Coif]({{site.baseurl}}/PlayerResources/Equipment/Armor/ChainCoif/), [Steel Breast Plate]({{site.baseurl}}/PlayerResources/Equipment/Armor/SteelBreastPlate/), [Steel Boots]({{site.baseurl}}/PlayerResources/Equipment/Armor/SteelBoots/), [Chainmail Leggings]({{site.baseurl}}/PlayerResources/Equipment/Armor/ChainmailLeggings/), and [Steel Gauntlets]({{site.baseurl}}/PlayerResources/Equipment/Armor/SteelGauntlets/)
-- **Weapon**: [Long sword]({{site.baseurl}}/PlayerResources/Equipment/Weapons/LongSword/), [Mace]({{site.baseurl}}/PlayerResources/Equipment/Weapons/Mace/), [Battle Axe]({{site.baseurl}}/PlayerResources/Equipment/Weapons/BattleAxe/), **or** [Spear]({{site.baseurl}}/PlayerResources/Equipment/Weapons/Spear/) & [Iron Shield]({{site.baseurl}}/PlayerResources/Equipment/Armor/IronShield/)
+- **Weapon**: [Long Sword]({{site.baseurl}}/PlayerResources/Equipment/Weapons/LongSword/), [Mace]({{site.baseurl}}/PlayerResources/Equipment/Weapons/Mace/), [Battle Axe]({{site.baseurl}}/PlayerResources/Equipment/Weapons/BattleAxe/), **or** [Spear]({{site.baseurl}}/PlayerResources/Equipment/Weapons/Spear/) & [Iron Shield]({{site.baseurl}}/PlayerResources/Equipment/Weapons/IronShield/)
 
 ---
 

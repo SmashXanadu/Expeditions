@@ -16,7 +16,9 @@ public class Program
         //string sourceFolder = Path.Combine(solutionRoot, "Expeditions", "System Rules", "Rules");
         //string sourceFolder = Path.Combine(solutionRoot, "Expeditions", "Guide Resources", "Premade Adventures");
         //string sourceFolder = Path.Combine(solutionRoot, "Expeditions", "Guide Resources", "Adversaries");
-        string sourceFolder = Path.Combine(solutionRoot, "Expeditions", "Player Resources", "Equipment", "Sets");
+        //string sourceFolder = Path.Combine(solutionRoot, "Expeditions", "Player Resources", "Equipment", "Sets");
+        //string sourceFolder = Path.Combine(solutionRoot, "Expeditions", "Player Resources", "Equipment", "Weapons");
+        string sourceFolder = Path.Combine(solutionRoot, "Expeditions", "Player Resources", "Equipment", "Armor");
 
         string tempInputFolder = Path.Combine(@"C:\\Users\\willi\\AppData\\Local\\Pandoc\\Temp", Path.GetRandomFileName());
         string inputFolder = tempInputFolder;

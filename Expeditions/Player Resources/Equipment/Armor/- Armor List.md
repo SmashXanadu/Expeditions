@@ -25,11 +25,3 @@ permalink: /PlayerResources/Equipment/Armor/List/
 | **Heavy**  | Hands | [Steel Gauntlets]({{site.baseurl}}/PlayerResources/Equipment/Armor/SteelGauntlets/)       | 2          | -2        |
 | **Heavy**  | Legs  | [Steel Greaves]({{site.baseurl}}/PlayerResources/Equipment/Armor/SteelGreaves/)           | 2          | -2        |
 | **Heavy**  | Feet  | [Steel Boots]({{site.baseurl}}/PlayerResources/Equipment/Armor/SteelBoots/)               | 2          | -2        |
-
-**Name**: 
-**Type**: Light / Medium / Heavy
-**Slot**: Main Hand / Off Hand / Head / Chest / Hands / Legs / Feet
-**Maximum Durability**: 1 to 5
-**Speed Modifier**: -3 to +3
-**Description**:
-**Additional Effects**: 

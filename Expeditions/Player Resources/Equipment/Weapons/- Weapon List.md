@@ -29,11 +29,3 @@ permalink: /PlayerResources/Equipment/Weapons/List/
 | **Heavy**  | [Crossbow]({{site.baseurl}}/PlayerResources/Equipment/Weapons/Crossbow/)                      | 3          | -3        |
 | **Heavy**  | [Long Bow]({{site.baseurl}}/PlayerResources/Equipment/Weapons/LongBow/)                       | 3          | -3        |
 | **Heavy**  | [Iron Shield]({{site.baseurl}}/PlayerResources/Equipment/Weapons/IronShield/)                 | 3          | -4        |
-
-**Name**: 
-**Type**: Light / Medium / Heavy
-**Slot**: Main Hand / Off Hand / Head / Chest / Hands / Legs / Feet
-**Maximum Durability**: 1 to 5
-**Speed Modifier**: -3 to +3
-**Description**:
-**Additional Effects**: 
