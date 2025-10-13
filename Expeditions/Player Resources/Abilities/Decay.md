@@ -13,14 +13,14 @@ permalink: /PlayerResources/Abilities/Decay/
 | |
 | Make a Magic attack against an enemy in Close range. On a successful hit, they have -5 Attack and -5 Defense until the start of your next turn. |
 
-|                                                                                                                                                            |
-| :--------------------------------------------------------------------------------------------------------- |
-| **Acid Spray** |
-| *Unleash a spray of corrosive acid, burning flesh and dissolving defenses.* |
-| |
-| **Type**: Magic \| **Node**: Decay \| **Charges**: 2 |
-| |
-| **Expend a Charge** make a Magic attack against all enemies within Close range. On Success, they take damage and they have -5 Defense and -5 Resist until the start of your next turn. |
+|                                                                                                                                                                                           |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Acid Spray**                                                                                                                                                                            |
+| *Unleash a spray of corrosive acid, burning flesh and dissolving defenses.*                                                                                                               |
+|                                                                                                                                                                                           |
+| **Type**: Magic \| **Node**: Decay \| **Charges**: 2                                                                                                                                      |
+|                                                                                                                                                                                           |
+| **Expend a Charge** to make a Magic attack against all enemies within Close range. On Success, they take damage and they have -5 Defense and -5 Resist until the start of your next turn. |
 
 |                                                                                                                                                            |
 | :--------------------------------------------------------------------------------------------------------- |

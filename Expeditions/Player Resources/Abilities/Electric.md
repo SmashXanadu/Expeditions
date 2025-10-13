@@ -4,13 +4,13 @@ permalink: /PlayerResources/Abilities/Electric/
 ---
 ## [Electric](#Electric)
 
-|                                                                                                                                                            |
-| :--------------------------------------------------------------------------------------------------------- |
-| **Shock** |
-| *You channel raw electrical energy into a bolt, designed to short-circuit the enemy's nervous system.* |
-| |
-| **Type**: Magic \| **Node**: Electric \| **Charges**: 2 |
-| |
+|                                                                                                                                                                                                                    |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Shock**                                                                                                                                                                                                          |
+| *You can channel raw electrical energy into a bolt, designed to short-circuit the enemy's nervous system.*                                                                                                         |
+|                                                                                                                                                                                                                    |
+| **Type**: Magic \| **Node**: Electric \| **Charges**: 2                                                                                                                                                            |
+|                                                                                                                                                                                                                    |
 | Unleash a bolt of electricity to shock and stun your enemies.<br>Make a Magic attack against an enemy in Near range. On success, the target takes 1 damage and is unable to act until the start of your next turn. |
 
 |                                                                                                                                                            |
@@ -22,14 +22,14 @@ permalink: /PlayerResources/Abilities/Electric/
 | |
 | Electrify your body, becoming a living conductor of electricity until the end of this combat or after 10 minutes. You are immune to electricity damage. While electrified, you deal 1 additional lightning damage with your weapon attacks. |
 
-|                                                                                                                                                            |
-| :--------------------------------------------------------------------------------------------------------- |
-| **Overload** |
-| *You manipulate the target's internal energies, causing a system failure in foes or granting a surge of power to allies.* |
-| |
-| **Type**: Magic \| **Node**: Electric \| **Charges**: 3 |
-| |
-| You have the ability to supercharge your target, beneficially or to overload their system.<br>Do one of the following:<br>1. Make a Magic attack against an enemy in Near range. On a successful hit, they have -10 Resistance until your next turn.<br>2. Supercharge an ally, giving them Advantage and +1 damage on their next attack. |
+|                                                                                                                                                                                                                                                                                                                                         |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Overload**                                                                                                                                                                                                                                                                                                                            |
+| *You manipulate the target's internal energies, causing a system failure in foes or granting a surge of power to allies.*                                                                                                                                                                                                               |
+|                                                                                                                                                                                                                                                                                                                                         |
+| **Type**: Magic \| **Node**: Electric \| **Charges**: 2                                                                                                                                                                                                                                                                                 |
+|                                                                                                                                                                                                                                                                                                                                         |
+| You have the ability to supercharge your target, beneficially or to overload their system.<br>Do one of the following: 1. Make a Magic attack against an enemy in Near range. On a successful hit, they have -10 Resistance until your next turn. **2.** Supercharge an ally, giving them Advantage and +1 damage on their next attack. |
 
 |                                                                                                                                                            |
 | :--------------------------------------------------------------------------------------------------------- |

@@ -4,23 +4,23 @@ permalink: /PlayerResources/Abilities/Fire/
 ---
 ## [Fire](#Fire)
 
-|                                                                                                                                                                                                                                                                             |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Living Flame**                                                                                                                                                                                                                                                            |
-| *Your body becomes a sheath of flickering, non-consuming fire, turning you into a fiery shield.*                                                                                                                                                                            |
-|                                                                                                                                                                                                                                                                             |
-| **Type**: Magic \| **Node**: Fire \| **Charges**: 1/round                                                                                                                                                                                                                   |
-|                                                                                                                                                                                                                                                                             |
-| Instantly sheathe yourself in **flames**. You are **immune** to non-magical fire damage. Any creature attacking you takes **1 damage** in return. The effect lasts until your next turn and can be extended each subsequent turn by spending 1 charge (no action required). |
+|                                                                                                                                                                                                                                                                         |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Living Flame**                                                                                                                                                                                                                                                        |
+| *Your body becomes a sheath of flickering, non-consuming fire, turning you into a fiery shield.*                                                                                                                                                                        |
+|                                                                                                                                                                                                                                                                         |
+| **Type**: Magic \| **Node**: Fire \| **Charges**: 1/round                                                                                                                                                                                                               |
+|                                                                                                                                                                                                                                                                         |
+| Instantly sheathe yourself in flames. You are **immune** to non-magical fire damage. Any creature attacking you takes **1 damage** in return. The effect lasts until your next turn and can be extended each subsequent turn by spending 1 charge (no action required). |
 
-|                                                                                                                                                            |
-| :--------------------------------------------------------------------------------------------------------- |
-| **Ignite** |
-| *With a glance or a pointed finger, you cause combustible materials—or unfortunate foes—to spontaneously combust.* |
-| |
-| **Type**: Magic \| **Node**: Fire \| **Charges**: N/A |
-| |
-| Effortlessly start a fire or ignite something at near range. / Attack an enemy with a Magic attack. On success, they are burning and take 1 damage at the start of each of their turns until the fire is extinguished. |
+|                                                                                                                                                                                                                      |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Ignite**                                                                                                                                                                                                           |
+| *With a glance or a pointed finger, you cause combustible materials—or unfortunate foes—to spontaneously combust.*                                                                                                   |
+|                                                                                                                                                                                                                      |
+| **Type**: Magic \| **Node**: Fire \| **Charges**: N/A                                                                                                                                                                |
+|                                                                                                                                                                                                                      |
+| Effortlessly start a fire or ignite something at near range. Attack an enemy with a Magic attack. On success, they are burning and take 1 damage at the start of each of their turns until the fire is extinguished. |
 
 |                                                                                                                                                            |
 | :--------------------------------------------------------------------------------------------------------- |

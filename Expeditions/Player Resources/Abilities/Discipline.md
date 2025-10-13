@@ -4,23 +4,23 @@ permalink: /PlayerResources/Abilities/Discipline/
 ---
 ## [Discipline](#Discipline)
 
-|                                                                                                                                                            |
-| :--------------------------------------------------------------------------------------------------------- |
-| **Disengage** |
+|                                                                                         |
+| :-------------------------------------------------------------------------------------- |
+| **Disengage**                                                                           |
 | *You utilize precise footwork and calculated movements to escape dangerous situations.* |
-| |
-| **Type**: Attack \| **Node**: Discipline \| **Charges**: 3 |
-| |
-| Make an attack, then move up to 2 zones away. |
+|                                                                                         |
+| **Type**: Attack \| **Node**: Discipline \| **Charges**: 2                              |
+|                                                                                         |
+| Make an attack, then move up to 2 zones away.                                           |
 
-|                                                                                                                                                            |
-| :--------------------------------------------------------------------------------------------------------- |
-| **Unerring Focus** |
-| *Once per turn reroll a critical fail on an attack roll.* |
-| |
+|                                                              |
+| :----------------------------------------------------------- |
+| **Unerring Focus**                                           |
+| *You can turn a wild miss into a carefully adjusted attack.* |
+|                                                              |
 | **Type**: Attack \| **Node**: Discipline \| **Charges**: N/A |
-| |
-| Once per turn reroll a critical fail on an attack roll. |
+|                                                              |
+| Once per turn reroll a critical fail on an attack roll.      |
 
 |                                                                                                                                                            |
 | :--------------------------------------------------------------------------------------------------------- |
@@ -31,11 +31,11 @@ permalink: /PlayerResources/Abilities/Discipline/
 | |
 | After successfully Evading a ranged attack, deflect the projectile back to the attacker, dealing damage to them instead. |
 
-|                                                                                                                                                            |
-| :--------------------------------------------------------------------------------------------------------- |
-| **Mental Fortitude** |
+|                                                                                                                                                                            |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Mental Fortitude**                                                                                                                                                       |
 | *Through rigorous mental training, you've developed a powerful resistance to magical and psychic assaults. Enemies are unable to read your thoughts or control your mind.* |
-| |
-| **Type**: Attack \| **Node**: Discipline \| **Charges**: 2 |
-| |
-| Gain Advantage on all Resist rolls until the start of your next turn.still attack this turn. |
+|                                                                                                                                                                            |
+| **Type**: Attack \| **Node**: Discipline \| **Charges**: 2                                                                                                                 |
+|                                                                                                                                                                            |
+| Gain Advantage on all Resist rolls until the start of your next turn. Does not use your action.<br>Enemies are unable to read your thoughts or control your mind.          |

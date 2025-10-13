@@ -4,14 +4,14 @@ permalink: /PlayerResources/Abilities/DualWield/
 ---
 ## [Dual Wield](#Dual-Wield)
 
-|                                                                                                                                                            |
-| :--------------------------------------------------------------------------------------------------------- |
-| **Parry** |
+|                                                                                                 |
+| :---------------------------------------------------------------------------------------------- |
+| **Parry**                                                                                       |
 | *With weapons in both hands, you can turn an enemy's strike into a momentary defensive window.* |
-| |
-| **Type**: Attack \| **Node**: Dual Wield \| **Charges**: 4 |
-| |
-| When being attacked by a melee weapon, gain Advantage on the Evade roll. |
+|                                                                                                 |
+| **Type**: Attack \| **Node**: Dual Wield \| **Charges**: 3                                      |
+|                                                                                                 |
+| When being attacked by a melee weapon, gain Advantage on the Evade roll.                        |
 
 |                                                                                                                                                            |
 | :--------------------------------------------------------------------------------------------------------- |
@@ -22,13 +22,13 @@ permalink: /PlayerResources/Abilities/DualWield/
 | |
 | Attack twice with each equipped weapon. |
 
-|                                                                                                                                                            |
-| :--------------------------------------------------------------------------------------------------------- |
-| **Strafing Strikes** |
-| *You dart between enemies, trading blows with one before seamlessly pivoting to strike another.* |
-| |
-| **Type**: Attack \| **Node**: Dual Wield \| **Charges**: 5 |
-| |
+|                                                                                                                   |
+| :---------------------------------------------------------------------------------------------------------------- |
+| **Strafing Strikes**                                                                                              |
+| *You dart between enemies, trading blows with one before seamlessly pivoting to strike another.*                  |
+|                                                                                                                   |
+| **Type**: Attack \| **Node**: Dual Wield \| **Charges**: 3                                                        |
+|                                                                                                                   |
 | Make an Attack against an enemy in your zone, move to an adjacent zone, and make an Attack against another enemy. |
 
 |                                                                                                                                                            |
