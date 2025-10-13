@@ -31,6 +31,8 @@ permalink: /PlayerResources/Abilities/Radiance/
 | |
 | You conjure a beam of searing light, burning your enemies with radiant energy.<br>Make a Magic attack against an enemy in Near range. On a successful hit, they take 1 radiant damage and all allies have Advantage on attacks against them until your next turn. |
 
+\newpage
+
 |                                                                                                                                                            |
 | :--------------------------------------------------------------------------------------------------------- |
 | **Holy Ground** |

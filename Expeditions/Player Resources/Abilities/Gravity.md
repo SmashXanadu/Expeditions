@@ -31,6 +31,8 @@ permalink: /PlayerResources/Abilities/Gravity/
 | |
 | You can manipulate gravity to create a connection between two objects, pulling them together or holding them apart. Do one of the following:<br>1. Make a Magic attack against an enemy in Near range. On success, they take a damage and are pulled towards you.<br>2. Create a tether between two objects in Near range, preventing them from moving away from each other. |
 
+\newpage
+
 |                                                                                                                                                            |
 | :--------------------------------------------------------------------------------------------------------- |
 | **Disintegration Beam** |

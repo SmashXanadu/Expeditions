@@ -22,6 +22,8 @@ permalink: /PlayerResources/Abilities/Fire/
 | |
 | Effortlessly start a fire or ignite something at near range. / Attack an enemy with a Magic attack. On success, they are burning and take 1 damage at the start of each of their turns until the fire is extinguished. |
 
+\newpage
+
 |                                                                                                                                                            |
 | :--------------------------------------------------------------------------------------------------------- |
 | **Wall of Fire** |

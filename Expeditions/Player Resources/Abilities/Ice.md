@@ -31,6 +31,8 @@ permalink: /PlayerResources/Abilities/Ice/
 | |
 | Encase a target in solid ice, rendering them immobile and vulnerable.<br>Make a Magic attack against an enemy in Near range. On success, they are unable to act and take 1 cold damage at the start of each of their turns. You must continue to spend a charge each turn to maintain this effect, but maintaining it does not take an action. |
 
+\newpage
+
 |                                                                                                                                                            |
 | :--------------------------------------------------------------------------------------------------------- |
 | **Shatter** |

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Expeditions/Player Resources/Equipment/Armor/Chainmail Leggings.md",
+                "file": "Expeditions/Player Resources/Abilities/Shapeshifting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chainmail Leggings"
+              "title": "Shapeshifting"
             }
           }
         ],
@@ -182,12 +182,17 @@
   },
   "active": "3d8e8473b1585169",
   "lastOpenFiles": [
+    "Expeditions/Player Resources/Abilities/Radiance.md",
+    "Expeditions/Player Resources/Abilities/Ice.md",
+    "Expeditions/Player Resources/Abilities/Gravity.md",
+    "Expeditions/Player Resources/Abilities/Fire.md",
+    "Expeditions/System Rules/Rules/07 - Character Creation.md",
+    "Expeditions/Player Resources/Equipment/Armor/Chainmail Leggings.md",
     "Expeditions/Player Resources/Equipment/Armor/Chain Coif.md",
     "Tools/o1dl0blx.bbk~",
     "Tools/2mh1aivg.xxc~",
     "Expeditions/Player Resources/Equipment/Weapons/Battle Axe.md",
     "Expeditions/Player Resources/Equipment/Weapons/Club.md",
-    "Expeditions/System Rules/Rules/07 - Character Creation.md",
     "Expeditions/Player Resources/Equipment/Armor/Steel Helmet.md",
     "Expeditions/Player Resources/Equipment/Armor/Steel Greaves.md",
     "Expeditions/Player Resources/Equipment/Armor/Steel Gauntlets.md",
@@ -205,10 +210,6 @@
     "Expeditions/Player Resources/Equipment/Armor/Cloth Pants.md",
     "Expeditions/Player Resources/Equipment/Armor/Cloth Gloves.md",
     "Expeditions/Player Resources/Equipment/Armor/Cloth Cap.md",
-    "Expeditions/Player Resources/Equipment/Armor/Chainmail Shirt.md",
-    "Expeditions/Player Resources/Equipment/Armor/Chainmail Leggings.md",
-    "Expeditions/Player Resources/Equipment/Armor/- Armor List.md",
-    "Expeditions/Player Resources/Equipment/Weapons/- Weapon List.md",
     "{{site.baseurl}}/PlayerResources/Equipment/Armor",
     "{{site.baseurl}}/PlayerResources/Equipment",
     "{{site.baseurl}}/PlayerResources",

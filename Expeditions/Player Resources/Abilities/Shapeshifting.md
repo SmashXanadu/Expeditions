@@ -37,6 +37,8 @@ When in any shapeshifted form...
 | |
 | Effortlessly transform into an **aquatic** animal that is roughly your size or smaller.<br>While underwater in this form, you may breath normally and move twice your normal distance.<br>While in Aquatic Form, you may expend a charge to make a melee attack with +1, move an extra zone this turn, and gain +1 Evade until your next turn. If you run out of Charges, you revert to your normal form and no longer transform into this form. |
 
+\newpage
+
 |                                                                                                                                                            |
 | :--------------------------------------------------------------------------------------------------------- |
 | **Impersonate** |
