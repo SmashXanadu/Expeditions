@@ -13,14 +13,14 @@ permalink: /PlayerResources/Abilities/1HandedWeapons/
 |                                                                                                            |
 | After Evading an enemy attack, make an attack roll with an equipped 1 Handed Weapon against your attacker. |
 
-|                                                                                               |
-| :-------------------------------------------------------------------------------------------- |
-| **Feint**                                                                                     |
-| *You are able to effortlessly turn a missed attack into an opportunity.*                      |
-|                                                                                               |
-| **Type**: Attack   \|   **Node**: 1 Handed Weapons   \|   **Charges**: 3                      |
-|                                                                                               |
-| After missing a melee attack with a 1 Handed Weapon Gain advantage on your next attack.  <br> |
+|                                                                                                |
+| :--------------------------------------------------------------------------------------------- |
+| **Feint**                                                                                      |
+| *You are able to effortlessly turn a missed attack into an opportunity.*                       |
+|                                                                                                |
+| **Type**: Attack   \|   **Node**: 1 Handed Weapons   \|   **Charges**: 3                       |
+|                                                                                                |
+| After missing a melee attack with a 1 Handed Weapon, gain advantage on your next attack.  <br> |
 
 |                                                                          |
 | :----------------------------------------------------------------------- |

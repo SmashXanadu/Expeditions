@@ -13,14 +13,14 @@ permalink: /PlayerResources/Abilities/Radiance/
 | |
 | Create a sudden burst of light to disorient or illuminate.<br>Make a Magic attack against all enemies in your zone. On success, they are blinded until the start of your next turn. They have -5 to their Attack and Defense. |
 
-|                                                                                                                                                            |
-| :--------------------------------------------------------------------------------------------------------- |
-| **Radiate** |
-| *A warm, luminous energy pulses outward from you, driving back shadows while granting strength and focus to your allies.* |
-| |
-| **Type**: Magic \| **Node**: Radiance \| **Charges**: 3 |
-| |
-| You emanate a powerful aura of warm radiant energy, bolstering your allies and weakening your enemies.<br>All allies in your zone gain +2 to all attack rolls until the start of your next turn. All enemies within Near range have -2 to all Evade rolls until the start of your next turn. |
+|                                                                                                                                                                                                                                                                                      |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Radiate**                                                                                                                                                                                                                                                                          |
+| *A warm, luminous energy pulses outward from you, driving back shadows while granting strength and focus to your allies.*                                                                                                                                                            |
+|                                                                                                                                                                                                                                                                                      |
+| **Type**: Magic \| **Node**: Radiance \| **Charges**: 3                                                                                                                                                                                                                              |
+|                                                                                                                                                                                                                                                                                      |
+| Emanate a powerful aura of warm radiant energy, bolstering allies and weakening enemies. All **allies in your zone** gain **+2** to all **attack rolls**. All **enemies within Near range** have **-2** to all **Evade rolls**. This effect lasts until the start of your next turn. |
 
 |                                                                                                                                                            |
 | :--------------------------------------------------------------------------------------------------------- |
@@ -33,11 +33,11 @@ permalink: /PlayerResources/Abilities/Radiance/
 
 \newpage
 
-|                                                                                                                                                            |
-| :--------------------------------------------------------------------------------------------------------- |
-| **Holy Ground** |
-| *You bless an area, infusing the earth with divine energy that heals your friends and scourges the unnatural foe.* |
-| |
-| **Type**: Magic \| **Node**: Radiance \| **Charges**: 2 |
-| |
-| You consecrate an area with divine energy, warding off evil and healing allies.<br>Choose a Near zone. Allies within that zone regain 1 hit point at the start of each of their turns, and enemies with the "Undead" tag take 1 radiant damage at the start of each of their turns. Maintaining this effect consumes 1 charge per round. |
+|                                                                                                                                                                                                                                                                                                                                                                                                  |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Holy Ground**                                                                                                                                                                                                                                                                                                                                                                                  |
+| *You bless an area, infusing the earth with divine energy that heals your friends and scourges the unnatural foe.*                                                                                                                                                                                                                                                                               |
+|                                                                                                                                                                                                                                                                                                                                                                                                  |
+| **Type**: Magic \| **Node**: Radiance \| **Charges**: 2                                                                                                                                                                                                                                                                                                                                          |
+|                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Consecrate an area with divine energy, warding off evil and healing allies. Target a **Near zone**. **Allies** within the zone regain **1 hit point** at the start of each of their turns. **Undead** enemies within the zone take **1 radiant damage** at the start of each of their turns. **Sustained:** Maintain this effect by spending **1 charge** at the start of each subsequent round. |
