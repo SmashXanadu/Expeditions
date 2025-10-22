@@ -2,14 +2,7 @@
 layout: default
 permalink: /GuideResources/Adventures/QuickStart/
 ---
-
-## Pre-Session Prep
-- Ensure all players have created a character or be ready to provide premade character sheets
-- (Optional) Gather tokens or minis to represent the players and monsters and any fun terrain
-- Print below Expedition Materials
-
-\newpage
-
+[Preparing for a Playtest]({{site.baseurl}}/Playtest/Prepare/)
 # Expedition: Into the Maw
 ![The Maw - Dyson Logos](https://dysonlogos.blog/wp-content/uploads/2023/02/with-teeth.jpg)
 
