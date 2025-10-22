@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Expeditions/System Rules/Rules/01 - About Expeditions.md",
+                "file": "Expeditions/Guide Resources/Premade Adventures/Quick Start - Uncharted Waters 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 - About Expeditions"
-            }
-          },
-          {
-            "id": "3d8e8473b1585169",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Expeditions/Player Resources/General Skills/Magic.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Magic"
+              "title": "Quick Start - Uncharted Waters 2"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,44 +165,44 @@
       "print:Print note": false
     }
   },
-  "active": "3d8e8473b1585169",
+  "active": "bc9ca8ad33a66626",
   "lastOpenFiles": [
+    "Expeditions/System Rules/Rules/01 - About Expeditions.md",
+    "Expeditions/Guide Resources/Premade Adventures/Open Table Campaigns/Keepers of the Keys.md",
+    "Expeditions/Guide Resources/Premade Adventures/Open Table Campaigns/Cloudskippers.md",
+    "Expeditions/Guide Resources/Premade Adventures/Open Table Campaigns/The Shatterlands.md",
+    "Expeditions/Guide Resources/Premade Adventures/Open Table Campaigns/Uncharted Waters.md",
+    "Expeditions/Guide Resources/Premade Adventures/Quick Start - Uncharted Waters 2.md",
+    "Tools/pukdgtps.snp~",
+    "Expeditions/Guide Resources/Premade Adventures/- Quick Start - Uncharted Waters 1.md",
+    "Expeditions/Guide Resources/Premade Adventures/- Quick Start - Shatterlands.md",
+    "Expeditions/Guide Resources/Premade Adventures/- Quick Start - Cloudskippers.md",
+    "Expeditions/Guide Resources/Premade Adventures/- Quick Start.md",
+    "Expeditions/Guide Resources/Premade Adventures/Open Table Campaigns/Ideas.md",
+    "Expeditions/Player Resources/General Skills/Magic.md",
     "Expeditions/Player Resources/General Skills/Attack.md",
     "Expeditions/Player Resources/General Skills/Explorer.md",
-    "Expeditions/Player Resources/General Skills/Magic.md",
     "Expeditions/Playtest/Premade Characters/Cam.md",
     "Tools/2wnlaubk.xq5~",
     "Expeditions/Playtest/Premade Characters/Sira.md",
     "Tools/yxucdtjy.11f~",
     "Expeditions/Playtest/Premade Characters/Gibbs.md",
     "Expeditions/System Rules/Rules/Rules Summary.md",
-    "Expeditions/Guide Resources/Premade Adventures/Quick Start - Shatterlands.md",
-    "Expeditions/Guide Resources/Premade Adventures/Quick Start - Cloudskippers.md",
-    "Expeditions/Guide Resources/Premade Adventures/Quick Start - Uncharted Waters.md",
     "Expeditions/System Rules/Rules/07 - Character Creation.md",
     "Expeditions/System Rules/Rules/08 - Hero Grid.md",
     "Expeditions/System Rules/Rules/Rules Index.md",
     "Tools/wexl12tp.wsi~",
     "Expeditions/Playtest/Preparing for a Playtest.md",
-    "Expeditions/Guide Resources/Premade Adventures/Quick Start.md",
     "Expeditions/Playtest/Index.md",
     "Expeditions/Playtest/Premade Characters/Finrik.md",
     "Expeditions/Playtest/Premade Characters/Brigg.md",
     "Expeditions/Playtest/Premade Characters/1 Preparing Your Premade Character.md",
-    "Expeditions/Playtest/Untitled.md",
-    "Expeditions/Playtest/Premade Characters/- Template.md",
-    "Expeditions/Player Resources/Equipment/Armor/- Armor List.md",
-    "Expeditions/Player Resources/Equipment/Weapons/- Weapon List.md",
-    "Expeditions/Player Resources/Equipment/Equipment Sets/- Sets List.md",
-    "Expeditions/System Rules/Rules/12 - Trade Skills.md",
-    "Expeditions/Player Resources/Abilities/Illusion.md",
     "Tools/difiv0uv.zcb~",
     "Tools/o1dl0blx.bbk~",
     "Tools/2mh1aivg.xxc~",
     "{{site.baseurl}}/PlayerResources/Equipment/Armor",
     "{{site.baseurl}}/PlayerResources/Equipment",
     "{{site.baseurl}}/PlayerResources",
-    "{{site.baseurl}}",
     "images/PlayerCharacters2.png",
     "images/PlayerCharacters3.png",
     "images/PlayerCharacters1.png",
