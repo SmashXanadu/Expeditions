@@ -4,8 +4,7 @@ title: Premade - Template
 permalink: /Playtest/Template/
 ---
 # Character Name
-Longer description of character.
-## About
+
 - **Background:** 
 - **Quirk:** 
 - **Motivation:** 

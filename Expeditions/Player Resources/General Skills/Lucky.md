@@ -17,6 +17,6 @@ Somehow things always seem to work out for you.
   
 - [ ] **Serendipitous Discovery:** You have a knack for accidentally stumbling upon difficult to find items and passages. You gain Advantage on checks made to find hidden items and secret passages.
   
-- [ ] **TBD:** tbd
+- [ ] **TBD:** You are able to find gold / treasure more often
   
-- [ ] **TBD:** tbd
+- [ ] **TBD:** What a coincidence. You are more likely to stumble upon or find what you are looking for

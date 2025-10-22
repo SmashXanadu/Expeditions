@@ -1,48 +1,35 @@
 ---
 layout: default
-title: Premade - Brigg
 permalink: /Playtest/Brigg/
 ---
 # Brigg
-## About
-Brigg, a hulking blacksmith turned warrior, carries the weight of his abandoned forge and a deep-seated guilt for failing to protect his village. His large frame and booming voice, though often used to intimidate, mask a surprising gentleness and a persistent habit of polishing anything metallic he can get his hands on. Driven by a desire for redemption and to ensure no one suffers as his people did, he wields his massive battle axe with brutal efficiency, cleaving through foes with wide, sweeping arcs.
 
-- **Background:** 
-- **Quirk:** 
-- **Motivation:** 
+- **Background:** Brigg is a former blacksmith whose forge was abandoned after he failed to defend his village from a disaster, leaving him with profound guilt.
+- **Quirk:** He possesses a surprising gentleness beneath his intimidating size and has a persistent, almost unconscious habit of polishing any metallic object he touches.
+- **Motivation:** Brigg is driven by an intense desire for **redemption** and a solemn vow to use his strength to protect others, ensuring no one else endures the loss and suffering his people did.
+- **Health**: 2, **Size**: Large, **Gold**: 2, **Speed**: 11
 
-## Statistics
-- **Health:** 2
-- **Size:** Large
-- **Speed:** 11
+| **Hero Skills** | **General & Trade Skills** |
+| :--- | :--- |
+| **[Attack]({{site.baseurl}}/PlayerResources/Skills/Attack/#Attack)**: 6 Exp (+2) | **[Strong]({{site.baseurl}}/PlayerResources/Skills/Strong/#Strong)**: 12 Exp (+3) |
+| **[Magic]({{site.baseurl}}/PlayerResources/Skills/Magic/#Magic)**: 0 Exp (+0) | **[Tough]({{site.baseurl}}/PlayerResources/Skills/Tough/#Tough)**: 6 Exp (+2) |
+| | **[Intimidating]({{site.baseurl}}/PlayerResources/Skills/Intimidating/#Intimidating)**: 6 Exp (+2) |
+| | **[Evade]({{site.baseurl}}/PlayerResources/Skills/Evade/#Evade)**: 6 Exp (+2) |
+| | **[Resist]({{site.baseurl}}/PlayerResources/Skills/Resist/#Resist)**: 2 Exp (+1) |
+| | **[Observant]({{site.baseurl}}/PlayerResources/Skills/Observant/#Observant)**: 2 Exp (+1) |
+| | **[Charismatic]({{site.baseurl}}/PlayerResources/Skills/Charismatic/#Charismatic)**: 2 Exp (+1) |
+| | **[Blacksmithing]({{site.baseurl}}/PlayerResources/Skills/Blacksmith/#Blacksmith)**: 6 Exp (+2) |
 
-## Skills
-- **Core**
-    - **[Attack]({{site.baseurl}}/PlayerResources/Skills/Attack/#Attack)**: +2
-    - **[Magic]({{site.baseurl}}/PlayerResources/Skills/Magic/#Magic)**: +0
-    - **[Evade]({{site.baseurl}}/PlayerResources/Skills/Evade/#Evade)**: +2
-    - **[Resist]({{site.baseurl}}/PlayerResources/Skills/Resist/#Resist)**: +1
-- **General**:
-    - **[Strong]({{site.baseurl}}/PlayerResources/Skills/Strong/#Strong)**: +3
-    - **[Tough]({{site.baseurl}}/PlayerResources/Skills/Tough/#Tough)**: +2
-    - **[Intimidating]({{site.baseurl}}/PlayerResources/Skills/Intimidating/#Intimidating)**: +2
-    - **[Observant]({{site.baseurl}}/PlayerResources/Skills/Observant/#Observant)**: +1
-    - **[Charismatic]({{site.baseurl}}/PlayerResources/Skills/Charismatic/#Charismatic)**: +1
-- **Trade Skill**:
-    - **[Blacksmithing]({{site.baseurl}}/PlayerResources/Skills/Blacksmith/#Blacksmith)**: +2
-    
-## Abilities
-- **[2 Handed Weapons]({{site.baseurl}}/PlayerResources/Abilities/2HandedWeapons/#2-Handed-Weapons)**
+| **Equipment Slot** | **Item**                                                                                                           | **Inventory** |
+| :----------------- | :----------------------------------------------------------------------------------------------------------------- | :------------ |
+| **Main Hand:**     | [Battle Axe]({{site.baseurl}}/PlayerResources/Equipment/Weapons/BattleAxe/) (3 Durability, -3 Speed)               |               |
+| **Off Hand:**      | -                                                                                                                  |               |
+| **Head:**          | -                                                                                                                  |               |
+| **Chest:**         | [Chainmail Shirt]({{site.baseurl}}/PlayerResources/Equipment/Armor/ChainmailShirt/) (3 Durability, -2 Speed)       |               |
+| **Hands:**         | -                                                                                                                  |               |
+| **Legs:**          | [Chainmail Leggings]({{site.baseurl}}/PlayerResources/Equipment/Armor/ChainmailLeggings/) (2 Durability, -2 Speed) |               |
+| **Feet:**          | [Steel Boots]({{site.baseurl}}/PlayerResources/Equipment/Armor/Steel Boots/) (2 Durability, -2 Speed)              |               |
 
-## Equipment
-- **Main Hand**: 2 Hand Battle Axe (2)
-- **Off Hand**:
-- **Head**:
-- **Chest**: Chain Tunic (2)
-- **Hands**:
-- **Legs**: Chain Mail Leggings (2)
-- **Feet**: Rusty Iron Boots (2)
+**Abilities:** **[2 Handed Weapons]({{site.baseurl}}/PlayerResources/Abilities/2HandedWeapons/#2-Handed-Weapons)**, and **Choose One** Adjacent [Node](https://raw.githubusercontent.com/SmashXanadu/Expeditions/refs/heads/main/images/HeroGridSheet.png)
 
-## Inventory (10)
-**Gold**: 2
-
+*Need help? See [Preparing Your Premade Character]({{site.baseurl}}/Playtest/Prepare/)*
