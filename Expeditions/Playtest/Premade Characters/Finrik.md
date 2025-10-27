@@ -20,16 +20,16 @@ permalink: /Playtest/Finrik/
 |                                                                               | **[Tough]({{site.baseurl}}/PlayerResources/Skills/Tough/#Tough)**: 2 Exp (+1)                           |
 |                                                                               | **[Animal Handler]({{site.baseurl}}/PlayerResources/Skills/AnimalHandler/#Animal-Handler)**: 6 Exp (+2) |
 
-| **Equipment Slot** | **Item**                                                                                                   | **Inventory**        |
-| :----------------- | :--------------------------------------------------------------------------------------------------------- | :------------------- |
-| **Main Hand:**     | [Staff]({{site.baseurl}}/PlayerResources/Equipment/Weapons/Staff/) (2 Durability, -2 Speed)                | Journal              |
-| **Off Hand:**      | -                                                                                                          | Books                |
-| **Head:**          | [Leather Cap]({{site.baseurl}}/PlayerResources/Equipment/Armor/LeatherCap/) (1 Durability, -1 Speed)       | Magic Scroll         |
-| **Chest:**         | [Cloth Robes]({{site.baseurl}}/PlayerResources/Equipment/Armor/ClothRobes/) (1 Durability, -1 Speed)       | Specimen Containers  |
-| **Hands:**         | [Leather Gloves]({{site.baseurl}}/PlayerResources/Equipment/Armor/LeatherGloves/) (1 Durability, -1 Speed) | Orb of Shapeshifting |
-| **Legs:**          | [Cloth Pants]({{site.baseurl}}/PlayerResources/Equipment/Armor/ClothPants/) (0 Durability, 0 Speed)        |                      |
-| **Feet:**          | [Leather Boots]({{site.baseurl}}/PlayerResources/Equipment/Armor/LeatherBoots/) (1 Durability, -1 Speed)   |                      |
-|                    |                                                                                                            |                      |
+| **Equipment Slot** | **Item**                                                                                                     | **Inventory**       |
+| :----------------- | :----------------------------------------------------------------------------------------------------------- | :------------------ |
+| **Main Hand:**     | [Staff]({{site.baseurl}}/PlayerResources/Equipment/Weapons/Staff/) of Shapeshifting (2 Durability, -2 Speed) | Journal             |
+| **Off Hand:**      | -                                                                                                            | Books               |
+| **Head:**          | [Leather Cap]({{site.baseurl}}/PlayerResources/Equipment/Armor/LeatherCap/) (1 Durability, -1 Speed)         | Magic Scroll        |
+| **Chest:**         | [Cloth Robes]({{site.baseurl}}/PlayerResources/Equipment/Armor/ClothRobes/) (1 Durability, -1 Speed)         | Specimen Containers |
+| **Hands:**         | [Leather Gloves]({{site.baseurl}}/PlayerResources/Equipment/Armor/LeatherGloves/) (1 Durability, -1 Speed)   | Magical Object      |
+| **Legs:**          | [Cloth Pants]({{site.baseurl}}/PlayerResources/Equipment/Armor/ClothPants/) (0 Durability, 0 Speed)          |                     |
+| **Feet:**          | [Leather Boots]({{site.baseurl}}/PlayerResources/Equipment/Armor/LeatherBoots/) (1 Durability, -1 Speed)     |                     |
+|                    |                                                                                                              |                     |
 
 **Abilities:** **[Shapeshifting]({{site.baseurl}}/PlayerResources/Abilities/Shapeshifting/#Shapeshifting)**, and **Choose One** Adjacent [Node](https://raw.githubusercontent.com/SmashXanadu/Expeditions/refs/heads/main/images/HeroGridSheet.png)
 
