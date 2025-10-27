@@ -9,16 +9,16 @@ permalink: /Playtest/Cam/
 - **Motivation:** Cam is singularly driven to **map every hidden path** and uncover every lost secret of the world, satisfying an insatiable curiosity for the unknown.
 - **Health**: 2, **Size**: Average, **Gold**: 3, **Speed**: 12
 
-| **Hero Skills**                                                                  | **General & Trade Skills**                                                                      |
+| **Hero Track**                                                                   | **Skill Tracks**                                                                                |
 | :------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------- |
-| **[Attack]({{site.baseurl}}/PlayerResources/Skills/Attack/#Attack)**: 6 Exp (+2) | **[Observant]({{site.baseurl}}/PlayerResources/Skills/Observant/#Observant)**: 12 Exp (+3)      |
-| **[Magic]({{site.baseurl}}/PlayerResources/Skills/Magic/#Magic)**: 0 Exp (+0)    | **[Survivalist]({{site.baseurl}}/PlayerResources/Skills/Survivalist/#Survivalist)**: 6 Exp (+2) |
-|                                                                                  | **[Explorer]({{site.baseurl}}/PlayerResources/Skills/Explorer/#Explorer)**: 6 Exp (+2)          |
-|                                                                                  | **[Evade]({{site.baseurl}}/PlayerResources/Skills/Evade/#Evade)**: 6 Exp (+2)                   |
-|                                                                                  | **[Trapper]({{site.baseurl}}/PlayerResources/Skills/Trapper/#Trapper)**: 6 Exp (+2)             |
+| **[Attack]({{site.baseurl}}/PlayerResources/Skills/Attack/#Attack)**: 6 Exp (+2) | **[Evade]({{site.baseurl}}/PlayerResources/Skills/Evade/#Evade)**: 6 Exp (+2)                   |
 |                                                                                  | **[Resist]({{site.baseurl}}/PlayerResources/Skills/Resist/#Resist)**: 2 Exp (+1)                |
+|                                                                                  | **[Observant]({{site.baseurl}}/PlayerResources/Skills/Observant/#Observant)**: 12 Exp (+3)      |
+|                                                                                  | **[Survivalist]({{site.baseurl}}/PlayerResources/Skills/Survivalist/#Survivalist)**: 6 Exp (+2) |
+|                                                                                  | **[Explorer]({{site.baseurl}}/PlayerResources/Skills/Explorer/#Explorer)**: 6 Exp (+2)          |
 |                                                                                  | **[Fast]({{site.baseurl}}/PlayerResources/Skills/Fast/#Fast)**: 2 Exp (+1)                      |
 |                                                                                  | **[Scavenger]({{site.baseurl}}/PlayerResources/Skills/Scavenger/#Scavenger)**: 2 Exp (+1)       |
+|                                                                                  | **[Trapper]({{site.baseurl}}/PlayerResources/Skills/Trapper/#Trapper)**: 6 Exp (+2)             |
 
 | **Equipment Slot** | **Item** | **Inventory** |
 | :----------------- | :-------------------------------------------------------------------------------------------------------------------------- | :--------------- |

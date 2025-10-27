@@ -9,16 +9,16 @@ permalink: /Playtest/Sira/
 - **Motivation:** Sira is driven to achieve lasting **fame** and recognition for their dazzling displays of magic, ensuring they never return to their previous poor existence.
 - **Health**: 2, **Size**: Average, **Gold**: 5, **Speed**: 15
 
-| **Hero Skills** | **General & Trade Skills** |
-| :--- | :--- |
-| **[Attack]({{site.baseurl}}/PlayerResources/Skills/Attack/#Attack)**: 0 Exp (+0) | **[Performer]({{site.baseurl}}/PlayerResources/Skills/Performer/#Performer)**: 12 Exp (+3) |
-| **[Magic]({{site.baseurl}}/PlayerResources/Skills/Magic/#Magic)**: 6 Exp (+2) | **[Smart]({{site.baseurl}}/PlayerResources/Skills/Smart/#Smart)**: 6 Exp (+2) |
-| | **[Charismatic]({{site.baseurl}}/PlayerResources/Skills/Charismatic/#Charismatic)**: 6 Exp (+2) |
-| | **[Intimidating]({{site.baseurl}}/PlayerResources/Skills/Intimidating/#Intimidating)**: 6 Exp (+2) |
-| | **[Enchanter]({{site.baseurl}}/PlayerResources/Skills/Enchanter/#Enchanter)**: 6 Exp (+2) |
-| | **[Resist]({{site.baseurl}}/PlayerResources/Skills/Resist/#Resist)**: 6 Exp (+2) |
-| | **[Evade]({{site.baseurl}}/PlayerResources/Skills/Evade/#Evade)**: 2 Exp (+1) |
-| | **[Lucky]({{site.baseurl}}/PlayerResources/Skills/Lucky/#Lucky)**: 2 Exp (+1) |
+| **Hero Track**                                                                | **Skill Tracks**                                                                                   |
+| :---------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------- |
+| **[Magic]({{site.baseurl}}/PlayerResources/Skills/Magic/#Magic)**: 6 Exp (+2) | **[Evade]({{site.baseurl}}/PlayerResources/Skills/Evade/#Evade)**: 2 Exp (+1)                      |
+|                                                                               | **[Resist]({{site.baseurl}}/PlayerResources/Skills/Resist/#Resist)**: 6 Exp (+2)                   |
+|                                                                               | **[Performer]({{site.baseurl}}/PlayerResources/Skills/Performer/#Performer)**: 12 Exp (+3)         |
+|                                                                               | **[Smart]({{site.baseurl}}/PlayerResources/Skills/Smart/#Smart)**: 6 Exp (+2)                      |
+|                                                                               | **[Charismatic]({{site.baseurl}}/PlayerResources/Skills/Charismatic/#Charismatic)**: 6 Exp (+2)    |
+|                                                                               | **[Intimidating]({{site.baseurl}}/PlayerResources/Skills/Intimidating/#Intimidating)**: 6 Exp (+2) |
+|                                                                               | **[Enchanter]({{site.baseurl}}/PlayerResources/Skills/Enchanter/#Enchanter)**: 6 Exp (+2)          |
+|                                                                               | **[Lucky]({{site.baseurl}}/PlayerResources/Skills/Lucky/#Lucky)**: 2 Exp (+1)                      |
 
 | **Equipment Slot** | **Item** | **Inventory** |
 | :----------------- | :------------------------------------------------------------------------------------------------------------------------ | :------------------ |

@@ -6,7 +6,7 @@ permalink: /Playtest/Prepare/
 
 ## 1. Transfer Basic Character Info
 
-* Write down the starting values for **Health**, **Size**, **Speed**, and **Gold**.
+* Write down the starting values for **Health**, **Size**,**Gold**, and **Speed** .
 
 ## 2. Update Your Skill Tracks
 

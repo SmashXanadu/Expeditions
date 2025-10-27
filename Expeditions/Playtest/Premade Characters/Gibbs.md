@@ -9,17 +9,17 @@ permalink: /Playtest/Gibbs/
 - **Motivation:** Gibbs is intensely driven to **amass a personal fortune** in order to completely escape the specter of their troublesome and likely dangerous past.
 - **Health**: 2, **Size**: Small, **Gold**: 3, **Speed**: 16
 
-| **Hero Skills**                                                                  | **General & Trade Skills**                                                                      |
+| **Hero Track**                                                                   | **Skill Tracks**                                                                                |
 | :------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------- |
-| **[Attack]({{site.baseurl}}/PlayerResources/Skills/Attack/#Attack)**: 6 Exp (+2) | **[Sneaky]({{site.baseurl}}/PlayerResources/Skills/Sneaky/#Sneaky)**: 12 Exp (+3)               |
-| **[Magic]({{site.baseurl}}/PlayerResources/Skills/Magic/#Magic)**: 0 Exp (+0)    | **[Evade]({{site.baseurl}}/PlayerResources/Skills/Evade/#Evade)**: 12 Exp (+3)                  |
+| **[Attack]({{site.baseurl}}/PlayerResources/Skills/Attack/#Attack)**: 6 Exp (+2) | **[Evade]({{site.baseurl}}/PlayerResources/Skills/Evade/#Evade)**: 12 Exp (+3)                  |
+|                                                                                  | **[Resist]({{site.baseurl}}/PlayerResources/Skills/Resist/#Resist)**: 0 Exp (+0)                |
+|                                                                                  | **[Sneaky]({{site.baseurl}}/PlayerResources/Skills/Sneaky/#Sneaky)**: 12 Exp (+3)               |
 |                                                                                  | **[Dexterous]({{site.baseurl}}/PlayerResources/Skills/Dexterous/#Dexterous)**: 6 Exp (+2)       |
 |                                                                                  | **[Trickster]({{site.baseurl}}/PlayerResources/Skills/Trickster/#Trickster)**: 6 Exp (+2)       |
-|                                                                                  | **[Alchemist]({{site.baseurl}}/PlayerResources/Skills/Alchemist/#Alchemist)**: 6 Exp (+2)       |
 |                                                                                  | **[Careful]({{site.baseurl}}/PlayerResources/Skills/Careful/#Careful)**: 2 Exp (+1)             |
 |                                                                                  | **[Manipulator]({{site.baseurl}}/PlayerResources/Skills/Manipulator/#Manipulator)**: 2 Exp (+1) |
 |                                                                                  | **[Thief]({{site.baseurl}}/PlayerResources/Skills/Thief/#Thief)**: 2 Exp (+1)                   |
-|                                                                                  | **[Resist]({{site.baseurl}}/PlayerResources/Skills/Resist/#Resist)**: 0 Exp (+0)                |
+|                                                                                  | **[Alchemist]({{site.baseurl}}/PlayerResources/Skills/Alchemist/#Alchemist)**: 6 Exp (+2)       |
 
 | **Equipment Slot** | **Item** | **Inventory** |
 | :----------------- | :------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------ |
