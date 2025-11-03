@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /GuideResources/Adventures/QuickStart/
+permalink: /GuideResources/Adventures/Convention/
 ---
 [Preparing for a Playtest]({{site.baseurl}}/Playtest/Prepare/)
 
