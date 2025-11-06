@@ -2,9 +2,32 @@
 layout: default
 permalink: /GuideResources/Adventures/Convention/
 ---
-[Preparing for a Playtest]({{site.baseurl}}/Playtest/Prepare/)
+# EXPEDITIONS: RPG
 
-Give rules shpiele
+## What is Expeditions?
+
+Expeditions is a fast-paced, cooperative tabletop RPG system focused on thrilling, time-bound adventures. It features **streamlined combat** where the **players roll all dice**, a **classless specialization** system for total freedom, and scenarios designed for **minimal Guide (GM) preparation**. Perfect for quick sessions and cooperative storytelling.
+## What makes Expeditions unique?
+
+* **Real-Time Expeditions:** Play sessions last a predetermined amount of real time.
+* **Player Driven Fate:** Only **players** roll the dice; the Guide never rolls.
+* **Minimal Guide Prep:** Handouts and systems reduce the Guide's preparation time.
+* **Streamlined Combat:** Simplified math and movement (Close, Near, Far, Distant).
+* **Learn by Failure:** Every failed attack or skill roll progresses your character.
+* **Turn a Failure into Success:** Players can accept a consequence to make a roll succeed.
+* **Equipment Matters:** Damage is mitigated by both Health and Armor Durability.
+
+------------------------
+
+## Playtest Expedition: Rifts on the Shifting Isle
+
+**Players:** 2 - 5
+**Time**: 35 Minutes
+
+> The scenario begins immediately after the party retrieves the powerful **Planar Core** from a cultist altar, which instantly shatters reality and opens four unstable planar tears across the island. The players are then pitted against a brutal **30-minute real-time clock** before the island collapses completely, forcing them to survive four randomized planar zones and their specific challenges. Success hinges on navigating these chaotic rifts—which contain obstacles, adversaries, social encounters, or powerful bosses—to escape with the Core back to their ship.
+
+-------------------------------------------
+
 
 \newpage
 
@@ -50,7 +73,7 @@ Give rules shpiele
 
 # 1a. Grass
 
-**Planar Rift Type:** Plane of Growth (Jungle/Magical Flora)
+**Planar Rift Type:** Plane of Growth
 
 > The original area has been violently overwritten by a riot of alien, phosphorescent vegetation. Giant, broad leaves filter the sunlight into motes of intense color, and the air is thick with cloying, sweet pollen. The ground is perpetually soft and spongy.
 
@@ -69,10 +92,10 @@ Give rules shpiele
 
 ###  d20 Result of 3-5: **Hostile Mobs**
 
-| **Name** | **Health** | **DPR** | **Atk** | **Mag** | **Def** | **Res** |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **Pollen Stalker** | **10** | **4** | **13** | **12** | **13** | **14** |
-| **Canopy Creeper** | **6** | **2** | **10** | **8** | **15** | **11** |
+| **Name**           | **Health** | **DPR** | **Atk** | **Mag** | **Def** | **Res** |
+| :----------------- | :--------: | :-----: | :-----: | :-----: | :-----: | :-----: |
+| **Pollen Stalker** |   **10**   |    2    | **13**  | **12**  | **13**  | **14**  |
+| **Canopy Creeper** |   **6**    |  **1**  | **10**  |  **8**  | **15**  | **11**  |
 
 ###  d20 Result of 1-2: **Boss Encounter**
 
@@ -85,7 +108,7 @@ Give rules shpiele
 
 # 1b. Cave
 
-**Planar Rift Type:** Plane of Earth (Cave/Underground)
+**Planar Rift Type:** Plane of Earth
 
 > A stifling darkness fills this zone, lit only by dim, pulsing patches of fungal growth. The walls are smooth, wet stone forming a claustrophobic maze. The air smells strongly of ozone and damp earth.
 
@@ -119,7 +142,7 @@ Give rules shpiele
 
 # 2a. Sand
 
-**Planar Rift Type:** Plane of Infinite Dunes (Sand/Desert)
+**Planar Rift Type:** Plane of Infinite Dunes
 
 > Scorching, orange-red sand stretches in all directions under a hazy, oppressive sky. The air is thick and dry, and walking is labored as the fine, alien particles cling to everything. The ground is a steep, crumbling dune leading to the next Rift.
 
@@ -138,9 +161,9 @@ Give rules shpiele
 
 ### d20 Result of 3-5: **Hostile Mobs**
 
-| **Name** | **Health** | **DPR** | **Atk** | **Mag** | **Def** | **Res** |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **Chromatic Scarab** | **3** | **1** | **11** | **9** | **14** | **13** |
+| **Name**             | **Health** | **DPR** | **Atk** | **Mag** | **Def** | **Res** |
+| :------------------- | :--------: | :-----: | :-----: | :-----: | :-----: | :-----: |
+| **Chromatic Scarab** |   **4**    |  **2**  | **11**  |  **9**  | **14**  | **13**  |
 
 ### d20 Result of 1-2: **Boss Encounter**
 
@@ -153,7 +176,7 @@ Give rules shpiele
 
 # 2b. Underwater
 
-**Planar Rift Type:** Plane of the Depths (Underwater/Deep Sea)
+**Planar Rift Type:** Plane of the Depths
 
 > The party is instantly submerged in crushing, black, ice-cold water (assuming appropriate gear). Light only comes from faint, alien bioluminescence. The pressure is immense, making precise actions difficult.
 
@@ -172,9 +195,9 @@ Give rules shpiele
 
 ### d20 Result of 3-5: **Hostile Mobs**
 
-| **Name** | **Health** | **DPR** | **Atk** | **Mag** | **Def** | **Res** |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **Angler-Shark** | **15** | **5** | **15** | **12** | **13** | **17** |
+| **Name**         | **Health** | **DPR** | **Atk** | **Mag** | **Def** | **Res** |
+| :--------------- | :--------: | :-----: | :-----: | :-----: | :-----: | :-----: |
+| **Angler-Shark** |   **15**   |  **3**  | **15**  | **12**  | **13**  | **17**  |
 
 ### d20 Result of 1-2: **Boss Encounter**
 
@@ -187,7 +210,7 @@ Give rules shpiele
 
 # 3a. Dirt
 
-**Planar Rift Type:** Plane of Undeath (Dirt/Mire/Unstable Ground)
+**Planar Rift Type:** Plane of Undeath
 
 > The ground here is not solid earth but a thick, sucking mire of black, soupy mud mixed with shattered fragments of time-lost debris and bleached bones. Every step is a struggle, and the pervasive odor of rot and decay hangs in the damp air.
 
@@ -206,9 +229,9 @@ Give rules shpiele
 
 ### d20 Result of 3-5: **Hostile Mobs**
 
-| **Name** | **Health** | **DPR** | **Atk** | **Mag** | **Def** | **Res** |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **Bog Lurker** | **10** | **4** | **13** | **11** | **14** | **15** |
+| **Name**       | **Health** | **DPR** | **Atk** | **Mag** | **Def** | **Res** |
+| :------------- | :--------: | :-----: | :-----: | :-----: | :-----: | :-----: |
+| **Bog Lurker** |   **10**   |  **2**  | **13**  | **11**  | **14**  | **15**  |
 
 ### d20 Result of 1-2: **Boss Encounter**
 
@@ -221,7 +244,7 @@ Give rules shpiele
 
 # 3b. Snow
 
-**Planar Rift Type:** Plane of Ice (Snow/Ice)
+**Planar Rift Type:** Plane of Ice
 
 > The atmosphere here is a sudden, brutal cold. Jagged, black ice sheets cover the ground, reflecting the pale, sunless sky of an eternal winter plane. A freezing wind howls constantly, reducing the effectiveness of ranged attacks.
 
@@ -240,10 +263,10 @@ Give rules shpiele
 
 ### d20 Result of 3-5: **Hostile Mobs**
 
-| **Name** | **Health** | **DPR** | **Atk** | **Mag** | **Def** | **Res** |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **Shard-Ice Elemental** | **12** | **4** | **13** | **15** | **14** | **16** |
-| **Glacial Imp** | **4** | **1** | **10** | **8** | **12** | **14** |
+| **Name**                | **Health** | **DPR** | **Atk** | **Mag** | **Def** | **Res** |
+| :---------------------- | :--------: | :-----: | :-----: | :-----: | :-----: | :-----: |
+| **Shard-Ice Elemental** |   **12**   |  **2**  | **13**  | **15**  | **14**  | **16**  |
+| **Glacial Imp**         |   **4**    |  **1**  | **10**  |  **8**  | **12**  | **14**  |
 
 ### d20 Result of 1-2: **Boss Encounter**
 
@@ -256,7 +279,7 @@ Give rules shpiele
 
 # 4a. Magma
 
-**Planar Rift Type:** Plane of Fire (Volcano/Lava)
+**Planar Rift Type:** Plane of Fire
 
 > The air here is a thick, choking mix of ash and fire. The ground is a treacherous mix of cooling, black basalt and streams of bubbling, flowing magma. Heat haze distorts visibility, making it difficult to target anything at range.
 
@@ -275,10 +298,10 @@ Give rules shpiele
 
 ### d20 Result of 3-5: **Hostile Mobs**
 
-| **Name** | **Health** | **DPR** | **Atk** | **Mag** | **Def** | **Res** |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **Magma Spitter** | **9** | **3** | **14** | **13** | **12** | **15** |
-| **Ash Devil** | **7** | **2** | **12** | **10** | **14** | **13** |
+| **Name**          | **Health** | **DPR** | **Atk** | **Mag** | **Def** | **Res** |
+| :---------------- | :--------: | :-----: | :-----: | :-----: | :-----: | :-----: |
+| **Magma Spitter** |   **5**    |  **3**  | **14**  | **13**  | **12**  | **15**  |
+| **Ash Devil**     |   **3**    |  **2**  | **12**  | **10**  | **14**  | **13**  |
 
 ### d20 Result of 1-2: **Boss Encounter**
 
@@ -291,7 +314,7 @@ Give rules shpiele
 
 # 4b. Open Water
 
-**Planar Rift Type:** Plane of Water (Open Water/Ocean)
+**Planar Rift Type:** Plane of Water
 
 > The party is surrounded by tumultuous, churning open ocean. The waves are impossibly large and erratic, as if multiple tides are fighting each other. The atmosphere is perpetually grey and stormy, and the air is thick with sea spray and salt.
 
@@ -310,13 +333,13 @@ Give rules shpiele
 
 ### d20 Result of 3-5: **Hostile Mobs**
 
-| **Name** | **Health** | **DPR** | **Atk** | **Mag** | **Def** | **Res** |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **Rift Serpent** | **18** | **6** | **16** | **14** | **15** | **18** |
+| **Name**         | **Health** | **DPR** | **Atk** | **Mag** | **Def** | **Res** |
+| :--------------- | :--------: | :-----: | :-----: | :-----: | :-----: | :-----: |
+| **Rift Serpent** |   **6**    |  **3**  | **16**  | **14**  | **15**  | **18**  |
 
 ### d20 Result of 1-2: **Boss Encounter**
 
 | **Name** | **Health** | **DPR** | **Atk** | **Mag** | **Def** | **Res** |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 | **Massive Water Elemental** | **11** | **4** | **17** | **16** | **16** | **17** |
-* **Special:** **Drowning Vortex** (Can create a small whirlpool underneath a player, inflicting 1 damage and requiring an **[Athletics]** Check to escape). Immune to physical damage unless the
+* **Special:** **Drowning Vortex** (Can create a small whirlpool underneath a player, inflicting 1 damage and requiring a roll to escape). Immune to physical damage unless the
