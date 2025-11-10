@@ -11,14 +11,12 @@
             "id": "bc9ca8ad33a66626",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Expeditions/Guide Resources/Premade Adventures/Convention Scenario - Rifts on the Shifting Isle.md",
-                "mode": "source",
-                "source": false
+                "file": "images/AbilitySheet.png"
               },
-              "icon": "lucide-file",
-              "title": "Convention Scenario - Rifts on the Shifting Isle"
+              "icon": "lucide-image",
+              "title": "AbilitySheet"
             }
           }
         ]
@@ -167,10 +165,22 @@
   },
   "active": "bc9ca8ad33a66626",
   "lastOpenFiles": [
+    "images/Brigg.png",
+    "images/Cam.png",
+    "images/Finrik.png",
+    "images/Gibbs.png",
+    "images/Sira.png",
+    "Expeditions/Playtest/Premade Characters/Finrik.md",
+    "Expeditions/Playtest/Premade Characters/Sira.md",
+    "Expeditions/Playtest/Premade Characters/Gibbs.md",
+    "Expeditions/Playtest/Premade Characters/Cam.md",
+    "Expeditions/Playtest/Premade Characters/Brigg.md",
+    "UnchartedWaters/Characters/Characters.md",
+    "UnchartedWaters/Uncharted Waters Index.md",
+    "Expeditions/Guide Resources/Premade Adventures/Convention Scenario - Rifts on the Shifting Isle.md",
     "Expeditions/System Rules/Rules/Rules Summary.md",
     "Expeditions/System Rules/Rules/01 - About Expeditions.md",
     "Expeditions/System Rules/Rules/02 - Basic Rules.md",
-    "Expeditions/Guide Resources/Premade Adventures/Convention Scenario - Rifts on the Shifting Isle.md",
     "Expeditions/Playtest/Preparing for a Playtest.md",
     "Tools/Generate PDFs.cs~RF239c9650.TMP",
     "Tools/xlcq0zmw.kym~",
@@ -186,17 +196,9 @@
     "Expeditions/Player Resources/General Skills/Charismatic.md",
     "Expeditions/Guide Resources/Premade Adventures/- Quick Start - Uncharted Waters 2.md",
     "Expeditions/Guide Resources/Premade Adventures/- Quick Start - Cloudskippers.md",
-    "Expeditions/Playtest/Premade Characters/Sira.md",
     "Tools/xjwlbsxc.k1o~",
     "Tools/5c2s3zed.fug~",
-    "Expeditions/Playtest/Premade Characters/Gibbs.md",
-    "Expeditions/Playtest/Premade Characters/Finrik.md",
-    "Expeditions/Playtest/Premade Characters/Brigg.md",
-    "Expeditions/Playtest/Premade Characters/Cam.md",
     "Expeditions/Playtest/Premade Characters/1 Preparing Your Premade Character.md",
-    "Expeditions/Guide Resources/Premade Adventures/Open Table Campaigns/Keepers of the Keys.md",
-    "Expeditions/Guide Resources/Premade Adventures/Open Table Campaigns/Cloudskippers.md",
-    "Expeditions/Guide Resources/Premade Adventures/Open Table Campaigns/The Shatterlands.md",
     "Tools/pukdgtps.snp~",
     "Tools/2wnlaubk.xq5~",
     "Tools/yxucdtjy.11f~",
@@ -209,10 +211,6 @@
     "images/uwmap.png",
     "images/emeraldDawnship.png",
     "images/oz.png",
-    "images/finn.png",
-    "images/pip.png",
-    "images/wren.png",
-    "images/SkillSheet.png",
     "Untitled.canvas"
   ]
 }
