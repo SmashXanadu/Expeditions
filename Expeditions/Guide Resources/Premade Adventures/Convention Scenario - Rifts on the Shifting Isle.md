@@ -25,7 +25,7 @@ Expeditions is a fast-paced, cooperative tabletop RPG system focused on thrillin
 **Players:** 2 - 5
 **Time**: 35 Minutes
 
-> The scenario begins immediately after the party retrieves the powerful **Planar Core** from a cultist altar, which instantly shatters reality and opens four unstable planar tears across the island. The players are then pitted against a brutal **30-minute real-time clock** before the island collapses completely, forcing them to survive four randomized planar zones and their specific challenges. Success hinges on navigating these chaotic rifts—which contain obstacles, adversaries, social encounters, or powerful bosses—to escape with the Core back to their ship.
+> The scenario begins immediately after the party retrieves the powerful **Planar Core** from a cultist altar, which instantly shatters reality and opens unstable planar tears across the island. The players are then pitted against a brutal **30-minute real-time clock** before the island collapses completely, forcing them to survive four randomized planar zones and their specific challenges. Success hinges on navigating these chaotic rifts—which contain obstacles, adversaries, social encounters, or powerful bosses—to escape with the Core back to their ship.
 
 \newpage
 
@@ -34,7 +34,7 @@ Expeditions is a fast-paced, cooperative tabletop RPG system focused on thrillin
 
 **Players:** 2–5  **Time:** 30–35 Minutes  
 
-> The island is breaking apart. The **Planar Core**—the artifact you just retrieved—has fractured reality into chaos. Four Rifts rip across the Isle, each leaking an alien realm. You have **30 minutes** (real-world time) to fight, survive, and reach your ship before the island collapses.
+> The island is breaking apart. The **Planar Core**—the artifact you just retrieved—has fractured reality into chaos. Rifts rip across the Isle, each leaking an alien realm. You have **30 minutes** (real-world time) to fight, survive, and reach your ship before the island collapses.
 
 --------------------
 
@@ -43,202 +43,288 @@ Expeditions is a fast-paced, cooperative tabletop RPG system focused on thrillin
 - **Starting Zone:** *The Shattered Altar* (Cobblestone Terrain) 
 - **Goal:** Escape the Isle with the **Planar Core** before time runs out. 
 - **Timer:** 30 minutes real-world time. Keep it visible. 
-- **Zone Sequence:** Roll d20 to determine the next Rift Zone after each encounter. 
-- **End Condition:** When all 4 Rifts have been resolved, the final **Escape Zone** unlocks. 
+- **End Condition:** When all Rifts have been resolved, the final **Escape Zone** unlocks. 
 
 **Guide Setup:**
 
-- Place 5 Terrain Circles (1 Starting Zone + 4 Planar Zones). 
+- Place 5 Terrain Circles in a row
+	- 1 Starting sone (Shattered Altar)
+	- 3 Random Face Down Planar Rift Zones
+	- 1 Ship Escape Zone
 - Players begin in the *Shattered Altar*. 
-- The **Guide** tracks the timer and narrates each new Rift when it manifests.
+- The **Guide** tracks the timer and narrates each new Rift when it manifests as players move through the zones.
 ## Guide Notes
 
 - **Time Pressure is Everything.** Use a visible 30-minute timer. Announce 10, 5, and 1-minute marks. 
-- **Complications Keep the Clock Moving.** Failure = lost time or damage, never stalling play. 
-- **Encounters Are Modular.** Zones can appear in any order; roll or choose based on pacing. 
+- **Encounters Are Modular.** Zones can appear in any order and have different challenges based on when they appear
 - **Session End:** Debrief players quickly—ask what they enjoyed and what felt tight or confusing.
+- **Zone Reveal Procedure:** When players enter a face-down zone...
+	1. Flip the Terrain Circle.
+	2. Announce the Rift’s appearance using its flavor text.
+	3. Apply the appropriate encounter based on whether this is Rift 1, 2, or 3.
+	4. Begin the encounter immediately—do not pause the timer.
 
 \newpage
 
 # Starting Zone: The Shattered Altar
+**Terrain:** Ruined Temple / Cracked Stone
 
-> “The Core hums violently as cracks spiderweb through the altar floor. Light spills upward, distorting the air. The cultists you defeated moments ago vanish in a flash of energy—then, silence. The first Rift ignites above you.”
+## Who You Are and Why You Came Here
 
-**Terrain Effects** 
+- You are a small expedition team sent to investigate the cult’s activities on the island.
+- Rumors claimed they had recovered an ancient artifact capable of warping reality.
+- Your mission was to stop their ritual and secure the Planar Core before they used it.
+- The island has been unstable for weeks, and retrieving the Core is your only chance to prevent a catastrophe.
 
-- **Falling Stone:** The first failed roll of the game deals 1 Physical damage.
+## What Already Happened
 
-**Encounter:**  
+- You fought through the cultists guarding the altar.
+- Their ritual was moments from completion when you intervened.
+- One of you seized the Planar Core as the chamber destabilized. Who?
+## What Is Happening Now
 
-The players roll immediately to determine the first Rift Zone.
+- The altar is collapsing into floating shards and bending light.
+- The Core vibrates violently, tugging the holder in random directions.
+- Rifts are forming overhead, tearing open slivers of other realms.
+- Cracks widen underfoot and the chamber grows more unstable by the second.
+
+## What You See Ahead
+
+- Three Rifts flicker to life, each leading to a different unstable zone.
+- The only safe exit is the broken archway leading toward the first zone.
+- Your ship lies on the far side of the island and reaching it is the only escape.
+
+## Expedition Start
+- The Expedition timer begins the moment you step off the altar.
+- Once you leave this zone, the countdown does not stop. You have 30 minutes...
 
 \newpage
 
 # Rift: Plane of Growth
 **Terrain:** Jungle / Overgrowth
 
-> “You’re swallowed by emerald light. Enormous leaves unfurl in seconds, trees breathe, and pollen fills the air. The world is alive—and it’s watching you.”
+> Emerald light. Rapid growth. Pollen fills the air—the jungle is alive.
 
-**Terrain Effects**
-
-- **Overgrowth:** Moving out of this zone requires your entire turn.
-- **Toxic Pollen:** At round’s end, each player rolls 10+ or takes 1 Poison damage.
-
-**Encounters (roll 1d20)**
-
-- **1–2 Boss:** Giant Vine Monster
-- **3–6 Hostile Mobs:** Pollen Stalkers emerge from the vines
-- **7–10 Obstacle:** Spore Vines lash from the ground (Difficulty 14). Fail = Restrained, -5 min, 1 Poison damage
-- **11–20 Social:** Sleep-Weaving Butterflies block the path (Difficulty 13). Fail = Lose 8 min or wake them (next zone auto-Hostile)
+- **First Rift:** Pollen Stalkers (1/player)
+- **Second Rift:** Spore Vines (TN 14 hazard)
+- **Third Rift:** Giant Vine Monster (boss)
 
 -------------
 
-**Pollen Stalkers** — Towering reeds and thorns that feed on movement, releasing clouds of luminous spores.
+**Pollen Stalkers** (1 per player) emerge from the vines.
 
-*10 HP · 2 DPR · Atk 13 · Mag 12 · Def 13 · Res 14*
+**Pollen Stalkers**  _2 HP · 1 DPR · Atk 13 · Mag 12 · Def 13 · Res 14_  
+Tall thorned plants reacting to movement.
 
-- **Toxic Spores:** Close; all players roll 10+ or take 1 Poison damage
-- **Vine Lash:** Close; one target is Restrained until they spend an action to escape
-- **Pollen Burst (Recharge 5+):** Creates a haze; all ranged attacks are at disadvantage next round
+- **Toxic Spores (Mag 12, Close):** All players **Resist 12** or take **1 Poison**.
+- **Vine Lash (Atk 13, Close):** Target **Evades 13** or is **Restrained**.
+- **Pollen Burst (Zone):** Ranged attacks have **Disadvantage next round**.
+
+When all are defeated, the Rift stabilizes.
 
 -------------
 
-**Giant Vine Monster** — A massive tangle of roots and limbs shaped like a god’s forgotten idol, tearing itself free from the soil
+**Spore Vines**: Vines erupt, entangling all who enter.
 
-*8 HP · 3 DPR · Atk 16 · Mag 14 · Def 14 · Res 16*
+**Spore Vines (Hazard)** (TN 14, Close):
+- All players **Evade 14**.
+- **Fail:** **Restrained** + **1 Poison**.
+- **Success:** Avoid harm.
 
-- **Engulf:** Close; restrains up to 2 players, draining 2 HP/turn
-- **Root Slam:** Deals 1 damage to all players in Close range, pushes them Near
-- **Weak to Fire:** Takes double damage from Fire or heat-based attacks
+Once all players succeed (or escape), the Rift stabilizes.
+
+-------------
+
+A massive creature of roots tears through the rift.
+
+**Giant Vine Monster**  _7 HP · 2 DPR · Atk 16 · Mag 14 · Def 14 · Res 16_
+
+- **Engulf (Atk 16, Close):** Up to 2 players **Evade 16** or are **Restrained**, taking **2 HP/turn**.
+- **Root Slam (Atk 14, Close):** All in Close **Evade 14** or take **1 damage** and are **pushed 1 zone**.
+- **Weak to Fire:** Takes **double damage**.
+
+When it falls, the Rift stabilizes.
 
 \newpage
 
 # Rift: Plane of Stone
-**Terrain:** Cavern / Earth
+**Terrain:** Cavern / Shifting Rock
 
-> “The light dims into total darkness. Wet stone presses in from all sides. The sound of dripping water echoes like footsteps that aren’t yours.”
+> Cracking earth. Dust clouds. The ground groans beneath you as stone grinds against stone.
 
-**Terrain Effects**
-
-- **Echoing Maze:** Communication beyond Close range costs an action
-- **Loose Ground:** The first failed physical roll in this zone inflicts 1 damage from falling debris
-
-**Encounters (roll 1d20)**
-
-- **1–2 Boss:** Earth Elemental Guardian
-- **3–6 Hostile Mobs:** Chitinous Stalkers hunt through the dark
-- **7–10 Obstacle:** Sealed Door Puzzle. Four glowing runes (Difficulty 16, two checks). Fail = Rockfall, 2 damage, -5 min
-- **11–20 Social:** Deep Gnome Miners panic as the tunnels collapse (Difficulty 14). Fail = Lose 7 min in rubble
+- **First Rift:** Chitinous Stalkers (1/player)
+- **Second Rift:** Chasm Traverse (TN 14 obstacle)
+- **Third Rift:** Stone Guardian (boss)
 
 -------------
 
-**Chitinous Stalkers** — Insectoid predators that tunnel through the cavern walls, guided by vibration and scent.
+**Chitinous Stalkers** (1 per player) burrow up through fractured stone.
 
-*6 HP · 2 DPR · Atk 12 · Mag 10 · Def 16 · Res 14*
+**Chitinous Stalkers**  _2 HP · 1 DPR · Atk 13 · Mag 10 · Def 14 · Res 12_  
+Burrowing insectoid predators with hardened plates and razor limbs.
 
-- **Burrow Ambush:** Enters or exits any terrain; attacks from below ignore cover
-- **Piercing Strike:** Ignores 1 point of armor Durability on hit
-- **Echo Shiver:** The first player who fails a roll this round suffers 1 extra damage
+- **Burrow Strike (Atk 13, Close):** Target **Evades 13** or takes **1 damage**.
+- **Dust Spray (Mag 10, Close):** All players **Resist 10** or are **Dazed** (Disadvantage on next roll).
+- **Tunnel Skitter (Zone):** The stalker shifts through cracks; first attack against it each round has **Disadvantage**.
+
+When all are defeated, the Rift stabilizes.
 
 -------------
 
-**Earth Elemental Guardian** — A massive construct of living stone, bound to protect the rift until the last fragment of the isle falls.
+**Chasm Traverse**: A massive rift in the earth splits the zone in half.
 
-*12 HP · 5 DPR · Atk 17 · Mag 12 · Def 18 · Res 10*
+**Chasm (Obstacle)** (TN 14, Far):
+- All players attempting to cross **Roll 14** using any appropriate Skill.
+- **Fail:** Fall short, take **1 damage**, and become **Restrained** at the edge.
+- **Success:** Cross safely.
 
-- **Stone Armor:** Resistant to non-magical attacks
-- **Crushing Blow:** Hits all targets in Close range for 2 damage
-- **Fissure Step:** Moves between zones by collapsing the ground, leaving rubble as difficult terrain
+Once all players cross (or recover), the Rift stabilizes.
+
+-------------
+
+A towering stone construct rises from collapsing pillars.
+
+**Stone Guardian**  _7 HP · 2 DPR · Atk 15 · Mag 12 · Def 16 · Res 14_
+
+- **Hammer Fist (Atk 15, Close):** Target **Evades 15** or takes **2 damage**.
+- **Quake Stomp (Atk 12, Close Radius):** All in Close **Evade 12** or take **1 damage** and are **knocked prone** (lose next Move).
+- **Hardened Core:** Takes **half damage** from physical attacks.
+
+When it falls, the Rift stabilizes.
 
 \newpage
 
 # Rift: Plane of Fire
 **Terrain:** Magma Fields / Ash Wastes
 
-> “The air ignites. Rivers of magma carve through black rock as burning ash rains from above. Heat waves shimmer; shapes move in the haze.”
+> Blistering heat. Rivers of magma pulse beneath cracked black rock. The air itself wavers with flame.
 
-**Terrain Effects**
-
-- **Searing Ground:** Ending a turn on exposed magma deals 1 Fire damage
-- **Smoke Veil:** Ranged or Magic attacks beyond Close range are made at disadvantage
-
-**Encounters (roll 1d20)**
-
-- **1–2 Boss:** Fire Elemental Lord
-- **3–6 Hostile Mobs:** Magma Spitters emerge from vents
-- **7–10 Obstacle:** Shaking Lava Bridge (Difficulty 15). Fail = Drop the Core (if held) and skip next action
-- **11–20 Social:** Trapped Fire Sprite pleads for help (Difficulty 14). Fail = 2 Fire damage and lose 5 min
+- **First Rift:** Magma Spitters (1/player)
+- **Second Rift:** Lava Geyser (TN 14 hazard)
+- **Third Rift:** Fire Elemental Lord (boss)
 
 -------------
 
-**Magma Spitters** — Small, volatile elementals that crawl from cracks in the basalt, flinging molten slag with reckless glee.
+**Magma Spitters** (1 per player) bubble up from molten cracks.
 
-*5 HP · 3 DPR · Atk 14 · Mag 13 · Def 12 · Res 15*
+**Magma Spitters**  _2 HP · 1 DPR · Atk 13 · Mag 12 · Def 12 · Res 14_  
+Small molten creatures that launch searing gouts of magma.
 
-- **Lava Shot:** Near; ranged Fire attack that ignites terrain (1 Fire damage/turn)
-- **Boiling Core:** When defeated, explodes and deals 1 Fire damage in Close range
-- **Heat Pulse:** Once per fight, releases a wave of heat that imposes disadvantage on the next attack roll against them
+- **Magma Glob (Mag 12, Near):** Target **Resists 12** or takes **1 Fire** damage.
+- **Searing Bite (Atk 13, Close):** Target **Evades 13** or takes **1 Fire** damage.
+- **Heat Vent (Zone):** First melee attack against the spitter each round takes **1 Fire** damage.
+
+When all are defeated, the Rift stabilizes.
 
 -------------
 
-**Fire Elemental Lord** — A colossal entity of living flame and smoke, its form constantly collapsing and reforming with volcanic fury.
+**Lava Geyser**: A vent erupts, launching molten rock overhead.
 
-*12 HP · 5 DPR · Atk 17 · Mag 17 · Def 15 · Res 19*
+**Lava Geyser (Hazard)** (TN 14, Close):
+- All players in the zone **Evade 14**.
+- **Fail:** Take **2 Fire** damage.
+- **Success:** Avoid falling magma.
 
-- **Lava Surge:** Floods the area in molten fire, dealing 1 Fire damage each turn
-- **Flame Rebirth:** When reduced to 0 HP, reignites once at 4 HP
-- **Immunity:** Fire damage has no effect on this creature
+Once all players resolve the hazard, the Rift stabilizes.
+
+-------------
+
+A massive inferno takes humanoid form, radiating unbearable heat.
+
+**Fire Elemental Lord**  _7 HP · 2 DPR · Atk 16 · Mag 15 · Def 13 · Res 16_
+
+- **Inferno Grasp (Atk 16, Close):** Target **Evades 16** or takes **2 Fire** damage.
+- **Flame Burst (Mag 15, Close Radius):** All in Close **Resist 15** or take **1 Fire** and are **pushed 1 zone**.
+- **Burning Form:** Anyone starting their turn in Close takes **1 Fire** damage.
+
+When it falls, the Rift stabilizes.
 
 \newpage
 
 # Rift: Plane of Tides
 **Terrain:** Open Ocean / Flooded Ruins
 
-> “The ground vanishes beneath you. A roaring sea stretches in every direction, pulled by competing tides. The sky turns storm-gray, lightning flashing through salt spray.”
+> The ground vanishes beneath you. A roaring sea stretches in all directions as tides pull with unnatural force.
 
-**Terrain Effects**
-
-- **Crashing Waves:** Each round, a random player must roll 10+ or be knocked Near
-- **Deep Pressure:** Physical rolls to Move or Lift are made at disadvantage
-
-**Encounters (roll 1d20)**
-
-- **1–2 Boss:** Massive Water Elemental
-- **3–6 Hostile Mobs:** Rift Serpents surge from the waves
-- **7–10 Obstacle:** Whirlpool Corridor (Difficulty 14). Fail = 2 Water damage, lose 7 min
-- **11–20 Social:** Lost Planar Sailors cling to wreckage (Difficulty 13). Fail = 6 min delay after panic struggle
+- **First Rift:** Rift Serpents (1/player)
+- **Second Rift:** Siren Call (TN 14 hazard/social)
+- **Third Rift:** Massive Water Elemental (boss)
 
 -------------
 
-**Rift Serpents** — Long, sinuous beasts of translucent water that shimmer with embedded fragments of coral and glass.
+**Rift Serpents** (1 per player) rise from swirling water.
 
-*6 HP · 3 DPR · Atk 16 · Mag 14 · Def 15 · Res 18*
+**Rift Serpents**  _2 HP · 1 DPR · Atk 13 · Mag 12 · Def 12 · Res 14_  
+Translucent sea serpents coiling through water, scales shimmering with planar energy.
 
-- **Whirlpool Strike:** Pulls one target into Close range; target rolls 10+ or is knocked Prone
-- **Tail Sweep:** Close; hits all players in the same Zone for 1 damage
-- **Waterborn Reflexes:** Gains advantage on Evade rolls while submerged
+- **Abyssal Snap (Atk 13, Close):** Target **Evades 13** or takes **1 damage**.
+- **Tide Coil (Mag 12, Close):** Target **Resists 12** or is **Restrained** by watery pressure.
+- **Slipstream (Zone):** First attack against the serpent each round has **Disadvantage** as it darts below the surface.
+
+When all are defeated, the Rift stabilizes.
 
 -------------
 
-**Massive Water Elemental** — A towering shape of storm and surf, surging upward like a tidal wave given thought and hunger.
+**Siren Call**: Echoing voices lure travelers toward the depths.
 
-*11 HP · 4 DPR · Atk 17 · Mag 16 · Def 16 · Res 17*
+**Siren Call (Hazard/Social)** (TN 14, Near):
+- All players hear the call and must roll
+- **Fail:** Move 1 zone toward deep water and take **1 Psychic** damage.
+- **Success:** Resist the lure and act freely.
 
-- **Drowning Vortex:** Creates a whirlpool beneath one player, dealing 1 damage/turn until freed
-- **Crushing Wave:** Pushes all players one Zone back on hit
-- **Reshape Form:** Immune to physical attacks unless struck by lightning or force energy
+Once all players resist (or recover), the Rift stabilizes.
+
+-------------
+
+A towering shape of crashing waves and foaming currents rises from the sea.
+
+**Massive Water Elemental**  _7 HP · 2 DPR · Atk 15 · Mag 14 · Def 13 · Res 16_
+
+- **Drown Grip (Atk 15, Close):** Target **Evades 15** or takes **2 damage** and is **Restrained** in surging water.
+- **Wave Crash (Mag 14, Close Radius):** All in Close **Resist 14** or take **1 damage** and are **pushed 1 zone**.
+- **Flowform:** Takes **half damage** from physical attacks; lightning attacks deal **double damage**.
+
+When it falls, the Rift stabilizes.
 
 \newpage
 
 # Final Zone: The Escape
+**Terrain:** Ship Deck / Collapsing Isle
 
-> “The island quakes apart as you reach the ship. The deck buckles, sails tear, and the horizon burns with collapsing rifts. The Core pulses violently in your hands—it’s the only thing keeping this reality intact.”
+> The island ruptures behind you. Rifts implode. The sea thrashes. Your ship is the only way out—and it’s barely holding together.
 
-**Final Objective:**  
+- **Primary Encounter:** Boarding the Ship (TN 14 hazard)
+- **Ongoing Effect:** Core Overload (TN 12)
+- **Bonus Encounter:** Rival Crew (only if 10+ minutes remain)
+- **Goal:** Get everyone aboard and escape before the island collapses.
 
-Stabilize the Planar Core or cast it into the sea before the clock hits zero.  
-- **Stabilize:** All players roll together. **Difficulty 15 (Cooperative).**  
-- Failure triggers a final shockwave (each player takes 2 damage).  
+-------------
 
-**Resolution:**  
-If at least one player survives and the ship leaves the island, the Expedition succeeds.
+Splintering planks and violent waves threaten to sweep the crew overboard.
+
+**Boarding the Ship (Hazard)** (TN 14, Near):
+- All players must **Roll 14** using any appropriate Skill.
+- **Fail:** Take **1 damage** and become **Prone** (lose next Move).
+- **Success:** Reach stable footing and act normally.
+
+Once all players are aboard (or hauled up by allies), the sequence continues.
+
+-------------
+
+If the party reaches the ship with **10 or more minutes** left on the clock, another vessel approaches fast.
+
+**Rival Crew Arrival**: A competing expedition leaps aboard, demanding the Core.
+
+**Rival Crew (1 per player)**  _3 HP · 1 DPR · Atk 14 · Mag 12 · Def 14 · Res 13_  
+Desperate adventurers who want to claim the Core for themselves.
+
+- **Cutlass Strike (Atk 14, Close):** Target **Evades 14** or takes **1 damage**.
+- **Grapple Throw (Atk 12, Close):** Target **Evades 12** or is **Pushed 1 zone** on the ship.
+
+They can be fought, bargained with, or intimidated into retreating.
+
+-------------
+
+When the Rival Crew is resolved and the boarding sequence is completed, the ship breaks away from the collapsing island.
+
+**Expedition Complete.**
