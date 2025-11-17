@@ -4,14 +4,14 @@ permalink: /PlayerResources/Abilities/RangedWeapons/
 ---
 ## [Ranged Weapons](#Ranged-Weapons)
 
-|                                                                                                                                                            |
-| :--------------------------------------------------------------------------------------------------------- |
-| **Call Your Shot** |
-| *Your discipline is so sharp that you can predict the precise moment a shot will land, guaranteeing a catastrophic hit.* |
-| |
-| **Type**: Attack \| **Node**: Ranged Weapons \| **Charges**: N/A |
-| |
-| At the start of combat, call out a number 1-19. If that number is rolled by your attack die, the attack is a critical hit. |
+|                                                                                                                            |
+| :------------------------------------------------------------------------------------------------------------------------- |
+| **Call Your Shot**                                                                                                         |
+| *Your discipline is so sharp that you can predict the precise moment a shot will land, guaranteeing a catastrophic hit.*   |
+|                                                                                                                            |
+| **Type**: Attack \| **Node**: Ranged Weapons \| **Charges**: N/A                                                           |
+|                                                                                                                            |
+| At the start of combat, call out a number 2-19. If that number is rolled by your attack die, the attack is a critical hit. |
 
 |                                                                                                                           |
 | :------------------------------------------------------------------------------------------------------------------------ |

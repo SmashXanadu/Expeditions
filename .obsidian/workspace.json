@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Expeditions/Guide Resources/Index.md",
+                "file": "Expeditions/Player Resources/Abilities/Ranged Weapons.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Index"
+              "title": "Ranged Weapons"
             }
           }
         ]
@@ -167,8 +167,9 @@
   },
   "active": "bc9ca8ad33a66626",
   "lastOpenFiles": [
-    "Expeditions/Guide Resources/Premade Adventures/Convention Scenario - Rifts on the Shifting Isle.md",
     "Expeditions/Guide Resources/Premade Adventures/Micro Scenario - The Stolen Map.md",
+    "Expeditions/Guide Resources/Premade Adventures/Convention Scenario - Rifts on the Shifting Isle.md",
+    "Expeditions/Guide Resources/Index.md",
     "Expeditions/Guide Resources/Premade Adventures/Convention Scenario Template - Rifts on the Shifting Isle.md",
     "Expeditions/System Rules/Rules/Rules Summary.md",
     "Expeditions/System Rules/Rules/Rules Index.md",
@@ -192,7 +193,6 @@
     "Expeditions/Guide Resources/Adversaries/Adversary Card.md",
     "Expeditions/Guide Resources/Adversaries/Adversary List.md",
     "Expeditions/Playtest/Premade Characters/Brigg.md",
-    "Expeditions/System Rules/Rules/01 - About Expeditions.md",
     "images/Sira.png",
     "images/Player Sea Hex Map.png",
     "images/HeroGridSheet.png",
