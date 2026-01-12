@@ -13,14 +13,15 @@ permalink: /PlayerResources/Abilities/Dark/
 | |
 | Instantly move to shadowed location that you can see. |
 
-|                                                                                                                                                            |
-| :--------------------------------------------------------------------------------------------------------- |
-| **Shroud of Darkness** |
-| *Create a cloud of darkness to obscure vision and disorient enemies.* |
-| |
-| **Type**: Magic \| **Node**: Dark \| **Charges**: 2 |
-| |
+|                                                                                                                                         |
+| :-------------------------------------------------------------------------------------------------------------------------------------- |
+| **Shroud of Darkness**                                                                                                                  |
+| *Create a cloud of darkness to obscure vision and disorient enemies.*                                                                   |
+|                                                                                                                                         |
+| **Type**: Magic \| **Node**: Dark \| **Charges**: 2                                                                                     |
+|                                                                                                                                         |
 | Create a zone of darkness in a Near zone. Enemies in this zone have Disadvantage on all attack rolls until the start of your next turn. |
+|                                                                                                                                         |
 
 |                                                                                                                                                            |
 | :--------------------------------------------------------------------------------------------------------- |
