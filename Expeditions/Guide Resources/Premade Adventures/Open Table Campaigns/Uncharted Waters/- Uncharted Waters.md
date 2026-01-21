@@ -9,3 +9,4 @@ The players are tasked with a desperate mission: to sail the treacherous seas, l
 A ticking timer, a **Shattering Clock**, represents the world's remaining stability. The clock counts down from 100, losing a d20 roll's worth of time with each passing session. Successfully completing missions on time can add 10 to the clock, providing a vital buffer.
 
 If the players fail to repair enough tears in time, **The Shattering** will begin...
+
