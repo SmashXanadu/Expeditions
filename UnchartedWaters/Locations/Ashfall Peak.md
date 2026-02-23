@@ -5,7 +5,7 @@ permalink: /UnchartedWaters/Locations/AshfallPeak/
 ---
 ### Ashfall Peak
 
-A classic volcanic island with black sand beaches and a vast, slumbering volcano at its heart. Fertile ash-soil jungles blanket the lower slopes, while higher elevations give way to jagged ridges, obsidian flows, and wind-scoured stone.
+A volcanic island with black sand beaches and a vast, slumbering volcano at its heart. Fertile ash-soil jungles blanket the lower slopes, while higher elevations give way to jagged ridges, obsidian flows, and wind-scoured stone.
 
 - **The Vibe:** Tropical, fertile, and adventurous.
 - **The Hub:** **Emberside**, a collection of longhouses built on stilts above the black sands. The locals harness geothermal vents for smithing, cooking, and heating. It feels like a hard-edged frontier outpost—the last reliable haven before the maps go blank.

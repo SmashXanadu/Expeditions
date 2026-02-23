@@ -1,5 +1,0 @@
-### The Cartographers' Guild
-
-This faction is not driven by a lust for gold or conquest, but by a deep-seated belief that knowledge is the ultimate treasure. The Guild is an ancient, scholarly order dedicated to charting and documenting every corner of the world. They believe that the Western Sea, with its mythical beasts and rumored floating islands, holds the key to a deeper understanding of the world's natural laws and magical energies.
-
-**Motivation:** For centuries, the Guild's maps have ended at the edge of the Western Sea, marked with the phrase "Here There Be Dragons." They view this as a failing of their sacred duty. The Guild is funding and staffing The Emerald Dawn to finally fill in the blank spaces on their maps, to replace myth with data, and to unlock the secrets of this mysterious region. They hire fledgling adventurers because they value fresh perspectives and unburdened curiosity. New adventurers, unjaded by the politics and dogma of established guilds, are more likely to stumble upon truly groundbreaking discoveries.

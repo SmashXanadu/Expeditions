@@ -2,34 +2,23 @@
 
 ## [Expeditions Pocket](-%20To%20Do.md)
 ## Uncharted Waters: The Endless Sea
-- Translate Notion notes here
 - Review existing campaign materials
 - 36x48 Hex Map
 	- Define Key Locations
 	- Define Danger Tiers 1-5 Stars like quests
 	- Count Random Locations Needed for pulling
-- Define Starting Location Options
-	- The Driftworks
-	- WeirWild Atoll
-	- Ashfall Peak
-	- Rustreach Crag
-	- Siren's Rest
-	- **Farming island like how they use rotting boats in Thailand**
-- Define Starting Crews
-	- Pull content from Notion and make pages (Uncharted Waters / Emerald Dawn)
-- Define Starting Ships
-	- Emerald Dawn
-	- Crimson
-	- Blue
-	- Black (Pirates)
-
+	- Outer Ring is "The Great Fog"
+- Split out each of the ships and factions into separate pages and stuff
+- Refine Starting Location Options (Embed Images)
+- Refine Factions (Embed Logos & Scene Images)
+- Refine Ships (Embed Images)
+- Make Map Ready top down perspective images of each location and ship
+- Table of known locations, known factions, known ships, etc
 
 ## Expeditions
-- Playtest Quick Start Scenario, **Expedition: Into the Maw**
-- Rules review. Make sure the following are enforced:
-	- Resources must be actually beneficial.
-	- Enforce the acquisition and/or depletion of resources.
-	- Create encounters with varying levels of difficulty and reward
+- New Rule to Test
+	- An Expedition has a Target Number equal to its Difficulty Rating (10-20)
+	- Rewards scale accordingly
 - Full Ability Review
 - Create Equipment and Item Tables
 - Finalize Monster Card Design

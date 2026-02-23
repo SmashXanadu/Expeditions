@@ -3,6 +3,9 @@ layout: default
 title: Locations
 permalink: /UnchartedWaters/Locations/
 ---
+# [Ships](#ships)
+
+- **[The Emerald Dawn]({{site.baseurl}}/UnchartedWaters/Locations/TheEmeraldDawn/#the-emerald-dawn)**
 # [Locations](#locations)
 
 - **[The Emerald Dawn]({{site.baseurl}}/UnchartedWaters/Locations/TheEmeraldDawn/#the-emerald-dawn)**
