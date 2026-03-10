@@ -1,3 +1,8 @@
+---
+layout: default
+permalink: /PocketEdition/QuestBoard/
+---
+
 ## Clear the Docks
 
 **Difficulty:** ★☆☆☆☆
@@ -7,7 +12,7 @@
 
 — _Barnaby "Barn-Cat" Bumblewick_
 
----
+---------------
 
 ## A Subtle Swap
 
@@ -18,7 +23,7 @@
 
 — _The Gilded Viper_
 
----
+---------------
 
 ## Escort Through the Fog
 
@@ -29,7 +34,7 @@
 
 — _Elara the Moss-Binder_
 
----
+---------------
 
 ## Lost to the Deep
 
@@ -40,7 +45,7 @@
 
 — _Professor Thaddeus_
 
----
+---------------
 
 ## The Dead Don't Rest
 
@@ -51,7 +56,7 @@
 
 — _High Curator Oryn_
 
----
+---------------
 
 ## The Shattered Spire
 
@@ -62,7 +67,7 @@
 
 — _Master Astrologist Vaelen Thrum_
 
----
+---------------
 
 ## Silence the Howling
 
@@ -73,7 +78,7 @@
 
 — _Elder Kaelen Ironhide
 
----
+---------------
 
 ## The Obsidian Heart
 
@@ -82,3 +87,5 @@
 **The volcano is waking up**, and it isn’t natural; someone has placed a ritual seal on the inner caldera to force an eruption. **I need a team to descend into the heat** and break the obsidian spikes before this whole valley is buried in ash. If you save my home, you may take any of the rare ores or enchanted metals we've stored in the mountain vaults.
 
 — _Forge-Master Ignis_
+
+---------------

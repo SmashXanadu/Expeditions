@@ -1,6 +1,6 @@
 # To Do
 
-## [Expeditions Pocket](-%20To%20Do.md)
+## [Expeditions Pocket](-%20Expeditions%20Pocket%20-%20To%20Do.md)
 ## Uncharted Waters: The Endless Sea
 - Review existing campaign materials
 - 36x48 Hex Map
