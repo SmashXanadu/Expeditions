@@ -14,7 +14,7 @@ permalink: /PocketEdition/BackgroundCards/
 - **+1 Careful:** You have nimble hands, patience, and attention to detail.
 - **+1 Observant:** Nothing gets past you. You are always on the watch.
 
----------------
+\newpage
 
 ## Guardian
 
@@ -27,7 +27,7 @@ permalink: /PocketEdition/BackgroundCards/
 - **+1 Wise:** You know from experience how to handle most situations.
 - **+1 Kind:** Your care and generosity toward others knows no bounds.
 
----------------
+\newpage
 
 ## Scholar
 
@@ -40,7 +40,7 @@ permalink: /PocketEdition/BackgroundCards/
 - **+1 Lucky:** Somehow things always seem to work out for you.
 - **+1 Trickster:** You know how to fool others into seeing your truth.
 
----------------
+\newpage
 
 ## Wayfinder
 
@@ -53,7 +53,7 @@ permalink: /PocketEdition/BackgroundCards/
 - **+1 Sneaky:** You move silently, almost unnoticed by others.
 - **+1 Fast:** You have near instant reaction time and move quickly.
 
----------------
+\newpage
 
 ## Diplomat
 
@@ -66,7 +66,7 @@ permalink: /PocketEdition/BackgroundCards/
 - **+1 Trickster:** You know how to fool others into seeing your truth.
 - **+1 Lucky:** Somehow things always seem to work out for you.
 
----------------
+\newpage
 
 ## Survivor
 
@@ -79,4 +79,4 @@ permalink: /PocketEdition/BackgroundCards/
 - **+1 Dexterous:** You can control your body and move with confidence.
 - **+1 Survivalist:** You know how to get by on limited resources.
 
----------------
+\newpage

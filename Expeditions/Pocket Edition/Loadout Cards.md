@@ -18,7 +18,7 @@ permalink: /PocketEdition/LoadoutCards/
 - **Rusted Chain.** Ten feet of iron links, heavy and nearly unbreakable.
 - **Windproof Torches.** Thick pitch-wrapped bundles that refuse to go out in wind or rain.
 
----------------
+\newpage
 
 ## The Silent
 *Slip past danger and strike where no one expects.*
@@ -35,7 +35,7 @@ permalink: /PocketEdition/LoadoutCards/
 - **Glass Dust.** A pouch of glittering shards used to reveal breath, tripwires, or pressure plates.
 - **Corrosive Acid.** A small vial capable of eating through stubborn iron lock tumblers.
 
----------------
+\newpage
 
 ## The Learned
 *Solve mysteries through knowledge and preparation.*
@@ -52,7 +52,7 @@ permalink: /PocketEdition/LoadoutCards/
 - **Scholar's Satchel.** A waterproof bag filled with ink, pens, parchment, and reference notes.
 - **Sealed Expedition Map.** An ancient chart preserved inside hardened wax casing.
 
----------------
+\newpage
 
 ## The Wild
 *Endure the harshest places and hunt what others fear.*
@@ -69,7 +69,7 @@ permalink: /PocketEdition/LoadoutCards/
 - **Repellent Salve.** A pungent grease that keeps biting insects away.
 - **Bone Hook.** A collapsible fishing rod tipped with a hand-carved needle.
 
----------------
+\newpage
 
 ## The Noble
 *Control the room before blades ever leave their sheaths.*
@@ -86,7 +86,7 @@ permalink: /PocketEdition/LoadoutCards/
 - **Ever-Clean Silk.** A fine cloth that never stays stained or dirty.
 - **Marked Deck.** A set of playing cards where every back has a hidden tell.
 
----------------
+\newpage
 
 ## The Scrappy
 *Turn broken junk into unexpected advantages.*
@@ -103,7 +103,7 @@ permalink: /PocketEdition/LoadoutCards/
 - **Dented Pot.** A battered cooking pot that doubles as a makeshift helmet.
 - **Prying Bar.** A heavy iron tool used to force doors, crates, and sealed lids.
 
----------------
+\newpage
 
 ## The Devout
 _Stand between the living and the unseen._
