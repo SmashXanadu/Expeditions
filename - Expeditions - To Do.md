@@ -1,7 +1,10 @@
 # To Do
 - Rules Review
 	- New Ability Format
-	- Charges can be used at any time?
+		- Expending a charge makes it happen. No roll.
+		- Descriptive play rather than mechanical
+	- Quick Character Creation Rules - Separate Packet?
+- Generate Uncharted Waters starting expeditions
 
 ## [Expeditions Pocket](-%20Expeditions%20Pocket%20-%20To%20Do.md)
 ## Uncharted Waters: The Endless Sea
@@ -11,6 +14,7 @@
 	- Define Danger Tiers 1-5 Stars like quests
 	- Count Random Locations Needed for pulling
 	- Outer Ring is "The Great Fog"
+	- Inner ring is the "Deep One"
 - Split out each of the ships and factions into separate pages and stuff
 - Refine Starting Location Options (Embed Images)
 - Refine Factions (Embed Logos & Scene Images)
