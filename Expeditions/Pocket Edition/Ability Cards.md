@@ -2,8 +2,66 @@
 layout: default
 permalink: /PocketEdition/AbilityCards/
 ---
+# 12 Starter Abilities / 24 Advanced Abilities
 
-# 12 Starter Nodes
+### Starter
+- **Air** (Storm - Sun - Star - Moon)
+- **Dark** (Moon - Blood - Undead - Spirit)
+- **Water** (Moon - Blood - Ice)
+- **Fire** (Star - Explosion - Volcanic)
+- **Earth** (Star - Volcanic - Decay)
+- **Nature** (Decay - Sun - Animals - Growth)
+- **Light** (Sun - Renewal - Radiance - Spirit)
+- **Armored** (Shield - Protector)
+- **Unarmored** (Disciplined - Wild - Brawler)
+- **Weapon Specialist** (Impact - Precision)
+- **Spirit** (Psychic - Illusion)
+- **Electric** (Storm - Explosion)
+### Advanced
+- **Shield** (Requires Armored)
+- **Protector** (Requires Armored)
+- **Disciplined** (Requires Unarmored)
+- **Wild** (Requires Unarmored)
+- **Brawler** (Requires Unarmored)
+- **Impact** (Requires Weapon Specialist)
+- **Precision** (Requires Weapon Specialist)
+- **Moon** (Requires Air, Dark, Water, or Spirit)
+- **Blood** (Requires Dark, Water, or Nature)
+- **Star** (Requires Air, Fire, or Earth)
+- **Volcanic** (Requires Fire or Earth)
+- **Decay** (Requires Earth or Nature)
+- **Sun** (Requires Nature or Light)
+- **Undead** (Requires Dark)
+- **Radiance** (Requires Light)
+- **Renewal** (Requires Light)
+- **Growth** (Requires Nature)
+- **Animals** (Requires Nature)
+- **Psychic** (Requires Spirit)
+- **Illusion** (Requires Spirit)
+- **Ice** (Requires Water)
+- **Storm** (Requires Air or Electric)
+- **Explosion** (Requires Fire or Electric)
+- **Gravity** (Requires Air or Earth)
+
+Removed:
+- Flight
+- Oracle
+- Portals
+- Ranged Weapons
+- Shapeshifting
+- Time
+- Titan
+
+Future Options:
+- Oracle
+- Time
+- Portals
+- Shapeshifting
+- Metal
+- Sound / Echo
+- Acid / Poison
+
+\newpage
 
 ## Air
 *Connects to: Storm - Sun - Star - Moon*
@@ -15,9 +73,9 @@ permalink: /PocketEdition/AbilityCards/
 - **Basic Action:** Stir the air to **carry a whisper across a room**, **slam shutters open**, **scatter loose papers**, or **extinguish fragile flames**.
 - **Consume a Charge to**: 
 	- Use a sharp updraft to double your jump height or safely break a long fall.
-	- Blast a concentrated gust to shove a medium-sized foe backward or knock them prone.
+	- Blast a concentrated gust to shove a foe backward or knock them prone.
 	- Create a swirling pocket of high pressure to veer incoming projectiles off-course.
-	- Rapidly thin the air behind an enemy, dragging them 15 feet toward you or into a hazard.
+	- Rapidly thin the air behind an enemy, dragging them toward you or into a hazard.
 	- Suspend a falling heavy object, such as a collapsing stone pillar, in mid-air for several seconds.
 
 \newpage
@@ -32,9 +90,9 @@ permalink: /PocketEdition/AbilityCards/
 - **Basic Action**: Deepen nearby shadows to **hide a small object**, **dim a lantern**, or **cause your shadow to move independently for a moment**.
 - **Consume a Charge to:**
 	- Blend into a dim corner to become nearly invisible to those passing by.
-	- Shape shadows into a 10-foot long grasping tendril to retrieve a light item or trip a foe.
-	- Step into one shadow and instantly emerge from another within 30 feet.
-	- Shroud a 20-foot area in magical gloom that snuffs out all non-magical light.
+	- Shape shadows into a grasping tendril to retrieve a light item or trip a foe.
+	- Step into one shadow and instantly emerge from another.
+	- Shroud an area in magical gloom that snuffs out all non-magical light.
 	- Phase your physical form into a shadow-state to pass through a thin wooden door or iron bars.
 
 \newpage
@@ -119,7 +177,7 @@ permalink: /PocketEdition/AbilityCards/
     - Project a beam of light to signal an ally up to a mile away.
     - Release a sudden flash that leaves everyone looking at you dazzled and blinded.
     - Cleanse a gallon of water or a small meal of all toxins and impurities.
-    - Weave light into a solid bridge or shimmering shield that lasts for one minute.
+    - Weave light into a solid bridge or shimmering shield that lasts for a short time.
     - Mark an invisible target with a halo of light that reveals them even through walls.
 
 \newpage
@@ -195,7 +253,7 @@ permalink: /PocketEdition/AbilityCards/
     - Create a brief visual illusion, such as a ghost-like figure or a fake gold coin.
     - Read the surface thoughts of a creature to see what they intend to do next.
     - Project a terrifying mental image into a foe's mind, forcing them to flee in panic.
-    - Leave your physical body for one minute to scout a nearby area as an invisible spirit.
+    - Leave your physical body for a short time to scout a nearby area as an invisible spirit.
 
 \newpage
 
@@ -231,7 +289,6 @@ _Requires Armored_
     - Deflect an incoming arrow, bolt, or thrown weapon harmlessly to the ground.
     - Bash forward with your shield, **knocking an enemy several feet backward**.
     - Lock your shield into the terrain, creating **immovable cover** for several seconds.
-    - Catch an incoming projectile with your shield and **redirect it toward a new target**
 
 \newpage
 

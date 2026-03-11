@@ -1,4 +1,7 @@
 # To Do
+- Rules Review
+	- New Ability Format
+	- Charges can be used at any time?
 
 ## [Expeditions Pocket](-%20Expeditions%20Pocket%20-%20To%20Do.md)
 ## Uncharted Waters: The Endless Sea
