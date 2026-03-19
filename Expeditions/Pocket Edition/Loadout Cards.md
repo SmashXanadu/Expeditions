@@ -6,7 +6,7 @@ permalink: /PocketEdition/LoadoutCards/
 ## The Heavy
 *Break problems with force and refuse to fall.*
 
-**Durability:** 5
+**Health:** 5
 
 **You carry the gear of a front-line survivor.** This kit is built for those who expect to stand their ground and trade blows in close combat. You wear thick plate reinforced with layered leather and iron bands—heavy armor designed to absorb punishment that would cripple a lesser fighter.
 
@@ -23,7 +23,7 @@ permalink: /PocketEdition/LoadoutCards/
 ## The Silent
 *Slip past danger and strike where no one expects.*
 
-**Durability:** 3
+**Health:** 3
 
 **You carry nothing that rattles or shines.** This kit is designed for slipping through tight spaces, bypassing locks, and disappearing before anyone notices you were there. You wear fitted leather armor reinforced with soft padding and dark cloth wraps—light protection that favors silence and mobility over brute defense.
 
@@ -40,11 +40,11 @@ permalink: /PocketEdition/LoadoutCards/
 ## The Learned
 *Solve mysteries through knowledge and preparation.*
 
-**Durability:** 3
+**Health:** 3
 
 **You carry the tools of careful study and discovery.** This loadout is built for those who solve problems with knowledge, preparation, and patience. You wear layered academic robes reinforced with leather panels and padded lining—light protection meant to guard against field hazards rather than battle.
 
-- **Weapon: Runed Quarterstaff.** An iron-bound staff etched with glowing sigils of protection.
+- **Weapon: +0 Runed Quarterstaff.** An iron-bound staff etched with glowing sigils of protection.
 - **Signature Item: Amber Monocle.** A polished arcane lens that reveals magical residue, hidden runes, and invisible sigils.
 
 - **Specimen Jars.** Silver tweezers and sealed glass bottles for delicate samples.
@@ -57,7 +57,7 @@ permalink: /PocketEdition/LoadoutCards/
 ## The Wild
 *Endure the harshest places and hunt what others fear.*
 
-**Durability:** 4
+**Health:** 4
 
 **You carry the means to survive the elements.** This gear is weather-worn and practical, built for long journeys far from the safety of civilization. You wear layered hides, thick furs, and hardened leather that shield you from claws, thorns, and brutal weather.
 
@@ -74,7 +74,7 @@ permalink: /PocketEdition/LoadoutCards/
 ## The Noble
 *Control the room before blades ever leave their sheaths.*
 
-**Durability:** 3
+**Health:** 3
 
 **You carry the symbols of status and grace.** Every item is chosen to influence perception, control conversation, and maintain your advantage in polite society. Beneath elegant clothing you wear a fitted duelist’s vest of layered silk and light mail—discreet protection for someone who expects treachery behind courtly smiles.
 
@@ -91,11 +91,11 @@ permalink: /PocketEdition/LoadoutCards/
 ## The Scrappy
 *Turn broken junk into unexpected advantages.*
 
-**Durability:** 4
+**Health:** 4
 
 **You carry a hoard of useful junk.** None of it looks valuable, but every piece has a purpose. Your armor is a patchwork of scavenged plates, thick canvas, and improvised padding—ugly but surprisingly resilient.
 
-- **Weapon: Anchor Flail.** A brutal weapon made from a ship’s anchor head and chain.
+- **Weapon: +1 Anchor Flail.** A brutal weapon made from a ship’s anchor head and chain.
 - **Signature Item: Cracked Glass Eye.** A fractured magical orb that grants sight in total darkness and faintly glows near hidden spaces.
 
 - **Industrial Grease.** A jar of thick lubricant useful for traps, slides, or sabotage.
@@ -108,11 +108,11 @@ permalink: /PocketEdition/LoadoutCards/
 ## The Devout
 _Stand between the living and the unseen._
 
-**Durability:** 3
+**Health:** 3
 
 **You carry the sacred tools of faith and protection.** This kit is for those who confront curses, restless spirits, and other unseen threats. You wear simple vestments layered over chain-lined robes—humble garments reinforced to protect a wandering priest from dangers both physical and supernatural.
 
-- **Weapon: Sanctified Mace.** A steel-headed mace etched with prayers and consecrated oils.
+- **Weapon: +1 Sanctified Mace.** A steel-headed mace etched with prayers and consecrated oils.
 - **Signature Item: Amulet of Sacred Ashes.** A small silver amulet containing ashes that ward against spirits and dark magic.
 
 - **Prayer Beads.** A long strand of carved bone beads used for meditation and ritual focus.

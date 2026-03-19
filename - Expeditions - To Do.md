@@ -1,5 +1,7 @@
 # To Do
 - Rules Review
+	- No speed. Players choose. Optional Speed rule.
+	- Add Supportive example option for every ability
 	- New Ability Format
 		- Expending a charge makes it happen. No roll.
 		- Descriptive play rather than mechanical
