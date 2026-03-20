@@ -4,11 +4,20 @@ permalink: /GuideResources/Adversaries/Template/
 ---
 ## [Adversary Template](#adversary-template)
 
-- **Name:**
-- **Type:** Beast / Humanoid / Undead / Etc.  **Size:** S / M / L / H / G
-- **Description :** Short sensory snapshot (look, sound, motion — ≤ 2 sentences)
-- **Abilities (1–2):** 1. _____________ 2. _____________  
-- **Tactics:** Behavior in combat (Ex: Roars, attacks nearest, flees ≤ ½ HP).
+| | |
+|:--|:--|
+| **Name** | |
+| **Type** | Beast / Humanoid / Undead / Etc. |
+| **Size** | Small / Medium / Large / Huge / Gargantuan |
+| **Description** | Short sensory snapshot (look, sound, motion — ≤ 2 sentences) |
+| **Tactics** | Behavior in combat (Ex: Roars, attacks nearest, flees ≤ ½ HP). |
+
+**Abilities:**
+
+| # | Name | Effect |
+|:--:|:--|:--|
+| 1 | | |
+| 2 | | |
 
 | Stat    | Val |
 | :------ | :-: |
@@ -19,10 +28,15 @@ permalink: /GuideResources/Adversaries/Template/
 | **Def** | __  |
 | **Res** | __  |
 
-| Type | Example |
-|:--|:--|
-| **Minor** | Weapon dented, tripped, staggered |
-| **Major** | Gear broken, serious wound |
+**Consequences:**
+
+| Context | Minor | Major |
+|:--|:--|:--|
+| **Attacking** | Take 1 damage, drop your weapon, disadvantage on next attack | Sword arm maimed — permanent disadvantage on attack rolls |
+| **Defending** | Take 1 damage, lose a piece of gear, disadvantage on next action | Grievous wound — permanently lose 1 HP from max |
+| **Sneaking** | Drop an item, take 1 damage, disadvantage on next stealth roll | Badly startled — permanent disadvantage on stealth near this creature type |
+| **Fleeing** | Drop an item, take 1 damage, disadvantage on next action | Caught and savaged — permanently lose 1 HP from max |
+| **Interacting** | Lose a trade item, take 1 damage, disadvantage on next social roll | Marked as an enemy — permanently hostile reputation with this creature type |
 
 **Loot (1d20):**
 

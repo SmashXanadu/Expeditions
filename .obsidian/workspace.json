@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "28030df23c713848",
+        "id": "a3aa8c4827400b5d",
         "type": "tabs",
         "children": [
           {
-            "id": "b191d8ff1ea908d1",
+            "id": "3cceb6d7c0284069",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "- Expeditions - To Do.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "- Expeditions - To Do"
+              "title": "New tab"
             }
           }
         ]
@@ -165,14 +161,16 @@
       "print:Print note": false
     }
   },
-  "active": "b191d8ff1ea908d1",
+  "active": "3cceb6d7c0284069",
   "lastOpenFiles": [
+    "- Expeditions - To Do.md",
+    "Expeditions/Guide Resources/Adversaries/Adversaries/Kettle Crab.md",
+    "Expeditions/Guide Resources/Adversaries/Adversaries/Steam Crab.md",
     "Expeditions/Pocket Edition/- Expeditions Pocket - To Do.md",
     "Expeditions/Pocket Edition/Ability Cards.md",
     "Expeditions/Pocket Edition/Background Cards.md",
     "Expeditions/Pocket Edition/Loadout Cards.md",
     "Expeditions/Pocket Edition/Quest Board.md",
-    "- Expeditions - To Do.md",
     "UnchartedWaters/Guide Materials/Expeditions/Intro - What Lies Beneath.md",
     "Expeditions/Player Resources/General Skills/Evade.md",
     "Expeditions/Player Resources/General Skills/Resist.md",
@@ -192,8 +190,6 @@
     "UnchartedWaters/Characters/Characters.md",
     "UnchartedWaters/Guide Materials/Expeditions/- Expedition Concepts.md",
     "UnchartedWaters/Guide Materials/Expeditions",
-    "UnchartedWaters/Guide Materials/Expeditions/- Quest Givers.md",
-    "UnchartedWaters/Guide Materials/NPCs/Wren.md",
     "Expeditions/Guide Resources/Expeditions",
     "Tools/3wc3fyzw.kpq~",
     "Tools/m5emvnqg.jm3~",

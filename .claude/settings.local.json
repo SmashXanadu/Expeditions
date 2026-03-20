@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(taskkill /F /IM Tools.exe)",
+      "Bash(echo \"Exit: $?\")"
+    ]
+  }
+}
