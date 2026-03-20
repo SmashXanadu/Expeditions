@@ -2,57 +2,53 @@
 layout: default
 permalink: /GuideResources/Adversaries/Template/
 ---
-## [Adversary Template](#adversary-template)
+## [Adversary Name](#adversary-name)
 
-| | |
+**Type:** Beast / Humanoid / Undead / Etc. | **Size:** Small / Medium / Large / Huge / Gargantuan
+
+| HP | DPR | Atk | Mag | Def | Res |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| __ | __ | __ | __ | __ | __ |
+
+| Abilities | Effect |
 |:--|:--|
-| **Name** | |
-| **Type** | Beast / Humanoid / Undead / Etc. |
-| **Size** | Small / Medium / Large / Huge / Gargantuan |
-| **Description** | Short sensory snapshot (look, sound, motion — ≤ 2 sentences) |
-| **Tactics** | Behavior in combat (Ex: Roars, attacks nearest, flees ≤ ½ HP). |
+| **[Basic Attack]** | Basic attack description. |
+| **[Ability 2]** | TN__ or effect description. |
+| **[Ability 3]** | TN__ or effect description. |
 
-**Abilities:**
+**Description:**
+- Sensory detail (look / sound / smell)
+- Movement or posture
+- Habitat or environment note
 
-| # | Name | Effect |
-|:--:|:--|:--|
-| 1 | | |
-| 2 | | |
+**Tactics:**
+- Opening move
+- Follow-up behavior
+- Conditional reaction (e.g., flees at half HP)
 
-| Stat    | Val |
-| :------ | :-: |
-| **HP**  | __  |
-| **DPR** | __  |
-| **Atk** | __  |
-| **Mag** | __  |
-| **Def** | __  |
-| **Res** | __  |
-
-**Consequences:**
-
-| Context | Minor | Major |
+| Consequences | Minor | Major |
 |:--|:--|:--|
-| **Attacking** | Take 1 damage, drop your weapon, disadvantage on next attack | Sword arm maimed — permanent disadvantage on attack rolls |
-| **Defending** | Take 1 damage, lose a piece of gear, disadvantage on next action | Grievous wound — permanently lose 1 HP from max |
-| **Sneaking** | Drop an item, take 1 damage, disadvantage on next stealth roll | Badly startled — permanent disadvantage on stealth near this creature type |
-| **Fleeing** | Drop an item, take 1 damage, disadvantage on next action | Caught and savaged — permanently lose 1 HP from max |
-| **Interacting** | Lose a trade item, take 1 damage, disadvantage on next social roll | Marked as an enemy — permanently hostile reputation with this creature type |
+| **Attacking** | Take 1 damage<br>Drop your weapon<br>Disadvantage on next attack | Permanent disadvantage on attack rolls. |
+| **Defending** | Take 1 damage<br>Lose a piece of gear<br>Disadvantage on next action | Grievous wound. Permanently lose 1 HP from max. |
+| **Sneaking** | Drop an item<br>Take 1 damage<br>Disadvantage on next stealth roll | Permanent disadvantage on stealth near this creature type. |
+| **Fleeing** | Drop an item<br>Take 1 damage<br>Disadvantage on next action | Caught and savaged. Permanently lose 1 HP from max. |
+| **Interacting** | Lose a trade item<br>Take 1 damage<br>Disadvantage on next social roll | Permanently hostile reputation with this creature type. |
 
-**Loot (1d20):**
-
-| d20 | Result |
+| Loot (1d20) | Result |
 |:--:|:--|
 | 1–8 | Common gear / coin / supplies |
 | 9–14 | Useful consumable / component |
 | 15–18 | Rare / enchanted item |
 | 19–20 | Unique treasure / clue |
 
-**Modifiers (Optional):** Add / subtract values — never below 1.
+\end
 
-|           | **Name** | **Health** | **DPR** | **Atk** | **Mag** | **Def** | **Res** |
-| :-------- | :------- | :--------: | :-----: | :-----: | :-----: | :-----: | :-----: |
-| **Adv**   |          |            |         |         |         |         |         |
-| **Mod 1** |          |            |         |         |         |         |         |
-| **Mod 2** |          |            |         |         |         |         |         |
-| **Mod 3** |          |            |         |         |         |         |         |
-| **Total** |          |            |         |         |         |         |         |
+**Adversary Recipe**
+
+| | Name | HP | DPR | Atk | Mag | Def | Res |
+|:--|:--|:-:|:-:|:-:|:-:|:-:|:-:|
+| **Adv** | | | | | | | |
+| **Mod 1** | | | | | | | |
+| **Mod 2** | | | | | | | |
+| **Mod 3** | | | | | | | |
+| **Total** | | | | | | | |

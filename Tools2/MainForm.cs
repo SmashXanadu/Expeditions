@@ -127,6 +127,10 @@ public class MainForm : Form
         Controls.Add(split);
         Controls.Add(buttonBar);
 
+        Directory.CreateDirectory(_outputFolder);
+        foreach (var f in Directory.GetFiles(_outputFolder))
+            File.Delete(f);
+
         PopulateTree();
     }
 

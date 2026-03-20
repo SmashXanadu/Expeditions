@@ -41,7 +41,13 @@ public static class MarkdownPdfConverter
                     {
                         col.Spacing(4);
                         foreach (var block in document)
+                        {
+                            if (block is ParagraphBlock ep &&
+                                ep.Inline?.FirstOrDefault() is LiteralInline el &&
+                                el.Content.ToString().Trim() == @"\end")
+                                break;
                             RenderBlock(col, block);
+                        }
                     });
                 });
             }).GeneratePdf(outputPath);
@@ -109,7 +115,7 @@ public static class MarkdownPdfConverter
                 {
                     col.Item().Row(row =>
                     {
-                        row.ConstantItem(10).Text("*");
+                        row.ConstantItem(10).Text("•");
                         row.RelativeItem().Column(itemCol =>
                         {
                             itemCol.Spacing(2);
@@ -150,21 +156,51 @@ public static class MarkdownPdfConverter
         }
 
         // Multi-column tables — render with borders
-        int colCount = table.ColumnDefinitions?.Count ?? maxCellsPerRow;
+        // Derive column count from the header row, trimming any trailing empty cell
+        // that Markdig adds for the closing pipe character.
+        int colCount;
+        var headerRow = rows.FirstOrDefault(r => r.IsHeader);
+        if (headerRow != null)
+        {
+            var headerCells = headerRow.OfType<TableCell>().ToList();
+            colCount = headerCells.Count;
+            while (colCount > 0 && GetCellTextLength(headerCells[colCount - 1]) == 0)
+                colCount--;
+            if (colCount == 0)
+                colCount = table.ColumnDefinitions?.Count ?? maxCellsPerRow;
+        }
+        else
+        {
+            colCount = table.ColumnDefinitions?.Count ?? maxCellsPerRow;
+        }
+
+        var colWidths = ComputeColumnWidths(rows, colCount);
+
         col.Item().Table(tbl =>
         {
             tbl.ColumnsDefinition(cols =>
             {
-                for (int i = 0; i < colCount; i++)
-                    cols.RelativeColumn();
+                foreach (var w in colWidths)
+                {
+                    if (w < 0) cols.ConstantColumn(-w); // negative = constant pt width
+                    else cols.RelativeColumn(w);
+                }
             });
 
             foreach (TableRow row in table)
             {
                 bool isHeader = row.IsHeader;
+
+                // Skip header rows where all cells are empty (markdown table syntax artifact)
+                if (isHeader && row.OfType<TableCell>().All(cell => GetCellTextLength(cell) == 0))
+                    continue;
+
+                int cellsAdded = 0;
                 foreach (TableCell cell in row)
                 {
+                    if (cellsAdded >= colCount) break;
                     tbl.Cell()
+                        .Background(isHeader ? Colors.Grey.Lighten3 : Colors.White)
                         .Border(0.5f)
                         .Padding(3)
                         .Text(t =>
@@ -174,9 +210,82 @@ public static class MarkdownPdfConverter
                                 if (b is ParagraphBlock para)
                                     RenderInlines(t, para.Inline);
                         });
+                    cellsAdded++;
+                }
+                // Pad missing cells so the QuestPDF grid stays aligned
+                while (cellsAdded < colCount)
+                {
+                    tbl.Cell().Background(isHeader ? Colors.Grey.Lighten3 : Colors.White).Border(0.5f).Padding(3).Text("");
+                    cellsAdded++;
                 }
             }
         });
+    }
+
+    // Compute column widths. Returns float[] where:
+    //   negative value = ConstantColumn, absolute value = width in pt
+    //   positive value = RelativeColumn weight
+    //
+    // Strategy: if the header text is longer than the data (header-bound), snap to a
+    // constant width sized to the header. Otherwise use sqrt of data length so long
+    // content columns get proportionally more space without crushing shorter ones.
+    private static float[] ComputeColumnWidths(List<TableRow> rows, int colCount)
+    {
+        var headerLengths = new int[colCount];
+        var maxDataLengths = new int[colCount];
+
+        foreach (var row in rows)
+        {
+            int i = 0;
+            foreach (TableCell cell in row)
+            {
+                if (i >= colCount) break;
+                int len = GetCellTextLength(cell);
+                if (row.IsHeader)
+                    headerLengths[i] = Math.Max(headerLengths[i], len);
+                else
+                    maxDataLengths[i] = Math.Max(maxDataLengths[i], len);
+                i++;
+            }
+        }
+
+        var widths = new float[colCount];
+        for (int i = 0; i < colCount; i++)
+        {
+            int h = headerLengths[i];
+            int d = maxDataLengths[i];
+            // Header is longer than data and non-trivially long: snap to constant width.
+            // 6.5pt/char + 6pt padding comfortably fits bold header text at 8pt.
+            if (h > 6 && d <= h)
+                widths[i] = -(h * 6.5f + 6f); // negative = ConstantColumn
+            else
+                widths[i] = (float)Math.Sqrt(Math.Max(Math.Max(h, d), 8)); // positive = RelativeColumn
+        }
+        return widths;
+    }
+
+    private static int GetCellTextLength(TableCell cell)
+    {
+        int total = 0;
+        foreach (var block in cell)
+            if (block is ParagraphBlock para && para.Inline != null)
+                total += CountInlineLength(para.Inline);
+        return total;
+    }
+
+    private static int CountInlineLength(ContainerInline inlines)
+    {
+        int total = 0;
+        foreach (var inline in inlines)
+        {
+            total += inline switch
+            {
+                LiteralInline lit => lit.Content.Length,
+                ContainerInline container => CountInlineLength(container),
+                _ => 0
+            };
+        }
+        return total;
     }
 
     private static void RenderInlines(TextDescriptor text, ContainerInline? inlines, bool inheritBold = false)
@@ -211,6 +320,10 @@ public static class MarkdownPdfConverter
                 break;
 
             case LineBreakInline:
+                text.Span("\n");
+                break;
+
+            case HtmlInline html when html.Tag.Trim().ToLower() is "<br>" or "<br/>" or "<br />":
                 text.Span("\n");
                 break;
 
