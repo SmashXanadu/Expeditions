@@ -91,6 +91,12 @@ public static class MarkdownPdfConverter
                 break;
 
             case ParagraphBlock para:
+                if (para.Inline?.FirstOrDefault() is LiteralInline { } lit &&
+                    lit.Content.ToString().Trim() == @"\newpage")
+                {
+                    col.Item().PageBreak();
+                    break;
+                }
                 col.Item().Text(t => RenderInlines(t, para.Inline));
                 break;
 
