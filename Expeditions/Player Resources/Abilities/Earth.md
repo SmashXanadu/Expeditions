@@ -2,40 +2,40 @@
 layout: default
 permalink: /PlayerResources/Abilities/Earth/
 ---
-## [Earth](#Earth)
+## [Earth](#earth)
+*Connects to: Star - Volcanic - Decay*
 
-|                                                                                                                                                            |
-| :--------------------------------------------------------------------------------------------------------- |
-| **Stone Shards** |
-| *The very ground trembles as you rip jagged projectiles from the stone, launching them at your enemies.* |
-| |
-| **Type**: Magic \| **Node**: Earth \| **Charges**: 3 |
-| |
-| Conjure a hail of razor-sharp stone shards to lacerate your foes. Make a Magic attack against all enemies in a Near zone. |
+**Reshape the earth** to raise sudden ramparts, carve passages through solid rock, or stabilize treacherous ground. **Exert geological force** to trigger tremors, crush obstacles with immense weight, and command the power of the mountain.
 
-|                                                                                                                                                                                                                                                                                                                 |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Displace Earth**                                                                                                                                                                                                                                                                                              |
-| *With a flick of your wrist, you can command the very bedrock to rise*                                                                                                                                                                                                                                          |
-|                                                                                                                                                                                                                                                                                                                 |
-| **Type**: Magic \| **Node**: Earth \| **Charges**: 2                                                                                                                                                                                                                                                            |
-|                                                                                                                                                                                                                                                                                                                 |
-| Manipulate stone and earth to create small structures, repair damage, or even reshape the terrain. In combat, you may Raise a wall of earth or stone in your zone. Allies behind this wall gain Advantage against all incoming ranged attacks. This wall persist until it is destroyed or until you dismiss it. |
+**Charges:** 3
 
-|                                                                                                                                                                                                                                                                                                                                                                                             |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Living Earth**                                                                                                                                                                                                                                                                                                                                                                            |
-| *You breathe transient life into the soil and rock, temporarily summoning a loyal, lumbering golem to protect you.*                                                                                                                                                                                                                                                                         |
-|                                                                                                                                                                                                                                                                                                                                                                                             |
-| **Type**: Magic \| **Node**: Earth \| **Charges**: 5                                                                                                                                                                                                                                                                                                                                        |
-|                                                                                                                                                                                                                                                                                                                                                                                             |
-| You animate a portion of the earth, creating a temporary earth elemental to fight alongside you. This elemental has 1 health, responds to your commands, and lasts until destroyed, dismissed, or runs out of Charges.<br>**Expend a Charge** to Command your Earth Elemental to move and attack an Enemy using your Attack or Magic stat. This does not count as your action for the turn. |
+---
 
-|                                                                                                                                                            |
-| :--------------------------------------------------------------------------------------------------------- |
-| **Earthen Armor** |
-| *A thick, protective shell of compacted earth and stone instantly binds to your skin, shrugging off incoming blows.* |
-| |
-| **Type**: Magic \| **Node**: Earth \| **Charges**: 2 |
-| |
-| Encase yourself in a protective layer of hardened earth. Gain Advantage on Evade and Resist rolls for the remainder of this Combat. |
+### Basic Actions
+*Basic actions do not consume a charge.*
+
+- Shift loose soil or pebbles to draw symbols in the dirt or reveal buried metal.
+- Make the ground subtly rumble beneath your feet as a warning or deliberate signal.
+- Smooth a rough patch of stone or compact loose dirt underfoot.
+
+### Charged Actions
+*Charged actions cost a **charge** to perform.*
+
+**Attack**
+- Cause a localized tremor that knocks a specific group of enemies off-balance.
+- Petrify your skin for a moment to strike with the force and density of stone.
+
+**Utility**
+- Soften a patch of earth to create a hidden cache or a small pitfall trap.
+- Raise a waist-high stone rampart from the soil to provide instant cover.
+- Carve a narrow tunnel through ten feet of solid rock in a single motion.
+
+**Support**
+- Stabilize crumbling ground beneath an ally's feet before it gives way.
+- Raise a stone barrier to shield companions from incoming projectiles or debris.
+
+**Social**
+- Leave a hidden message carved faintly into a wall or floor, readable only by touch.
+- Produce a controlled display of shifting stone to impress or intimidate without words.
+
+[Ability List]({{site.baseurl}}/PlayerResources/Abilities/AbilityList/#ability-list)

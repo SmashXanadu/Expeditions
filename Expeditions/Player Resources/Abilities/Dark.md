@@ -2,41 +2,40 @@
 layout: default
 permalink: /PlayerResources/Abilities/Dark/
 ---
-## [Dark](#Dark)
+## [Dark](#dark)
+*Connects to: Moon - Blood - Undead - Spirit*
 
-|                                                                                                                                                            |
-| :--------------------------------------------------------------------------------------------------------- |
-| **Shadow Step** |
-| *You are able to step through the shadows and reappear in distant locations.* |
-| |
-| **Type**: Magic \| **Node**: Dark \| **Charges**: 3 |
-| |
-| Instantly move to shadowed location that you can see. |
+**Manipulate shadows** to teleport, phase through solid objects, or shroud the battlefield in blinding gloom. **Channel abyssal energy** into binding darkness or grasping tendrils that reposition creatures and objects.
 
-|                                                                                                                                         |
-| :-------------------------------------------------------------------------------------------------------------------------------------- |
-| **Shroud of Darkness**                                                                                                                  |
-| *Create a cloud of darkness to obscure vision and disorient enemies.*                                                                   |
-|                                                                                                                                         |
-| **Type**: Magic \| **Node**: Dark \| **Charges**: 2                                                                                     |
-|                                                                                                                                         |
-| Create a zone of darkness in a Near zone. Enemies in this zone have Disadvantage on all attack rolls until the start of your next turn. |
-|                                                                                                                                         |
+**Charges:** 3
 
-|                                                                                                                                                            |
-| :--------------------------------------------------------------------------------------------------------- |
-| **Become Shadow** |
-| *You are no stranger to shadows. see perfectly in the darkest natural conditions.* |
-| |
-| **Type**: Magic \| **Node**: Dark \| **Charges**: 2 |
-| |
-| Become incorporeal until the start of your next turn. While incorporeal, you are immune to physical damage, but have Disadvantage on Resist rolls, and move through solid objects. |
+---
 
-|                                                                                                                                                            |
-| :--------------------------------------------------------------------------------------------------------- |
-| **Abyssal Grasp** |
-| *Summon shadowy tendrils at a Near distance that respond to your commands and are able to interact with the world around you.* |
-| |
-| **Type**: Magic \| **Node**: Dark \| **Charges**: 4 |
-| |
-| Make a Magic Attack at near range. On success, pull the target up to 1 zone closer to you. |
+### Basic Actions
+*Basic actions do not consume a charge.*
+
+- Deepen nearby shadows to hide a small object from plain sight.
+- Dim a lantern or cause a candle flame to gutter and lean without touching it.
+- Make your own shadow move independently for a moment.
+
+### Charged Actions
+*Charged actions cost a **charge** to perform.*
+
+**Attack**
+- Shape shadows into a grasping tendril to trip a foe or restrain a limb.
+- Shroud an area in magical gloom that snuffs out all non-magical light.
+
+**Utility**
+- Blend into a dim corner to become nearly invisible to those passing by.
+- Step into one shadow and instantly emerge from another nearby.
+- Phase your physical form into a shadow-state to pass through a thin wooden door or iron bars.
+
+**Support**
+- Wrap an ally in concealing darkness, hiding them from an enemy's line of sight.
+- Cloak the party's retreat in sudden shadow, buying time to escape.
+
+**Social**
+- Slip unnoticed through a crowd by darkening your outline and muffling your footsteps.
+- Create the impression of a lurking figure in a shadowed corner to unsettle a target.
+
+[Ability List]({{site.baseurl}}/PlayerResources/Abilities/AbilityList/#ability-list)

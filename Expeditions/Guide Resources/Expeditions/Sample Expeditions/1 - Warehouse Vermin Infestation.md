@@ -1,3 +1,7 @@
+---
+layout: default
+permalink: /GuideResources/Expeditions/1/
+---
 ## Warehouse Vermin Infestation
 
 **Difficulty:** 1 Star     |     **Duration:** 1 Hour

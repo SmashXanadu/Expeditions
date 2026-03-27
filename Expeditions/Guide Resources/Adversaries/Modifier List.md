@@ -21,6 +21,7 @@ permalink: /GuideResources/Adversaries/ModifierList/
 
 | Name             | Health     | DPR         | Attack      | Magic       | Def         | Res         |
 | ---------------- | ---------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| **Abyssal**     | +**2**HP  |             |             |             | +**2**Def  | +**2**Res  |
 | **Adult**       | +**1**HP  | +**1**DPR  | +**2**Atk  | +**2**Mag  | +**2**Def  | +**2**Res  |
 | **Air**         |            |             |             | +**2**Mag  |             | +**2**Res  |
 | **Amphibious**  |            |             |             |             |             |             |
@@ -29,6 +30,8 @@ permalink: /GuideResources/Adversaries/ModifierList/
 | **Armored**     | +**1**HP  |             |             |             | +**3**Def  |             |
 | **Avian**       |            |             |             |             | +**1**Def  |             |
 | **Awakened**    | +**1**HP  |             | +**1**Atk  | +**1**Mag  | +**2**Def  | +**2**Res  |
+| **Barnacled**   |            |             |             |             | +**2**Def  |             |
+| **Bioluminescent**|          |             |             | +**2**Mag  |             |             |
 | **Blood**       |            |             |             | +**2**Mag  |             | +**2**Res  |
 | **Bone**        |            |             | +**2**Atk  |             | +**2**Def  |             |
 | **Boss**        | +**4**HP  | +**2**DPR  | +**6**Atk  | +**6**Mag  | +**6**Def  | +**6**Res  |
@@ -53,7 +56,7 @@ permalink: /GuideResources/Adversaries/ModifierList/
 | **Fire**        |            |             | +**2**Atk  | +**2**Mag  |             | +**2**Res  |
 | **Flying**      |            |             |             |             | +**2**Def  |             |
 | **Fungal**      |            |             |             | +**2**Mag  |             | +**2**Res  |
-| **Gargantuan**  | +**4**HP  | +**2**DPR  | +**4**Atk  |             | +**4**Def  |             |
+| **Gargantuan**  | +**4**HP  | +**4**DPR  | +**4**Atk  |             | +**4**Def  |             |
 | **Gaseous**     |            |             |             |             | +**4**Def  | +**2**Res  |
 | **Giant**       | +**2**HP  | +**1**DPR  | +**2**Atk  |             | +**2**Def  |             |
 | **Hell**        |            |             |             | +**2**Mag  | +**2**Def  | +**2**Res  |
@@ -63,6 +66,7 @@ permalink: /GuideResources/Adversaries/ModifierList/
 | **Ice**         |            |             |             | +**2**Mag  | +**2**Def  | +**2**Res  |
 | **Invisible**   |            |             |             |             | +**4**Def  | +**2**Res  |
 | **Iron**        | +**1**HP  |             | +**2**Atk  |             | +**4**Def  | +**2**Res  |
+| **Leviathan**   | +**6**HP  | +**4**DPR  | +**4**Atk  |             | +**4**Def  |             |
 | **Light**       |            |             |             | +**2**Mag  |             | +**2**Res  |
 | **Liquid**      |            |             |             |             | +**3**Def  | +**3**Res  |
 | **Magma**       |            |             | +**2**Atk  | +**2**Mag  |             | +**2**Res  |
@@ -73,6 +77,7 @@ permalink: /GuideResources/Adversaries/ModifierList/
 | **Plant**       |            |             |             | +**2**Mag  | +**2**Def  | +**2**Res  |
 | **Psionic**     |            |             |             |             |             |             |
 | **Radioactive** |            |             |             |             |             |             |
+| **Regenerating**| +**2**HP  |             |             |             |             | +**2**Res  |
 | **Scaled**      |            |             |             |             | +**3**Def  |             |
 | **Shadow**      |            |             |             | +**2**Mag  |             | +**2**Res  |
 | **Shielded**    |            |             |             |             | +**2**Def  |             |
@@ -88,8 +93,10 @@ permalink: /GuideResources/Adversaries/ModifierList/
 | **Teleporting** |            |             | +**2**Atk  |             | +**2**Def  | +**2**Res  |
 | **Temporal**    |            |             |             |             |             |             |
 | **Tentacled**   |            | +**1**DPR  | +**3**Atk  |             |             |             |
+| **Tidal**       |            |             |             | +**2**Mag  |             | +**2**Res  |
 | **Tiny**        | /**3**HP  | -**2**DPR | -**2**Atk |             | -**2**Def |             |
-| **Venemous**    |            | +**1**DPR  | +**1**Atk  |             |             |             |
+| **Toxic**       |            | +**1**DPR  |             | +**2**Mag  |             |             |
+| **Venomous**    |            | +**1**DPR  | +**1**Atk  |             |             |             |
 | **Water**       |            |             |             | +**2**Mag  |             | +**2**Res  |
 | **Were-**       | +**1**HP  | +**1**DPR  | +**2**Atk  | +**1**Mag  | +**2**Def  | +**1**Res  |
 | **Winged**      |            |             | +**1**Atk  |             | +**2**Def  |             |

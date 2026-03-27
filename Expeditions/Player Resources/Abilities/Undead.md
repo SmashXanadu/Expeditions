@@ -2,40 +2,40 @@
 layout: default
 permalink: /PlayerResources/Abilities/Undead/
 ---
-## [Undead](#Undead)
+## [Undead](#undead)
+*Requires Dark*
 
-|                                                                                                                                                            |
-| :--------------------------------------------------------------------------------------------------------- |
-| **Skeletal Legion** |
-| *You draw upon the latent energy of a corpse, knitting bone and sinew together to create a temporary, loyal soldier.* |
-| |
-| **Type**: Magic \| **Node**: Undead \| **Charges**: 3 |
-| |
-| You are able to raise a skeleton from a corpse that you can touch.<br>Your skeletons have 2 hit points, and a melee attack that deals 1 damage using your attack or magic modifier to roll. They do not defend or resist attacks. They act on your turn and disappear when their Health is reduced to 0 |
+**Reach beyond the veil** to command the hollow remains of the fallen or shroud yourself in a deathly, unnerving chill. **Tap into an undying resilience** that allows you to ignore wounds and persist in battle long after your body should have failed.
 
-|                                                                                                                                                            |
-| :--------------------------------------------------------------------------------------------------------- |
-| **Necrotic Leech** |
-| *You weave a shadow thread between yourself and a foe, continuously siphoning their life essence to mend your own wounds.* |
-| |
-| **Type**: Magic \| **Node**: Undead \| **Charges**: 3 |
-| |
-| You start to leech the life force from an enemy healing yourself as they continue to take damage from the necrotic energy.<br>Make a Magic attack against an enemy in Near range. On a successful hit, they take 1 necrotic damage. You steal 1 hit point at the start of each of their turns by expending additional charges. |
+**Charges:** 3
 
-|                                                                                                                                                            |
-| :--------------------------------------------------------------------------------------------------------- |
-| **Bone Armor** |
-| *A ghastly exoskeleton of enchanted bone fragments quickly fuses to your skin, providing a brief but effective shield against the next few blows.* |
-| |
-| **Type**: Magic \| **Node**: Undead \| **Charges**: 2 |
-| |
-| You weave together fragments of bone to create a macabre suit of armor, protecting yourself from harm.<br>The next two points of damage are taken by the Bone Armor instead of you. |
+---
 
-|                                                                                                                                                            |
-| :--------------------------------------------------------------------------------------------------------- |
-| **Explode Corpse** |
-| *With a surge of dark power, you cause a recently fallen body to detonate in a localized burst of corrosive, damaging energy.* |
-| |
-| **Type**: Magic \| **Node**: Undead \| **Charges**: 1 |
-| |
-| You cause a corpse to explode in a burst of necrotic energy, damaging nearby enemies.<br>Target a corpse in a Near zone. Everyone in the zone takes 2 damage. |
+### Basic Actions
+*Basic actions do not consume a charge.*
+
+- Chill the air around you and cause nearby flames to flicker and pull toward you.
+- Sense the presence of the recently dead or undead creatures in the immediate area.
+- Cause the faint smell of cold earth and decay to emanate from your presence.
+
+### Charged Actions
+*Charged actions cost a **charge** to perform.*
+
+**Attack**
+- Command skeletal hands to claw up from the ground and seize a target in place.
+- Instill a supernatural fear in nearby enemies that causes them to freeze or flee.
+
+**Utility**
+- Raise a fallen corpse to serve you briefly as a distraction, barrier, or simple laborer.
+- Temporarily become resistant to physical harm, shrugging off a wound that would cripple you.
+- Animate a corpse to perform a specific task — carrying, guarding, or scouting a short distance.
+
+**Support**
+- Use deathly energy to numb an ally's pain, allowing them to push through injuries.
+- Shield an ally behind a raised corpse that absorbs incoming attacks.
+
+**Social**
+- Project a deathly presence that makes living creatures deeply, instinctively uncomfortable.
+- Use residual impressions left on a recent corpse to piece together what they witnessed before death.
+
+[Ability List]({{site.baseurl}}/PlayerResources/Abilities/AbilityList/#ability-list)

@@ -2,40 +2,40 @@
 layout: default
 permalink: /PlayerResources/Abilities/Ice/
 ---
-## [Ice](#Ice)
+## [Ice](#ice)
+*Requires Water*
 
-|                                                                                                                                                                                                                                                                                           |
-| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Frost Lance**                                                                                                                                                                                                                                                                           |
-| *You condense moisture into a needle of freezing cold and launch it through the air*                                                                                                                                                                                                      |
-|                                                                                                                                                                                                                                                                                           |
-| **Type**: Magic \| **Node**: Ice \| **Charges**: 2                                                                                                                                                                                                                                        |
-|                                                                                                                                                                                                                                                                                           |
-| Make a **Magic attack** against an enemy in **Near range**. On success, the primary target takes **1 cold damage**. **Pierce:** If another enemy is roughly in line with the primary target, make a separate **Magic attack** against them; on success, they also take **1 cold damage**. |
+**Pull the heat from the air** to freeze water into bridges, create jagged defensive spikes, or coat the ground in a sheet of ice. **Seal your enemies in a frozen tomb** or shroud yourself in a rime of frost that shatters any weapon that dares to strike you.
 
-|                                                                                                                                                  |
-| :----------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Hail**                                                                                                                                         |
-| *The air above a distant area turns turbulent, unleashing a sudden, localized barrage of hard, freezing ice.*                                    |
-|                                                                                                                                                  |
-| **Type**: Magic \| **Node**: Ice \| **Charges**: 2                                                                                               |
-|                                                                                                                                                  |
-| You summon a barrage of icy hail, pelting your enemies with freezing projectiles.<br>Target all enemies in a Near zone. They take 1 cold damage. |
+**Charges:** 3
 
-|                                                                                                                                                                                                                                                                                                 |
-| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Glacial Prison**                                                                                                                                                                                                                                                                              |
-| *Ice crystals erupt from the ground, encasing a target in a tomb of solid frost.*                                                                                                                                                                                                               |
-|                                                                                                                                                                                                                                                                                                 |
-| **Type**: Magic \| **Node**: Ice \| **Charges**: 3                                                                                                                                                                                                                                              |
-|                                                                                                                                                                                                                                                                                                 |
-| Make a **Magic attack** against an enemy in **Near range**. On success, the enemy is **unable to act** and takes **1 cold damage** at the start of each of their turns. **Sustained:** Maintain this effect by spending **1 charge** at the start of each subsequent turn (no action required). |
+---
 
-|                                                                                                                                                                               |
-| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Shatter**                                                                                                                                                                   |
-| *You manipulate the structural weakness of ice, causing a frozen target to fragment into deadly shards.*                                                                      |
-|                                                                                                                                                                               |
-| **Type**: Magic \| **Node**: Ice \| **Charges**: 3                                                                                                                            |
-|                                                                                                                                                                               |
-| Target an enemy in Near range that is currently affected by a cold effect. They take 2 cold damage. On a critical hit, they shatter into pieces and are completely destroyed. |
+### Basic Actions
+*Basic actions do not consume a charge.*
+
+- Frost over a small surface or chill the surrounding air with a thought.
+- Sense temperature differences to detect warm bodies through walls or in darkness.
+- Leave a precise ice mark or pattern on a surface as a signal or trail marker.
+
+### Charged Actions
+*Charged actions cost a **charge** to perform.*
+
+**Attack**
+- Freeze the ground into a slippery sheet of ice across an enemy's path.
+- Launch razor-sharp shards of ice at a target with force and speed.
+
+**Utility**
+- Encapsulate an enemy's legs in solid ice, rooting them completely in place.
+- Create a bridge or wall of thick ice capable of bearing significant weight.
+- Coat yourself in armor made of jagged frost that damages anything that strikes you.
+
+**Support**
+- Flash-freeze a wound to slow dangerous bleeding on an injured ally.
+- Create a solid wall of ice between allies and pursuing enemies.
+
+**Social**
+- Project an aura of cold, precise calm that lowers the temperature of a heated exchange.
+- Use controlled ice formation to create a striking display of precision and restraint.
+
+[Ability List]({{site.baseurl}}/PlayerResources/Abilities/AbilityList/#ability-list)

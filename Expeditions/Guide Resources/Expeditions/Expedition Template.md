@@ -1,3 +1,7 @@
+---
+layout: default
+permalink: /GuideResources/Expeditions/Template/
+---
 ## Expedition Title
 
 **Difficulty:** X Star     |     **Duration:** X Hour

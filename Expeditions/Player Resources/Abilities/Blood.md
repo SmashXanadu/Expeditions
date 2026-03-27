@@ -2,40 +2,40 @@
 layout: default
 permalink: /PlayerResources/Abilities/Blood/
 ---
-## [Blood](#Blood)
+## [Blood](#blood)
+*Requires Dark, Water, or Nature*
 
-|                                                                                                                                                            |
-| :--------------------------------------------------------------------------------------------------------- |
-| **Vampiric Touch** |
-| *Drain the life force from your enemies, healing yourself in the process.* |
-| |
-| **Type**: Magic \| **Node**: Blood \| **Charges**: 2 |
-| |
-| Make a Magic attack against an enemy in Close range. On Success, the target takes damage, and you regain a number of hit points equal to the damage dealt. |
+**Sense the pulse of life** within those around you, tracking their movement through the heat and flow of their veins. **Control blood** to quicken your own recovery or sap the strength from your enemies by turning their own life force against them.
 
-|                                                                                                                                                            |
-| :--------------------------------------------------------------------------------------------------------- |
-| **Coagulate** |
-| *Cause blood to coagulate quickly, stopping bleeding or causing immense pain to your enemies.* |
-| |
-| **Type**: Magic \| **Node**: Blood \| **Charges**: 2 |
-| |
-| Make a Magic Attack roll at Near range. On Success, the target take damage and is unable to act on their next turn. |
+**Charges:** 3
 
-|                                                                                                                                    |
-| :--------------------------------------------------------------------------------------------------------------------------------- |
-| **Bend Blood**                                                                                                                     |
-| *Control the flow of blood, manipulating the bodies of your enemies like puppets.*                                                 |
-|                                                                                                                                    |
-| **Type**: Magic \| **Node**: Blood \| **Charges**: 2                                                                               |
-|                                                                                                                                    |
-| Make a Magic attack at Near range. On Success, you control your target this turn and may force them to move and or take an action. |
+---
 
-|                                                                                                                                                                                                                       |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Siphon Life**                                                                                                                                                                                                       |
-| *Transfer and drain the life force to and from creatures.*                                                                                                                                                            |
-|                                                                                                                                                                                                                       |
-| **Type**: Magic \| **Node**: Blood \| **Charges**: 2                                                                                                                                                                  |
-|                                                                                                                                                                                                                       |
-| Choose one of the following...<br>- Choose a number of health to give from yourself to a Near Ally<br>- Make a Magic Attack roll against a Near target. On Success, deal 1 damage and heal yourself or an ally for 1. |
+### Basic Actions
+*Basic actions do not consume a charge.*
+
+- Sense the heartbeat of nearby creatures through walls or in complete darkness.
+- Feel the warmth of fresh wounds to determine how recently a location was occupied.
+- Detect the presence of living creatures in a room before entering it.
+
+### Charged Actions
+*Charged actions cost a **charge** to perform.*
+
+**Attack**
+- Force an enemy's blood to surge painfully, weakening their body and slowing their movement.
+- Cause an enemy's limbs to stiffen as their blood momentarily locks in place.
+
+**Utility**
+- Track a wounded creature unerringly by sensing the trail of their bleeding.
+- Drain vitality from a wounded foe and redirect that strength into your own body.
+- Accelerate your own circulation to rapidly recover from a fresh wound.
+
+**Support**
+- Channel vital energy from the environment into a gravely wounded ally.
+- Stabilize a bleeding companion's wounds by slowing the flow from outside their body.
+
+**Social**
+- Demonstrate an unnerving awareness of a target's physical state — pulse, temperature, stress level.
+- Use the calm implication of what you could do with this power to change the tone of a room.
+
+[Ability List]({{site.baseurl}}/PlayerResources/Abilities/AbilityList/#ability-list)

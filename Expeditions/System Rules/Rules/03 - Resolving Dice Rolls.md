@@ -3,7 +3,7 @@ layout: default
 permalink: /Rules/3/
 ---
 # [Resolving Dice Rolls](#resolving-dice-rolls)
-When you try to do something with an uncertain outcome, your **Guide** will set a **target number** for you to beat. This number will be between 8 (easy) and 25 (almost impossible).
+When you try to do something with an uncertain outcome, your **Guide** will set a **target number** for you to beat. This number will usually be between 8 (Trivial) and 18 (Very Hard).
 
 To find out if you succeed, follow these steps:
 
@@ -18,8 +18,8 @@ To find out if you succeed, follow these steps:
 
 **Critical Rolls**
 
-- **A roll of 1** (before adding any bonuses) is always a **Failure** with a **Major Complication**.
-- **A roll of 20** (before adding any bonuses) is always a **Success** with a **Major Benefit**.
+- **A roll of 1** (before adding any bonuses) is always a **Critical Failure** — you fail and suffer a **Major Complication** with no way to avoid it. You cannot spend a complication to turn this into a success.
+- **A roll of 20** (before adding any bonuses) is always a **Critical Success** with a **Major Benefit**.
 
 **Succeeding with Complications**
 

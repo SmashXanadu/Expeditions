@@ -2,40 +2,40 @@
 layout: default
 permalink: /PlayerResources/Abilities/Sun/
 ---
-## [Sun](#Sun)
+## [Sun](#sun)
+*Requires Nature or Light*
 
-|                                                                                                                                                            |
-| :--------------------------------------------------------------------------------------------------------- |
-| **Sun Beam** |
-| *You focus the blistering heat of the sun into a visible, concentrated ray that sears a single enemy.* |
-| |
-| **Type**: Magic \| **Node**: Sun \| **Charges**: 3 |
-| |
-| You unleash a concentrated beam of solar energy, searing your enemies.<br>Make a Magic attack against an enemy in Near range. On a successful hit, they take 1 damage and are blinded until the start of your next turn. |
+**Focus the blinding glare of the sun** to sear away impurities, destroy the corrupt, and provide a beacon of safety for your allies. **Invoke the solar fire** to burn with an unquenchable intensity that empowers your strikes and cleanses the world of darkness.
 
-|                                                                                                                                                            |
-| :--------------------------------------------------------------------------------------------------------- |
-| **Daylight** |
-| *You summon forth a localized, intense emulation of high noon, instantly dispelling shadows and magical obscurity.* |
-| |
-| **Type**: Magic \| **Node**: Sun \| **Charges**: 2 |
-| |
-| You dispel magical darkness and illuminate the surrounding area with the power of the sun.<br>Dispel any magical darkness in a Near zone. |
+**Charges:** 3
 
-|                                                                                                                                                            |
-| :--------------------------------------------------------------------------------------------------------- |
-| **Solar Flare** |
-| *You call forth a catastrophic, momentary burst of solar energy that scorches everything nearby.* |
-| |
-| **Type**: Magic \| **Node**: Sun \| **Charges**: 1 |
-| |
-| You unleash a burst of intense solar energy, incinerating your foes.<br>Target all enemies in a Near zone. They take 2 damage. |
+---
 
-|                                                                                                                                                            |
-| :--------------------------------------------------------------------------------------------------------- |
-| **Warmth** |
-| *A gentle, restorative solar radiation flows from you, mending an ally's injuries and rekindling their spirit.* |
-| |
-| **Type**: Magic \| **Node**: Sun \| **Charges**: 2 |
-| |
-| You emanate a comforting warmth, healing wounds and bolstering morale.<br>Choose an ally within Near range. They regain 1 hit point and gain Advantage on their next roll. |
+### Basic Actions
+*Basic actions do not consume a charge.*
+
+- Create a warm ray of directed sunlight that brightens a small, specific area.
+- Sense the direction and position of the sun through heavy cloud cover or underground.
+- Warm an object or surface with concentrated solar heat in moments.
+
+### Charged Actions
+*Charged actions cost a **charge** to perform.*
+
+**Attack**
+- Blind enemies in a wide arc with a sudden, intense flash of solar light.
+- Ignite a sustained beam of searing sunlight onto a distant, specific target.
+
+**Utility**
+- Burn away poison, disease, or magical corruption from an object or surface entirely.
+- Empower your next attack with blazing solar fire that ignites on contact.
+- Create a radiant pillar of light visible for miles as a signal or landmark beacon.
+
+**Support**
+- Provide sustained warmth and light to a freezing, lightless environment for the party.
+- Cleanse a corrupting or debilitating effect from an ally using focused solar energy.
+
+**Social**
+- Create a dramatic display of radiant sunlight to command immediate attention and silence.
+- Use the appearance of a solar effect to lend weight to a declaration, warning, or ceremony.
+
+[Ability List]({{site.baseurl}}/PlayerResources/Abilities/AbilityList/#ability-list)

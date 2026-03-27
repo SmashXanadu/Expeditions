@@ -30,6 +30,6 @@ permalink: /Playtest/Sira/
 | **Legs:** | [Cloth Pants]({{site.baseurl}}/PlayerResources/Equipment/Armor/ClothPants/) (0 Durability, 0 Speed) | |
 | **Feet:** | [Leather Boots]({{site.baseurl}}/PlayerResources/Equipment/Armor/LeatherBoots/) (1 Durability, -1 Speed) | |
 
-**Abilities: ** **[Fire]({{site.baseurl}}/PlayerResources/Abilities/Fire/#Fire)**, and **Choose One** Adjacent [Node](https://raw.githubusercontent.com/SmashXanadu/Expeditions/refs/heads/main/images/HeroGridSheet.png)
+**Abilities:** **[Fire]({{site.baseurl}}/PlayerResources/Abilities/Fire/#Fire)**, and **Choose One** Adjacent [Node](https://raw.githubusercontent.com/SmashXanadu/Expeditions/refs/heads/main/images/HeroGridSheet.png)
 
 *Need help? See [Preparing Your Premade Character]({{site.baseurl}}/Playtest/Prepare/)*

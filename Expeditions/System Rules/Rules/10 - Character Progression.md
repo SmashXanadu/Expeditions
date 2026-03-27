@@ -18,9 +18,19 @@ As you gain EXP, you'll mark off boxes on your character sheet. These boxes give
 - **Circle**: This lets you unlock a new **Node** on the **Hero Grid** and learn the four abilities associated with it.
 
 ## [Managing Equipment](#managing-equipment)
-Your character has a set number of slots for **Weapons** and **Armor**.
+Your character has the following equipment slots:
 
-- **Weapons** and **Armor** have durability, and some may have penalties to your speed  based on the armor type (**Light**, **Medium**, or **Heavy**). They can also have magical properties.
+| Slot | Type |
+|:--|:--|
+| **Main Hand** | Weapon or Shield |
+| **Off Hand** | Weapon or Shield |
+| **Head** | Armor |
+| **Chest** | Armor |
+| **Hands** | Armor |
+| **Legs** | Armor |
+| **Feet** | Armor |
+
+- **Weapons** and **Armor** have **Durability**, and some may have penalties to your **Speed**. They can also have magical properties.
 - Your **Inventory** can hold up to 10 unequipped items.
 - **Gold** is the currency you use to buy and sell items.
 

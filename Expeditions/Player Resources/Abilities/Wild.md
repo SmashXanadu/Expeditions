@@ -2,40 +2,42 @@
 layout: default
 permalink: /PlayerResources/Abilities/Wild/
 ---
-## [Wild](#Wild)
+## [Wild](#wild)
+*Requires Unarmored*
 
-|                                                                                                                                                            |
-| :--------------------------------------------------------------------------------------------------------- |
-| **Rage** |
-| *You willingly surrender to your primal fury, granting immense power and resilience at the cost of your natural caution.* |
-| |
-| **Type**: Attack \| **Node**: Wild \| **Charges**: N/A |
-| |
-| At the start of your turn, choose to Enter a **Rage**. While in a Rage...<br>1. You deal **1 additional damage** on all successful attacks.<br>2. You take **1 additional damage** from all sources.<br>3. You **cannot be knocked unconscious**.<br><br>Whenever you start your turn in a Rage, choose to leave the Rage before taking any other actions. |
+**Let your instincts take over** to move with unpredictable speed, reacting to danger before you even have time to think. **Unleash a frantic assault** that overwhelms your target's defenses through raw, chaotic energy and relentless aggression.
 
-|                                                                                                                                                            |
-| :--------------------------------------------------------------------------------------------------------- |
-| **Bloodlust** |
-| *Wounds only feed your aggression, making you more dangerous and accurate the moment you taste your own blood.* |
-| |
-| **Type**: Attack \| **Node**: Wild \| **Charges**: 4 |
-| |
-| When you have less than Max health, **Expend a Charge** Attack with **advantage**. |
+- You gain an **extra attack** each turn in combat.
 
-|                                                                                                                                                            |
-| :--------------------------------------------------------------------------------------------------------- |
-| **Wild Charge** |
-| *You sprint across the battlefield with the unstoppable force of a predator, closing the distance for a devastating first strike.* |
-| |
-| **Type**: Attack \| **Node**: Wild \| **Charges**: 3 |
-| |
-| Move up to **3 zones** and make a **melee attack with Advantage** against an enemy at the end of your movement. |
+**Charges:** 3
 
-|                                                                                                                                                                                                                                                                                       |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Furious Frenzy**                                                                                                                                                                                                                                                                    |
-| *Your killing strike feeds your fury, allowing you to chain devastating attacks against multiple nearby foes as long as you maintain your murderous momentum.*                                                                                                                        |
-|                                                                                                                                                                                                                                                                                       |
-| **Type**: Attack \| **Node**: Wild \| **Charges**: 5                                                                                                                                                                                                                                  |
-|                                                                                                                                                                                                                                                                                       |
-| Make an **Attack roll** against a target. If your target dies from this attack, you may immediately use this ability again to attack another target in your zone. You may continue this until you attack a target and it doesn't die, or until you decide not to **Expend a Charge**. |
+---
+
+### Basic Actions
+*Basic actions do not consume a charge.*
+
+- Bare your teeth, pound your chest, or let out a savage roar that unnerves nearby enemies.
+- Move with unpredictable, erratic energy that makes your intentions impossible to read.
+- Explode into sudden motion — a sprint, a leap, a feint — that catches everyone nearby off-guard.
+
+### Charged Actions
+*Charged actions cost a **charge** to perform.*
+
+**Attack**
+- Launch into a flurry of strikes that overwhelms an enemy's guard through sheer relentless volume.
+- Leap onto a large foe's back and pummel them with reckless, uncontrolled fury.
+
+**Utility**
+- Sprint through difficult terrain like a hunting beast without losing any speed.
+- Continue fighting through a wound that would normally drop you to the ground.
+- Tackle an enemy and send both of you crashing across the battlefield to reach a new position.
+
+**Support**
+- Let out a battle cry that emboldens nearby allies and causes nearby enemies to hesitate.
+- Draw every enemy's attention with an explosive display of fury, taking pressure off your allies.
+
+**Social**
+- Use feral, unpredictable behavior to make a hostile group reconsider their approach entirely.
+- Channel barely-contained ferocity to project an aura of danger that needs no further explanation.
+
+[Ability List]({{site.baseurl}}/PlayerResources/Abilities/AbilityList/#ability-list)

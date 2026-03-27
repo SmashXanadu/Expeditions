@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /Playtest/Prepare/
+permalink: /Playtest/GuidePrep/
 ---
 1. Choose one of the available quick start scenarios
 2. Print Updated Materials

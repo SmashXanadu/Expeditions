@@ -2,40 +2,40 @@
 layout: default
 permalink: /PlayerResources/Abilities/Explosion/
 ---
-## [Explosion](#Explosion)
+## [Explosion](#explosion)
+*Requires Fire or Electric*
 
-|                                                                                                                                                            |
-| :--------------------------------------------------------------------------------------------------------- |
-| **Disrupting Blast** |
-| *You detonate a burst of pure energy, specifically tuned to unravel and shatter ambient magical forces.* |
-| |
-| **Type**: Magic \| **Node**: Explosion \| **Charges**: 2 |
-| |
-| Unleash a small explosion of energy that disrupts the flow of magic.<br>Target an enemy in Near range with a Magic Attack. On Success, their Magic stat is reduced by 5 until your next turn and any active magical effects that they are maintaining are broken. |
+**Condense energy into a volatile point** before letting it detonate with a force that levels structures and clears the battlefield. **Trigger chain reactions** that turn a single spark into a series of rolling blasts, ensuring nothing is left standing in the wake of your fire.
 
-|                                                                                                                                                                                                             |
-| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Sonic Boom**                                                                                                                                                                                              |
-| *You clap or slam your hand down, generating a shockwave of compressed air that deafens and disorients nearby foes.*                                                                                        |
-|                                                                                                                                                                                                             |
-| **Type**: Magic \| **Node**: Explosion \| **Charges**: 2                                                                                                                                                    |
-|                                                                                                                                                                                                             |
-| Create an extremely loud and powerful sonic wave that stuns and disorients your enemies. Make a Magic Roll against everyone in your zone. On Success, they take a damage and cannot act on their next turn. |
+**Charges:** 3
 
-|                                                                                                                                                                                                                     |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Fireball**                                                                                                                                                                                                        |
-| *A conjured orb of searing flame hurtles toward your enemy, culminating in a violent, fiery eruption.*                                                                                                              |
-|                                                                                                                                                                                                                     |
-| **Type**: Magic \| **Node**: Explosion \| **Charges**: 4                                                                                                                                                            |
-|                                                                                                                                                                                                                     |
-| Target an enemy in Near range with a Magic Attack. On success, they take a damage and are set on fire. While on fire, they take 1 fire damage at the start of each of their turns until they extinguish the flames. |
+---
 
-|                                                                                                                                                            |
-| :--------------------------------------------------------------------------------------------------------- |
-| **Living Bomb** |
-| *By imbuing a creature with volatile energy, you turn them into a walking fuse, primed for a devastating detonation.* |
-| |
-| **Type**: Magic \| **Node**: Explosion \| **Charges**: 2 |
-| |
-| Touch a creature or object at Close range. They are a living bomb. At any point in this combat trigger the bomb to explode dealing damage to the target and everyone in their zone. |
+### Basic Actions
+*Basic actions do not consume a charge.*
+
+- Compress a tiny spark of unstable energy in your palm that crackles and shifts visibly.
+- Cause a small, controlled pop of pressure that rattles a door or shakes a surface.
+- Create a brief, harmless flash and bang with no structural force behind it.
+
+### Charged Actions
+*Charged actions cost a **charge** to perform.*
+
+**Attack**
+- Detonate a fiery blast that knocks enemies backward and ignites the surrounding area.
+- Launch an explosive projectile that detonates on impact with devastating force.
+
+**Utility**
+- Blast apart a door, wall, or barricade entirely in a single detonation.
+- Trigger a chain reaction through connected flammable material across a wide area.
+- Ignite every flammable object in a wide area simultaneously with a single pulse.
+
+**Support**
+- Use a directed explosion to clear debris blocking an ally's path or only available exit.
+- Create a distracting detonation that pulls attention completely away from a companion's action.
+
+**Social**
+- Detonate a controlled explosion near — not at — a target to make a negotiating point.
+- Let the visible charge building in your hands serve as a threat that doesn't need to be carried out.
+
+[Ability List]({{site.baseurl}}/PlayerResources/Abilities/AbilityList/#ability-list)

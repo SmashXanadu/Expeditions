@@ -2,40 +2,40 @@
 layout: default
 permalink: /PlayerResources/Abilities/Electric/
 ---
-## [Electric](#Electric)
+## [Electric](#electric)
+*Connects to: Storm - Explosion*
 
-|                                                                                                                                                                                                                    |
-| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Shock**                                                                                                                                                                                                          |
-| *You can channel raw electrical energy into a bolt, designed to short-circuit the enemy's nervous system.*                                                                                                         |
-|                                                                                                                                                                                                                    |
-| **Type**: Magic \| **Node**: Electric \| **Charges**: 2                                                                                                                                                            |
-|                                                                                                                                                                                                                    |
-| Unleash a bolt of electricity to shock and stun your enemies.<br>Make a Magic attack against an enemy in Near range. On success, the target takes 1 damage and is unable to act until the start of your next turn. |
+**Channel electrical current** to sharpen your reflexes and overload your physical output. **Harness high-voltage force**, turning your body into a living conductor ready to discharge a devastating arc at anything within reach.
 
-|                                                                                                                                                            |
-| :--------------------------------------------------------------------------------------------------------- |
-| **Live Wire** |
-| *By supercharging your own body, you become a buzzing conduit of electrical power, making every physical touch a shock.* |
-| |
-| **Type**: Magic \| **Node**: Electric \| **Charges**: 2 |
-| |
-| Electrify your body, becoming a living conductor of electricity until the end of this combat or after 10 minutes. You are immune to electricity damage. While electrified, you deal 1 additional lightning damage with your weapon attacks. |
+**Charges:** 3
 
-|                                                                                                                                                                                                                                                                                                                                         |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Overload**                                                                                                                                                                                                                                                                                                                            |
-| *You manipulate the target's internal energies, causing a system failure in foes or granting a surge of power to allies.*                                                                                                                                                                                                               |
-|                                                                                                                                                                                                                                                                                                                                         |
-| **Type**: Magic \| **Node**: Electric \| **Charges**: 2                                                                                                                                                                                                                                                                                 |
-|                                                                                                                                                                                                                                                                                                                                         |
-| You have the ability to supercharge your target, beneficially or to overload their system.<br>Do one of the following: 1. Make a Magic attack against an enemy in Near range. On a successful hit, they have -10 Resistance until your next turn. **2.** Supercharge an ally, giving them Advantage and +1 damage on their next attack. |
+---
 
-|                                                                                                                                                            |
-| :--------------------------------------------------------------------------------------------------------- |
-| **Chain Lightning** |
-| *A bolt of lightning bursts from your hands, leaping from one foe to the next in a devastating cascade of electrical fury.* |
-| |
-| **Type**: Magic \| **Node**: Electric \| **Charges**: 2 |
-| |
-| Launch a bolt of lightning, striking your enemies with devastating force and leaping from target to target.<br>Make a Magic roll against a target. On success, deal damage and attack another target at close range from your original target. Continue this until you fail an attack roll or run out of unique targets at close range. |
+### Basic Actions
+*Basic actions do not consume a charge.*
+
+- Crackle static electricity across your fingers to spark metal or light dry tinder.
+- Make nearby hair and cloth rise with the charge building around you.
+- Send a faint tingle through a surface to test whether it conducts.
+
+### Charged Actions
+*Charged actions cost a **charge** to perform.*
+
+**Attack**
+- Discharge a focused arc that jumps between two enemies standing close together.
+- Maintain a crackling aura that shocks anyone who attempts to touch or strike you.
+
+**Utility**
+- Surge your reflexes with electrical energy to move in a single blurring dash.
+- Magnetize a heavy metallic object, pulling it toward you or pinning an armored foe to a surface.
+- Disrupt a mechanical lock or device with a precise, controlled jolt.
+
+**Support**
+- Jolt a stunned or unconscious ally back to awareness with a careful pulse.
+- Charge a metal barrier to discourage enemies from grabbing or crossing it.
+
+**Social**
+- Crackle visibly with electricity to project an unmistakable air of threat.
+- Use controlled sparks to signal or communicate in short bursts across a distance.
+
+[Ability List]({{site.baseurl}}/PlayerResources/Abilities/AbilityList/#ability-list)

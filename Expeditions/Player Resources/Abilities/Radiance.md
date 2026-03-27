@@ -2,40 +2,40 @@
 layout: default
 permalink: /PlayerResources/Abilities/Radiance/
 ---
-## [Radiance](#Radiance)
+## [Radiance](#radiance)
+*Requires Light*
 
-|                                                                                                                                                            |
-| :--------------------------------------------------------------------------------------------------------- |
-| **Blinding Light** |
-| *You unleash a brief but overwhelming flash of pure white light, temporarily searing the enemy's vision.* |
-| |
-| **Type**: Magic \| **Node**: Radiance \| **Charges**: 2 |
-| |
-| Create a sudden burst of light to disorient or illuminate.<br>Make a Magic attack against all enemies in your zone. On success, they are blinded until the start of your next turn. They have -5 to their Attack and Defense. |
+**Emit a piercing glow** that blinds attackers and makes it impossible for the wicked to hide their true intentions. **Flood the area with holy brilliance** to create a sanctuary where allies feel no fear and enemies are scorched by the light of truth.
 
-|                                                                                                                                                                                                                                                                               |
-| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Radiate**                                                                                                                                                                                                                                                                   |
-| *A warm, luminous energy pulses outward from you, driving back shadows while granting strength and focus to your allies.*                                                                                                                                                     |
-|                                                                                                                                                                                                                                                                               |
-| **Type**: Magic \| **Node**: Radiance \| **Charges**: 3                                                                                                                                                                                                                       |
-|                                                                                                                                                                                                                                                                               |
-| Emanate a powerful aura of warm radiant energy, bolstering allies and weakening enemies. All **allies in your zone** gain **+2** to all **attack rolls**. All **enemies within Near range** have **-2** to all **Evade rolls**. This lasts until the start of your next turn. |
+**Charges:** 3
 
-|                                                                                                                                                                                 |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Scorching Ray**                                                                                                                                                               |
-| *You focus the power of the sun into a needle-thin beam of searing light that brands your foe.*                                                                                 |
-|                                                                                                                                                                                 |
-| **Type**: Magic \| **Node**: Radiance \| **Charges**: 2                                                                                                                         |
-|                                                                                                                                                                                 |
-| Make a Magic attack against an enemy in Near range. On a successful hit, they take 1 radiant damage and all allies have Advantage on attacks against them until your next turn. |
+---
 
-|                                                                                                                                                                                                                                                                                                                      |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Holy Ground**                                                                                                                                                                                                                                                                                                      |
-| *You bless an area, infusing the earth with divine energy that heals your friends and scourges the unnatural foe.*                                                                                                                                                                                                   |
-|                                                                                                                                                                                                                                                                                                                      |
-| **Type**: Magic \| **Node**: Radiance \| **Charges**: 2                                                                                                                                                                                                                                                              |
-|                                                                                                                                                                                                                                                                                                                      |
-| Target a **Near zone**. **Allies** within the zone regain **1 hit point** at the start of each of their turns. **Undead** enemies within the zone take **1 radiant damage** at the start of each of their turns. **Sustained:** Maintain this effect by spending **1 charge** at the start of each subsequent round. |
+### Basic Actions
+*Basic actions do not consume a charge.*
+
+- Cause your body to glow faintly and steadily, like a lantern that cannot be extinguished.
+- Make a surface briefly radiate with intense light, exposing anything resting against it.
+- Project a focused ray of light that reveals hidden things in the narrow beam.
+
+### Charged Actions
+*Charged actions cost a **charge** to perform.*
+
+**Attack**
+- Release a blinding burst of holy light that sears and disorients all enemies facing you.
+- Surround yourself with a radiant aura that damages anyone who attempts to strike you.
+
+**Utility**
+- Reveal invisible or hidden enemies within a wide, brilliantly illuminated area.
+- Fill a wide area with cleansing brilliance that eliminates every shadow completely.
+- Mark an enemy with burning light that exposes them even through walls or total darkness.
+
+**Support**
+- Create a sanctuary of radiant light that gives allies confidence and makes enemies hesitate.
+- Purge fear, paralysis, or corruption from a companion using a focused burst of holy brilliance.
+
+**Social**
+- Emit a commanding radiance that projects authority, righteousness, or divine favor to observers.
+- Use the dramatic visual impact of radiant light to establish credibility or reverence in a crowd.
+
+[Ability List]({{site.baseurl}}/PlayerResources/Abilities/AbilityList/#ability-list)

@@ -2,40 +2,40 @@
 layout: default
 permalink: /PlayerResources/Abilities/Volcanic/
 ---
-## [Volcanic](#Volcanic)
+## [Volcanic](#volcanic)
+*Requires Fire or Earth*
 
-|                                                                                                                                                            |
-| :--------------------------------------------------------------------------------------------------------- |
-| **Sunder Earth** |
-| *You command the bedrock to split, opening a jagged, dangerous maw of earth beneath your foes.* |
-| |
-| **Type**: Magic \| **Node**: Volcanic \| **Charges**: 2 |
-| |
-| You crack the earth, creating fissures and chasms.<br>Create a fissure in a Near zone. Enemies that enter the fissure take 2 damage. |
+**Stoke the molten heat beneath the surface** to crack the earth, releasing plumes of ash and flows of liquid stone. **Channel the pressure of the mountain** into explosive bursts of magma and suffocating heat that transform the terrain into a scorched wasteland.
 
-|                                                                                                                                                            |
-| :--------------------------------------------------------------------------------------------------------- |
-| **Earthquake** |
-| *With a stomp or a gesture, you unleash a shockwave that violently rattles the ground, causing enemies to stumble or fall into existing dangers.* |
-| |
-| **Type**: Magic \| **Node**: Volcanic \| **Charges**: 2 |
-| |
-| You cause the ground to shake violently, disrupting your enemies' balance.<br>Target a zone within Near range. All enemies in that zone either: take 1 damage or fall into a fissure. |
+**Charges:** 3
 
-|                                                                                                                                                            |
-| :--------------------------------------------------------------------------------------------------------- |
-| **Lava Spray** |
-| *You launch a cone of molten rock and ash that sears enemies at close range, hardening their skin and weakening their armor.* |
-| |
-| **Type**: Magic \| **Node**: Volcanic \| **Charges**: 2 |
-| |
-| You unleash a burst of molten lava, burning your foes.<br>Make a Magic attack against all close enemies. If successful, they take 1 damage and have their Defense reduced by 5 until your next turn. |
+---
 
-|                                                                                                                                                            |
-| :--------------------------------------------------------------------------------------------------------- |
-| **Eruption** |
-| *You conjure a miniature volcanic blast, raining scorching debris upon an area and leaving the ground dangerously hot.* |
-| |
-| **Type**: Magic \| **Node**: Volcanic \| **Charges**: 2 |
-| |
-| You cause a volcanic eruption, spewing forth fire and ash.<br>Target all enemies within a Near zone. They take 1 damage. Anyone standing in this zone at the end of their turn takes an additional damage. Lasts until your next turn. |
+### Basic Actions
+*Basic actions do not consume a charge.*
+
+- Warm nearby stone until faint, radiating heat emanates from its surface.
+- Sense volcanic activity or magma channels moving beneath the ground underfoot.
+- Cause a thin fissure of heat to crack open in stone, glowing faintly at its edges.
+
+### Charged Actions
+*Charged actions cost a **charge** to perform.*
+
+**Attack**
+- Crack the ground open with a burst of molten lava directly beneath a target's feet.
+- Launch a glob of magma that sticks on impact and burns intensely.
+
+**Utility**
+- Release a choking cloud of volcanic ash that obscures vision across a wide area.
+- Turn a section of terrain into dangerously hot stone, controlling where enemies can safely stand.
+- Cause a violent eruption beneath a specific point, hurling debris and earth into the air.
+
+**Support**
+- Use the heat of the earth to warm a freezing companion without requiring fire or fuel.
+- Create a lava flow barrier behind a retreating group to cut off any pursuit.
+
+**Social**
+- Cause the ground to rumble and crack beneath your feet to make a point without further words.
+- Use knowledge of volcanic geography to guide or warn a group traveling in dangerous terrain.
+
+[Ability List]({{site.baseurl}}/PlayerResources/Abilities/AbilityList/#ability-list)

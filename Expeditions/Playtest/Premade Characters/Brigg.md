@@ -28,7 +28,7 @@ permalink: /Playtest/Brigg/
 | **Chest:**         | [Chainmail Shirt]({{site.baseurl}}/PlayerResources/Equipment/Armor/ChainmailShirt/) (3 Durability, -2 Speed)       |               |
 | **Hands:**         | -                                                                                                                  |               |
 | **Legs:**          | [Chainmail Leggings]({{site.baseurl}}/PlayerResources/Equipment/Armor/ChainmailLeggings/) (2 Durability, -2 Speed) |               |
-| **Feet:**          | [Steel Boots]({{site.baseurl}}/PlayerResources/Equipment/Armor/Steel Boots/) (2 Durability, -2 Speed)              |               |
+| **Feet:**          | [Steel Boots]({{site.baseurl}}/PlayerResources/Equipment/Armor/SteelBoots/) (2 Durability, -2 Speed)               |               |
 
 **Abilities:** **[2 Handed Weapons]({{site.baseurl}}/PlayerResources/Abilities/2HandedWeapons/#2-Handed-Weapons)**, and **Choose One** Adjacent [Node](https://raw.githubusercontent.com/SmashXanadu/Expeditions/refs/heads/main/images/HeroGridSheet.png)
 

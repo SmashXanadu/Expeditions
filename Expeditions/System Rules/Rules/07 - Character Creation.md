@@ -8,15 +8,15 @@ Creating your character is done in six simple steps. Follow the steps below and 
 
 ### The Steps At a Glance:
 
-1. **Set Your Speed:** Your base **Speed** is 20.
+1. **Set Your Base Stats:** Your base **Speed** is 20 and your base **Health** is 2.
 2. **Choose a Feature Set** (Optional): Pick a set of features that fits your character's background.
 3. **Choose a Size:** Select a size (**Small**, **Medium**, or **Large**) and adjust your **Speed** or **Health**.
 4. **Choose a Starting Node:** Select a starting point on the Hero Grid to determine your first abilities.
-5. **Choose 4 General Skills:** Pick four skills from the list to start with, setting each to +0.
+5. **Set Your Skills:** Your **Attack**, **Magic**, **Evade**, and **Resist** skills all start at **+0**. Then choose 4 **General Skills** from the list, each also starting at **+0**.
 6. **Choose a Starting Equipment Set:** Select a pre-made set of gear to begin your journey.
 
-### [1. Speed](#feature-sets)
-Everyone starts with a **Speed** of 20.
+### [1. Health & Speed & ](#speed)
+Everyone starts with a **Health** of 2 and a **Speed** of 20.
   
 ### [2. (Optional) Feature Set](#feature-set)
 You may choose one or more features from a set below that describe your character's look or heritage.
@@ -59,8 +59,10 @@ This is your character's starting specialization. You will learn the correspondi
 - **[Light]({{site.baseurl}}/PlayerResources/Abilities/Light/#Light)**
 - **[Dark]({{site.baseurl}}/PlayerResources/Abilities/Dark/#Dark)**
 
-### [5. General Skills](#generalskills)
-Choose any four skills from this list. Each starts at +0.
+### [5. Skills](#generalskills)
+Your **Attack**, **Magic**, **Evade**, and **Resist** skills all start at **+0**.
+
+Then choose any four **General Skills** from this list. Each also starts at **+0**.
 
 - **[Careful]({{site.baseurl}}/PlayerResources/Skills/Careful/#Careful)**: You have nimble hands, patience, and attention to detail.
 - **[Charismatic]({{site.baseurl}}/PlayerResources/Skills/Charismatic/#Charismatic)**: You have a way with words and use them well.

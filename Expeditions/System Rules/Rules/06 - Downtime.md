@@ -9,7 +9,7 @@ During each Downtime phase, every player performs the **Standard Activities** an
 
 ## [Standard Downtime Activities](#standard-downtime-activities)
 - **Rest**: Fully restore your **Health** and all **Ability Charges**.
-- **Prepare**: Change your **Skills**, **Equipment**, and **Items**.
+- **Prepare**: Swap out your **Equipment** and **Items**. You may also release one of your current **Skills** and replace it with a new skill starting at **+0**.
 
 ## [Optional Downtime Activities (Choose 2)](#optional-downtime-activities)
 - **Repair**: Attempt to repair damaged equipment.

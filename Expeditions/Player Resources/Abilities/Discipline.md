@@ -1,41 +1,43 @@
 ---
 layout: default
-permalink: /PlayerResources/Abilities/Discipline/
+permalink: /PlayerResources/Abilities/Disciplined/
 ---
-## [Discipline](#Discipline)
+## [Disciplined](#disciplined)
+*Requires Unarmored*
 
-|                                                                                         |
-| :-------------------------------------------------------------------------------------- |
-| **Disengage**                                                                           |
-| *You utilize precise footwork and calculated movements to escape dangerous situations.* |
-|                                                                                         |
-| **Type**: Attack \| **Node**: Discipline \| **Charges**: 2                              |
-|                                                                                         |
-| Make an attack, then move up to 2 zones away.                                           |
+**Sharpen your focus** to anticipate every strike, moving with a calm precision that makes you nearly impossible to pin down. **Master your breathing** to remain steady under pressure, ensuring every counterattack is perfectly timed and every movement is intentional.
 
-|                                                              |
-| :----------------------------------------------------------- |
-| **Unerring Focus**                                           |
-| *You can turn a wild miss into a carefully adjusted attack.* |
-|                                                              |
-| **Type**: Attack \| **Node**: Discipline \| **Charges**: N/A |
-|                                                              |
-| Once per turn reroll a critical fail on an attack roll.      |
+- +1 **Evade**
 
-|                                                                                                                                                            |
-| :--------------------------------------------------------------------------------------------------------- |
-| **Deflect Missiles** |
-| *Your keen senses and agility allow you to anticipate and deflect incoming projectiles.* |
-| |
-| **Type**: Attack \| **Node**: Discipline \| **Charges**: 3 |
-| |
-| After successfully Evading a ranged attack, deflect the projectile back to the attacker, dealing damage to them instead. |
+**Charges:** 3
 
-|                                                                                                                                                                            |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Mental Fortitude**                                                                                                                                                       |
-| *Through rigorous mental training, you've developed a powerful resistance to magical and psychic assaults. Enemies are unable to read your thoughts or control your mind.* |
-|                                                                                                                                                                            |
-| **Type**: Attack \| **Node**: Discipline \| **Charges**: 2                                                                                                                 |
-|                                                                                                                                                                            |
-| Gain Advantage on all Resist rolls until the start of your next turn. Does not use your action.<br>Enemies are unable to read your thoughts or control your mind.          |
+---
+
+### Basic Actions
+*Basic actions do not consume a charge.*
+
+- Slow your breathing and steady your stance, ignoring distractions and minor pain.
+- Maintain perfect stillness in a tense standoff, outlasting a rival's composure.
+- Observe an opponent's movements for a moment to read their habits and openings.
+
+### Charged Actions
+*Charged actions cost a **charge** to perform.*
+
+**Attack**
+- Predict an enemy's next move and counterattack the instant they fully commit.
+- Redirect an opponent's momentum, sending them stumbling past you into a hazard.
+
+**Utility**
+- Slip past a flurry of attacks with perfect footwork, avoiding every strike cleanly.
+- Maintain flawless balance on a narrow ledge or unstable surface during active combat.
+- Calm your body entirely and ignore the effects of fear, panic, or intimidation.
+
+**Support**
+- Model a composed stance that steadies a panicked ally fighting beside you.
+- Hold a critical position long enough for an ally to regroup and return.
+
+**Social**
+- Project absolute calm in a hostile negotiation, refusing to be rattled by any provocation.
+- Demonstrate control so precise that it visibly unsettles an opponent's confidence.
+
+[Ability List]({{site.baseurl}}/PlayerResources/Abilities/AbilityList/#ability-list)

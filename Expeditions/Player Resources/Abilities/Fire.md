@@ -2,40 +2,40 @@
 layout: default
 permalink: /PlayerResources/Abilities/Fire/
 ---
-## [Fire](#Fire)
+## [Fire](#fire)
+*Connects to: Star - Explosion - Volcanic*
 
-|                                                                                                                                                                                                                                                                         |
-| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Living Flame**                                                                                                                                                                                                                                                        |
-| *Your body becomes a sheath of flickering, non-consuming fire, turning you into a fiery shield.*                                                                                                                                                                        |
-|                                                                                                                                                                                                                                                                         |
-| **Type**: Magic \| **Node**: Fire \| **Charges**: 3 [ ][ ][ ]                                                                                                                                                                                                           |
-|                                                                                                                                                                                                                                                                         |
-| Instantly sheathe yourself in flames. You are **immune** to non-magical fire damage. Any creature attacking you takes **1 damage** in return. The effect lasts until your next turn and can be extended each subsequent turn by spending 1 charge (no action required). |
+**Manipulate flame** to create light, alter environments, forge tools, or unleash sudden heat. **Channel raging fire** into controlled blasts, spreading infernos, or sustained burns that reshape terrain.
 
-|                                                                                                                                                                                                                      |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Ignite**                                                                                                                                                                                                           |
-| *With a glance or a pointed finger, you cause combustible materials—or unfortunate foes—to spontaneously combust.*                                                                                                   |
-|                                                                                                                                                                                                                      |
-| **Type**: Magic \| **Node**: Fire \| **Charges**: N/A                                                                                                                                                                |
-|                                                                                                                                                                                                                      |
-| Effortlessly start a fire or ignite something at near range. Attack an enemy with a Magic attack. On success, they are burning and take 1 damage at the start of each of their turns until the fire is extinguished. |
+**Charges:** 3
 
-|                                                                                                                                                                               |
-| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Wall of Fire**                                                                                                                                                              |
-| *A searing, instantaneous curtain of flame erupts from the ground, dividing the battlefield and punishing those who dare cross it.*                                           |
-|                                                                                                                                                                               |
-| **Type**: Magic \| **Node**: Fire \| **Charges**: 2 [ ][ ]                                                                                                                    |
-|                                                                                                                                                                               |
-| Create a wall of flame up to 10 feet high and 50 feet long. This wall effectively splits a zone into two zones. Anyone that moves through or touches the wall takes 1 damage. |
+---
 
-|                                                                                                                                                                |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Control Flames**                                                                                                                                             |
-| *You demonstrate perfect mastery over fire, shaping it with merely a thought. You are able to manipulate larger flames with some maintained focus and effort.* |
-|                                                                                                                                                                |
-| **Type**: Magic \| **Node**: Fire \| **Charges**: 3 [ ][ ][ ]                                                                                                  |
-|                                                                                                                                                                |
-| Attack and enemy with a magical fireball. On a success, the fireball explodes dealing damage to the target and anyone within close range.                      |
+### Basic Actions
+*Basic actions do not consume a charge.*
+
+- Conjure a flicker of flame to light a torch or ignite dry tinder.
+- Heat your hands against bitter cold without an external fire source.
+- Make embers dance across your palm in controlled, deliberate patterns.
+
+### Charged Actions
+*Charged actions cost a **charge** to perform.*
+
+**Attack**
+- Hurl a focused bolt of fire that ignites flammable objects and surfaces on impact.
+- Unleash an explosive burst of heat that knocks back all nearby creatures.
+
+**Utility**
+- Heat a metal object until it is too hot to hold or too soft to hold shape.
+- Create a wall of dancing flames that provides cover and deters anyone from crossing.
+- Melt a hole through a thick metal plate or stone slab over the course of a few seconds.
+
+**Support**
+- Warm a freezing companion back from the edge of hypothermia with sustained, controlled heat.
+- Provide a reliable source of light and warmth in a lightless, frigid environment for an extended time.
+
+**Social**
+- Produce a dramatic burst of colored flame to silence a room and command attention.
+- Signal across a great distance with a column of smoke or a high, bright flash.
+
+[Ability List]({{site.baseurl}}/PlayerResources/Abilities/AbilityList/#ability-list)

@@ -3,7 +3,17 @@ layout: default
 permalink: /Rules/11/
 ---
 # [General Skills](#general-skills)
-**General Skills** represent your character's natural talents and learned abilities. You'll use these skills for actions outside of combat, or whenever your Guide asks for a **Skill Check**.
+
+## [Core Skills](#core-skills)
+Every character starts with these four skills at **+0**. They are used in combat and cannot be removed.
+
+- **Attack:** You strike with weapons and physical abilities. Used to hit enemies in melee or ranged combat.
+- **Magic:** You channel arcane or elemental power. Used to hit enemies with magical abilities.
+- **Evade:** You avoid incoming danger through speed and sharp reflexes. Rolled when an enemy makes a physical attack against you.
+- **Resist:** You endure magical forces and effects through will and resilience. Rolled when an enemy uses a magical ability against you.
+
+## [General Skills](#general-skill-list)
+**General Skills** represent your character's natural talents and learned abilities. You choose **4** of these at character creation, each starting at **+0**. They are used for skill checks in and out of combat.
 
 Here's a list of available General Skills:
 

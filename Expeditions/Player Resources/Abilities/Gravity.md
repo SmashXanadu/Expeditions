@@ -2,40 +2,40 @@
 layout: default
 permalink: /PlayerResources/Abilities/Gravity/
 ---
-## [Gravity](#Gravity)
+## [Gravity](#gravity)
+*Requires Air or Earth*
 
-|                                                                                                                                                                                                                                |
-| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Crushing Weight**                                                                                                                                                                                                            |
-| *You intensify the pull of gravity around a foe, pinning them down and making their armor feel like lead.*                                                                                                                     |
-|                                                                                                                                                                                                                                |
-| **Type**: Magic \| **Node**: Gravity \| **Charges**: 2                                                                                                                                                                         |
-|                                                                                                                                                                                                                                |
-| Choose one: **1.** Make a Magic attack (Near range); on success, deal damage and render the enemy **immobile** until your next turn. **2.** Target a Near zone; all enemies in the zone are **immobile** until your next turn. |
+**Command gravity itself** to make yourself light enough to leap great heights or heavy enough to crush the floor beneath you. **Create localized wells of force** that pin enemies to the dirt or pull distant objects into your waiting hand.
 
-|                                                                                                                                                                                                                                                                           |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Levitate**                                                                                                                                                                                                                                                              |
-| *You negate local gravity, allowing a target to drift helplessly upward*                                                                                                                                                                                                  |
-|                                                                                                                                                                                                                                                                           |
-| **Type**: Magic \| **Node**: Gravity \| **Charges**: 2                                                                                                                                                                                                                    |
-|                                                                                                                                                                                                                                                                           |
-| Manipulate gravity to lift yourself or others. Choose one: **1.** Make a **Magic attack** (Near range); on success, the enemy is **lifted** (all attacks against them gain Advantage) until your next turn. **2.** Lift yourself to launch up to **2 zones away** safely. |
+**Charges:** 3
 
-|                                                                                                                                                                                                                                       |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Kinetic Tether**                                                                                                                                                                                                                    |
-| *You weave invisible lines of force between objects*                                                                                                                                                                                  |
-|                                                                                                                                                                                                                                       |
-| **Type**: Magic \| **Node**: Gravity \| **Charges**: 3                                                                                                                                                                                |
-|                                                                                                                                                                                                                                       |
-| Choose one: **1.** Make a **Magic attack** (Near range); on success, deal damage and **pull** the enemy toward you. **2.** Create a **tether** between two Near range objects, preventing them from **moving away** from one another. |
+---
 
-|                                                                                                                                                                                                                                    |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Disintegration Beam**                                                                                                                                                                                                            |
-| *You project a focused field of extreme gravitational collapse, tearing matter apart at the atomic level.*                                                                                                                         |
-|                                                                                                                                                                                                                                    |
-| **Type**: Magic \| **Node**: Gravity \| **Charges**: 1                                                                                                                                                                             |
-|                                                                                                                                                                                                                                    |
-| Create a field of intense gravity to break apart matter. Target an enemy in **Near range** with a **Magic Attack**. On success, the enemy takes **double damage**. On critical success, the enemy is **completely disintegrated**. |
+### Basic Actions
+*Basic actions do not consume a charge.*
+
+- Make a small object feel slightly heavier or lighter in your hand with a thought.
+- Sense unusual gravitational anomalies or structural weak points in a surface or floor.
+- Cause a loose object to float gently for a moment before releasing it.
+
+### Charged Actions
+*Charged actions cost a **charge** to perform.*
+
+**Attack**
+- Increase gravity around an enemy, pinning them to the ground and preventing movement.
+- Slam a creature to the ground with sudden, crushing gravitational force from above.
+
+**Utility**
+- Make yourself nearly weightless and leap incredible distances in a single bound.
+- Pull a distant object rapidly into your hand without moving.
+- Create a gravity well that drags nearby creatures or loose objects toward its center.
+
+**Support**
+- Lighten the load of an encumbered ally to fully restore their speed and mobility.
+- Anchor an ally to the ground so they cannot be knocked prone or forcibly displaced.
+
+**Social**
+- Float casually above the ground to make a clear, wordless point about your capabilities.
+- Use subtle gravitational shifts to make a target feel physically uneasy and off-balance.
+
+[Ability List]({{site.baseurl}}/PlayerResources/Abilities/AbilityList/#ability-list)

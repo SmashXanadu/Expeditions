@@ -2,40 +2,40 @@
 layout: default
 permalink: /PlayerResources/Abilities/Psychic/
 ---
-## [Psychic](#Psychic)
+## [Psychic](#psychic)
+*Requires Spirit*
 
-|                                                                                                                                                                                                                                                                                            |
-| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Inject Thought**                                                                                                                                                                                                                                                                         |
-| *You subtly slip a specific command or hallucination into the enemy's mind, tricking them into following your suggestion.*                                                                                                                                                                 |
-|                                                                                                                                                                                                                                                                                            |
-| **Type**: Magic \| **Node**: Psychic \| **Charges**: N/A                                                                                                                                                                                                                                   |
-|                                                                                                                                                                                                                                                                                            |
-| You can implant thoughts and suggestions into the minds of your enemies, manipulating their actions.<br>Describe the specific thought you try to inject into their mind. Make a Magic attack against an enemy in Near range. On a successful hit, your Guide will describe their behavior. |
+**Project your thoughts into the minds of others** to send silent messages, plant suggestions, or strike with a mental assault. **Erect a mental barrier** to shield your psyche from intrusion while detecting the hidden intentions of everyone in the room.
 
-|                                                                                                                                                            |
-| :--------------------------------------------------------------------------------------------------------- |
-| **Mind Blast** |
-| *You unleash a non-physical surge of mental static, stunning nearby minds and disrupting any delicate mental tasks.* |
-| |
-| **Type**: Magic \| **Node**: Psychic \| **Charges**: 2 |
-| |
-| You unleash a wave of psychic energy, overwhelming your enemies' minds.<br>Target all enemies in a Near zone. They take 1 psychic damage and lose focus or concentration on any spell or act that they are performing. |
+**Charges:** 3
 
-|                                                                                                                                                            |
-| :--------------------------------------------------------------------------------------------------------- |
-| **Dominate Will** |
-| *You seize control of a target's consciousness, turning their body into a puppet momentarily forced to follow your commands.* |
-| |
-| **Type**: Magic \| **Node**: Psychic \| **Charges**: 2 |
-| |
-| You exert your will over the mind of another, forcing them to obey your commands.<br>Make a Magic attack against an enemy in Near range. On a successful hit, they are charmed until the start of your next turn. While charmed, they will obey your simple commands. |
+---
 
-|                                                                                                                                                            |
-| :--------------------------------------------------------------------------------------------------------- |
-| **Telekinesis** |
-| *With focused mental effort, you apply an invisible, precise force to an object, moving it as easily as if you held it in your hand.* |
-| |
-| **Type**: Magic \| **Node**: Psychic \| **Charges**: 5 |
-| |
-| You can manipulate objects with your mind, moving them without touching them.<br>Push or pull an object within Near range up to 1 zone. The object must be no bigger than you. |
+### Basic Actions
+*Basic actions do not consume a charge.*
+
+- Send a clear, silent thought to any creature you can currently see.
+- Detect the presence of active thoughts or strong emotions in a nearby area.
+- Sense whether a specific creature is currently aware of your presence.
+
+### Charged Actions
+*Charged actions cost a **charge** to perform.*
+
+**Attack**
+- Blast an enemy's mind with a wave of psychic pain that shatters their concentration.
+- Project a terrifying mental image that forces a target to act irrationally and immediately.
+
+**Utility**
+- Read a creature's surface thoughts to learn their exact immediate intentions.
+- Implant a brief, simple mental suggestion that feels entirely like the target's own idea.
+- Detect all hidden minds nearby, including invisible, concealed, or disguised creatures.
+
+**Support**
+- Create a mental shield that blocks psychic intrusion for yourself or a nearby ally.
+- Share a rapid burst of silent tactical information with a companion in an instant.
+
+**Social**
+- Project a sense of calm authority and trustworthiness directly into a target's mind.
+- Sense the truthfulness of a statement by reading the emotional resonance behind it.
+
+[Ability List]({{site.baseurl}}/PlayerResources/Abilities/AbilityList/#ability-list)

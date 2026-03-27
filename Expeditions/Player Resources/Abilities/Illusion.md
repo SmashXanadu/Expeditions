@@ -2,40 +2,40 @@
 layout: default
 permalink: /PlayerResources/Abilities/Illusion/
 ---
-## [Illusion](#Illusion)
+## [Illusion](#illusion)
+*Requires Spirit*
 
-|                                                                                                                                                            |
-| :--------------------------------------------------------------------------------------------------------- |
-| **Invisibility** |
-| *You bend light and shadow around yourself, momentarily vanishing from sight to escape or reposition.* |
-| |
-| **Type**: Magic \| **Node**: Illusion \| **Charges**: 3 |
-| |
-| You render yourself unseen, blending seamlessly into your surroundings.<br>Become invisible for 1 minute or until the start of your next turn. While invisible, you cannot make attacks or cast spells, but you can still move and take other actions. |
+**Weave light and sound into decoys** that distract the eye and lure enemies into traps or away from your true position. **Blur the lines of reality** until your foes can no longer trust their own senses.
 
-|                                                                                                                                                            |
-| :--------------------------------------------------------------------------------------------------------- |
-| **Illusions** |
-| *With practiced ease, you conjure a sensory deception—a silent sound or a visual phantom—to distract and mislead.* |
-| |
-| **Type**: Magic \| **Node**: Illusion \| **Charges**: N/A |
-| |
-| You conjure realistic illusions to deceive and mislead your foes.<br>Create a visual or auditory illusion in a Near zone. You must make a magic roll against enemies who attempt to interact with the illusion On a success, they are deceived by the illusion. |
+**Charges:** 3
 
-|                                                                                                                                                            |
-| :--------------------------------------------------------------------------------------------------------- |
-| **Confuse Senses** |
-| *You bombard a target's mind with false inputs, twisting their reality until they can no longer trust their own eyes or ears.* |
-| |
-| **Type**: Magic \| **Node**: Illusion \| **Charges**: 3 |
-| |
-| You distort your enemies' perceptions, making it difficult for them to distinguish reality from illusion.<br>Make a Magic attack against an enemy in Near range. On a successful hit, describe how you confuse their senses and your Guide will describe how your target behaves. |
+---
 
-|                                                                                                                                                            |
-| :--------------------------------------------------------------------------------------------------------- |
-| **Mirage** |
-| *You extend your deceptive power across a massive area, replacing the landscape with a perfect, believable phantom.* |
-| |
-| **Type**: Magic \| **Node**: Illusion \| **Charges**: N/A |
-| |
-| You create a large-scale illusion, altering the appearance of the surrounding environment.<br>Create a large illusionary effect in a Near or Far zone, changing the appearance of the terrain or creating false objects. This illusion lasts until you dismiss it. |
+### Basic Actions
+*Basic actions do not consume a charge.*
+
+- Create a faint visual or sound illusion no larger than a small object.
+- Alter the apparent color, texture, or markings of a small nearby surface.
+- Make a faint sound, footstep, or voice seem to originate from another location.
+
+### Charged Actions
+*Charged actions cost a **charge** to perform.*
+
+**Attack**
+- Make an enemy believe the ground beneath them has collapsed, causing them to react as though falling.
+- Conjure an illusory threat so convincing it causes a foe to panic and break position.
+
+**Utility**
+- Create a realistic illusion of yourself running in another direction.
+- Hide a doorway, passage, or object behind a seamless, convincing visual illusion.
+- Turn yourself briefly invisible to anyone not actively and carefully searching for you.
+
+**Support**
+- Disguise an ally's appearance convincingly enough to allow them to pass undetected.
+- Create an illusory double to draw fire or attention away from a vulnerable companion.
+
+**Social**
+- Alter your own appearance convincingly enough to impersonate a known individual.
+- Use illusions of wealth, status symbols, or authority to reshape how others perceive you.
+
+[Ability List]({{site.baseurl}}/PlayerResources/Abilities/AbilityList/#ability-list)

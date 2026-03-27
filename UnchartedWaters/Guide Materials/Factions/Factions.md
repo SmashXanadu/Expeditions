@@ -40,6 +40,7 @@ The Gilded Union is a massive, bureaucratic network of trade lords who control t
 
 ### **The Black Fleet**
 *Pirates*
+The Black Fleet is less a navy and more a ghost story. They operate through misdirection, disguise, and a network of informants embedded in the Gilded Union's shipping crews — striking without warning and vanishing without trace. They do not consider themselves criminals. In their view, they are the ocean's only honest residents, stripping away the false legitimacy of merchants and warlords who claim to own water that belongs to no one.
 
 - **Ship:** _Black Talon_ – A sleek, black-sailed schooner built for extreme speed. It sits low in the water, making it nearly invisible at night or in heavy fog.
 - **Leader:** Captain Vane the Shadow, a pirate known for boarding ships without firing a single cannon.
@@ -47,12 +48,12 @@ The Gilded Union is a massive, bureaucratic network of trade lords who control t
 - **Motivation:** To dismantle the Gilded Union’s grip on the ocean and live truly free of any law or king.
 - **Hook:** The _Black Talon_ has captured a royal envoy, and the party is hired to either rescue the envoy or negotiate a ransom before the "Talon" disappears.
 
-### **The Arcane Circle**
+### **The Tidal Conclave**
 *Mages*
-The Circle is an elitist society of scholars and mystics who draw their power from the celestial bodies and the pull of the tides. They remain largely reclusive, emerging from their crystalline observatories only to intervene when the cosmic balance of the world is threatened.
+The Conclave is an elitist society of scholars and mystics who draw their power from the celestial bodies and the pull of the tides. They remain largely reclusive, emerging from their crystalline observatories only to intervene when the cosmic balance of the world is threatened.
 - **Ship:** _Silver Crescent_ – An elegant, slender ship made of white marble and silvered timber. It leaves a glowing wake of moonlight behind it, and its sails seem to catch wind even when none exists.
 - **Leader:** High Oracle Selene, a blind seer who navigates purely by the pull of the tides.
-- **Location:** **The Siren’s Rest** – The Mages are the keepers of the pink-marbled ruins. They study the melodic resonance of the island and are the only ones who truly understand how to maintain the "Peace-Bond" enchantment.
+- **Location:** **The Siren’s Rest** – The Conclave are the keepers of the pink-marbled ruins. They study the melodic resonance of the island and are the only ones who truly understand how to maintain the "Peace-Bond" enchantment.
 - **Motivation:** To study the celestial alignments and harness the power of the moon to control the world’s tides and currents.
 - **Hook:** The moon has turned blood-red, and the _Silver Crescent_ is desperately seeking ancient star charts that are said to be held in a pirate-controlled archive.
 
@@ -75,3 +76,17 @@ The Coalition is an industrial powerhouse stationed atop volatile volcanic vents
 - **Location:** **Rustreach Crag** – The Coalition owns the vertical mine shafts of the Crag. Their industrial balconies and steam-powered cranes dominate the jagged rock's face, turning the "broken tooth" of stone into a vertical factory.
 - **Motivation:** To provide the metal and fuel necessary for the other factions to build their ships and weapons.
 - **Hook:** A volcanic vent has begun erupting uncontrollably, threatening to sink the mining colony; the _Copper Ember_ needs brave souls to go down and stabilize the pressure.
+
+---
+
+## Faction Tensions
+
+| Factions | Relationship | Notes |
+|---|---|---|
+| **Gilded Union** ↔ **Black Fleet** | Enemies | Aurelia has a standing bounty on Vane's head. Vane has sunk three Union flagships in retaliation. This is the ocean's defining political conflict. |
+| **Iron Legion** ↔ **Gilded Union** | Allied (contracted) | The Legion serves as the Union's naval enforcement arm. Well-paid and loyal — for now. |
+| **Black Fleet** ↔ **Iron Legion** | Hostile | Any Legion captain who takes Union coin is, in Vane's view, a traitor to the sea. Skirmishes are common. |
+| **Verdant Circle** ↔ **Copper Coalition** | Hostile | The Circle considers the Coalition's volcanic extraction a slow murder of the ocean floor. Raids near Rustreach Crag are escalating. |
+| **Deep Crawlers** ↔ **Tidal Conclave** | Tense rivalry | Both claim authority over Old World relics. The Crawlers recover them; the Mages believe they belong in their observatories. No open war yet. |
+| **Horizon Chasers** ↔ **Iron Legion** | Uneasy | The Legion wants Elara's charts — complete maps of hidden routes are worth a fortune to whoever controls the contracts to patrol them. Elara knows it. |
+| **Tidal Conclave** ↔ **Verdant Circle** | Cautious alliance | Both oppose unchecked exploitation of natural forces, but distrust each other's methods. They cooperate only when the threat is large enough. |

@@ -2,40 +2,43 @@
 layout: default
 permalink: /PlayerResources/Abilities/Brawler/
 ---
-## [Brawler](#Brawler)
+## [Brawler](#brawler)
+*Requires Unarmored*
 
-|                                                                                                              |
-| :----------------------------------------------------------------------------------------------------------- |
-| **Blind**                                                                                                    |
-| *Use a sudden, sharp strike aimed not to wound but to blind your foe.*                                       |
-|                                                                                                              |
-| **Type**: Attack \| **Node**: Brawler \| **Charges**: 2                                                      |
-|                                                                                                              |
-| Make a Melee Attack against an enemy. On Success, they have Disadvantage on all attacks on their next round. |
+**Turn your whole body into a weapon** to deliver crushing headbutts, grapples, and strikes that ignore an enemy's reach. **Thrive in the middle of a scrap** by using your environment and dirty tactics to keep opponents off-balance and reeling.
 
-|                                                                                                  |
-| :----------------------------------------------------------------------------------------------- |
-| **Improvised Weapons**                                                                           |
-| *The world around you is your arsenal. If you can lift it, you can swing it.*                    |
-|                                                                                                  |
-| **Type**: Attack \| **Node**: Brawler \| **Charges**: 5                                          |
-|                                                                                                  |
-| If you are wielding something that is not traditionally used as a weapon, Attack with Advantage. |
+- Gain **advantage** on attacks with improvised weapons.
+- Gain **advantage** on all grapples, shoves, and unarmed maneuvers.
 
-|                                                                       |
-| :-------------------------------------------------------------------- |
-| **Grappler**                                                          |
-| *You are able to effortlessly exploit a foe's momentum and balance.*  |
-|                                                                       |
-| **Type**: Attack \| **Node**: Brawler \| **Charges**: 5               |
-|                                                                       |
-| Gain Advantage on a roll related to grappling, throwing, or toppling. |
+**Charges:** 3
 
-|                                                                                                          |
-| :------------------------------------------------------------------------------------------------------- |
-| **Fist Fighting**                                                                                        |
-| *You are a master of the bare knuckle, finding the precise moment and angle to land a devastating blow.* |
-|                                                                                                          |
-| **Type**: Attack \| **Node**: Brawler \| **Charges**: N/A                                                |
-|                                                                                                          |
-| You gain +3 to all melee attacks done while not wielding any weapons.                                    |
+---
+
+### Basic Actions
+*Basic actions do not consume a charge.*
+
+- Grab a nearby object — a chair, bottle, or rock — and wield it like a natural extension of your arm.
+- Size up an opponent's footing and posture to find an easy throw, trip, or takedown.
+- Roll your shoulders and crack your knuckles in a way that communicates serious, immediate intent.
+
+### Charged Actions
+*Charged actions cost a **charge** to perform.*
+
+**Attack**
+- Deliver a crushing headbutt that leaves your opponent dazed and unable to act cleanly.
+- Lock an opponent in a brutal grapple, preventing them from escaping or using their weapon.
+
+**Utility**
+- Grab an enemy and slam them into a wall, table, or the ground with full force.
+- Use a piece of the environment as a weapon — swing from a lantern to crash into a foe.
+- Knock an enemy's legs out from under them with a low, sweeping tackle.
+
+**Support**
+- Physically drag a downed ally out of a dangerous position in the middle of a fight.
+- Throw yourself into a brawl to pull enemy attention completely away from a vulnerable companion.
+
+**Social**
+- Use your scarred appearance and brawler's reputation to skip a negotiation entirely.
+- Demonstrate casual, effortless strength — snapping a bar, lifting a table — to establish dominance.
+
+[Ability List]({{site.baseurl}}/PlayerResources/Abilities/AbilityList/#ability-list)

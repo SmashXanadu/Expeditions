@@ -100,7 +100,7 @@ The Silver Crescent is an elegant, slender ship made of white marble-infused tim
 
 ### Associated Faction
 
-The Arcane Circle
+The Tidal Conclave
 
 ---
 

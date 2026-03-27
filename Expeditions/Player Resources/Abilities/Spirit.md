@@ -2,40 +2,40 @@
 layout: default
 permalink: /PlayerResources/Abilities/Spirit/
 ---
-## [Spirit](#Spirit)
+## [Spirit](#spirit)
+*Connects to: Psychic - Illusion*
 
-|                                                                                                                                                            |
-| :--------------------------------------------------------------------------------------------------------- |
-| **Whispers with the Dead** |
-| *You willingly open yourself to the fading echoes of a lost soul, drawing forgotten knowledge from beyond the veil.* |
-| |
-| **Type**: Magic \| **Node**: Spirit \| **Charges**: 3 |
-| |
-| You commune with the spirits of the deceased, gaining insights and knowledge.<br>Gain knowledge from a spirit. Ask a question to a dead target in close range. They will answer to the best of their knowledge. |
+**Attune to the ethereal** to sense lingering emotions, project your thoughts, or feel the weight of a room's atmosphere. **Quiet the conscious mind** to perceive the world's hidden vibrations and bridge the gap between the physical and the unseen.
 
-|                                                                                                                                                            |
-| :--------------------------------------------------------------------------------------------------------- |
-| **Haunt** |
-| *You summon a localized, terrifying manifestation of the departed to assail an enemy's mind and force them to flee in terror.* |
-| |
-| **Type**: Magic \| **Node**: Spirit \| **Charges**: 2 |
-| |
-| You summon a spectral presence to terrify and disorient your foes.<br>Make a Magic attack against an enemy in Near range. On a successful hit, they will run away from you and take no other action on their next turn. |
+**Charges:** 3
 
-|                                                                                                                                                            |
-| :--------------------------------------------------------------------------------------------------------- |
-| **Spiritual Counsel** |
-| *You channel the accumulated wisdom and skill of ancestral spirits, briefly enhancing your own capabilities.* |
-| |
-| **Type**: Magic \| **Node**: Spirit \| **Charges**: 2 |
-| |
-| You channel the wisdom of ancient spirits, offering guidance and protection.<br>Name a specific type of roll, Ex: Attack, Magic, Evade. You gain advantage on all rolls of that type for the rest of combat or for 1min out of combat. |
+---
 
-|                                                                                                                                                            |
-| :--------------------------------------------------------------------------------------------------------- |
-| **Ethereal Guardian** |
-| *A translucent, loyal figure of pure spirit materializes to fight alongside you, protecting the living with spectral force.* |
-| |
-| **Type**: Magic \| **Node**: Spirit \| **Charges**: 3 |
-| |
-| You summon a powerful spirit to defend your allies.<br>Summon an Ethereal Guardian in a Near zone. The Guardian has 2 hit points and a melee attack that deals 1 damage. This attack roll uses your Magic or attack modifier. It expends a charge to act on your turn, and disappears when you run out of charges. |
+### Basic Actions
+*Basic actions do not consume a charge.*
+
+- Sense the lingering emotions left in a place, object, or recently vacated room.
+- Cause a small unattended object to slide or rattle with a focused thought.
+- Perceive the emotional temperature of a crowd without speaking to anyone in it.
+
+### Charged Actions
+*Charged actions cost a **charge** to perform.*
+
+**Attack**
+- Project a terrifying mental image into a foe's mind, forcing them to flee in panic.
+- Strike with a sudden psychic burst that leaves a target disoriented and reeling.
+
+**Utility**
+- Leave your physical body for a short time to scout a nearby area as an invisible spirit.
+- Read the surface thoughts of a creature to see exactly what they intend to do next.
+- Create a brief visual illusion — a ghost-like figure, a fake object, a false door.
+
+**Support**
+- Project a calming presence directly into a panicked ally's mind, steadying their nerves.
+- Share a silent warning with a companion the instant before danger arrives.
+
+**Social**
+- Project a simple whisper directly into the mind of any person you can see.
+- Sense whether a creature is lying by feeling the emotional dissonance behind their words.
+
+[Ability List]({{site.baseurl}}/PlayerResources/Abilities/AbilityList/#ability-list)

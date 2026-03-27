@@ -2,40 +2,42 @@
 layout: default
 permalink: /PlayerResources/Abilities/Protector/
 ---
-## [Protector](#Protector)
+## [Protector](#protector)
+*Requires Armored*
 
-|                                                                                                                                                            |
-| :--------------------------------------------------------------------------------------------------------- |
-| **Guardian's Bond** |
-| *You willingly shoulder the wounds meant for a trusted companion, intercepting the damage before it reaches them.* |
-| |
-| **Type**: Attack \| **Node**: Protector \| **Charges**: 2 |
-| |
-| You form a protective link with an ally, sharing their burdens.<br>Choose an ally within Near range. For until your next round, any damage they take is done to you instead. |
+**Step into the fray** to take hits meant for your friends, forcing enemies to deal with you before they can reach anyone else. **Watch over your allies** with a constant vigilance that discourages attackers and keeps your squad standing.
 
-|                                                                                                                                                            |
-| :--------------------------------------------------------------------------------------------------------- |
-| **Challenging Shout** |
-| *You let loose a bellow that cuts through the chaos, demanding the enemy's singular attention.* |
-| |
-| **Type**: Attack \| **Node**: Protector \| **Charges**: 3 |
-| |
-| You unleash a powerful shout that draws the attention of your foes.<br>Roll a d20. All enemies in Near range with a Resistance lower than your roll must target you with their next attack, if able. |
+- +1 **Durability** to all equipped armor
 
-|                                                                                                                                                            |
-| :--------------------------------------------------------------------------------------------------------- |
-| **Intercept** |
-| *With lightning speed and unflinching resolve, you throw your body in the path of a blow meant for your ally.* |
-| |
-| **Type**: Attack \| **Node**: Protector \| **Charges**: 2 |
-| |
-| You move swiftly to block an attack aimed at an ally.<br>When an ally within Near range is targeted by a melee or ranged attack. You immediately move next to them and become the target of the attack instead. This ability can be done during the Enemy turn. |
+**Charges:** 3
 
-|                                                                                                                                                            |
-| :--------------------------------------------------------------------------------------------------------- |
-| **Rallying Cry** |
-| *Your successful strike against a foe serves as a powerful inspiration, bolstering the confidence of all nearby allies.* |
-| |
-| **Type**: Attack \| **Node**: Protector \| **Charges**: 2 |
-| |
-| Your voice inspires your allies, bolstering their resolve.<br>Make an attack roll against an enemy. On success, all allies within your zone have Advantage on their next roll. |
+---
+
+### Basic Actions
+*Basic actions do not consume a charge.*
+
+- Step between an ally and danger, forcing any enemy to go through you first.
+- Place a hand on an ally's shoulder to signal your protection without a word.
+- Shift your position constantly to remain between your most vulnerable ally and the nearest threat.
+
+### Charged Actions
+*Charged actions cost a **charge** to perform.*
+
+**Attack**
+- Intercept a charging enemy and halt their momentum completely.
+- Force a nearby enemy to focus their next attack on you instead of your allies.
+
+**Utility**
+- Stand firm in the center of the battlefield, preventing enemies from moving past you.
+- Use your body to escort a non-combatant safely through a dangerous area.
+- Position yourself to cover every approach to a doorway or chokepoint simultaneously.
+
+**Support**
+- Grab an ally and shove them behind your armored body just before a devastating attack lands.
+- Intentionally take a hit on your thickest plating to protect a fragile ally behind you.
+
+**Social**
+- Stand visibly over a vulnerable party member to discourage any hostile approach.
+- Announce your protective intent in a way that makes clear who the real threat in the room is.
+
+[Ability List]({{site.baseurl}}/PlayerResources/Abilities/AbilityList/#ability-list)

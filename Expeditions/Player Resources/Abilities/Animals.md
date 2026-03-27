@@ -2,38 +2,40 @@
 layout: default
 permalink: /PlayerResources/Abilities/Animals/
 ---
-## [Animals](#Animals)
+## [Animals](#animals)
+*Requires Nature*
 
-|                                                                                                                                                                                                                                                                             |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Bestial Power**                                                                                                                                                                                                                                                           |
-| *Tap into the raw power of the animal kingdom, temporarily gaining a bestial feature.*                                                                                                                                                                                      |
-|                                                                                                                                                                                                                                                                             |
-| **Type**: Magic \| **Node**: Animals \| **Charges**: 3                                                                                                                                                                                                                      |
-|                                                                                                                                                                                                                                                                             |
-| Gain a bestial feature that allows you to choose one of the following...<br>- Attack with Advantage<br>- Gain Advantage on Evade rolls until your next turn<br>- Gain Advantage on Resist rolls until your next turn<br>This ability does not use your action for the turn. |
+**Take on the traits of the wild** to sharpen your senses or physically transform your body into a more primal, beastly shape. **Commune with the local fauna** to gain scouts, loyal companions, or the sheer ferocity required to hunt down your prey.
 
-|                                                                                                                                                                                                                                                                                                                     |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Animal Companion**                                                                                                                                                                                                                                                                                                |
-| *You are able quickly form bonds with beasts. Wild animals naturally respect you and understand if you are a threat to them.*                                                                                                                                                                                       |
-|                                                                                                                                                                                                                                                                                                                     |
-| **Type**: Magic \| **Node**: Animals \| **Charges**: 1                                                                                                                                                                                                                                                              |
-|                                                                                                                                                                                                                                                                                                                     |
-| Make a Magic roll to form a long term bond with a friendly beast. On success, they will protect and defend you at all costs until you dismiss them back into the wild. Only bond with one beast at a time. The guide will control your beast's actions, but allow you to issue short commands to them on your turn. |
+**Charges:** 3
 
-|                                                                                                                                                                                      |
-| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Control Beasts**                                                                                                                                                                   |
-| *Make a Magic roll against a Beast target.*                                                                                                                                          |
-|                                                                                                                                                                                      |
-| **Type**: Magic \| **Node**: Animals \| **Charges**: 2                                                                                                                               |
-|                                                                                                                                                                                      |
-| On Success, a beast is under your control for the rest of this combat or until you choose to sever the connection. If used out of combat, the connection lasts for up to 10 minutes. |
+---
 
-|                                                                                                                                                                                         |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Speak with Animals**                                                                                                                                                                  |
-| *You are able to communicate with animals, understanding their thoughts and intentions. You can also Communicate basic ideas and commands to them, though they are not forced to obey.* |
-|                                                                                                                                                                                         |
-| **Type**: Magic \| **Node**: Animals \| **Charges**: N/A                                                                                                                                |
+### Basic Actions
+*Basic actions do not consume a charge.*
+
+- Mimic the call of a local animal accurately enough to fool nearby creatures and trained handlers.
+- Sharpen your hearing and smell for a moment to gather information about your surroundings.
+- Make eye contact with a nearby animal and communicate basic intent or calm.
+
+### Charged Actions
+*Charged actions cost a **charge** to perform.*
+
+**Attack**
+- Grow claws or fangs to fight with the speed and ferocity of a natural predator.
+- Command a swarm of small animals to harass, distract, and overwhelm a foe.
+
+**Utility**
+- Borrow the senses of a nearby animal to perceive an area you cannot directly see.
+- Leap incredible distances like a hunting predator at full sprint.
+- Temporarily transform into a powerful beast suited to the current environment.
+
+**Support**
+- Send a trained or cooperative animal ahead to deliver a message or scout a location.
+- Use a controlled animal response to create a distraction and cover an ally's movement.
+
+**Social**
+- Calm a panicked or aggressive animal with a steady presence and a quiet word.
+- Use visible communion with animals to project an aura of primal authority or harmlessness.
+
+[Ability List]({{site.baseurl}}/PlayerResources/Abilities/AbilityList/#ability-list)

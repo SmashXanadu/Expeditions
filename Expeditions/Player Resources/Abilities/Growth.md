@@ -2,40 +2,40 @@
 layout: default
 permalink: /PlayerResources/Abilities/Growth/
 ---
-## [Growth](#Growth)
+## [Growth](#growth)
+*Requires Nature*
 
-|                                                                                                                                                                                                                                                                  |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Overgrowth**                                                                                                                                                                                                                                                   |
-| *You violently accelerate plant growth, turning an open space into a tangled, impassable thicket in moments.*                                                                                                                                                    |
-|                                                                                                                                                                                                                                                                  |
-| **Type**: Magic \| **Node**: Growth \| **Charges**: 3                                                                                                                                                                                                            |
-|                                                                                                                                                                                                                                                                  |
-| You accelerate the natural growth of plants, creating a dense thicket that hinders enemy movement and accuracy. Choose a Near zone. Enemies cannot move out of the zone without clearing the overgrowth. Allies have advantage on Evade Rolls while in the zone. |
+**Force the ground to bloom** by causing vines to sprout instantly, creating ladders of ivy or thickets of protective briars. **Command the greenery to flourish** until the very environment works in your favor, entangling foes and hiding your movements.
 
-|                                                                                                                                                                                                                                                                              |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Flourish**                                                                                                                                                                                                                                                                 |
-| *You summon a burst of natural energy, causing a momentary surge of protective thorns or restorative pollen.*                                                                                                                                                                |
-|                                                                                                                                                                                                                                                                              |
-| **Type**: Magic \| **Node**: Growth \| **Charges**: 2                                                                                                                                                                                                                        |
-|                                                                                                                                                                                                                                                                              |
-| Choose a Near zone one one of the following effects: **1.** All allies in the zone gain +2 to Evade rolls until the start of your next turn (representing thorny vines providing cover). **2.** All allies in the zone regain 1 hit point (representing restorative pollen). |
+**Charges:** 3
 
-|                                                                                                                                                                                     |
-| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Temporal Seed**                                                                                                                                                                   |
-| *You plant a seed of accelerated growth, briefly speeding up an ally's reaction time and potential.*                                                                                |
-|                                                                                                                                                                                     |
-| **Type**: Magic \| **Node**: Growth \| **Charges**: 3                                                                                                                               |
-|                                                                                                                                                                                     |
-| You plant a seed of accelerated growth, creating a temporary surge of energy. Choose an ally within Near range. They gain Advantage on all rolls until the start of your next turn. |
+---
 
-|                                                                                                                                                                                                                                   |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Living Barricade**                                                                                                                                                                                                              |
-| *From the soil erupts a massive, interwoven wall of vines and trunks, offering instant, resilient cover.*                                                                                                                         |
-|                                                                                                                                                                                                                                   |
-| **Type**: Magic \| **Node**: Growth \| **Charges**: 2                                                                                                                                                                             |
-|                                                                                                                                                                                                                                   |
-| You summon a wall of rapidly growing plants, providing cover and hindering enemy movement. Create a wall of dense vegetation in a Near zone. The wall provides cover and blocks movement until it is destroyed or you dismiss it. |
+### Basic Actions
+*Basic actions do not consume a charge.*
+
+- Cause a nearby seed or plant to sprout rapidly in a matter of seconds.
+- Make vines or roots shift aside to clear a narrow, overgrown path.
+- Encourage moss or lichen to fill in cracks or cover a surface on command.
+
+### Charged Actions
+*Charged actions cost a **charge** to perform.*
+
+**Attack**
+- Grow thick vines to entangle and fully restrain enemies in a wide area.
+- Cause roots to break violently through stone flooring beneath a target's feet.
+
+**Utility**
+- Create a living ladder of accelerated vines up a wall, cliff, or sheer surface.
+- Raise a dense hedge or thicket that blocks movement and line of sight.
+- Grow massive plants that reshape the terrain, creating new cover or impassable obstacles.
+
+**Support**
+- Quickly grow a thick canopy to provide shelter from rain, harsh sun, or aerial observation.
+- Create a living barrier of thorns between allies and pursuing enemies.
+
+**Social**
+- Cause flowers to bloom as a gesture of sincerity, apology, or peace.
+- Use visible mastery over living plants to demonstrate connection to and respect for the natural world.
+
+[Ability List]({{site.baseurl}}/PlayerResources/Abilities/AbilityList/#ability-list)

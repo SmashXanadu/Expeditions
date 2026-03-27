@@ -5,7 +5,9 @@ permalink: /Rules/5/
 # [Combat](#combat)
 When conflict breaks out, the game shifts into **Combat** mode. Combat is organized into rounds, where characters and enemies take turns performing actions.
 ## [Turn Order](#turn-order)
-The **Guide** decides who acts first: the **players** or the **adversaries**. Usually, it's the side that starts the fight.
+Combat turns alternate between the **Player Team** and the **Adversary Team**. The **Guide** decides which team acts first — usually the side that started the fight.
+
+When it is the **Player Team's turn**, each player activates in order of their **Speed** score, from highest to lowest. If there's a tie in Speed, those players decide among themselves who goes first.
 
 ## [Your Turn (Players)](#heroes-turn)
 During your turn, your character can do a few things in any order:
@@ -13,8 +15,6 @@ During your turn, your character can do a few things in any order:
 - **Use an Ability** (like an attack or a special move) or **Equip Gear**
 - **Move** to a new location
 - **Speak** or **Interact** with something
-
-Characters act in order of their **Speed** score, from highest to lowest. If there's a tie in Speed, players decide who goes first among themselves.
 
 ### [Using Abilities](#use-an-ability)
 When you use an **Ability**, describe what you're trying to do. Make sure your target is within range and line of sight. Roll to resolve the ability if necessary.
@@ -43,9 +43,11 @@ When an enemy attacks you:
 ### [Taking Damage](#taking-damage)
 When you take damage:
 
-- You decide how much damage comes from your **Health** and how much comes from your **Equipment Durability**. When taking damage from equipment, describe how that item protected you.
+- You decide how much damage comes from your **Health** and how much comes from your **Equipment Durability**. You may split damage freely between the two. When damage is absorbed by equipment, describe how that item protected you.
 - If your **Health** drops to 0, you fall **Unconscious**.
 - If an **Equipment's Durability** drops to 0, that item becomes **Broken**.
+
+>A troll hits you for **3 damage**. You decide to take **1 to your Health** and **2 to your Steel Breastplate's Durability**. You describe the troll's club glancing off your chest plate, denting it badly and knocking the wind out of you.
 
 ### [Zoned Combat](#zoned-combat)
 Combat takes place in **Zones**, which are clearly defined areas on a map or table.

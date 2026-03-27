@@ -2,40 +2,40 @@
 layout: default
 permalink: /PlayerResources/Abilities/Nature/
 ---
-## [Nature](#Nature)
+## [Nature](#nature)
+*Connects to: Decay - Sun - Animals - Growth*
 
-|                                                                                                                                                            |
-| :--------------------------------------------------------------------------------------------------------- |
-| **Entangling Roots** |
-| *You summon thorny grasping roots to spring from the earth, seizing the legs of your foe.* |
-| |
-| **Type**: Magic \| **Node**: Nature \| **Charges**: 2 |
-| |
-| Summon thorny grasping roots to hinder enemy movement.<br>Make a Magic attack against an enemy in Near rage. On Success, they are unable to move until the growths are destroyed or you choose to remove them. |
+**Nurture the primal world** to sense nearby life, survive on meager forage, or influence the natural environment to your advantage. **Commune with the wild** to find hidden trails, withstand the elements, and prepare the way for future flourishing.
 
-|                                                                                                                                                            |
-| :--------------------------------------------------------------------------------------------------------- |
-| **Grasping Vines** |
-| *Thick, strong vines respond to your will, either pulling objects toward you or pushing foes away with surprising force.* |
-| |
-| **Type**: Magic \| **Node**: Nature \| **Charges**: 3 |
-| |
-| You are able to create and control vines to grow on surfaces, interact with objects, or attack enemies.<br>Make a Magic attack. On success choose one of the following:<br>- Push the enemy 1 zone away.<br>- Pull the enemy 1 zone closer. |
+**Charges:** 3
 
-|                                                                                                                                                            |
-| :--------------------------------------------------------------------------------------------------------- |
-| **Symbiosis** |
-| *By connecting with nearby plant life, you draw upon its latent healing energy to mend wounds.* |
-| |
-| **Type**: Magic \| **Node**: Nature \| **Charges**: 2 |
-| |
-| Draw upon the life force of nature to heal yourself or an ally.<br>If you or an ally is touching any form of natural plant life, heal them for 2 points of damage. |
+---
 
-|                                                                                                                                                            |
-| :--------------------------------------------------------------------------------------------------------- |
-| **Tree Walk** |
-| *The ancient pathways of the forest open for you; you step into one tree and instantly emerge from another you can see.* |
-| |
-| **Type**: Magic \| **Node**: Nature \| **Charges**: 2 |
-| |
-| Move with unnatural speed and agility through trees and other natural obstacles. You climb trees with as much ease as walking.<br>If you are touching a tree, instantly teleport to any other tree that see. |
+### Basic Actions
+*Basic actions do not consume a charge.*
+
+- Encourage nearby plants to bend toward you or bloom briefly on command.
+- Cause rustling in surrounding foliage to reveal hidden movement nearby.
+- Coax a seed to sprout a small shoot in seconds.
+
+### Charged Actions
+*Charged actions cost a **charge** to perform.*
+
+**Attack**
+- Command thick brambles to erupt from the ground, entangling everyone in a wide area.
+- Whip a vine through the air to strike or restrain a target at range.
+
+**Utility**
+- Accelerate the growth of vines to create a natural ladder up a cliff face.
+- Heal a withered plant or minor wound by siphoning vitality from the surrounding soil.
+- Form a dense canopy of branches to provide shelter from rain, harsh sun, or observation.
+
+**Support**
+- Accelerate the natural healing of an ally's wound by channeling energy from the earth.
+- Call out to a local animal to gather simple information about the surrounding area.
+
+**Social**
+- Cause flowers to bloom at your feet as a sincere gesture of goodwill or peace.
+- Use birdsong or animal behavior around you to gauge the mood and safety of an area.
+
+[Ability List]({{site.baseurl}}/PlayerResources/Abilities/AbilityList/#ability-list)

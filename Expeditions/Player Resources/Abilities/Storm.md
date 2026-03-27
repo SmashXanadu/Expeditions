@@ -2,40 +2,40 @@
 layout: default
 permalink: /PlayerResources/Abilities/Storm/
 ---
-## [Storm](#Storm)
+## [Storm](#storm)
+*Requires Air or Electric*
 
-|                                                                                                                                                            |
-| :--------------------------------------------------------------------------------------------------------- |
-| **Lightning Storm** |
-| *You gather dark clouds and unleash a downpour of electrical energy, striking all enemies in the area.* |
-| |
-| **Type**: Magic \| **Node**: Storm \| **Charges**: 2 |
-| |
-| You summon a raging thunderstorm, unleashing a torrent of lightning.<br>Target all enemies within a Near zone. They take 1 damage. |
+**Whip the weather into a frenzy** to unleash crashing thunder and gale-force winds that toss creatures like leaves. **Surround yourself with a tempest** that makes you a blur of motion while striking down anyone who gets too close with jagged bolts of energy.
 
-|                                                                                                                                                            |
-| :--------------------------------------------------------------------------------------------------------- |
-| **Lightning Strike** |
-| *You call down a single, devastating bolt of pure lightning to obliterate a distant target.* |
-| |
-| **Type**: Magic \| **Node**: Storm \| **Charges**: N/A |
-| |
-| You call down a powerful bolt of lightning, striking a target with immense force.<br>Make a Magic attack against an enemy in Far range. On a successful hit, they take 2 damage and are knocked down. |
+**Charges:** 3
 
-|                                                                                                                                                            |
-| :--------------------------------------------------------------------------------------------------------- |
-| **Blizzard** |
-| *A sudden, localized vortex of freezing wind and thick snow erupts, blinding and freezing all foes within its reach.* |
-| |
-| **Type**: Magic \| **Node**: Storm \| **Charges**: 2 |
-| |
-| You unleash a blinding blizzard, freezing your enemies in a torrent of snow and ice.<br>Target all enemies within a Near zone. They are blinded and cannot move until the start of your next turn |
+---
 
-|                                                                                                                                                            |
-| :--------------------------------------------------------------------------------------------------------- |
-| **Absolute Zero** |
-| *You momentarily drain all heat from the air around you, instantly flash-freezing nearby enemies into brittle, immobile statues.* |
-| |
-| **Type**: Magic \| **Node**: Storm \| **Charges**: 1 |
-| |
-| You create a pocket of absolute zero, freezing your enemies solid.<br>Make a Magic attack against all enemies in Close range. On a successful hit, they are frozen until the end of your next turn. |
+### Basic Actions
+*Basic actions do not consume a charge.*
+
+- Cause wind to whip sharply around you and distant thunder to rumble on command.
+- Feel the charge building in the air and predict where the next lightning strike will land.
+- Make a localized gust that snuffs candles or scatters lightweight objects across a room.
+
+### Charged Actions
+*Charged actions cost a **charge** to perform.*
+
+**Attack**
+- Call down a bolt of lightning onto a specific target with pinpoint accuracy.
+- Strike several enemies simultaneously with branching lightning from a single discharge.
+
+**Utility**
+- Knock enemies backward with a violent gust strong enough to clear an entire path.
+- Blind enemies with driving rain, debris, and howling wind across a wide area.
+- Surround yourself in a roaring tempest of wind and sparks that makes any approach dangerous.
+
+**Support**
+- Use a targeted gust to push an ally out of the direct path of an incoming strike.
+- Create a storm barrier behind a retreating group to discourage and slow any pursuit.
+
+**Social**
+- Summon a localized clap of thunder to interrupt, punctuate, or silence a situation instantly.
+- Use the permanent atmospheric charge crackling around you to project a presence that commands respect.
+
+[Ability List]({{site.baseurl}}/PlayerResources/Abilities/AbilityList/#ability-list)
