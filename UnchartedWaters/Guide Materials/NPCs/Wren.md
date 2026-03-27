@@ -1,8 +1,15 @@
-### **Captain Wren**
+---
+layout: default
+title: Wren
+permalink: /UnchartedWaters/NPCs/Wren/
+---
+### **Wren**
 
 ![Wren](https://raw.githubusercontent.com/SmashXanadu/Expeditions/refs/heads/main/images/wren.png)
 
+**Ship:** [The Emerald Dawn]({{site.baseurl}}/UnchartedWaters/Locations/Ships/TheEmeraldDawn/#the-emerald-dawn)
 **Ship Role:** Captain
+**Faction:** None
 
 **General Appearance:** Wren has a weathered face with deep-set eyes that seem to miss nothing. Their dark hair is pulled back in a tight bun, and they carry themselves with a straight, unyielding posture. They are typically dressed in a clean but well-worn captain's coat, often seen with a simple brass spyglass in hand.
 
@@ -14,3 +21,6 @@
 
 **Flaw or Quirk:** Wren has a habit of silently tracing the constellations on any available surface—a tabletop, a map, or even the palm of their hand—when deep in thought. They also have an intense aversion to clutter and will often pause a conversation to straighten something that is out of place.
 
+---
+
+**[Back to NPCs]({{site.baseurl}}/UnchartedWaters/NPCs/#npcs)**

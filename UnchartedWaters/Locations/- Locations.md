@@ -5,10 +5,9 @@ permalink: /UnchartedWaters/Locations/
 ---
 # [Ships](#ships)
 
-- **[The Emerald Dawn]({{site.baseurl}}/UnchartedWaters/Locations/TheEmeraldDawn/#the-emerald-dawn)**
-# [Locations](#locations)
+- **[The Emerald Dawn]({{site.baseurl}}/UnchartedWaters/Locations/Ships/TheEmeraldDawn/#the-emerald-dawn)**
 
-- **[The Emerald Dawn]({{site.baseurl}}/UnchartedWaters/Locations/TheEmeraldDawn/#the-emerald-dawn)**
+# [Locations](#locations)
 
 You have not discovered any other locations **yet**...
 

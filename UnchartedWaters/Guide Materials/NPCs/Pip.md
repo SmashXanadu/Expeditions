@@ -1,7 +1,15 @@
+---
+layout: default
+title: Pip
+permalink: /UnchartedWaters/NPCs/Pip/
+---
 ### **Pip**
+
 ![Pip](https://raw.githubusercontent.com/SmashXanadu/Expeditions/refs/heads/main/images/pip.png)
 
+**Ship:** [The Emerald Dawn]({{site.baseurl}}/UnchartedWaters/Locations/Ships/TheEmeraldDawn/#the-emerald-dawn)
 **Ship Role:** Medic and Botanist
+**Faction:** None
 
 **General Appearance:** Pip is small in stature with a perpetually earnest expression. Their bright, often wide, eyes are usually hidden behind a pair of smudged spectacles perched on their nose. They wear practical, stained overalls with many pockets overflowing with leaves, vials, or small digging tools. Their hair is a perpetually messy tangle of light brown curls.
 
@@ -12,3 +20,7 @@
 **Motivation:** Pip is driven by the legacy of their disgraced mentor. They believe their mentor's radical theories about interconnected life forms and hidden energies in the natural world were unjustly dismissed. Pip is determined to find definitive proof in the uncharted waters, subtly guiding players towards unusual ecological sites or rare flora, sometimes at mild risk, to gather evidence that could vindicate their mentor's name and theories.
 
 **Flaw or Quirk:** Pip is notoriously absent-minded, often forgetting basic tasks or conversations if something scientific catches their attention. They also have a habit of tasting unknown plant samples (after a quick sniff, of course) without always considering the immediate consequences.
+
+---
+
+**[Back to NPCs]({{site.baseurl}}/UnchartedWaters/NPCs/#npcs)**

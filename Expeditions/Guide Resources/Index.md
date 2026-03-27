@@ -48,6 +48,12 @@ permalink: /GuideResources/Index/
 
 ---
 
+## Playtest
+
+**[Playtest Index]({{site.baseurl}}/Playtest/Index/)** — Premade characters, player prep, and guide prep for running a playtest session.
+
+---
+
 ## Guide Advice
 
 **[Player Roles]({{site.baseurl}}/GuideResources/Advice/PlayerRoles/)** — Table responsibilities to keep every player engaged and reduce Guide load.

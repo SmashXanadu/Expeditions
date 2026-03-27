@@ -1,6 +1,10 @@
 ### **[Full Name]**
 
+![Name](image-url)
+
+**Ship:** [Ship name]
 **Ship Role:** [NPC's role on the ship, e.g., Captain, First Mate, Cook]
+**Faction:** [Faction name, or None]
 
 **General Appearance:** [A short description of their physical appearance: height, build, hair, notable features, and typical clothing. Focus on details that are easy to visualize.]
 

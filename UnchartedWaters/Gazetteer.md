@@ -3,36 +3,55 @@ layout: default
 title: Uncharted Waters
 permalink: /UnchartedWaters/Gazetteer/
 ---
-# [The Emerald Dawn](#emeraldDawn): Your Gateway to the Uncharted West
+# [Uncharted Waters](#uncharted-waters)
 
-Welcome aboard **The Emerald Dawn**, a sturdy and reliable vessel commissioned by the esteemed **Cartographers' Guild**. She is more than just a ship; she is your mobile base of operations, your sanctuary on the high seas, and the key to unlocking the mysteries that lie beyond the edge of the known world.
+**An open-table exploration campaign set sail at the edge of the known world.**
 
-## The Ship
-![The Emerald Dawn](https://raw.githubusercontent.com/SmashXanadu/Expeditions/refs/heads/main/images/emeraldDawnship.png)
+The maps end here. Everything west of the last port is blank parchment — unknown islands, forgotten civilizations, living things that have never had names. Your job is to change that.
 
-The Emerald Dawn is a mid-sized galleon, known for its reinforced hull, ample storage, and surprisingly swift sails. Under the steady hand of **Captain Wren**, she cuts through the waves with purpose, ready to face whatever the Western Sea throws her way.
+You'll sail aboard **The Emerald Dawn**, crewed by people worth getting to know:
 
-- **Spacious Deck:** Perfect for taking in the breathtaking vistas, setting traps with **Finn**, or studying strange new specimens with **Pip**. Be wary during storms or dragon battles overhead!
-- **Comfortable Quarters:** While not luxurious, your shared and private quarters offer a place to rest, plan, and tend to your gear between expeditions.
-- **The Galley:** Always smelling of something interesting thanks to our ever-changing roster of cooks (you might even learn to prepare a giant blue crab!).
-- **The Archive (and Oz's Sanctum):** Below deck, you'll find a growing collection of charts and notes. This is also where **Archivist Oz** maintains the ship's magical heart and the vital **Waystone** system. Approach with respect and a healthy dose of caution!
-- **Potential Facilities:** As you explore and catalogue your discoveries, The Emerald Dawn can be upgraded with specialized facilities. Imagine a dedicated **Alchemist's Lab**, a **Blacksmith's Forge**, or even a **Menagerie** for studying exotic creatures! Unlocking these will require significant finds and perhaps even the recruitment of skilled individuals.
+- **Captain Wren** — steady, observant, and always thinking three moves ahead. She traces constellations on tabletops when she's deep in thought.
+- **Finn** — the quartermaster, an expert at finding things that shouldn't be findable. Intensely superstitious. Never comfortable when the sea goes calm.
+- **Pip** — the ship's medic and botanist, endlessly curious and famously absent-minded. Will absolutely taste the unknown plant before asking if it's safe.
+- **Oz** — the Waystone Magus, ageless and precise, who maintains the ship's magical systems and talks to the stones as if they're listening.
 
-## The Uncharted Waters of the Western Sea: A Realm of Endless Possibilities
-![Uncharted Waters Map](https://raw.githubusercontent.com/SmashXanadu/Expeditions/refs/heads/main/images/uwmap.png)
+---
 
-The maps end here, but your adventure begins! The Western Sea is a vast and untamed expanse, whispered to be a place of wild magic, bizarre creatures, and forgotten civilizations. Prepare to encounter:
+## The World
 
-- **Mysterious Islands:** From volcanic peaks shrouded in mist to lush, floating gardens, each island promises unique ecosystems, resources, and perhaps even intelligent life. Will you map their coastlines, delve into their interiors, and uncover their secrets?
-- **Strange Creatures:** The bestiaries of the mainland hold no answers for the wonders and horrors that dwell in these waters. Be ready to document new species of monstrous sea serpents, bioluminescent jellyfish the size of wagons, and creatures defying all known laws of nature.
-- **Lost Civilizations:** Crumbling ruins that predate known history dot the coastlines and perhaps lie hidden beneath the waves. What tales do these silent stones hold? What dangers guard their secrets?
-- **Untapped Resources:** The islands and the sea itself may hold valuable herbs, rare ores, and magical reagents. Your discoveries could unlock new crafting possibilities and expand the capabilities of The Emerald Dawn.
-- **Unforeseen Encounters:** From desperate rescues of shipwrecked souls, or avoiding the gaze of colossal, slumbering leviathans, to deciphering cryptic messages in bottles – every voyage holds the potential for the unexpected.
+The Western Sea is not empty. It's alive with factions who want different things — and your crew answers to none of them, which means every one of them has a job for you.
 
-## Your Mission
+Merchants and pirates wage a feud that has dragged every ship in the sea into taking sides. Druids and industrialists are heading toward open conflict over who owns the ocean floor. Scavengers and scholars fight over who has the right to dig up the past. Explorers are racing to fill the blank spots on the map before someone takes those maps from them.
 
-As fledgeling adventurers hired by the **Cartographers' Guild**, your primary task is to venture forth, explore the uncharted Western Sea, and bring back knowledge and valuable resources. Utilize the **Waystones** to push the boundaries of exploration, document your findings in the **Catalogue**, and contribute to the greater understanding of the realm.
+---
 
-The winds are fair, the sails are set, and the Western Sea awaits. Adventure calls!
+## The Islands
 
-**Remember**: Stay mindful of the expedition timer, and always keep a hand on your Waystone when venturing into the unknown. The Emerald Dawn will always be your anchor in these uncharted waters.
+Every expedition takes you somewhere new. Here's a taste of what's out there:
+
+A **volcanic island** with obsidian beaches and forges that never go cold — and beneath it, a honeycomb of ancient lava tubes that nobody has fully explored.
+
+A **neutral port** protected by an ancient enchantment that makes violence impossible within its shores. Every faction sends representatives. Information is the real currency. The enchantment is starting to crack.
+
+A **forest atoll with no solid ground**, built entirely on a living lattice of roots above a reef. When the extreme tides drop, centuries of shipwrecks and ruins surface from the tangle. When they rise, the lower village disappears.
+
+A **city made entirely of ships lashed together**, drifting in a slow arc across the open sea. The layout shifts with the tides — a tavern that was next to your lodgings this morning may have drifted three blocks away by sunset.
+
+---
+
+## How It Works
+
+**Uncharted Waters** is an **open table** campaign — no fixed group, no attendance requirement. A pool of characters exists in a persistent world, and any mix of 2–5 players can set sail on any given session.
+
+Show up when you can. The world keeps moving whether you're there or not.
+
+Each session, the crew ventures ashore using **Waystones** — magical anchors that let you explore a new location and return to the ship. Every expedition is self-contained and completable in one sitting. No cliffhangers that require everyone back next week.
+
+What carries forward: the world. Factions remember what you did. The Emerald Dawn keeps sailing. The map fills in.
+
+---
+
+**Ready to join? [Start Here]({{site.baseurl}}/UnchartedWaters/StartHere/#start-here)**
+
+**[Back to Uncharted Waters]({{site.baseurl}}/UnchartedWaters/Index/#uncharted-waters)**
