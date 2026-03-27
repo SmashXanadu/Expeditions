@@ -1,0 +1,10 @@
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    document.querySelectorAll('p').forEach(function (p) {
+      var text = p.textContent.trim();
+      if (text === '\\newpage' || text === '\\end') {
+        p.style.display = 'none';
+      }
+    });
+  });
+</script>
