@@ -46,3 +46,4 @@ Backups/
 # Vim/Nano swap files
 *~
 *.swp
+.obsidian/workspace.json

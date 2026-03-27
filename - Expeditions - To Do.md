@@ -2,10 +2,6 @@
 - Rules Review
   - Rules Gaps.md file
 	- No speed. Players choose. Optional Speed rule.
-	- Add Supportive example option for every ability
-	- New Ability Format
-		- Expending a charge makes it happen. No roll.
-		- Descriptive play rather than mechanical
 	- Quick Character Creation Rules - Separate Packet?
 - Generate Uncharted Waters starting expeditions
 
