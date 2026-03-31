@@ -11,7 +11,7 @@ permalink: /PlayerResources/Loadouts/TheSilent/
 
 ---
 
-- **Weapon: +1 Twin Daggers.** A pair of balanced blades with muffled leather grips.
+- **Weapon: Twin Daggers.** A pair of balanced blades with muffled leather grips.
 - **Signature Item: Lockpicking Tools.** A velvet roll of whisper-thin steel picks and tension tools capable of opening even the most delicate locks.
 
 ---

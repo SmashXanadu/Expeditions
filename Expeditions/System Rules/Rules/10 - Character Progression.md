@@ -3,19 +3,21 @@ layout: default
 permalink: /Rules/10/
 ---
 # [Character Progression](#character-progression)
-Your character grows and gets stronger in two main ways: gaining **Experience (EXP)** and managing your **Equipment**.
+Your character grows by earning **Experience (EXP)** and spending it on **Perks**. Perks are tracked on the back of your character sheet.
 
-## [Gaining Experience](#gaining-experience)
-You gain EXP primarily in two ways:
+## [Earning Experience](#earning-experience)
+- You earn **1 Experience** at the end of every expedition.
+- You earn an **additional 1 Experience** if the expedition was a **success** within the defined time limit.
 
-- **Learning by Failure:** Whenever you fail a roll, you gain an EXP point for that skill. You'll mark this on your skill's track.
-- **Training:** During **Downtime**, you can choose to train a skill to gain EXP for it.
+## [Spending Experience](#spending-experience)
+During **Downtime**, spend **Experience** to choose perks from your **Perk Sheet**. The Perk Sheet is a menu of progression options — spend freely to shape your character however you like.
 
-As you gain EXP, you'll mark off boxes on your character sheet. These boxes give you different rewards:
+Perk options are organized into four categories:
 
-- **+1**: This increases your skill's **Modifier**, making you better at using that skill.
-- **Star**: This lets you gain a permanent enhancement for that skill.
-- **Circle**: This lets you unlock a new **Node** on the **Hero Grid** and learn the four abilities associated with it.
+- **General**: Core training options that can be taken multiple times.
+- **Physical Offence**: Permanent combat upgrades for weapon users.
+- **Magical Offence**: Permanent upgrades for ability users.
+- **Defense**: Passive survivability upgrades.
 
 ## [Managing Equipment](#managing-equipment)
 Your character has the following equipment slots:
@@ -30,7 +32,7 @@ Your character has the following equipment slots:
 | **Legs** | Armor |
 | **Feet** | Armor |
 
-- **Weapons** and **Armor** have **Durability**, and some may have penalties to your **Speed**. They can also have magical properties.
+- **Weapons** and **Armor** can have magical properties.
 - Your **Inventory** can hold up to 10 unequipped items.
 - **Gold** is the currency you use to buy and sell items.
 

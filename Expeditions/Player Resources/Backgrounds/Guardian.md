@@ -9,6 +9,8 @@ permalink: /PlayerResources/Backgrounds/Guardian/
 ---
 
 **Core Skills**
+- **+1 Attack:** Your bonus to physical attack rolls.
+- **+1 Magic:** Your bonus to magical spell and attack rolls.
 - **+1 Evade:** You avoid incoming danger through speed and sharp reflexes.
 - **+3 Resist:** You endure magical forces and effects through will and resilience.
 

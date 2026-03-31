@@ -11,7 +11,7 @@ permalink: /PlayerResources/Loadouts/TheNoble/
 
 ---
 
-- **Weapon: +1 Filigree Rapier.** A slender dueling sword with a gold-plated hilt.
+- **Weapon: Filigree Rapier.** A slender dueling sword with a gold-plated hilt.
 - **Signature Item: Official Wax Kit.** A set of stamps for three different "official" seals.
 
 ---

@@ -11,7 +11,7 @@ permalink: /PlayerResources/Loadouts/TheLearned/
 
 ---
 
-- **Weapon: +0 Runed Quarterstaff.** An iron-bound staff etched with glowing sigils of protection.
+- **Weapon: Runed Quarterstaff.** An iron-bound staff etched with glowing sigils of protection.
 - **Signature Item: Amber Monocle.** A polished arcane lens that reveals magical residue, hidden runes, and invisible sigils.
 
 ---

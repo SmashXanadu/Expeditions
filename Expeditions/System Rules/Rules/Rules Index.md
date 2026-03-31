@@ -19,6 +19,9 @@ Page numbers are listed with a "p" for this Player Booklet, and a "g" for the Gu
 10. **[Character Progression]({{site.baseurl}}/Rules/10/#character-progression)** (p.14, g.XX)
 11. **[General Skills]({{site.baseurl}}/Rules/11/#general-skills)** (p.15, g.XX)
 12. **[Trade Skills]({{site.baseurl}}/Rules/12/#tradeskills)** (p.16, g.XX)
+13. **[Abilities]({{site.baseurl}}/Rules/13/#abilities)** (p.17, g.XX)
+
+**[Perk Sheet]({{site.baseurl}}/Rules/PerkSheet/#perk-sheet)**
 
 **[Rules Glossary]({{site.baseurl}}/Rules/Glossary/#rules-glossary)** — Alphabetical reference for all rules terms.
 

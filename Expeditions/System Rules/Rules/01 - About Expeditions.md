@@ -22,14 +22,8 @@ Simplified math and movement to make combat faster. If you are close, you can me
 **Minimal Guide (GM) Prep**
 System and handouts designed to require less time for the Guide to prepare. 
 
-**Learn by Failure**
-Every failed attack or skill check progresses your character. 
-
 **Classless Specialization Grid**
 Build your character exactly how you want without being restricted by a class.
-
-**Equipment Matters**
-Damage is mitigated by armor durability and health.
 
 **Player Driven Fate**
 Only players roll dice. The Guide never rolls.

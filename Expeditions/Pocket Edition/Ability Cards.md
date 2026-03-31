@@ -349,7 +349,7 @@ permalink: /PocketEdition/AbilityCards/
 
 **Adopt a resolute stance** to become a living wall, weathering physical trauma that would break lesser combatants. **Brace against impact** to hold your ground, shield those behind you, and dictate the flow of the frontline.
 
-- +1 **Durability** to all equipped armor
+- +1 to your maximum **Health**
 
 **Charges:** 3
 
@@ -565,8 +565,6 @@ permalink: /PocketEdition/AbilityCards/
 *Requires Armored*
 
 **Raise your guard** to block incoming projectiles, soak up heavy blows, and create a pocket of safety for your team. **Hold the line** against overwhelming force, turning the enemy's own momentum into a jarring impact that leaves them staggered.
-
-- +1 **Durability** to your equipped shield
 
 **Charges:** 3
 

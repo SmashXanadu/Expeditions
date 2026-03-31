@@ -15,7 +15,8 @@ Your Guide will handle these moments by narrating the story, roleplaying as othe
 
 ### [Combat](#combat)
 Combat has its own special rules, which are described in the next section.
+
 ## [Downtime](#downtime)
-In between Expeditions, the game shifts to **Downtime**. During this phase, you can choose from a menu of options to describe what your character does. Downtime is handled in short, "fast-forward" scenes and montages.
+In between Expeditions, the game shifts to **Downtime**. During this phase, you can choose from a menu of options to describe what your character does in order to progress and grow. Downtime is handled in short, "fast-forward" scenes and montages.
 
 [Previous]({{site.baseurl}}/Rules/3/#resolving-dice-rolls) | **[Next: Combat]({{site.baseurl}}/Rules/5/)** | [Rules]({{site.baseurl}}/Rules/Index/#rules)

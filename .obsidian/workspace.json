@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a3aa8c4827400b5d",
+        "id": "ed94ad12399f6340",
         "type": "tabs",
         "children": [
           {
-            "id": "3cceb6d7c0284069",
+            "id": "7b611db905344d46",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UnchartedWaters/Start Here.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Start Here"
+              "title": "New tab"
             }
           }
         ]
@@ -165,11 +161,12 @@
       "print:Print note": false
     }
   },
-  "active": "3cceb6d7c0284069",
+  "active": "7b611db905344d46",
   "lastOpenFiles": [
+    "Expeditions/Player Resources/Perks.md",
+    "UnchartedWaters/Start Here.md",
     "UnchartedWaters/Gazetteer.md",
     "UnchartedWaters/Uncharted Waters Index.md",
-    "UnchartedWaters/Start Here.md",
     "index.md",
     "UnchartedWaters/Guide Materials/Factions/- Factions.md",
     "UnchartedWaters/Ships/The Emerald Dawn.md",
@@ -193,7 +190,6 @@
     "UnchartedWaters/Guide Materials/Factions/Black Fleet.md",
     "UnchartedWaters/Guide Materials/Factions/Gilded Union.md",
     "UnchartedWaters/Guide Materials/Factions/Deep Crawlers.md",
-    "UnchartedWaters/Guide Materials/Factions/Iron Legion.md",
     "UnchartedWaters/Locations/Ships",
     "UnchartedWaters/Locations",
     "UnchartedWaters/Guide Materials/NPCs/Locations/Ships",

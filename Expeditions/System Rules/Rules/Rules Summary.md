@@ -16,8 +16,7 @@ permalink: /Rules/Summary/
 
 ## Combat & Initiative
 
-**Turn Order** alternates between all **Players** and all **Enemies**.
-**Initiative Order** within the player group is determined by **Highest Speed** to Lowest.
+**Turn Order** alternates between all **Players** and all **Enemies**. Players choose their own order within the player turn.
 
 ### On Your Turn (Any Order)
 1.  **Action:** Use an **Ability**, perform a **Skill Check**, or **Equip Gear**.
@@ -32,7 +31,7 @@ permalink: /Rules/Summary/
 ### Defending (Enemy's Turn)
 1.  **Roll Evade** vs. Enemy **Attack** *OR* **Roll Resist** vs. Enemy **Magic**.
 2.  If **Success**, take **No Damage**.
-3.  If **Fail**, take **Damage** to **Health** and/or **Durability**.
+3.  If **Fail**, take **Damage** to **Health**.
 
 | Range       | Distance                    |     | **Target Number** | **Difficulty** |
 | :---------- | :-------------------------- | --- | :---------------- | :------------- |

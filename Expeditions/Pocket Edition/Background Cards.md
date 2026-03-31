@@ -7,6 +7,8 @@ permalink: /PocketEdition/BackgroundCards/
 
 ***You are the shadow in the corner and the whisper in the hall.** You move with a silence others find unsettling, possessing the steady hands and cold nerves required to bypass the most "impenetrable" security.*
 
+- **+2 Attack:** Your bonus to physical attack rolls.
+- **+0 Magic:** Your bonus to magical spell and attack rolls.
 - **+3 Evade:** You avoid incoming danger through speed and sharp reflexes.
 - **+1 Resist:** You endure magical forces and effects through will and resilience.
 
@@ -23,6 +25,8 @@ permalink: /PocketEdition/BackgroundCards/
 
 ***You are the shield between your allies and a hostile world.** Whether moved by duty, coin, or kindness, you possess the physical gravity to command a room and the iron will to endure what would break others.*
 
+- **+1 Attack:** Your bonus to physical attack rolls.
+- **+1 Magic:** Your bonus to magical spell and attack rolls.
 - **+1 Evade:** You avoid incoming danger through speed and sharp reflexes.
 - **+3 Resist:** You endure magical forces and effects through will and resilience.
 
@@ -39,6 +43,8 @@ permalink: /PocketEdition/BackgroundCards/
 
 ***You are the mind that unravels the world’s complexities.** You rely on logic and a deep well of studied experience to solve problems, believing that a well-placed fact is more devastating than any blade.*
 
+- **+0 Attack:** Your bonus to physical attack rolls.
+- **+2 Magic:** Your bonus to magical spell and attack rolls.
 - **+1 Evade:** You avoid incoming danger through speed and sharp reflexes.
 - **+3 Resist:** You endure magical forces and effects through will and resilience.
 
@@ -55,6 +61,8 @@ permalink: /PocketEdition/BackgroundCards/
 
 ***You are the master of the world beyond the walls.** You have the grit to thrive where others perish, navigating paths that don't exist on any map and finding life in the most barren wastes.*
 
+- **+1 Attack:** Your bonus to physical attack rolls.
+- **+1 Magic:** Your bonus to magical spell and attack rolls.
 - **+2 Evade:** You avoid incoming danger through speed and sharp reflexes.
 - **+2 Resist:** You endure magical forces and effects through will and resilience.
 
@@ -71,8 +79,10 @@ permalink: /PocketEdition/BackgroundCards/
 
 ***You are a master of the social dance.** You know a well-placed word is more effective than a thousand arrows. You navigate the treacherous waters of court and street alike, making sure people see exactly what you want them to see.*
 
+- **+1 Attack:** Your bonus to physical attack rolls.
+- **+2 Magic:** Your bonus to magical spell and attack rolls.
 - **+1 Evade:** You avoid incoming danger through speed and sharp reflexes.
-- **+2 Resist:** You endure magical forces and effects through will and resilience.
+- **+3 Resist:** You endure magical forces and effects through will and resilience.
 
 - **+4 Charismatic:** You have a way with words and use them well.
 - **+3 Manipulator:** You influence people to get what you want.
@@ -87,6 +97,8 @@ permalink: /PocketEdition/BackgroundCards/
 
 **You have learned to make a life out of nothing.** You are resourceful, quick-witted, and possessing a stubborn streak of luck, you have a knack for turning a "total disaster" into a "minor inconvenience."
 
+- **+2 Attack:** Your bonus to physical attack rolls.
+- **+0 Magic:** Your bonus to magical spell and attack rolls.
 - **+2 Evade:** You avoid incoming danger through speed and sharp reflexes.
 - **+2 Resist:** You endure magical forces and effects through will and resilience.
 

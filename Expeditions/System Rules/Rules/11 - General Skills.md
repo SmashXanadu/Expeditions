@@ -5,7 +5,7 @@ permalink: /Rules/11/
 # [General Skills](#general-skills)
 
 ## [Core Skills](#core-skills)
-Every character starts with these four skills at **+0**. They are used in combat and cannot be removed.
+Every character starts with these four skills. They are used in combat and cannot be removed or replaced.
 
 - **Attack:** You strike with weapons and physical abilities. Used to hit enemies in melee or ranged combat.
 - **Magic:** You channel arcane or elemental power. Used to hit enemies with magical abilities.
@@ -13,7 +13,7 @@ Every character starts with these four skills at **+0**. They are used in combat
 - **Resist:** You endure magical forces and effects through will and resilience. Rolled when an enemy uses a magical ability against you.
 
 ## [General Skills](#general-skill-list)
-**General Skills** represent your character's natural talents and learned abilities. You choose **4** of these at character creation, each starting at **+0**. They are used for skill checks in and out of combat.
+**General Skills** represent your character's natural talents and learned abilities. They are used for skill checks in and out of combat.
 
 Here's a list of available General Skills:
 
@@ -34,7 +34,7 @@ Here's a list of available General Skills:
 - **[Sneaky]({{site.baseurl}}/PlayerResources/Skills/Sneaky/#Sneaky)**: You move silently, almost unnoticed by others.
 - **[Strong]({{site.baseurl}}/PlayerResources/Skills/Strong/#Strong)**: You can bend, lift, and crush large objects with ease.
 - **[Survivalist]({{site.baseurl}}/PlayerResources/Skills/Survivalist/#Survivalist)**: You know how to get by on limited resources.
-- **[Thief]({{site.baseurl}}/PlayerResources/Skills/Thief/#Thief)**: You can make things things disappear… into your pockets.
+- **[Thief]({{site.baseurl}}/PlayerResources/Skills/Thief/#Thief)**: You can make things disappear… into your pockets.
 - **[Tough]({{site.baseurl}}/PlayerResources/Skills/Tough/#Tough)**: You can tolerate pain and discomfort that others can’t.
 - **[Trickster]({{site.baseurl}}/PlayerResources/Skills/Trickster/#Trickster)**: You know how to fool others into seeing your truth.
 - **[Wise]({{site.baseurl}}/PlayerResources/Skills/Wise/#Wise)**: You know from experience how to handle most situations.
@@ -42,10 +42,6 @@ Here's a list of available General Skills:
 If your character has a skill not on this list, work with your **Guide** to create a **custom skill**.
 
 [Previous]({{site.baseurl}}/Rules/10/#character-progression) | **[Next: Tradeskills]({{site.baseurl}}/Rules/12/)** | [Rules]({{site.baseurl}}/Rules/Index/#rules)
-
-
-
-
 
 
 

@@ -1,8 +1,13 @@
 # To Do
 - Rules Review
   - Rules Gaps.md file
-	- No speed. Players choose. Optional Speed rule.
-	- Quick Character Creation Rules - Separate Packet?
+  - Update player resources index
+  - Test print and prob update script to get rules to print better
+  - remove all of these wide hyphens everywhere
+  - update hero grid? visual no longer matches node structure
+
+
+
 - Generate Uncharted Waters starting expeditions
 
 - [ ] Finalize the **Core Truths of the World**

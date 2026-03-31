@@ -11,7 +11,7 @@ permalink: /PlayerResources/Loadouts/TheDevout/
 
 ---
 
-- **Weapon: +1 Sanctified Mace.** A steel-headed mace etched with prayers and consecrated oils.
+- **Weapon: Sanctified Mace.** A steel-headed mace etched with prayers and consecrated oils.
 - **Signature Item: Amulet of Sacred Ashes.** A small silver amulet containing ashes that ward against spirits and dark magic.
 
 ---

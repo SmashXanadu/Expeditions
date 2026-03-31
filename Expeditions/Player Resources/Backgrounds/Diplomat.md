@@ -9,8 +9,10 @@ permalink: /PlayerResources/Backgrounds/Diplomat/
 ---
 
 **Core Skills**
+- **+1 Attack:** Your bonus to physical attack rolls.
+- **+2 Magic:** Your bonus to magical spell and attack rolls.
 - **+1 Evade:** You avoid incoming danger through speed and sharp reflexes.
-- **+2 Resist:** You endure magical forces and effects through will and resilience.
+- **+3 Resist:** You endure magical forces and effects through will and resilience.
 
 **General Skills**
 - **+4 Charismatic:** You have a way with words and use them well.

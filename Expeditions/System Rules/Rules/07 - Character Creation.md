@@ -4,134 +4,45 @@ permalink: /Rules/7/
 ---
 # [Character Creation](#character-creation)
 
-Creating your character is done in six simple steps. Follow the steps below and make your choices to create the perfect hero for your next expedition.
+Creating your character is done in four simple steps. Follow the steps below and make your choices to create the perfect hero for your next expedition.
 
-### The Steps At a Glance:
+## [1. Describe your character](#describe-your-character)
+Description of how to describe your character, notable features, etc
 
-1. **Set Your Base Stats:** Your base **Speed** is 20 and your base **Health** is 2.
-2. **Choose a Feature Set** (Optional): Pick a set of features that fits your character's background.
-3. **Choose a Size:** Select a size (**Small**, **Medium**, or **Large**) and adjust your **Speed** or **Health**.
-4. **Choose a Starting Node:** Select a starting point on the Hero Grid to determine your first abilities.
-5. **Set Your Skills:** Your **Attack**, **Magic**, **Evade**, and **Resist** skills all start at **+0**. Then choose 4 **General Skills** from the list, each also starting at **+0**.
-6. **Choose a Starting Equipment Set:** Select a pre-made set of gear to begin your journey.
+## [2. Choose a Background](#choose-a-background)
+**Infiltrator** — Attack +2, Magic +0, Evade +3, Resist +1 | Sneaky +4, Dexterous +3, Thief +2, Fast +2, Careful +1, Observant +1
+**Guardian** — Attack +1, Magic +1, Evade +1, Resist +3 | Strong +4, Tough +3, Leader +2, Intimidating +2, Wise +1, Kind +1
+**Scholar** — Attack +0, Magic +2, Evade +1, Resist +3 | Smart +4, Wise +3, Observant +2, Careful +2, Lucky +1, Trickster +1
+**Wayfinder** — Attack +1, Magic +1, Evade +2, Resist +2 | Survivalist +4, Explorer +3, Tough +2, Scavenger +2, Sneaky +1, Fast +1
+**Diplomat** — Attack +1, Magic +2, Evade +1, Resist +3 | Charismatic +4, Manipulator +3, Leader +2, Performer +2, Trickster +1, Lucky +1
+**Survivor** — Attack +2, Magic +0, Evade +2, Resist +2 | Lucky +4, Scavenger +3, Smart +2, Fast +2, Dexterous +1, Survivalist +1
 
-### [1. Health & Speed & ](#speed)
-Everyone starts with a **Health** of 2 and a **Speed** of 20.
-  
-### [2. (Optional) Feature Set](#feature-set)
-You may choose one or more features from a set below that describe your character's look or heritage.
+## [3. Choose a Loadout](#choose-a-loadout)
+**The Heavy** — Health: 5 | Weapon: Reinforced Greataxe | Signature: Stonefoot Signet
+**The Silent** — Health: 3 | Weapon: Twin Daggers | Signature: Lockpicking Tools
+**The Learned** — Health: 3 | Weapon: Runed Quarterstaff | Signature: Amber Monocle
+**The Wild** — Health: 4 | Weapon: Sinew Hunting Bow | Signature: North Star Amulet
+**The Noble** — Health: 3 | Weapon: Filigree Rapier | Signature: Official Wax Kit
+**The Scrappy** — Health: 4 | Weapon: Anchor Flail | Signature: Cracked Glass Eye
+**The Devout** — Health: 3 | Weapon: Sanctified Mace | Signature: Amulet of Sacred Ashes
 
-- **Aquatic:** Gills, Fins, Deep-Sea Eyes, Shimmering Scales
-- **Bestial:** Fangs, Fur, Horns, Hooves, Scales
-- **Avian:** Feathers, Beak, Talons, Wings
-- **Angelic/Demonic:** Fangs, Horns, Glowing Eyes, Sparkling Skin
-  
-### [3. Size](#size)
-Your size gives you a starting bonus.
+## [4. Starting Node](#starting-node)
+Choose one Starter Ability from the **Hero Grid** as your character's first node.
 
-- **Small:** +2 Speed
-- **Average:** +1 Maximum Health
-- **Large:** +2 Maximum Health, -2 Speed
-
-### [4. Starting Node](#startingNode)
-This is your character's starting specialization. You will learn the corresponding abilities for the node you choose.
-
-\newpage
-
-# [Character Creation](#character-creation)
-
-
-#### Martial Nodes:
-- **[1 Handed Weapons]({{site.baseurl}}/PlayerResources/Abilities/1HandedWeapons/#1-Handed-Weapons)**
-- **[2 Handed Weapons]({{site.baseurl}}/PlayerResources/Abilities/2HandedWeapons/#2-Handed-Weapons)**
-- **[Ranged Weapons]({{site.baseurl}}/PlayerResources/Abilities/RangedWeapons/#Ranged-Weapons)**
-- **[Shield]({{site.baseurl}}/PlayerResources/Abilities/Shield/#Shield)**
+### Martial:
 - **[Armored]({{site.baseurl}}/PlayerResources/Abilities/Armored/#Armored)**
 - **[Unarmored]({{site.baseurl}}/PlayerResources/Abilities/Unarmored/#Unarmored)**
-- **[Brawler]({{site.baseurl}}/PlayerResources/Abilities/Brawler/#Brawler)**
+- **[Weapon Specialist]({{site.baseurl}}/PlayerResources/Abilities/WeaponSpecialist/#Weapon-Specialist)**
 
-#### Magic Nodes:
-- **[Earth]({{site.baseurl}}/PlayerResources/Abilities/Earth/#Earth)**
+### Magic:
 - **[Air]({{site.baseurl}}/PlayerResources/Abilities/Air/#Air)**
-- **[Fire]({{site.baseurl}}/PlayerResources/Abilities/Fire/#Fire)**
-- **[Water]({{site.baseurl}}/PlayerResources/Abilities/Water/#Water)**
-- **[Nature]({{site.baseurl}}/PlayerResources/Abilities/Nature/#Nature)**
-- **[Light]({{site.baseurl}}/PlayerResources/Abilities/Light/#Light)**
 - **[Dark]({{site.baseurl}}/PlayerResources/Abilities/Dark/#Dark)**
-
-### [5. Skills](#generalskills)
-Your **Attack**, **Magic**, **Evade**, and **Resist** skills all start at **+0**.
-
-Then choose any four **General Skills** from this list. Each also starts at **+0**.
-
-- **[Careful]({{site.baseurl}}/PlayerResources/Skills/Careful/#Careful)**: You have nimble hands, patience, and attention to detail.
-- **[Charismatic]({{site.baseurl}}/PlayerResources/Skills/Charismatic/#Charismatic)**: You have a way with words and use them well.
-- **[Dexterous]({{site.baseurl}}/PlayerResources/Skills/Dexterous/#Dexterous)**: You can control your body and move with confidence.
-- **[Explorer]({{site.baseurl}}/PlayerResources/Skills/Explorer/#Explorer)**: You have a natural sense of direction in the unknown.
-- **[Fast]({{site.baseurl}}/PlayerResources/Skills/Fast/#Fast)**: You have near instant reaction time and move quickly.
-- **[Intimidating]({{site.baseurl}}/PlayerResources/Skills/Intimidating/#Intimidating)**: You make people fear what you are capable of.
-- **[Kind]({{site.baseurl}}/PlayerResources/Skills/Kind/#Kind)**: Your care and generosity toward others knows no bounds.
-- **[Leader]({{site.baseurl}}/PlayerResources/Skills/Leader/#Leader)**: You naturally inspire confidence and trust from others.
-- **[Lucky]({{site.baseurl}}/PlayerResources/Skills/Lucky/#Lucky)**: Somehow things always seem to work out for you.
-- **[Manipulator]({{site.baseurl}}/PlayerResources/Skills/Manipulator/#Manipulator)**: You influence people to get what you want.
-- **[Observant]({{site.baseurl}}/PlayerResources/Skills/Observant/#Observant)**: Nothing gets past you. You are always on the watch.
-- **[Performer]({{site.baseurl}}/PlayerResources/Skills/Performer/#Performer)**: You know how to put on a show for others.
-- **[Scavenger]({{site.baseurl}}/PlayerResources/Skills/Scavenger/#Scavenger)**: You can find useful objects in obscure places.
-- **[Smart]({{site.baseurl}}/PlayerResources/Skills/Smart/#Smart)**: You excel with pattern recognition and logical deduction.
-- **[Sneaky]({{site.baseurl}}/PlayerResources/Skills/Sneaky/#Sneaky)**: You move silently, almost unnoticed by others.
-- **[Strong]({{site.baseurl}}/PlayerResources/Skills/Strong/#Strong)**: You can bend, lift, and crush large objects with ease.
-- **[Survivalist]({{site.baseurl}}/PlayerResources/Skills/Survivalist/#Survivalist)**: You know how to get by on limited resources.
-- **[Thief]({{site.baseurl}}/PlayerResources/Skills/Thief/#Thief)**: You can make things things disappear… into your pockets.
-- **[Tough]({{site.baseurl}}/PlayerResources/Skills/Tough/#Tough)**: You can tolerate pain and discomfort that others can’t.
-- **[Trickster]({{site.baseurl}}/PlayerResources/Skills/Trickster/#Trickster)**: You know how to fool others into seeing your truth.
-- **[Wise]({{site.baseurl}}/PlayerResources/Skills/Wise/#Wise)**: You know from experience how to handle most situations.
-
-
-\newpage
-
-# [Character Creation](#character-creation)
-
-## [6. Equipment Set](#equipment-set)
-Choose one of these pre-made equipment sets to start the game with.
-
----
-
-**[Scholar]({{site.baseurl}}/PlayerResources/EquipmentSets/Scholar/)**:
-
-- **Inventory**: 2 Gold, Journal, Books, Magic Scrolls, Specimen Containers
-- **Equipment**: [Cloth Robes]({{site.baseurl}}/PlayerResources/Equipment/Armor/ClothRobes/), [Leather Boots]({{site.baseurl}}/PlayerResources/Equipment/Armor/LeatherBoots/)
-- **Weapon**: [Staff]({{site.baseurl}}/PlayerResources/Equipment/Weapons/Staff/) or [Dagger]({{site.baseurl}}/PlayerResources/Equipment/Weapons/Dagger/) and [Magical Object]({{site.baseurl}}/PlayerResources/Equipment/Weapons/MagicalObject/)
-
----
-
-**[Explorer]({{site.baseurl}}/PlayerResources/EquipmentSets/Explorer/)**:
-
-- **Inventory**: 3 Gold, Rope, Torches, Climbing Gear, Flint & Tinder, Throwing Knives or Arrows
-- **Equipment**: [Leather Tunic]({{site.baseurl}}/PlayerResources/Equipment/Armor/LeatherTunic/), [Leather Boots]({{site.baseurl}}/PlayerResources/Equipment/Armor/LeatherBoots/), [Leather Pants]({{site.baseurl}}/PlayerResources/Equipment/Armor/LeatherPants/), [Leather Gloves]({{site.baseurl}}/PlayerResources/Equipment/Armor/LeatherGloves/), [Leather Cap]({{site.baseurl}}/PlayerResources/Equipment/Armor/LeatherCap/)
-- **Weapon**: [Dagger]({{site.baseurl}}/PlayerResources/Equipment/Weapons/Dagger/) **or** [Hand Axe]({{site.baseurl}}/PlayerResources/Equipment/Weapons/HandAxe/), [Hand Crossbow]({{site.baseurl}}/PlayerResources/Equipment/Weapons/HandCrossbow/) **or** [Short Bow]({{site.baseurl}}/PlayerResources/Equipment/Weapons/ShortBow/)
-
----
-
-**[Combatant]({{site.baseurl}}/PlayerResources/EquipmentSets/Combatant/)**:
-
-- **Inventory**: 2 Gold
-- **Equipment**: [Chain Coif]({{site.baseurl}}/PlayerResources/Equipment/Armor/ChainCoif/), [Steel Breast Plate]({{site.baseurl}}/PlayerResources/Equipment/Armor/SteelBreastPlate/), [Steel Boots]({{site.baseurl}}/PlayerResources/Equipment/Armor/SteelBoots/), [Chainmail Leggings]({{site.baseurl}}/PlayerResources/Equipment/Armor/ChainmailLeggings/), and [Steel Gauntlets]({{site.baseurl}}/PlayerResources/Equipment/Armor/SteelGauntlets/)
-- **Weapon**: [Long Sword]({{site.baseurl}}/PlayerResources/Equipment/Weapons/LongSword/), [Mace]({{site.baseurl}}/PlayerResources/Equipment/Weapons/Mace/), [Battle Axe]({{site.baseurl}}/PlayerResources/Equipment/Weapons/BattleAxe/), **or** [Spear]({{site.baseurl}}/PlayerResources/Equipment/Weapons/Spear/) & [Iron Shield]({{site.baseurl}}/PlayerResources/Equipment/Weapons/IronShield/)
-
----
-
-**[Performer]({{site.baseurl}}/PlayerResources/EquipmentSets/Performer/)**:
-
-- **Inventory**: 5 Gold, Instrument / Tool / Prop, Costume or Disguise, Lucky Trinket, Wine skin
-- **Equipment**: [Leather Tunic]({{site.baseurl}}/PlayerResources/Equipment/Armor/LeatherTunic/), [Leather Boots]({{site.baseurl}}/PlayerResources/Equipment/Armor/LeatherBoots/), [Leather Pants]({{site.baseurl}}/PlayerResources/Equipment/Armor/LeatherPants/), [Leather Gloves]({{site.baseurl}}/PlayerResources/Equipment/Armor/LeatherGloves/), [Leather Cap]({{site.baseurl}}/PlayerResources/Equipment/Armor/LeatherCap/)
-- **Weapon**: [Dagger]({{site.baseurl}}/PlayerResources/Equipment/Weapons/Dagger/) **or** [Short Sword]({{site.baseurl}}/PlayerResources/Equipment/Weapons/ShortSword/)
-
----
-
-**[Trader]({{site.baseurl}}/PlayerResources/EquipmentSets/Trader/)**:
-
-- **Inventory**: 10 Gold, Trader’s Bag (5 Extra Inventory),
-- **Equipment**: [Leather Tunic]({{site.baseurl}}/PlayerResources/Equipment/Armor/LeatherTunic/), [Leather Boots]({{site.baseurl}}/PlayerResources/Equipment/Armor/LeatherBoots/), and [Leather Pants]({{site.baseurl}}/PlayerResources/Equipment/Armor/LeatherPants/)
-- **Weapon**: [Dagger]({{site.baseurl}}/PlayerResources/Equipment/Weapons/Dagger/)
+- **[Earth]({{site.baseurl}}/PlayerResources/Abilities/Earth/#Earth)**
+- **[Electric]({{site.baseurl}}/PlayerResources/Abilities/Electric/#Electric)**
+- **[Fire]({{site.baseurl}}/PlayerResources/Abilities/Fire/#Fire)**
+- **[Light]({{site.baseurl}}/PlayerResources/Abilities/Light/#Light)**
+- **[Nature]({{site.baseurl}}/PlayerResources/Abilities/Nature/#Nature)**
+- **[Spirit]({{site.baseurl}}/PlayerResources/Abilities/Spirit/#Spirit)**
+- **[Water]({{site.baseurl}}/PlayerResources/Abilities/Water/#Water)**
 
 [Previous]({{site.baseurl}}/Rules/6/#downtime) | **[Next: Hero Grid]({{site.baseurl}}/Rules/8/)** | [Rules]({{site.baseurl}}/Rules/Index/#rules)

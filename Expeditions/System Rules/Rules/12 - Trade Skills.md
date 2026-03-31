@@ -26,11 +26,7 @@ Here's a list of available Trade Skills:
 
 If your character has a skill not on this list, work with your **Guide** to create a **custom trade skill**.
 
-[Previous]({{site.baseurl}}/Rules/11/#general-skills) | **[Back to Rules]({{site.baseurl}}/Rules/Index/#rules)**
-
-
-
-
+[Previous]({{site.baseurl}}/Rules/11/#general-skills) | **[Next: Abilities]({{site.baseurl}}/Rules/13/#abilities)** | [Rules]({{site.baseurl}}/Rules/Index/#rules)
 
 
 

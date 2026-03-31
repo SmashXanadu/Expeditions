@@ -18,9 +18,9 @@ permalink: /Rules/Glossary/
 
 ### B
 
-**[Benefits]({{site.baseurl}}/Rules/0/#missing-rule)** (p.XX, g.XX)
+**[Backgrounds]({{site.baseurl}}/Rules/7/#choose-a-background)** (p.XX, g.XX)
 
-**[Broken Equipment]({{site.baseurl}}/Rules/0/#missing-rule)** (p.XX, g.XX)
+**[Benefits]({{site.baseurl}}/Rules/0/#missing-rule)** (p.XX, g.XX)
 
 ---
 
@@ -48,23 +48,19 @@ permalink: /Rules/Glossary/
 
 **[Downtime]({{site.baseurl}}/Rules/6/#downtime)** (p.XX, g.XX)
 
-**[Durability]({{site.baseurl}}/Rules/9/#equipment)** (p.XX, g.XX)
-
 ---
 
 ### E
 
 **[Enemies]({{site.baseurl}}/Rules/5/#enemy-turn)** (p.XX, g.XX)
 
-**[Equipment]({{site.baseurl}}/Rules/9/#equipment)** (p.XX, g.XX)
-
-**[Equipment Sets]({{site.baseurl}}/Rules/7/#equipment-sets)** (p.XX, g.XX)
+**[Equipment]({{site.baseurl}}/Rules/10/#managing-equipment)** (p.XX, g.XX)
 
 **[Evade]({{site.baseurl}}/Rules/9/#skills)** (p.XX, g.XX)
 
 **[Expedition]({{site.baseurl}}/Rules/4/#expedition)** (p.XX, g.XX)
 
-**[Experience]({{site.baseurl}}/Rules/10/#gaining-experience)** (p.XX, g.XX)
+**[Experience]({{site.baseurl}}/Rules/10/#earning-experience)** (p.XX, g.XX)
 
 **[Exploration]({{site.baseurl}}/Rules/4/#social-and-exploration)** (p.XX, g.XX)
 
@@ -89,6 +85,12 @@ permalink: /Rules/Glossary/
 ### I
 
 **[Inventory]({{site.baseurl}}/Rules/10/#managing-equipment)** (p.XX, g.XX)
+
+---
+
+### L
+
+**[Loadouts]({{site.baseurl}}/Rules/7/#choose-a-loadout)** (p.XX, g.XX)
 
 ---
 
@@ -118,8 +120,6 @@ permalink: /Rules/Glossary/
 
 ### S
 
-**[Size]({{site.baseurl}}/Rules/7/#size)** (p.XX, g.XX)
-
 **[Skill Checks]({{site.baseurl}}/Rules/3/#resolving-dice-rolls)** (p.XX, g.XX)
 
 **[Skill Tracks]({{site.baseurl}}/Rules/9/#skills)** (p.XX, g.XX)
@@ -131,6 +131,12 @@ permalink: /Rules/Glossary/
 **[Skills (Trade)]({{site.baseurl}}/Rules/12/#tradeskills)** (p.XX, g.XX)
 
 **[Social Encounters]({{site.baseurl}}/Rules/4/#social-and-exploration)** (p.XX, g.XX)
+
+---
+
+### P
+
+**[Perks]({{site.baseurl}}/Rules/PerkSheet/#perk-sheet)** (p.XX, g.XX)
 
 ---
 

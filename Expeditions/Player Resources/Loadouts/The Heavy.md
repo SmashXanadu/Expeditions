@@ -11,7 +11,7 @@ permalink: /PlayerResources/Loadouts/TheHeavy/
 
 ---
 
-- **Weapon: +2 Reinforced Greataxe.** A massive, notched blade with a steel-wrapped haft built to split armor and bone.
+- **Weapon: Reinforced Greataxe.** A massive, notched blade with a steel-wrapped haft built to split armor and bone.
 - **Signature Item: Stonefoot Signet.** A heavy iron ring that hardens your skin like living rock.
 
 ---

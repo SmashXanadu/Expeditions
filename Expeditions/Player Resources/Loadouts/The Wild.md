@@ -11,7 +11,7 @@ permalink: /PlayerResources/Loadouts/TheWild/
 
 ---
 
-- **Weapon: +2 Sinew Hunting Bow.** A powerful recurve bow with a grip of braided cord.
+- **Weapon: Sinew Hunting Bow.** A powerful recurve bow with a grip of braided cord.
 - **Signature Item: North Star Amulet.** A magnetic charm that always pulls toward true north.
 
 ---

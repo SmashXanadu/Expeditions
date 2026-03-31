@@ -9,6 +9,8 @@ permalink: /PlayerResources/Backgrounds/Infiltrator/
 ---
 
 **Core Skills**
+- **+2 Attack:** Your bonus to physical attack rolls.
+- **+0 Magic:** Your bonus to magical spell and attack rolls.
 - **+3 Evade:** You avoid incoming danger through speed and sharp reflexes.
 - **+1 Resist:** You endure magical forces and effects through will and resilience.
 

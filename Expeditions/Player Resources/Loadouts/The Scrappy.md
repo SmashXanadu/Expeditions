@@ -11,7 +11,7 @@ permalink: /PlayerResources/Loadouts/TheScrappy/
 
 ---
 
-- **Weapon: +1 Anchor Flail.** A brutal weapon made from a ship's anchor head and chain.
+- **Weapon: Anchor Flail.** A brutal weapon made from a ship's anchor head and chain.
 - **Signature Item: Cracked Glass Eye.** A fractured magical orb that grants sight in total darkness and faintly glows near hidden spaces.
 
 ---
