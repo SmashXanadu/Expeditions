@@ -14,7 +14,7 @@ As you create a story collaboratively, the **Guide** will describe your environm
 >
 >**Guide**: “What skill would do you want to use?”
 >
->**Player**: “I would just try to muscle it out of the way using my Strong skill.”
+>**Player**: “I would just try to muscle it out of the way using my **Strong** skill.”
 >
 >**Guide**: “Okay, you are exceptionally strong. You move the boulder without much effort at all.”
 >

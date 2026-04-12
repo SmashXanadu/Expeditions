@@ -28,7 +28,4 @@ Build your character exactly how you want without being restricted by a class.
 **Player Driven Fate**
 Only players roll dice. The Guide never rolls.
 
-**Rules for Every Type of Player**
-Player materials are designed for different experience levels (Novice, Apprentice, Journeyman, and Master), but everyone plays the same game.
-
 **[Next: Basic Rules]({{site.baseurl}}/Rules/2/)** | [Rules]({{site.baseurl}}/Rules/Index/#rules)

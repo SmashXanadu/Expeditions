@@ -10,6 +10,7 @@ public class MainForm : Form
     private readonly Button _convertBtn;
     private readonly Button _selectAllBtn;
     private readonly Button _deselectAllBtn;
+    private readonly CheckBox _includeIndividualChk;
 
     private readonly string _solutionRoot;
     private readonly string _outputFolder;
@@ -99,6 +100,14 @@ public class MainForm : Form
         };
         _convertBtn.FlatAppearance.BorderSize = 0;
 
+        _includeIndividualChk = new CheckBox
+        {
+            Text = "Include individual pages in output",
+            Checked = false,
+            AutoSize = true,
+            Anchor = AnchorStyles.Left | AnchorStyles.Top
+        };
+
         _selectAllBtn.Click   += (_, _) => SetAllChecked(_treeView.Nodes, true);
         _deselectAllBtn.Click += (_, _) => SetAllChecked(_treeView.Nodes, false);
         _convertBtn.Click     += ConvertBtn_Click;
@@ -112,6 +121,13 @@ public class MainForm : Form
         leftButtons.Controls.Add(_selectAllBtn);
         leftButtons.Controls.Add(_deselectAllBtn);
 
+        var middleOptions = new FlowLayoutPanel
+        {
+            Dock = DockStyle.Fill,
+            Padding = new Padding(6, 11, 0, 0)
+        };
+        middleOptions.Controls.Add(_includeIndividualChk);
+
         var rightButtons = new FlowLayoutPanel
         {
             Dock = DockStyle.Right,
@@ -121,6 +137,7 @@ public class MainForm : Form
         rightButtons.Controls.Add(_convertBtn);
 
         var buttonBar = new Panel { Dock = DockStyle.Bottom, Height = 44 };
+        buttonBar.Controls.Add(middleOptions);
         buttonBar.Controls.Add(leftButtons);
         buttonBar.Controls.Add(rightButtons);
 
@@ -197,6 +214,10 @@ public class MainForm : Form
         finally { _suppressCheck = false; }
     }
 
+    private static bool IsHyphenFile(TreeNode node) =>
+        node.Tag is string path && File.Exists(path) &&
+        Path.GetFileName(path).StartsWith('-');
+
     private void SetAllChecked(TreeNodeCollection nodes, bool value)
     {
         _suppressCheck = true;
@@ -204,6 +225,7 @@ public class MainForm : Form
         {
             foreach (TreeNode node in nodes)
             {
+                if (value && IsHyphenFile(node)) continue;
                 node.Checked = value;
                 SetAllChecked(node.Nodes, value);
             }
@@ -263,10 +285,11 @@ public class MainForm : Form
             })
             .ToList();
 
+        bool keepIndividual = _includeIndividualChk.Checked;
         await Task.Run(() =>
         {
             foreach (var (folder, files, combine) in byFolder)
-                ProcessFolder(folder, files, combine);
+                ProcessFolder(folder, files, combine, keepIndividual);
         });
 
         Log("\n=== All done! ===", Color.LightGreen);
@@ -281,7 +304,7 @@ public class MainForm : Form
         _treeView.Enabled       = enabled;
     }
 
-    private void ProcessFolder(string sourceFolder, List<string> mdFiles, bool combine)
+    private void ProcessFolder(string sourceFolder, List<string> mdFiles, bool combine, bool keepIndividual)
     {
         string folderName = Path.GetFileName(sourceFolder)!;
         Log($"\n=== {folderName} ===", Color.Cyan);
@@ -307,7 +330,19 @@ public class MainForm : Form
             Log($"  [WARNING] {failures.Count} failed: {string.Join(", ", failures)}", Color.Orange);
 
         if (combine)
-            CombinePdfs(generated.OrderBy(f => f).ToList(), $"{folderName}.pdf");
+        {
+            var orderedFiles = generated.OrderBy(f => f).ToList();
+            CombinePdfs(orderedFiles, $"{folderName}.pdf");
+
+            if (!keepIndividual)
+            {
+                foreach (var file in orderedFiles)
+                {
+                    try { File.Delete(file); }
+                    catch { /* best effort */ }
+                }
+            }
+        }
     }
 
     private void CombinePdfs(List<string> files, string outputFileName)

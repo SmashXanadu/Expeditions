@@ -4,7 +4,9 @@
   - Update player resources index
   - Test print and prob update script to get rules to print better
   - remove all of these wide hyphens everywhere
+  - update background sheet? or character sheet with perks on back
   - update hero grid? visual no longer matches node structure
+  - update overall gitlab project readme file. no longer completely accurate
 
 
 
@@ -33,9 +35,7 @@
   - [ ] What escalation means mechanically
   - [ ] Example uses in play
 
-## System Design – To Do
 
-- [ ] Write a **Rules Section for Adapting the System to Any Setting**
 
 ## [Expeditions Pocket](-%20Expeditions%20Pocket%20-%20To%20Do.md)
 ## Uncharted Waters: The Endless Sea
@@ -52,6 +52,10 @@
 - Refine Ships (Embed Images)
 - Make Map Ready top down perspective images of each location and ship
 - Table of known locations, known factions, known ships, etc
+
+### Uncharted Waters: Beyond the Fog
+### Uncharted Waters: Into the Deeps
+### Uncharted Waters: The Skies Above
 
 ## Expeditions
 - New Rule to Test

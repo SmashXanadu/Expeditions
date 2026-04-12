@@ -34,7 +34,7 @@ public static class MarkdownPdfConverter
                 container.Page(page =>
                 {
                     page.Size(5.5f * 72, 8.5f * 72);
-                    page.Margin(0.25f * 72);
+                    page.Margin(0.375f * 72);
                     page.DefaultTextStyle(x => x.FontFamily(FontFamily).FontSize(BaseFontSize));
 
                     page.Content().Column(col =>
@@ -108,6 +108,20 @@ public static class MarkdownPdfConverter
 
             case Table table:
                 RenderTable(col, table);
+                break;
+
+            case QuoteBlock quote:
+                col.Item().Row(row =>
+                {
+                    row.ConstantItem(3).Background("#888888");
+                    row.ConstantItem(6);
+                    row.RelativeItem().Column(quoteCol =>
+                    {
+                        quoteCol.Spacing(2);
+                        foreach (var b in quote)
+                            RenderBlock(quoteCol, b);
+                    });
+                });
                 break;
 
             case ListBlock list:

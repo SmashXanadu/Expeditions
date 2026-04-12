@@ -10,29 +10,30 @@ Your character grows by earning **Experience (EXP)** and spending it on **Perks*
 - You earn an **additional 1 Experience** if the expedition was a **success** within the defined time limit.
 
 ## [Spending Experience](#spending-experience)
-During **Downtime**, spend **Experience** to choose perks from your **Perk Sheet**. The Perk Sheet is a menu of progression options — spend freely to shape your character however you like.
+During **Downtime**, spend **Experience** to choose perks from your **Perk Sheet**. The Perk Sheet is a menu of progression options.
 
 Perk options are organized into four categories:
 
 - **General**: Core training options that can be taken multiple times.
 - **Physical Offence**: Permanent combat upgrades for weapon users.
-- **Magical Offence**: Permanent upgrades for ability users.
+- **Magical Offence**: Permanent upgrades for magic users.
 - **Defense**: Passive survivability upgrades.
 
 ## [Managing Equipment](#managing-equipment)
 Your character has the following equipment slots:
 
-| Slot | Type |
-|:--|:--|
-| **Main Hand** | Weapon or Shield |
-| **Off Hand** | Weapon or Shield |
-| **Head** | Armor |
-| **Chest** | Armor |
-| **Hands** | Armor |
-| **Legs** | Armor |
-| **Feet** | Armor |
+| Slot          |
+| :------------ |
+| Main Hand |
+| Off Hand  |
+| Head      |
+| Chest     |
+| Hands     |
+| Legs      |
+| Feet      |
 
 - **Weapons** and **Armor** can have magical properties.
+- Only one item may be equipped in each slot.
 - Your **Inventory** can hold up to 10 unequipped items.
 - **Gold** is the currency you use to buy and sell items.
 

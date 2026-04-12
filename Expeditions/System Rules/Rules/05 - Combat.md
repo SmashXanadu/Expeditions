@@ -11,12 +11,12 @@ Combat turns alternate between the **Player Team** and the **Adversary Team**. T
 ## [Your Turn (Players)](#heroes-turn)
 During your turn, your character can do a few things in any order:
 
-- **Use an Ability** (like an attack or a special move) or **Equip Gear**
+- **Attack or use an Ability**
 - **Move** to a new location
 - **Speak** or **Interact** with something
 
 ### [Using Abilities](#use-an-ability)
-When you use an **Ability**, describe what you're trying to do. Your Guide can confirm that your target is within range and line of sight, if necessary. Spend a charge to resolve the ability if necessary.
+When you use an **Ability**, describe what you're trying to do. Your Guide can confirm that your target is within range and line of sight, if necessary.
 
 ### [Attacking](#attacking)
 If your Ability is an **Attack** against an enemy:
@@ -24,7 +24,7 @@ If your Ability is an **Attack** against an enemy:
 1. Tell the Guide what you're attacking and with which Ability.
 2. The Guide will tell you the **target number** you need to beat. This will be a **Defense** target number for physical attacks or **Resistance** for magic attacks.
 3. Roll your D20 and add any relevant bonuses. If your total meets or beats the target number, your attack hits!
-4. If you hit, you deal **Damage** as described by your Ability or weapon, and any other effects happen.
+4. If you hit, you deal 1 **Damage**, (or 2 damage on a critical hit) and any other effects happen.
 
 Remember you may be able to take a **consequence** to allow your attacks to succeed even on a missed roll, as explained in the "Resolving Dice Rolls" section!
 ## [Adversary Turns](#enemy-turn)
@@ -42,11 +42,11 @@ When an enemy attacks you:
 ### [Taking Damage](#taking-damage)
 When you take damage:
 
-- All damage is taken as **Health** loss.
+- Reduce you current **Health** by the amount of incoming damage.
 - If your **Health** drops to 0, you fall **Unconscious**.
 
 ### [Zoned Combat](#zoned-combat)
-Combat takes place in **Zones**, which are clearly defined areas on a map or table.
+Combat takes place in **Zones**, which are abstractly defined areas on a map or table.
 
 - When you **Move** on your turn, you generally move to an **adjacent zone**.
 - The **Range** to your targets is also determined by these Zones:

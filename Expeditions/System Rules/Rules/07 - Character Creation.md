@@ -4,12 +4,9 @@ permalink: /Rules/7/
 ---
 # [Character Creation](#character-creation)
 
-Creating your character is done in four simple steps. Follow the steps below and make your choices to create the perfect hero for your next expedition.
+Creating your character is done in four simple steps. 
 
-## [1. Describe your character](#describe-your-character)
-Description of how to describe your character, notable features, etc
-
-## [2. Choose a Background](#choose-a-background)
+## [1. Choose a Background](#choose-a-background)
 **Infiltrator** — Attack +2, Magic +0, Evade +3, Resist +1 | Sneaky +4, Dexterous +3, Thief +2, Fast +2, Careful +1, Observant +1
 **Guardian** — Attack +1, Magic +1, Evade +1, Resist +3 | Strong +4, Tough +3, Leader +2, Intimidating +2, Wise +1, Kind +1
 **Scholar** — Attack +0, Magic +2, Evade +1, Resist +3 | Smart +4, Wise +3, Observant +2, Careful +2, Lucky +1, Trickster +1
@@ -17,7 +14,7 @@ Description of how to describe your character, notable features, etc
 **Diplomat** — Attack +1, Magic +2, Evade +1, Resist +3 | Charismatic +4, Manipulator +3, Leader +2, Performer +2, Trickster +1, Lucky +1
 **Survivor** — Attack +2, Magic +0, Evade +2, Resist +2 | Lucky +4, Scavenger +3, Smart +2, Fast +2, Dexterous +1, Survivalist +1
 
-## [3. Choose a Loadout](#choose-a-loadout)
+## [2. Choose a Loadout](#choose-a-loadout)
 **The Heavy** — Health: 5 | Weapon: Reinforced Greataxe | Signature: Stonefoot Signet
 **The Silent** — Health: 3 | Weapon: Twin Daggers | Signature: Lockpicking Tools
 **The Learned** — Health: 3 | Weapon: Runed Quarterstaff | Signature: Amber Monocle
@@ -26,7 +23,7 @@ Description of how to describe your character, notable features, etc
 **The Scrappy** — Health: 4 | Weapon: Anchor Flail | Signature: Cracked Glass Eye
 **The Devout** — Health: 3 | Weapon: Sanctified Mace | Signature: Amulet of Sacred Ashes
 
-## [4. Starting Node](#starting-node)
+## [3. Starting Node](#starting-node)
 Choose one Starter Ability from the **Hero Grid** as your character's first node.
 
 ### Martial:
@@ -44,5 +41,8 @@ Choose one Starter Ability from the **Hero Grid** as your character's first node
 - **[Nature]({{site.baseurl}}/PlayerResources/Abilities/Nature/#Nature)**
 - **[Spirit]({{site.baseurl}}/PlayerResources/Abilities/Spirit/#Spirit)**
 - **[Water]({{site.baseurl}}/PlayerResources/Abilities/Water/#Water)**
+
+## [4. Describe your character](#describe-your-character)
+Take everything you've chosen and tie it together into someone real. Give your character a want, a flaw, and a line they won't cross. Who are they? What drives them into danger? Do they have any notable features that make them unique?
 
 [Previous]({{site.baseurl}}/Rules/6/#downtime) | **[Next: Hero Grid]({{site.baseurl}}/Rules/8/)** | [Rules]({{site.baseurl}}/Rules/Index/#rules)

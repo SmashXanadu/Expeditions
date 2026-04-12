@@ -8,7 +8,7 @@ When you try to do something with an uncertain outcome, your **Guide** will set 
 To find out if you succeed, follow these steps:
 
 1. Roll a 20-sided die.
-2. Add any bonuses from your **Skills** or **Abilities**.
+2. (Optional) Add a bonus from an appropriate **Skill**.
 3. Compare the total to the target number.
 
 **Success and Failure**
@@ -18,7 +18,7 @@ To find out if you succeed, follow these steps:
 
 **Critical Rolls**
 
-- **A roll of 1** (before adding any bonuses) is always a **Critical Failure** — you fail and suffer a **Major Complication** with no way to avoid it. You cannot spend a complication to turn this into a success.
+- **A roll of 1** (before adding any bonuses) is always a **Critical Failure** — you fail and suffer a **Major Complication** with no way to avoid it.
 - **A roll of 20** (before adding any bonuses) is always a **Critical Success** with a **Major Benefit**.
 
 **Succeeding with Complications**
@@ -31,7 +31,7 @@ If you fail to hit your target number, you can choose to succeed by pushing your
 
 >**Guide**: "To move the boulder, you need to roll a 16."
 >
->**Player**: "I rolled a 13, and my Strong skill adds +2, for a total of 15. That's a fail by 1... but I will take a complication to succeed."
+>**Player**: "I rolled a 13, and my Strong skill adds +2, for a total of 15. That's a fail by 1... but I will take a minor complication to succeed."
 >
 >**Guide**: "You move the boulder, but in the process, you damage your boots."
 

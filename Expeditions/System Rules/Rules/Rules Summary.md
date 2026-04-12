@@ -33,13 +33,20 @@ permalink: /Rules/Summary/
 2.  If **Success**, take **No Damage**.
 3.  If **Fail**, take **Damage** to **Health**.
 
-| Range       | Distance                    |     | **Target Number** | **Difficulty** |
-| :---------- | :-------------------------- | --- | :---------------- | :------------- |
-| **Close**   | Same zone.                  |     | 8                 | Trivial        |
-| **Near**    | Adjacent zone or closer.    |     | 10                | Easy           |
-| **Far**     | At least 1 zone away.       |     | 12                | Normal         |
-| **Distant** | Beyond the field of battle. |     | 14                | Tough          |
-|             |                             |     | 16                | Difficult      |
-|             |                             |     | 18                | Very Hard      |
+| Range       | Distance                    |
+| :---------- | :-------------------------- |
+| **Close**   | Same zone.                  |
+| **Near**    | Adjacent zone or closer.    |
+| **Far**     | At least 1 zone away.       |
+| **Distant** | Beyond the field of battle. |
+
+| **Target Number** | **Difficulty** |
+| :---------------- | :------------- |
+| 8                 | Trivial        |
+| 10                | Easy           |
+| 12                | Normal         |
+| 14                | Tough          |
+| 16                | Difficult      |
+| 18                | Very Hard      |
 
 **[Rules]({{site.baseurl}}/Rules/Index/#rules)**
