@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /Rules/10/
+permalink: /Rules/8/
 ---
 # [Character Progression](#character-progression)
 
@@ -28,4 +28,4 @@ During **Downtime**, spend **Experience** to choose perks from your **Perk Sheet
 - **Magical Offence**: Permanent upgrades for magic users.
 - **Defense**: Passive survivability upgrades.
 
-[Previous]({{site.baseurl}}/Rules/8/#your-character) | **[Next: General Skills]({{site.baseurl}}/Rules/11/)** | [Rules]({{site.baseurl}}/Rules/Index/#rules)
+[Previous]({{site.baseurl}}/Rules/7/#your-character) | **[Next: General Skills]({{site.baseurl}}/Rules/9/)** | [Rules]({{site.baseurl}}/Rules/Index/#rules)

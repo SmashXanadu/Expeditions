@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /Rules/8/
+permalink: /Rules/7/
 ---
 # [Your Character](#your-character)
 
@@ -39,4 +39,4 @@ Your character has the following equipment slots:
 - Your **Inventory** can hold up to 10 unequipped items.
 - **Gold** is the currency you use to buy and sell items.
 
-[Previous]({{site.baseurl}}/Rules/7/#character-creation) | **[Next: Character Progression]({{site.baseurl}}/Rules/10/)** | [Rules]({{site.baseurl}}/Rules/Index/#rules)
+[Previous]({{site.baseurl}}/Rules/6/#character-creation) | **[Next: Character Progression]({{site.baseurl}}/Rules/8/)** | [Rules]({{site.baseurl}}/Rules/Index/#rules)

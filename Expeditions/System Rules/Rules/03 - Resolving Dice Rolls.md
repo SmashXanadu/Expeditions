@@ -46,4 +46,4 @@ Your guide may impose Advantage or Disadvantage on your rolls due to the circums
 
 If you have both advantage and disadvantage at the same time, they cancel out and you roll normally.
 
-[Previous]({{site.baseurl}}/Rules/2/#basic-rules) | **[Next: Combat]({{site.baseurl}}/Rules/5/)** | [Rules]({{site.baseurl}}/Rules/Index/#rules)
+[Previous]({{site.baseurl}}/Rules/2/#basic-rules) | **[Next: Combat]({{site.baseurl}}/Rules/4/)** | [Rules]({{site.baseurl}}/Rules/Index/#rules)

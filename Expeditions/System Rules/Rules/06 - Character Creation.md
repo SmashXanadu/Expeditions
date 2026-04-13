@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /Rules/7/
+permalink: /Rules/6/
 ---
 # [Character Creation](#character-creation)
 
@@ -42,4 +42,4 @@ Choose one Starter Ability from the **Hero Grid** as your character's first node
 ## [4. Describe your character](#describe-your-character)
 Take everything you've chosen and tie it together into someone real. Give your character a want, a flaw, and a line they won't cross. Who are they? What drives them into danger? Do they have any notable features that make them unique?
 
-[Previous]({{site.baseurl}}/Rules/6/#downtime) | **[Next: Hero Grid]({{site.baseurl}}/Rules/8/)** | [Rules]({{site.baseurl}}/Rules/Index/#rules)
+[Previous]({{site.baseurl}}/Rules/5/#downtime) | **[Next: Your Character]({{site.baseurl}}/Rules/7/)** | [Rules]({{site.baseurl}}/Rules/Index/#rules)

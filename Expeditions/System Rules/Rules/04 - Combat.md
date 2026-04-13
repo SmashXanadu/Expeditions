@@ -1,12 +1,12 @@
 ---
 layout: default
-permalink: /Rules/5/
+permalink: /Rules/4/
 ---
 # [Combat](#combat)
-When conflict breaks out, the game shifts into **Combat** mode. Combat is organized into rounds, where characters and enemies take turns performing actions.
+When conflict breaks out, the game shifts into **Combat** mode. Combat is organized into rounds, where the **Players** and the **Adversaries** take turns performing actions.
 
 ## [Turn Order](#turn-order)
-Combat turns alternate between the **Player Team** and the **Adversary Team**. The **Guide** decides which team acts first — usually the side that started the fight. Players choose the order in which they act within their team's turn.
+The **Guide** decides which team acts first — usually the side that started the fight. Players choose the order in which they act within their team's turn.
 
 ## [Your Turn (Players)](#heroes-turn)
 During your turn, your character can do a few things in any order:
@@ -16,7 +16,7 @@ During your turn, your character can do a few things in any order:
 - **Speak** or **Interact** with something
 
 ### [Using Abilities](#use-an-ability)
-When you use an **Ability**, describe what you're trying to do. Your Guide can confirm that your target is within range and line of sight, if necessary.
+When you use an **Ability**, describe what you're trying to do. Your Guide will let you know if you must spend a charge to resolve the ability. Spending a charge guarantees success.
 
 ### [Attacking](#attacking)
 If your Ability is an **Attack** against an enemy:
@@ -26,7 +26,7 @@ If your Ability is an **Attack** against an enemy:
 3. Roll your D20 and add any relevant bonuses. If your total meets or beats the target number, your attack hits!
 4. If you hit, you deal 1 **Damage**, (or 2 damage on a critical hit) and any other effects happen.
 
-Remember you may be able to take a **consequence** to allow your attacks to succeed even on a missed roll, as explained in the "Resolving Dice Rolls" section!
+Remember you may be able to take a **consequence** to to succeed on a missed roll!
 ## [Adversary Turns](#enemy-turn)
 When an enemy attacks you:
 
@@ -51,4 +51,4 @@ Combat takes place in **Zones**, which are abstractly defined areas on a map or 
     - **Far**: Your target is at least one zone away from you.
     - **Distant**: Your target is beyond the current combat area.
 
-[Previous]({{site.baseurl}}/Rules/3/#resolving-dice-rolls) | **[Next: Downtime]({{site.baseurl}}/Rules/6/)** | [Rules]({{site.baseurl}}/Rules/Index/#rules)
+[Previous]({{site.baseurl}}/Rules/3/#resolving-dice-rolls) | **[Next: Downtime]({{site.baseurl}}/Rules/5/)** | [Rules]({{site.baseurl}}/Rules/Index/#rules)

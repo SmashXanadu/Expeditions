@@ -10,14 +10,14 @@ Page numbers are listed with a "p" for this Player Booklet, and a "g" for the Gu
 1. **[About Expeditions]({{site.baseurl}}/Rules/1/#about-expeditions)**
 2. **[Basic Rules]({{site.baseurl}}/Rules/2/#basic-rules)**
 3. **[Resolving Dice Rolls]({{site.baseurl}}/Rules/3/#resolving-dice-rolls)**
-4. **[Combat]({{site.baseurl}}/Rules/5/#combat)**
-5. **[Downtime]({{site.baseurl}}/Rules/6/#downtime)**
-6. **[Character Creation]({{site.baseurl}}/Rules/7/#character-creation)**
-7. **[Your Character]({{site.baseurl}}/Rules/8/#your-character)**
-8. **[Character Progression]({{site.baseurl}}/Rules/10/#character-progression)**
-9. **[General Skills]({{site.baseurl}}/Rules/11/#general-skills)**
-10. **[Trade Skills]({{site.baseurl}}/Rules/12/#trade-skills)**
-11. **[Abilities]({{site.baseurl}}/Rules/13/#abilities)**
+4. **[Combat]({{site.baseurl}}/Rules/4/#combat)**
+5. **[Downtime]({{site.baseurl}}/Rules/5/#downtime)**
+6. **[Character Creation]({{site.baseurl}}/Rules/6/#character-creation)**
+7. **[Your Character]({{site.baseurl}}/Rules/7/#your-character)**
+8. **[Character Progression]({{site.baseurl}}/Rules/8/#character-progression)**
+9. **[General Skills]({{site.baseurl}}/Rules/9/#general-skills)**
+10. **[Trade Skills]({{site.baseurl}}/Rules/10/#trade-skills)**
+11. **[Abilities]({{site.baseurl}}/Rules/11/#abilities)**
 
 **[Rules Glossary]({{site.baseurl}}/Rules/Glossary/#rules-glossary)** — Alphabetical reference for all rules terms.
 
