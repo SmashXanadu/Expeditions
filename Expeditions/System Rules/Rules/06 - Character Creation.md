@@ -26,21 +26,18 @@ Creating your character is done in four simple steps.
 ## [3. Starting Node](#starting-node)
 Choose one Starter Ability from the **Hero Grid** as your character's first node.
 
-### Martial:
-- **[Armored]({{site.baseurl}}/PlayerResources/Abilities/Armored/#Armored)**
-- **[Unarmored]({{site.baseurl}}/PlayerResources/Abilities/Unarmored/#Unarmored)**
-- **[Weapon Specialist]({{site.baseurl}}/PlayerResources/Abilities/WeaponSpecialist/#Weapon-Specialist)**
-
-### Magic:
-- **[Air]({{site.baseurl}}/PlayerResources/Abilities/Air/#Air)**
-- **[Dark]({{site.baseurl}}/PlayerResources/Abilities/Dark/#Dark)**
-- **[Earth]({{site.baseurl}}/PlayerResources/Abilities/Earth/#Earth)**
-- **[Electric]({{site.baseurl}}/PlayerResources/Abilities/Electric/#Electric)**
-- **[Fire]({{site.baseurl}}/PlayerResources/Abilities/Fire/#Fire)**
-- **[Light]({{site.baseurl}}/PlayerResources/Abilities/Light/#Light)**
-- **[Nature]({{site.baseurl}}/PlayerResources/Abilities/Nature/#Nature)**
-- **[Spirit]({{site.baseurl}}/PlayerResources/Abilities/Spirit/#Spirit)**
-- **[Water]({{site.baseurl}}/PlayerResources/Abilities/Water/#Water)**
+- **[Air]({{site.baseurl}}/PlayerResources/Abilities/Air/)**:  Move, push enemies, and deflect attacks with manipulated wind.
+- **[Dark]({{site.baseurl}}/PlayerResources/Abilities/Dark/)**:  Teleport, phase through objects, and blind enemies using shadows.
+- **[Water]({{site.baseurl}}/PlayerResources/Abilities/Water/)**:  Bind movement, douse flames, and modify terrain with water.
+- **[Fire]({{site.baseurl}}/PlayerResources/Abilities/Fire/)**:  Burn, reshape, and illuminate your surroundings with conjured flame.
+- **[Earth]({{site.baseurl}}/PlayerResources/Abilities/Earth/)**:  Create cover, trigger tremors, and crush obstacles with stone and soil.
+- **[Nature]({{site.baseurl}}/PlayerResources/Abilities/Nature/)**:  Sense life, grow plants, and survive anywhere in the natural world.
+- **[Light]({{site.baseurl}}/PlayerResources/Abilities/Light/)**:  Reveal, cleanse, signal, and blind with projected pure light.
+- **[Armored]({{site.baseurl}}/PlayerResources/Abilities/Armored/)**:  Hold ground, absorb blows, and dominate the frontline with your armor.
+- **[Unarmored]({{site.baseurl}}/PlayerResources/Abilities/Unarmored/)**:  Evade danger and strike from unexpected angles with fluid precision.
+- **[Weapon Specialist]({{site.baseurl}}/PlayerResources/Abilities/WeaponSpecialist/)**:  Master your weapon to make every blow find its mark.
+- **[Spirit]({{site.baseurl}}/PlayerResources/Abilities/Spirit/)**:  Sense emotions, project thoughts, and perceive the hidden.
+- **[Electric]({{site.baseurl}}/PlayerResources/Abilities/Electric/)**:  Shock, magnetize, and discharge devastating arcs of electricity.
 
 ## [4. Describe your character](#describe-your-character)
 Take everything you've chosen and tie it together into someone real. Give your character a want, a flaw, and a line they won't cross. Who are they? What drives them into danger? Do they have any notable features that make them unique?

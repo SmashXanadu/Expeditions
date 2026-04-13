@@ -35,10 +35,6 @@ When an enemy attacks you:
     - If you **succeed**, you avoid the damage.
     - If you **fail**, the Guide tells you how much damage you take.
 
-\newpage
-
-# [Combat](#combat)
-
 ### [Taking Damage](#taking-damage)
 When you take damage:
 
@@ -55,4 +51,4 @@ Combat takes place in **Zones**, which are abstractly defined areas on a map or 
     - **Far**: Your target is at least one zone away from you.
     - **Distant**: Your target is beyond the current combat area.
 
-[Previous]({{site.baseurl}}/Rules/4/#flow-of-the-game) | **[Next: Downtime]({{site.baseurl}}/Rules/6/)** | [Rules]({{site.baseurl}}/Rules/Index/#rules)
+[Previous]({{site.baseurl}}/Rules/3/#resolving-dice-rolls) | **[Next: Downtime]({{site.baseurl}}/Rules/6/)** | [Rules]({{site.baseurl}}/Rules/Index/#rules)
