@@ -3,7 +3,7 @@ layout: default
 permalink: /Rules/PerkSheet/
 ---
 # [Perk Sheet](#perk-sheet)
-Spend **Experience** earned during **Downtime** to unlock Perks. All Perks are passive and permanent. Some can be taken multiple times.
+Spend **Experience** earned during **Downtime** to unlock Perks. All Perks are passive and permanent. Each Perk costs **1 Experience**. Some can be taken multiple times.
 
 ## [Training](#training)
 

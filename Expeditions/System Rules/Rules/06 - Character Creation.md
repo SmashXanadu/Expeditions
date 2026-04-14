@@ -7,6 +7,8 @@ permalink: /Rules/6/
 Creating your character is done in four simple steps. 
 
 ## [1. Choose a Background](#choose-a-background)
+The first four values are your **Core Skills** (Attack, Magic, Evade, Resist). The remaining six are your starting **General Skills**.
+
 **Infiltrator** — Attack +2, Magic +0, Evade +3, Resist +1 | Sneaky +4, Dexterous +3, Thief +2, Fast +2, Careful +1, Observant +1
 **Guardian** — Attack +1, Magic +1, Evade +1, Resist +3 | Strong +4, Tough +3, Leader +2, Intimidating +2, Wise +1, Kind +1
 **Scholar** — Attack +0, Magic +2, Evade +1, Resist +3 | Smart +4, Wise +3, Observant +2, Careful +2, Lucky +1, Trickster +1

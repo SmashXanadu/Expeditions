@@ -1,8 +1,5 @@
 # To Do
 - Rules Review
-  - Rules Gaps.md file
-  - Update player resources index
-  - Test print and prob update script to get rules to print better
   - remove all of these wide hyphens everywhere
   - update background sheet? or character sheet with perks on back
   - update hero grid? visual no longer matches node structure

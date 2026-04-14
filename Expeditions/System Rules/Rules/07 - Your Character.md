@@ -5,7 +5,7 @@ permalink: /Rules/7/
 # [Your Character](#your-character)
 
 ## [Stats](#stats)
-- **Health** – Damage you can sustain before becoming unconscious
+- **Health** – The only stat. Tracks how much damage you can sustain before falling unconscious. Set by your Loadout during character creation.
 
 ## [Abilities](#abilities)
 You unlock abilities by progressing through the **Hero Grid**.
@@ -15,11 +15,15 @@ You unlock abilities by progressing through the **Hero Grid**.
 - You regain charges by resting during **Downtime** or by using other specific abilities or items.
 
 ## [Skills](#skills)
-Your character can have a maximum of 12 skills.
-- **Attack** and **Magic** are standard skills that determine your effectiveness with weapons and spells.
-- **Evade** and **Resist** are standard skills that help you avoid incoming attacks.
-- **General Skills** and **Trade Skills** can be used to perform actions in or out of combat.
-- Each skill has a **Modifier** value that starts at +0. Over time, you can improve a skill to a maximum of +5.
+All skills work the same way — each has a **Modifier** you add to your d20 roll. Modifiers can be improved up to a maximum of +5. Your character can have a maximum of 12 skills.
+
+**Core Skills** are the four combat skills every character has. Their starting values are set by your **Background**.
+- **Attack** – Used to hit with weapons and physical abilities.
+- **Magic** – Used to hit with magical abilities.
+- **Evade** – Rolled to avoid physical attacks made against you.
+- **Resist** – Rolled to resist magical attacks made against you.
+
+**General Skills** and **Trade Skills** represent your character's other talents. See pages 9 and 10 for the full lists.
 
 ## [Equipment](#equipment)
 Your character has the following equipment slots:
