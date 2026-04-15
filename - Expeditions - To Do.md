@@ -1,4 +1,5 @@
 # To Do
+- Split Perks into different Cost Tiers, 1, 2, 3, 5
 - Rules Review
   - remove all of these wide hyphens everywhere
   - update background sheet? or character sheet with perks on back
