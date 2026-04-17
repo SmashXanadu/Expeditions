@@ -4,7 +4,7 @@ permalink: /PlayerResources/Species/Snailfolk/Backgrounds/TideStalker/
 ---
 ## [Tide Stalker](#tide-stalker)
 
-***You are the current that passes unnoticed.** You learned to read a room through tremors in the water long before you ever learned to read faces. You move in slow, deliberate silence — and by the time anyone realizes something is wrong, you are already gone.*
+***You are the current that passes unnoticed.** You learned to read a room through tremors in the water. You move in slow, deliberate silence... and by the time anyone realizes something is wrong, you are already gone.*
 
 ---
 

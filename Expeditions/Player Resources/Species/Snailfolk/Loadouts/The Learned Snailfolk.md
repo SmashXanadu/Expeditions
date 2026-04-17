@@ -5,7 +5,7 @@ permalink: /PlayerResources/Species/Snailfolk/Loadouts/TheLearnedSnailfolk/
 ## [The Learned](#the-learned-snailfolk)
 *Solve mysteries through knowledge and preparation.*
 
-**You carry the tools of careful study and discovery.** This kit is for those who solve problems through knowledge, preparation, and patience. You wear kelp-woven robes with leather panels and padded lining — light protection built for field hazards and deep-water exploration.
+**You carry the tools of careful study and discovery.** This kit is for those who solve problems through knowledge, preparation, and patience. You wear kelp-woven robes with leather panels and padded lining... light protection built for field hazards and deep-water exploration.
 
 ### **Health:** ☐ ☐ ☐
 

@@ -5,7 +5,7 @@ permalink: /PlayerResources/Species/Snailfolk/Loadouts/TheDevoutSnailfolk/
 ## [The Devout](#the-devout-snailfolk)
 *Stand between the living and the unseen.*
 
-**You carry the sacred tools of faith and protection.** This kit is built for those who confront cursed relics, restless spirits, and unseen forces from the deep. You wear brine-soaked robes reinforced with woven kelp — humble vestments prepared for dangers both physical and supernatural.
+**You carry the sacred tools of faith and protection.** This kit is built for those who confront cursed relics, restless spirits, and unseen forces from the deep. You wear brine-soaked robes reinforced with woven kelp... humble vestments prepared for dangers both physical and supernatural.
 
 ### **Health:** ☐ ☐ ☐
 

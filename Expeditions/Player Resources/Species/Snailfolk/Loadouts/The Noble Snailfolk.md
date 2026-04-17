@@ -5,7 +5,7 @@ permalink: /PlayerResources/Species/Snailfolk/Loadouts/TheNobleSnailfolk/
 ## [The Noble](#the-noble-snailfolk)
 *Control the room before blades ever leave their sheaths.*
 
-**You carry the symbols of status and grace.** Every item is chosen to influence perception and control conversation. Beneath sea-silk robes you wear a fitted duelist's vest of seagrass and mail — discreet protection for someone who expects treachery behind courtly pleasantries.
+**You carry the symbols of status and grace.** Every item is chosen to influence perception and control conversation. Beneath sea-silk robes you wear a fitted duelist's vest of seagrass and mail... discreet protection for someone who expects treachery behind courtly pleasantries.
 
 ### **Health:** ☐ ☐ ☐
 

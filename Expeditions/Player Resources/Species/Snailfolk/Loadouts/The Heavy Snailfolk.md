@@ -5,7 +5,7 @@ permalink: /PlayerResources/Species/Snailfolk/Loadouts/TheHeavySnailfolk/
 ## [The Heavy](#the-heavy-snailfolk)
 *Break problems with force and refuse to fall.*
 
-**You carry the gear of a front-line survivor.** This loadout is built for those who plant themselves in harm's way and refuse to move. You wear barnacle-crusted plate reinforced with layered sharkskin — heavy protection designed to outlast anything that tries to break through.
+**You carry the gear of a front-line survivor.** This loadout is built for those who plant themselves in harm's way and refuse to move. You wear barnacle-crusted plate reinforced with layered sharkskin... heavy protection designed to outlast anything that tries to break through.
 
 ### **Health:** ☐ ☐ ☐ ☐ ☐
 

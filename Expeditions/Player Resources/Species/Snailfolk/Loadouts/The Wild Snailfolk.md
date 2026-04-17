@@ -5,7 +5,7 @@ permalink: /PlayerResources/Species/Snailfolk/Loadouts/TheWildSnailfolk/
 ## [The Wild](#the-wild-snailfolk)
 *Endure the harshest depths and hunt what others fear.*
 
-**You carry the means to survive the deep.** This gear is brine-worn and practical, built for long dives far from the safety of shallower waters. You wear salt-cured sharkskin layered with kelp padding and hardened leather — protection built to shrug off claws, teeth, and crushing pressure.
+**You carry the means to survive the deep.** This gear is brine-worn and practical, built for long dives far from the safety of shallower waters. You wear salt-cured sharkskin layered with kelp padding and hardened leather... protection built to shrug off claws, teeth, and crushing pressure.
 
 ### **Health:** ☐ ☐ ☐ ☐
 

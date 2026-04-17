@@ -4,7 +4,7 @@ permalink: /PlayerResources/Species/Snailfolk/Backgrounds/Emissary/
 ---
 ## [Emissary](#emissary)
 
-***You are the voice of Gastropa beyond its borders.** You speak for a kingdom most surface-dwellers have never seen, using patience and careful words where others would draw steel. You know that a misunderstood gesture can start a war — and the right phrase can end one.*
+***You are the voice of Gastropa beyond its borders.** You speak for a kingdom most surface-dwellers have never seen, using patience and careful words where others would draw steel. You know that a misunderstood gesture can start a war... and the right phrase can end one.*
 
 ---
 

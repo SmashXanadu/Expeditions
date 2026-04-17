@@ -4,7 +4,7 @@ permalink: /PlayerResources/Species/Snailfolk/Backgrounds/CurrentRider/
 ---
 ## [Current Rider](#current-rider)
 
-***You are the one who knows the way when no one else does.** You have mapped tidal tunnels, deep-sea vents, and river systems that don't appear on any surface chart. You find paths where others see only rock and water — and you bring people back alive.*
+***You are the one who knows the way when no one else does.** You have mapped tidal tunnels, deep-sea vents, and river systems that don't appear on any surface chart. You find paths where others see only rock and water... and you bring people back alive.*
 
 ---
 

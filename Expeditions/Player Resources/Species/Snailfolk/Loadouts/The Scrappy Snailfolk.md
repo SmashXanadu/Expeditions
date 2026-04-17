@@ -5,7 +5,7 @@ permalink: /PlayerResources/Species/Snailfolk/Loadouts/TheScrappySnailfolk/
 ## [The Scrappy](#the-scrappy-snailfolk)
 *Turn salvaged junk into unexpected advantages.*
 
-**You carry a hoard of useful salvage.** None of it looks like much, but every piece has a purpose. You wear patchwork driftwood plates and hardened sharkskin — ugly armor that holds together better than it has any right to.
+**You carry a hoard of useful salvage.** None of it looks like much, but every piece has a purpose. You wear patchwork driftwood plates and hardened sharkskin... ugly armor that holds together better than it has any right to.
 
 ### **Health:** ☐ ☐ ☐ ☐
 

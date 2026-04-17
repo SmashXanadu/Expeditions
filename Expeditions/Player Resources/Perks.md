@@ -2,14 +2,14 @@
 layout: default
 permalink: /Rules/PerkSheet/
 ---
-# [Perk Sheet](#perk-sheet)
-Spend **Experience** earned during **Downtime** to unlock Perks. All Perks are passive and permanent. Each Perk costs **1 Experience**. Some can be taken multiple times.
+# [Perks](#perk-sheet)
+- Perks are purchased as a **Downtime Activity**.  
+- Perks cost between 1-3 EXP to unlock.  
+- Perks with multiple checkboxes can be purchased multiple times.
 
 ## [Training](#training)
-
          
-[1 EXP] ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐  
-**Skill Improvement**: +1 to any skill (Attack, Resist, etc.), max +5.  
+[1 EXP] ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ **Skill Improvement**: +1 to any skill (max +5).  
 [1 EXP] ☐ ☐ ☐ ☐ **Skill Training**: Gain a new skill and set it at +1.  
 [2 EXP] ☐ ☐ ☐ ☐ **Endurance Training**: +1 to your maximum Health.  
 [3 EXP] ☐ ☐ ☐ ☐ **Magical Training**: +1 to the maximum Charges of a chosen ability node.  
@@ -18,14 +18,14 @@ Spend **Experience** earned during **Downtime** to unlock Perks. All Perks are p
 ## [General](#general)
 
 [1 EXP] ☐ **In the Zone**: Recover 1 charge from any ability when you roll a natural 20.  
-[1 EXP] ☐ **Mentor**: Once per expedition, another player may use one of your skill bonuses for their roll.  
+[1 EXP] ☐ **Mentor**: Once per expedition, another player may use one of your skill bonuses.  
 [1 EXP] ☐ **Appraiser**: You always know the approximate value and magical properties of any item.  
 [2 EXP] ☐ **Jack of All Trades**: Unskilled checks count as +1 instead of +0.  
 [2 EXP] ☐ **Packrat**: Gain 5 additional Inventory slots.  
-[3 EXP] ☐ **Industrious**: Gain one extra Downtime Activity each phase (can repeat one already done).  
-[3 EXP] ☐ **Silver Tongue**: Once per expedition, convince any NPC of one believable statement, no roll.
+[3 EXP] ☐ **Industrious**: Gain one extra Downtime Activity each phase (can repeat).  
+[3 EXP] ☐ **Silver Tongue**: Once per expedition, convince any NPC of one believable statement.
 
-## [Physical Offence](#physical-combat)
+## [Physical Offense](#physical-combat)
 
 [1 EXP] ☐ **Deathblow**: A natural 20 on an attack deals +2 bonus damage.  
 [2 EXP] ☐ **Cleave**: Melee attacks deal 1 damage to the nearest other enemy.  
@@ -33,15 +33,15 @@ Spend **Experience** earned during **Downtime** to unlock Perks. All Perks are p
 [3 EXP] ☐ **Heavy Handed**: +1 damage on attack actions.  
 [3 EXP] ☐ **Opportunist**: Deal +1 damage against any enemy that has already been hit this round.  
 [3 EXP] ☐ **Press the Attack**: When you use your Action to attack, attack twice.  
-[3 EXP] ☐ **Relentless**: Reducing an enemy to 0 Health grants one extra attack action (once per turn).
+[3 EXP] ☐ **Relentless**: Killing an enemy grants one extra attack action (once per turn).
 
-## [Magical Offence](#magical-combat)
+## [Magical Offense](#magical-combat)
 
 [1 EXP] ☐ **Backlash**: When an enemy fails a magic attack against you, they take 1 damage.  
 [1 EXP] ☐ **Volatile**: A natural 20 on a magic roll deals +2 bonus damage.  
 [2 EXP] ☐ **Bloodied**: Gain +1 to attack and magic rolls while at half Health or below.  
-[2 EXP] ☐ **Echoing Strike**: Magic attacks that deal damage also hit the nearest other enemy for 1.  
-[2 EXP] ☐ **Overload**: When all charges in a node are spent, deal 1 damage to all enemies in your zone.  
+[2 EXP] ☐ **Echoing Strike**: Magic attacks that deal damage also hit the nearest enemy for 1.  
+[2 EXP] ☐ **Overload**: When all charges spent, deal 1 damage to all enemies in your zone.  
 [3 EXP] ☐ **Drain**: When you deal damage with a magic action, recover 1 Health.  
 [3 EXP] ☐ **Overcharge**: +1 damage on magic attacks.
 

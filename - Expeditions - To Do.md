@@ -1,8 +1,4 @@
 # To Do
-- Make Snailfolk Versions Backgrounds
-- Adjust Snailfolk Premade Structure
-  - Back side of Loadout is Perks Sheet. Back Side of Background / Species is Node Grid
-  - Premade is Front: Node Grid, Back: Perk Sheet, Left: Background and Species, Right Loadout
 - Finish Trade Skill Recipes - use alchemist as an example
 - Review Skill and Tradeskill Specific Perks. Recipes
 - Rules Review

@@ -4,7 +4,7 @@ permalink: /PlayerResources/Species/Snailfolk/Backgrounds/DepthChronicler/
 ---
 ## [Depth Chronicler](#depth-chronicler)
 
-***You are the keeper of what the depths remember.** You have spent your life translating ruins, cataloguing organisms, and documenting the slow history written in stone and silt. You believe every mystery has an answer — you just haven't found the right question yet.*
+***You are the keeper of what the depths remember.** You have spent your life translating ruins, cataloguing organisms, and documenting the slow history written in stone and silt. You believe every mystery has an answer... you just haven't found the right question yet.*
 
 ---
 

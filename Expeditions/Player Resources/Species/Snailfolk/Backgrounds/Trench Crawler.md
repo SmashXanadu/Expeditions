@@ -4,7 +4,7 @@ permalink: /PlayerResources/Species/Snailfolk/Backgrounds/TrenchCrawler/
 ---
 ## [Trench Crawler](#trench-crawler)
 
-**You have survived places most Snailfolk will never see and would never want to.** The deep trenches, dark vents, and starved outer currents beyond Gastropa's reach are not hospitable — but you found a way. You don't have luck so much as a very well-developed instinct for not dying.
+**You have survived places most Snailfolk will never see and would never want to.** The deep trenches, dark vents, and starved outer currents beyond Gastropa's reach are not hospitable... but you found a way. You don't have luck so much as a very well-developed instinct for not dying.
 
 ---
 
