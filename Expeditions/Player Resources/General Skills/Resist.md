@@ -19,4 +19,4 @@ You can withstand physical and mental duress.
   
 - [ ] [1 EXP] **Tenacious Endurance:** You can push past your physical limits and withstand significant duress. You gain Advantage on rolls made to resist the effects of exhaustion or extreme environments.
   
-- [ ] **TBD:** tbd
+- [ ] [1 EXP] **Rapid Recovery:** Once per Expedition, you may immediately remove one ongoing negative condition from yourself.

@@ -268,12 +268,17 @@ public static class MarkdownPdfConverter
         {
             int h = headerLengths[i];
             int d = maxDataLengths[i];
+            int maxLen = Math.Max(h, d);
             // Header is longer than data and non-trivially long: snap to constant width.
             // 6.5pt/char + 6pt padding comfortably fits bold header text at 8pt.
             if (h > 6 && d <= h)
                 widths[i] = -(h * 6.5f + 6f); // negative = ConstantColumn
+            // Short columns (e.g. TN, Mod): snap to a small constant rather than
+            // letting sqrt(8) inflate them to the same weight as medium columns.
+            else if (maxLen <= 4)
+                widths[i] = -(maxLen * 7f + 16f); // negative = ConstantColumn
             else
-                widths[i] = (float)Math.Sqrt(Math.Max(Math.Max(h, d), 8)); // positive = RelativeColumn
+                widths[i] = (float)Math.Pow(Math.Max(maxLen, 8), 0.65f); // positive = RelativeColumn
         }
         return widths;
     }

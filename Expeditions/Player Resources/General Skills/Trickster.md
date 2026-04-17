@@ -13,7 +13,7 @@ You know how to fool others into seeing your truth.
 
 **Skill Perks:**
 
-- [ ] **TBD:** tbd
+- [ ] [1 EXP] **Misdirection:** Once per encounter, cause a creature to focus on something that isn't there. That creature has Disadvantage on their next roll against you or an ally of your choice.
   
 - [ ] [1 EXP] **Unpredictable Maneuvers:** Your actions are erratic and confusing, making you a difficult target. You have Advantage on Evade rolls in the round immediately after you take a non-standard or unexpected action (GM's discretion).
   

@@ -19,4 +19,4 @@ You can find useful objects in obscure places.
   
 - [ ] [1 EXP] **Resourceful Improvisation:** You can create makeshift tools and find unconventional uses for scavenged materials. You gain Advantage on checks made to create temporary solutions or tools from available junk.
   
-- [ ] **TBD:** tbd
+- [ ] [2 EXP] **Cobble Together:** Once per Expedition, rapidly scavenge a defeated enemy, abandoned object, or debris. You immediately produce one improvised tool, weapon, or useful item at the Guide's discretion.

@@ -13,7 +13,7 @@ You can tolerate pain and discomfort that others can’t.
 
 **Skill Perks:**
 
-- [ ] [2 EXP] **TBD:** Once per session, if you are reduced to 0 HP, you are instead set to 1 HP
+- [ ] [2 EXP] **Grit:** Once per Expedition, when you are reduced to 0 HP, you are instead reduced to 1 HP.
   
 - [ ] [1 EXP] **Relentless Stamina:** You can endure prolonged physical exertion without succumbing to fatigue. You gain Advantage on rolls to resist exhaustion and recover from it more quickly. 
   

@@ -17,6 +17,6 @@ You excel with pattern recognition and logical deduction.
   
 - [ ] [1 EXP] **Systematic Comprehension:** You excel at understanding how things work, from intricate mechanisms to abstract systems. You gain Advantage on checks made to identify weaknesses in systems, predict their behavior, or troubleshoot problems.
   
-- [ ] **TBD:** tbd
+- [ ] [1 EXP] **Quick Assessment:** At the start of an encounter, you may ask the Guide one specific tactical question about an enemy or obstacle.
   
 - [ ] [2 EXP] **Theoretical Application:** You can apply theoretical knowledge to practical problems with remarkable ingenuity. You gain Advantage on checks made to invent new solutions, understand unfamiliar technologies or magical effects, or optimize existing processes.

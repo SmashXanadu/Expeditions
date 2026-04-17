@@ -18,6 +18,6 @@ You know how to get by on limited resources.
   
 - [ ] [1 EXP] **Wilderness Expert:** Your deep knowledge of the natural world provides significant advantages. You gain Advantage on rolls to identify safe food and water, predict weather, and navigate using natural landmarks.
   
-- [ ] **TBD:** tbd
+- [ ] [1 EXP] **Skilled Hunter:** Advantage on checks to hunt, trap, or forage.
   
 - [ ] [1 EXP] **Shelter Mastery:** You are adept at finding or creating secure shelter in any environment. You can quickly construct sturdy shelters, and you gain Advantage on checks made to identify naturally defensible locations or improve existing shelters.

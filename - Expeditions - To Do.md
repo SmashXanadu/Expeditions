@@ -1,7 +1,10 @@
 # To Do
+- Make Snailfolk Versions Backgrounds
 - Adjust Snailfolk Premade Structure
-  - Loadout Page restructure into 10 slot inventory and an equipped items table with an image of gear. 2nd Page (right side) for premades is Background and Snailfolk. New images?
-- Review Skill and Tradeskill Specific Perks
+  - Back side of Loadout is Perks Sheet. Back Side of Background / Species is Node Grid
+  - Premade is Front: Node Grid, Back: Perk Sheet, Left: Background and Species, Right Loadout
+- Finish Trade Skill Recipes - use alchemist as an example
+- Review Skill and Tradeskill Specific Perks. Recipes
 - Rules Review
   - remove all of these wide hyphens everywhere
   - Species half sheets like background half sheets

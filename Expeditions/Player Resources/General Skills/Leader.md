@@ -17,6 +17,6 @@ You naturally inspire confidence and trust from others.
   
 - [ ] [2 EXP] **Unwavering Leadership:** Your resolve and clear vision inspire unwavering loyalty. Allies have advantage on saving throws against fear and charm effects while they can clearly see or hear you.
   
-- [ ] **TBD**: tbd
+- [ ] [1 EXP] **Tactical Direction:** Once per Expedition, you may use your Action to direct an ally rather than act yourself, that ally gains Advantage on their next roll.
   
-- [ ] **TBD**: tbd
+- [ ] [2 EXP] **Rally:** Once per Expedition, you issue a rallying call that grants all allies within earshot Advantage on their next roll.

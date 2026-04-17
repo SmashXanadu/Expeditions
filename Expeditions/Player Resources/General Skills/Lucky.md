@@ -17,6 +17,6 @@ Somehow things always seem to work out for you.
   
 - [ ] [1 EXP] **Serendipitous Discovery:** You have a knack for accidentally stumbling upon difficult to find items and passages. You gain Advantage on checks made to find hidden items and secret passages.
   
-- [ ] **TBD:** You are able to find gold / treasure more often
+- [ ] [1 EXP] **Windfall:** Whenever loot or treasure is found, you notice one additional item or coin that everyone else overlooked.
   
-- [ ] **TBD:** What a coincidence. You are more likely to stumble upon or find what you are looking for
+- [ ] [2 EXP] **Against the Odds:** Once per Expedition, when you need something specific — an item, a person, a route — luck delivers an unexpected lead or find. The Guide determines the specifics.
