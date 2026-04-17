@@ -18,13 +18,13 @@ Work ores and alloys into weapons and heavy armor.
 
 **Skill Perks:**
 
-- [ ] **Superior Craftsmanship:** Your skill in forging results in exceptionally durable and effective equipment. Weapons and armor you craft have a chance to gain +1 maximum durabilty.
+- [ ] [1 EXP] **Superior Craftsmanship:** Your skill in forging results in exceptionally durable and effective equipment. Weapons and armor you craft have a chance to gain +1 maximum durabilty.
   
-- [ ] **Tempered Resilience:** You master the art of heat treating metals to enhance their strength and resistance. Weapons and armor repair using your downtime action have a chance to permanently gain +1 maximum durability.
+- [ ] [1 EXP] **Tempered Resilience:** You master the art of heat treating metals to enhance their strength and resistance. Weapons and armor repair using your downtime action have a chance to permanently gain +1 maximum durability.
   
-- [ ] **Runed Inscription:** You can imbue your metalwork with basic magical runes. You can add a minor magical effect to a weapon (e.g., glowing in the dark) or grant a piece of armor a small amount of resistance to a specific element.
+- [ ] [2 EXP] **Runed Inscription:** You can imbue your metalwork with basic magical runes. You can add a minor magical effect to a weapon (e.g., glowing in the dark) or grant a piece of armor a small amount of resistance to a specific element.
   
-- [ ] **Efficient Repair:** You have a knack for quickly and effectively restoring damaged metal items. Once per expedition you can repair a piece of equipment in a significantly reduced amount of time.
+- [ ] [1 EXP] **Efficient Repair:** You have a knack for quickly and effectively restoring damaged metal items. Once per expedition you can repair a piece of equipment in a significantly reduced amount of time.
 
 | **DC** | **Recipe**        | **Required Materials** | **Required Mod** |
 | ------ | ----------------- | ---------------------- | ---------------- |

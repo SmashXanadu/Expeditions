@@ -1,105 +1,31 @@
 # To Do
-- Split Perks into different Cost Tiers, 1, 2, 3, 5
+- Adjust Snailfolk Premade Structure
+  - Loadout Page restructure into 10 slot inventory and an equipped items table with an image of gear. 2nd Page (right side) for premades is Background and Snailfolk. New images?
+- Review Skill and Tradeskill Specific Perks
 - Rules Review
   - remove all of these wide hyphens everywhere
-  - update background sheet? or character sheet with perks on back
+  - Species half sheets like background half sheets
   - update hero grid? visual no longer matches node structure
   - update overall gitlab project readme file. no longer completely accurate
 
-
-
-- Generate Uncharted Waters starting expeditions
-
-- [ ] Finalize the **Core Truths of the World**
-  - [ ] The world is a vast, unexplored ocean
-  - [ ] Ancient advanced civilization left behind magical technology
-  - [ ] The Waystone network is being established
-  - [ ] The world is highly magical — everyone possesses magic
-  - [ ] Ships use wind magic to sail in any direction
-  - [ ] Magic-infused technology exists up to an early gunpowder era
-  - [ ] Airships exist but are uncommon
-  - [ ] People are born with a random magical affinity
-    - [ ] Fire magic is feared
-    - [ ] Air magic is prized and respected
-    - [ ] Water magic is common
-
-- [ ] Design **"Hold a Consequence" mechanic**
-  - [ ] Can be used at any time during the session
-  - [ ] Never undermines success
-  - [ ] Always introduces complications or tension
-
-- [ ] Define **"Ring the Bell" escalation mechanic**
-  - [ ] When it can be triggered
-  - [ ] What escalation means mechanically
-  - [ ] Example uses in play
-
-
-
-## [Expeditions Pocket](-%20Expeditions%20Pocket%20-%20To%20Do.md)
-## Uncharted Waters: The Endless Sea
-- Review existing campaign materials
-- 36x48 Hex Map
-	- Define Key Locations
-	- Define Danger Tiers 1-5 Stars like quests
-	- Count Random Locations Needed for pulling
-	- Outer Ring is "The Great Fog"
-	- Inner ring is the "Deep One"
-- Split out each of the ships and factions into separate pages and stuff
-- Refine Starting Location Options (Embed Images)
-- Refine Factions (Embed Logos & Scene Images)
-- Refine Ships (Embed Images)
-- Make Map Ready top down perspective images of each location and ship
-- Table of known locations, known factions, known ships, etc
-
-### Uncharted Waters: Beyond the Fog
-### Uncharted Waters: Into the Deeps
-### Uncharted Waters: The Skies Above
 
 ## Expeditions
 - New Rule to Test
 	- An Expedition has a Target Number equal to its Difficulty Rating (10-20)
 	- Rewards scale accordingly
 - Full Ability Review
-- Create Equipment and Item Tables
-- Finalize Monster Card Design
 - Create Base Set of Premade Monsters
-- Print Updated Resources
-	- Adversaries Sheet
-	- Modifiers Sheet
-	- Ability Pages?
-	- Skill Pages?
-- Update and Print Premades
-	- Double Sided Character Sheets
-	- Full Page: Equipment Sheet (7 Cards)
-	- Full Page: Ability Sheet (4 Cards) | Inventory Sheet (X Mini Cards)
+
 - Complete Quick Start Scenarios that lead into each of the Campaign Settings...
 	- Cloudskippers
 	- Uncharted Waters
+    - Individual Species starter scenarios. species unlocks
 	- Shatterlands
 
-
-
-# Expeditions — Ideas & Task Backlog
-
-## Product Structure
-
-### Complete Set Components
-- **Player Zine** — four tiers: Novice (Kids), Journeyman (Advanced Kids/New RPG), Apprentice (Experienced RPG), Master (Advanced/Min-Maxers)
-- **Character Zine**
-  - Front: Cover
-  - Pages 1–4: Stats & Skills, Equipment (4), Skills (4), Abilities (4)
-  - Back: Hero Grid
-- **Guide Zine** ("The Guide Book")
-- **Adversaries Zine** — basic monster coverage, setting agnostic
-- **Shatterlands Setting Zine**
-- **Bonus Box** — tray for zines with pencil area and d20 holder; opens into dice tray; premium prints
-
----
 
 ## Rules Updates
 
 ### Core Mechanics
-- Taking a complication still gains EXP but forces success
 - Lose EXP as an option for major complications (alongside: lose ability, lose skill, lose max HP, lose speed, etc.)
 - Many abilities should reduce target number by X instead of giving advantage
 - Unlocking new nodes/skill perks happens during downtime rest; players must describe the story of how they start learning
@@ -136,6 +62,63 @@
 - Finalize character sheet design and upload new image to player resources
 
 ---
+
+- Generate Uncharted Waters starting expeditions
+
+- [ ] Finalize the **Core Truths of the World**
+  - [ ] The world is a vast, unexplored ocean
+  - [ ] Ancient advanced civilization left behind magical technology
+  - [ ] The Waystone network is being established
+  - [ ] The world is highly magical — everyone possesses magic
+  - [ ] Ships use wind magic to sail in any direction
+  - [ ] Magic-infused technology exists up to an early gunpowder era
+  - [ ] Airships exist but are uncommon
+  - [ ] People are born with a random magical affinity
+    - [ ] Fire magic is feared
+    - [ ] Air magic is prized and respected
+    - [ ] Water magic is common
+
+
+
+## [Expeditions Pocket](-%20Expeditions%20Pocket%20-%20To%20Do.md)
+## Uncharted Waters: The Endless Sea
+- Review existing campaign materials
+- 36x48 Hex Map
+	- Define Key Locations
+	- Define Danger Tiers 1-5 Stars like quests
+	- Count Random Locations Needed for pulling
+	- Outer Ring is "The Great Fog"
+	- Inner ring is the "Deep One"
+- Split out each of the ships and factions into separate pages and stuff
+- Refine Starting Location Options (Embed Images)
+- Refine Factions (Embed Logos & Scene Images)
+- Refine Ships (Embed Images)
+- Make Map Ready top down perspective images of each location and ship
+- Table of known locations, known factions, known ships, etc
+
+### Uncharted Waters: Beyond the Fog
+### Uncharted Waters: Into the Deeps
+### Uncharted Waters: The Skies Above
+
+
+
+# Expeditions — Ideas & Task Backlog
+
+## Product Structure
+
+### Complete Set Components
+- **Player Zine** — four tiers: Novice (Kids), Journeyman (Advanced Kids/New RPG), Apprentice (Experienced RPG), Master (Advanced/Min-Maxers)
+- **Character Zine**
+  - Front: Cover
+  - Pages 1–4: Stats & Skills, Equipment (4), Skills (4), Abilities (4)
+  - Back: Hero Grid
+- **Guide Zine** ("The Guide Book")
+- **Adversaries Zine** — basic monster coverage, setting agnostic
+- **Shatterlands Setting Zine**
+- **Bonus Box** — tray for zines with pencil area and d20 holder; opens into dice tray; premium prints
+
+---
+
 
 ## Content & Materials
 

@@ -5,3 +5,13 @@
 - [ ] **Trade Skill usage mechanics** — Rule 12 lists Trade Skills but never explains how they work in practice. What's the resolution process? How do you use Blacksmith or Alchemist — roll against a TN? What materials are needed? What do you get?
 - [ ] **Expedition clock mechanics** — Rule 1 and Rule 4 mention 30- or 60-minute real-time expeditions with a "ticking clock," but there are no formal rules for what happens when time runs out, how escalations work, or how the Guide tracks pressure.
 - [ ] **Shopping and item pricing** — Rule 10 mentions Gold as currency but there are no rules for where or how to spend it. Equipment lists presumably have prices, but no buying/selling rules exist in the rulebook. This will be in the Guide Book
+- [ ] Award bonus exp for good player behavior
+- [ ] Design **"Hold a Consequence" mechanic**
+  - [ ] Can be used at any time during the session
+  - [ ] Never undermines success
+  - [ ] Always introduces complications or tension
+
+- [ ] Define **"Ring the Bell" escalation mechanic**
+  - [ ] When it can be triggered
+  - [ ] What escalation means mechanically
+  - [ ] Example uses in play

@@ -11,14 +11,29 @@ permalink: /PlayerResources/Loadouts/TheDevout/
 
 ---
 
-- **Weapon: Sanctified Mace.** A steel-headed mace etched with prayers and consecrated oils.
-- **Signature Item: Amulet of Sacred Ashes.** A small silver amulet containing ashes that ward against spirits and dark magic.
+| Slot | Equipment Name | Description |
+| -------- | -------- | -------- |
+| Main Hand  | Sanctified Mace | A steel-headed mace etched with prayers and consecrated oils. |
+| Off Hand   |  |  |
+| Head       |  |  |
+| Chest      |  |  |
+| Hands      |  |  |
+| Legs       |  |  |
+| Feet       |  |  |
+| Accessory  | Amulet of Sacred Ashes | A small silver amulet containing ashes that ward against spirits and dark magic. |
 
----
+| Item | Description |
+| -------- | -------- |
+| Amulet of Sacred Ashes | A small silver amulet containing ashes that ward against spirits and dark magic. |
+| Prayer Beads | A long strand of carved bone beads used for meditation and ritual focus. |
+| Consecrated Bell | A small hand bell whose ringing disturbs spirits and reveals hidden presences. |
+| Sunfire Candles | A bundle of thick holy candles that burn with bright, steady light even in damp places. |
+| Blessing Oil | A vial of sacred oil used to sanctify objects, wounds, or doorways. |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
-- **Prayer Beads.** A long strand of carved bone beads used for meditation and ritual focus.
-- **Consecrated Bell.** A small hand bell whose ringing disturbs spirits and reveals hidden presences.
-- **Sunfire Candles.** A bundle of thick holy candles that burn with bright, steady light even in damp places.
-- **Blessing Oil.** A vial of sacred oil used to sanctify objects, wounds, or doorways.
 
 [Loadout List]({{site.baseurl}}/PlayerResources/Loadouts/LoadoutList/#loadout-list)

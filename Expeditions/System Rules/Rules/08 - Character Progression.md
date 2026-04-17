@@ -20,7 +20,7 @@ When you unlock a node you immediately gain access to its corresponding [Abiliti
 - You earn an **additional 1 Experience** if the expedition was a **success** within the defined time limit.
 
 ## [Spending Experience](#spending-experience)
-During **Downtime**, spend **Experience** to choose perks from your **Perk Sheet**. Each perk costs **1 Experience**. Perk options are organized into five categories:
+During **Downtime**, spend **Experience** to choose perks from your **Perk Sheet** or any **Skill Perks** associated to skills you are trained in. Each perk costs **1-3 Experience**. Perk options are organized into five categories:
 
 - **Training**: Unlock new ability nodes and improve skills. Can be taken multiple times.
 - **General**: Utility upgrades for any character.

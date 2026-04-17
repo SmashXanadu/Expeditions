@@ -10,14 +10,26 @@ permalink: /PlayerResources/Loadouts/Snailfolk/TheDevoutSnailfolk/
 **You carry the sacred tools of faith and protection.**  
 You wear brine-soaked robes reinforced with woven kelp.
 
----
+| Slot | Equipment Name | Description |
+| -------- | -------- | -------- |
+| Main Hand  | Sanctified Coral Mace | Coral-headed mace anointed with sacred brine. |
+| Off Hand   |  |  |
+| Head       |  |  |
+| Chest      |  |  |
+| Hands      |  |  |
+| Legs       |  |  |
+| Feet       |  |  |
+| Accessory  | Amulet of Sacred Brine | Shell amulet of holy water that wards spirits. |
 
-- **Weapon: Sanctified Coral Mace.** Coral-headed mace anointed with sacred brine.
-- **Signature Item: Amulet of Sacred Brine.** Shell amulet of holy water that wards spirits.
-
----
-
-- **Prayer Shell Beads.** Carved shell beads for meditation and ritual focus.
-- **Consecrated Conch.** Its call disturbs spirits and reveals hidden presences.
-- **Bioluminescent Coral Sticks.** Preserved coral that glows steadily in total darkness.
-- **Blessing Brine.** Sacred saltwater used to sanctify objects, wounds, or passageways.
+| Item | Description |
+| -------- | -------- |
+| Prayer Shell Beads | Carved shell beads for meditation and ritual focus. |
+| Consecrated Conch | Its call disturbs spirits and reveals hidden presences. |
+| Bioluminescent Coral Sticks | Preserved coral that glows steadily in total darkness. |
+| Blessing Brine | Sacred saltwater used to sanctify objects, wounds, or passageways. |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |

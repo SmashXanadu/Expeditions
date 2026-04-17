@@ -18,13 +18,13 @@ Brew refreshing or intoxicating beverages.
 
 **Skill Perks:**
 
-- [ ] **Enhanced Libations:** Your brewing techniques allow you to create beverages with more potent effects. Drinks you brew provide a slightly greater benefit or last for a longer duration. 
+- [ ] [2 EXP] **Enhanced Libations:** Your brewing techniques allow you to create beverages with more potent effects. Drinks you brew provide a slightly greater benefit or last for a longer duration. 
   
-- [ ] **Aged Excellence:** You understand the art of aging beverages to enhance their quality and value. Drinks you age for an extended period become more valuable and may gain additional subtle effects.
+- [ ] [1 EXP] **Aged Excellence:** You understand the art of aging beverages to enhance their quality and value. Drinks you age for an extended period become more valuable and may gain additional subtle effects.
   
-- [ ] **Infused Concoctions:** You can subtly infuse your brews with natural or even slightly magical ingredients. You can create drinks that provide minor temporary benefits beyond simple refreshment, such as a slight boost to a specific skill check.
+- [ ] [2 EXP] **Infused Concoctions:** You can subtly infuse your brews with natural or even slightly magical ingredients. You can create drinks that provide minor temporary benefits beyond simple refreshment, such as a slight boost to a specific skill check.
   
-- [ ] **Unique Blends:** You have a talent for discovering or creating exceptional and rare recipes. You have a higher chance of stumbling upon unique brewing methods or developing your own signature drinks that are highly sought after.
+- [ ] [1 EXP] **Unique Blends:** You have a talent for discovering or creating exceptional and rare recipes. You have a higher chance of stumbling upon unique brewing methods or developing your own signature drinks that are highly sought after.
 
 | **DC** | **Recipe**        | **Required Materials** | **Required Mod** |
 | ------ | ----------------- | ---------------------- | ---------------- |

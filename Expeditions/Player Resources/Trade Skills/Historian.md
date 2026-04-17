@@ -17,13 +17,13 @@ Research and acquire knowledge of ancient lore.
 
 **Skill Perks:**
 
-- [ ] **Linguistic Mastery:** You possess an exceptional understanding of ancient languages and scripts. You gain Advantage on checks made to read, write, and understand archaic texts and spoken languages.
+- [ ] [1 EXP] **Linguistic Mastery:** You possess an exceptional understanding of ancient languages and scripts. You gain Advantage on checks made to read, write, and understand archaic texts and spoken languages.
   
-- [ ] **Interpretive Insight:** You can analyze historical events and prophecies with remarkable clarity. You gain Advantage on checks made to understand the significance of past events and to decipher the potential meanings of prophecies.
+- [ ] [1 EXP] **Interpretive Insight:** You can analyze historical events and prophecies with remarkable clarity. You gain Advantage on checks made to understand the significance of past events and to decipher the potential meanings of prophecies.
   
-- [ ] **Unearthing the Past:** Your research skills allow you to uncover hidden or forgotten historical information. You gain Advantage on checks made to find obscure historical texts, identify secret histories, or analyze artifacts for hidden meaning.
+- [ ] [1 EXP] **Unearthing the Past:** Your research skills allow you to uncover hidden or forgotten historical information. You gain Advantage on checks made to find obscure historical texts, identify secret histories, or analyze artifacts for hidden meaning.
   
-- [ ] **Contextual Understanding:** Your deep knowledge of history provides valuable context for current events. You can often draw parallels between the past and present, granting you Advantage on Insight checks to understand motivations and potential outcomes in current situations.
+- [ ] [2 EXP] **Contextual Understanding:** Your deep knowledge of history provides valuable context for current events. You can often draw parallels between the past and present, granting you Advantage on Insight checks to understand motivations and potential outcomes in current situations.
 
 | **DC** | **Recipe**        | **Required Materials** | **Required Mod** |
 | ------ | ----------------- | ---------------------- | ---------------- |

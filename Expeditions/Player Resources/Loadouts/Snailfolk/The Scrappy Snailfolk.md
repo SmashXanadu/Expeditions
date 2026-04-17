@@ -10,14 +10,26 @@ permalink: /PlayerResources/Loadouts/Snailfolk/TheScrappySnailfolk/
 **You carry a hoard of useful junk.**  
 Patchwork driftwood plates and sharkskin — ugly but surprisingly resilient.
 
----
+| Slot | Equipment Name | Description |
+| -------- | -------- | -------- |
+| Main Hand  | Salvaged Anchor Flail | Ship anchor head and rusted chain — brutal and heavy. |
+| Off Hand   |  |  |
+| Head       |  |  |
+| Chest      |  |  |
+| Hands      |  |  |
+| Legs       |  |  |
+| Feet       |  |  |
+| Accessory  | Cracked Nautilite Eye | Grants improved sight; glows near hidden spaces. |
 
-- **Weapon: Salvaged Anchor Flail.** Ship anchor head and rusted chain — brutal and heavy.
-- **Signature Item: Cracked Nautilite Eye.** Grants improved sight; glows near hidden spaces.
-
----
-
-- **Eel Slick.** Thick eel oil useful for traps, slides, or sabotage.
-- **Coral-Tied Lodestone.** Powerful magnet on braided coral for retrieving metal objects.
-- **Barnacled Pot.** Battered cauldron encrusted with barnacles; doubles as a helmet.
-- **Wrecking Spike.** Heavy salvaged spike for forcing doors, crates, and sealed hulls.
+| Item | Description |
+| -------- | -------- |
+| Eel Slick | Thick eel oil useful for traps, slides, or sabotage. |
+| Coral-Tied Lodestone | Powerful magnet on braided coral for retrieving metal objects. |
+| Barnacled Pot | Battered cauldron encrusted with barnacles; doubles as a helmet. |
+| Wrecking Spike | Heavy salvaged spike for forcing doors, crates, and sealed hulls. |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |

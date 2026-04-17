@@ -30,13 +30,14 @@ Your character has the following equipment slots:
 
 | Slot      |
 | :-------- |
-| Main Hand |
-| Off Hand  |
-| Head      |
-| Chest     |
-| Hands     |
-| Legs      |
-| Feet      |
+| Main Hand  |
+| Off Hand   |
+| Head       |
+| Chest      |
+| Hands      |
+| Legs       |
+| Feet       |
+| Accessory  |
 
 - **Weapons** and **Armor** can have magical properties.
 - Only one item may be equipped in each slot.

@@ -13,9 +13,9 @@ Somehow things always seem to work out for you.
 
 **Skill Perks:**
 
-- [ ] **Fortuitous Twist:** Once per session, when you **Over-Exert** to Succeed on a roll, you can get a **Minor Benefit** rather than a **Major Complication**
+- [ ] [3 EXP] **Fortuitous Twist:** Once per session, when you **Over-Exert** to Succeed on a roll, you can get a **Minor Benefit** rather than a **Major Complication**
   
-- [ ] **Serendipitous Discovery:** You have a knack for accidentally stumbling upon difficult to find items and passages. You gain Advantage on checks made to find hidden items and secret passages.
+- [ ] [1 EXP] **Serendipitous Discovery:** You have a knack for accidentally stumbling upon difficult to find items and passages. You gain Advantage on checks made to find hidden items and secret passages.
   
 - [ ] **TBD:** You are able to find gold / treasure more often
   

@@ -18,13 +18,13 @@ Fix and build complex contraptions and machines.
 
 **Skill Perks:**
 
-- [ ] **Efficient Tinkering:** You have a knack for quickly diagnosing and repairing mechanical issues. You can repair broken machines and contraptions in a significantly reduced amount of time and with fewer resources.
+- [ ] [1 EXP] **Efficient Tinkering:** You have a knack for quickly diagnosing and repairing mechanical issues. You can repair broken machines and contraptions in a significantly reduced amount of time and with fewer resources.
   
-- [ ] **Ingenious Design:** Your understanding of mechanics allows you to create innovative and functional devices. Contraptions you build often have unique or unexpected capabilities. 
+- [ ] [2 EXP] **Ingenious Design:** Your understanding of mechanics allows you to create innovative and functional devices. Contraptions you build often have unique or unexpected capabilities. 
   
-- [ ] **Reliable Mechanisms:** Your craftsmanship ensures that the machines you build and repair are exceptionally stable and less prone to malfunction. Mechanical devices you work on have a lower chance of breaking down.
+- [ ] [1 EXP] **Reliable Mechanisms:** Your craftsmanship ensures that the machines you build and repair are exceptionally stable and less prone to malfunction. Mechanical devices you work on have a lower chance of breaking down.
   
-- [ ] **Versatile Components:** You design your creations with adaptability in mind. Machines and contraptions you build can often be easily modified or have interchangeable parts for different functions.
+- [ ] [1 EXP] **Versatile Components:** You design your creations with adaptability in mind. Machines and contraptions you build can often be easily modified or have interchangeable parts for different functions.
 
 | **DC** | **Recipe**        | **Required Materials** | **Required Mod** |
 | ------ | ----------------- | ---------------------- | ---------------- |

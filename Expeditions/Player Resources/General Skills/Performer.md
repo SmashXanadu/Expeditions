@@ -19,4 +19,4 @@ You know how to put on a show for others.
   
 - [ ] **Inspiring Flourish:** (WIP) Your performance can uplift and motivate others...
   
-- [ ] **Subtle Deception:** You can weave subtle illusions and deceptive movements into your performances to misdirect or confuse observers. You gain Advantage on rolls to deceive or distract while performing.
+- [ ] [1 EXP] **Subtle Deception:** You can weave subtle illusions and deceptive movements into your performances to misdirect or confuse observers. You gain Advantage on rolls to deceive or distract while performing.

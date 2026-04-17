@@ -17,13 +17,13 @@ Live and work in harmony with animals.'
 
 **Skill Perks:**
 
-- [ ] **Animal Affinity:** Your presence calms and reassures animals. You gain Advantage on checks made to interact with animals that are not inherently hostile.
+- [ ] [1 EXP] **Animal Affinity:** Your presence calms and reassures animals. You gain Advantage on checks made to interact with animals that are not inherently hostile.
   
-- [ ] **Trained Companion:** You can form a strong bond with a single animal, teaching it specific commands and potentially sharing a limited form of communication. This animal becomes a permanent reliable companion.
+- [ ] [3 EXP] **Trained Companion:** You can form a strong bond with a single animal, teaching it specific commands and potentially sharing a limited form of communication. This animal becomes a permanent reliable companion.
   
-- [ ] **Coordinated Maneuvers:** You can effectively direct groups of animals. You have Advantage on checks to command two or more animals to act together.
+- [ ] [2 EXP] **Coordinated Maneuvers:** You can effectively direct groups of animals. You have Advantage on checks to command two or more animals to act together.
   
-- [ ] **Nurturing Instinct:** You have a talent for caring for animals, ensuring their health and well-being. Animals under your care recover from injuries and illnesses more quickly, and are more likely to breed.
+- [ ] [1 EXP] **Nurturing Instinct:** You have a talent for caring for animals, ensuring their health and well-being. Animals under your care recover from injuries and illnesses more quickly, and are more likely to breed.
 
 | **DC** | **Recipe**        | **Required Materials** | **Required Mod** |
 | ------ | ----------------- | ---------------------- | ---------------- |

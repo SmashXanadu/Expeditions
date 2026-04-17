@@ -18,13 +18,13 @@ Shape wood into stable structures and furniture.
 
 **Skill Perks:**
 
-- [ ] **Sturdy Construction:** Your carpentry skills result in exceptionally stable and durable creations. Structures and furniture you build have increased structural integrity and are more resistant to damage.
+- [ ] [1 EXP] **Sturdy Construction:** Your carpentry skills result in exceptionally stable and durable creations. Structures and furniture you build have increased structural integrity and are more resistant to damage.
   
-- [ ] **Efficient Assembly:** You have a knack for quickly and effectively constructing wooden items. Once per expedition you can build a basic small structure or assemble a piece of furniture in a significantly reduced amount of time. 
+- [ ] [1 EXP] **Efficient Assembly:** You have a knack for quickly and effectively constructing wooden items. Once per expedition you can build a basic small structure or assemble a piece of furniture in a significantly reduced amount of time. 
   
-- [ ] **Intricate Craftsmanship:** Your fine woodworking skills allow you to create seamless and strong connections. Wooden items you craft are particularly well-made and less likely to break or fall apart.
+- [ ] [1 EXP] **Intricate Craftsmanship:** Your fine woodworking skills allow you to create seamless and strong connections. Wooden items you craft are particularly well-made and less likely to break or fall apart.
   
-- [ ] **Adaptive Shaping:** You can skillfully work with the natural grain and properties of wood to create unique and functional forms. You gain a bonus when crafting items that utilize the natural shape or bends of the wood.
+- [ ] [1 EXP] **Adaptive Shaping:** You can skillfully work with the natural grain and properties of wood to create unique and functional forms. You gain a bonus when crafting items that utilize the natural shape or bends of the wood.
 
 | **DC** | **Recipe**        | **Required Materials** | **Required Mod** |
 | ------ | ----------------- | ---------------------- | ---------------- |

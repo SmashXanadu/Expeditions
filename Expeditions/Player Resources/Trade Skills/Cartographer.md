@@ -17,13 +17,13 @@ Make maps of the world around you.
 
 **Skill Perks:**
 
-- [ ] **Precise Mapping:** Your maps are exceptionally accurate and detailed. Anyone using a map you created gains Advantage on any checks related to navigation.
+- [ ] [2 EXP] **Precise Mapping:** Your maps are exceptionally accurate and detailed. Anyone using a map you created gains Advantage on any checks related to navigation.
   
-- [ ] **Astrological Tracking:** You can navigate using the stars and celestial bodies. You can determine your location and direction even without landmarks, as long as the sky is visible.
+- [ ] [2 EXP] **Astrological Tracking:** You can navigate using the stars and celestial bodies. You can determine your location and direction even without landmarks, as long as the sky is visible.
   
-- [ ] **Efficient Routefinding:** You have a knack for identifying the most direct and efficient paths. When planning travel, the travel time for your group is reduced by a noticeable amount. 
+- [ ] [3 EXP] **Efficient Routefinding:** You have a knack for identifying the most direct and efficient paths. When planning travel, the travel time for your group is reduced by a noticeable amount. 
   
-- [ ] **Unveiling the Unknown:** You have a talent for charting unexplored territories and uncovering hidden pathways. You have Advantage on checks made to discover secret routes.
+- [ ] [1 EXP] **Unveiling the Unknown:** You have a talent for charting unexplored territories and uncovering hidden pathways. You have Advantage on checks made to discover secret routes.
 
 | **DC** | **Recipe**        | **Required Materials** | **Required Mod** |
 | ------ | ----------------- | ---------------------- | ---------------- |

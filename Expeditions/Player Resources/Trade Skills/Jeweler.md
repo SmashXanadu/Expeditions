@@ -18,13 +18,13 @@ Appraise gems and craft extravagant accessories.
 
 **Skill Perks:**
 
-- [ ] **Keen Eye for Value:** You possess an exceptional ability to assess the worth and quality of gems and precious metals. You gain Advantage on checks related to appraising and identifying jewelry and gems.
+- [ ] [1 EXP] **Keen Eye for Value:** You possess an exceptional ability to assess the worth and quality of gems and precious metals. You gain Advantage on checks related to appraising and identifying jewelry and gems.
   
-- [ ] **Intricate Design:** Your craftsmanship allows you to create exceptionally fine and aesthetically pleasing jewelry. Wearing your creations may grant a bonus to Charisma-based skill checks in social situations.
+- [ ] [1 EXP] **Intricate Design:** Your craftsmanship allows you to create exceptionally fine and aesthetically pleasing jewelry. Wearing your creations may grant a bonus to Charisma-based skill checks in social situations.
   
-- [ ] **Gem Infusion:** You can imbue gems with minor magical properties during the crafting process. You can create jewelry that provides a small, permanent bonus to a specific skill check or saving throw when worn.
+- [ ] [3 EXP] **Gem Infusion:** You can imbue gems with minor magical properties during the crafting process. You can create jewelry that provides a small, permanent bonus to a specific skill check or saving throw when worn.
   
-- [ ] **Flawless Faceting:** Your gem-cutting skills are unparalleled, maximizing the brilliance and potential of any gemstone. Jewelry you craft with cut gems is considered to be of higher quality and value. 
+- [ ] [1 EXP] **Flawless Faceting:** Your gem-cutting skills are unparalleled, maximizing the brilliance and potential of any gemstone. Jewelry you craft with cut gems is considered to be of higher quality and value. 
 
 | **DC** | **Recipe**        | **Required Materials** | **Required Mod** |
 | ------ | ----------------- | ---------------------- | ---------------- |
