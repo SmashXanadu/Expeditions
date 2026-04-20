@@ -366,7 +366,8 @@ public class MainForm : Form
                 : Path.Combine(_outputFolder, $"{folderName} - {fileName}");
             string baseName = Path.GetFileNameWithoutExtension(mdFile);
             bool stripLast = isSystemRules && !baseName.StartsWith("Front Cover", StringComparison.OrdinalIgnoreCase);
-            bool ok = MarkdownPdfConverter.Convert(mdFile, outPath, stripLast);
+            bool compact   = baseName.StartsWith("Front Cover Inside", StringComparison.OrdinalIgnoreCase);
+            bool ok = MarkdownPdfConverter.Convert(mdFile, outPath, stripLast, compact);
 
             if (ok)  { generated.Add(outPath); Log($"  OK   {Path.GetFileName(mdFile)}", Color.LightGray); }
             else     { failures.Add(Path.GetFileName(mdFile)); Log($"  FAIL {Path.GetFileName(mdFile)}", Color.Tomato); }

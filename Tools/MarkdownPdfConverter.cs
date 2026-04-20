@@ -78,7 +78,7 @@ public static class MarkdownPdfConverter
         return sb.ToString().Trim();
     }
 
-    public static bool Convert(string inputPath, string outputPath, bool stripLastLine = false)
+    public static bool Convert(string inputPath, string outputPath, bool stripLastLine = false, bool compact = false)
     {
         string label = Path.GetFileName(outputPath);
         try
@@ -87,6 +87,7 @@ public static class MarkdownPdfConverter
             if (stripLastLine) content = StripLastContentLine(content);
 
             var document = Markdown.Parse(content, Pipeline);
+            float fontSize = compact ? 6f : BaseFontSize;
 
             Document.Create(container =>
             {
@@ -94,18 +95,18 @@ public static class MarkdownPdfConverter
                 {
                     page.Size(5.5f * 72, 8.5f * 72);
                     page.Margin(0.375f * 72);
-                    page.DefaultTextStyle(x => x.FontFamily(FontFamily).FontSize(BaseFontSize));
+                    page.DefaultTextStyle(x => x.FontFamily(FontFamily).FontSize(fontSize));
 
                     page.Content().Column(col =>
                     {
-                        col.Spacing(4);
+                        col.Spacing(compact ? 1 : 4);
                         foreach (var block in document)
                         {
                             if (block is ParagraphBlock ep &&
                                 ep.Inline?.FirstOrDefault() is LiteralInline el &&
                                 el.Content.ToString().Trim() == @"\end")
                                 break;
-                            RenderBlock(col, block);
+                            RenderBlock(col, block, compact);
                         }
                     });
                 });
@@ -135,7 +136,7 @@ public static class MarkdownPdfConverter
         return string.Join('\n', lines);
     }
 
-    private static void RenderBlock(ColumnDescriptor col, Block block)
+    private static void RenderBlock(ColumnDescriptor col, Block block, bool compact = false)
     {
         switch (block)
         {
@@ -166,7 +167,7 @@ public static class MarkdownPdfConverter
                 break;
 
             case Table table:
-                RenderTable(col, table);
+                RenderTable(col, table, compact);
                 break;
 
             case QuoteBlock quote:
@@ -178,7 +179,7 @@ public static class MarkdownPdfConverter
                     {
                         quoteCol.Spacing(2);
                         foreach (var b in quote)
-                            RenderBlock(quoteCol, b);
+                            RenderBlock(quoteCol, b, compact);
                     });
                 });
                 break;
@@ -193,7 +194,7 @@ public static class MarkdownPdfConverter
                         {
                             itemCol.Spacing(2);
                             foreach (var b in item)
-                                RenderBlock(itemCol, b);
+                                RenderBlock(itemCol, b, compact);
                         });
                     });
                 }
@@ -201,7 +202,7 @@ public static class MarkdownPdfConverter
         }
     }
 
-    private static void RenderTable(ColumnDescriptor col, Table table)
+    private static void RenderTable(ColumnDescriptor col, Table table, bool compact = false)
     {
         var rows = table.OfType<TableRow>().ToList();
         int maxCellsPerRow = rows.Any() ? rows.Max(r => r.Count) : 0;
@@ -268,14 +269,17 @@ public static class MarkdownPdfConverter
                 if (isHeader && row.OfType<TableCell>().All(cell => GetCellTextLength(cell) == 0))
                     continue;
 
+                bool isShaded = isHeader || IsRowAllBold(row);
+
                 int cellsAdded = 0;
                 foreach (TableCell cell in row)
                 {
                     if (cellsAdded >= colCount) break;
+                    float pad = compact ? 1 : 3;
                     tbl.Cell()
-                        .Background(isHeader ? Colors.Grey.Lighten3 : Colors.White)
+                        .Background(isShaded ? Colors.Grey.Lighten3 : Colors.White)
                         .Border(0.5f)
-                        .Padding(3)
+                        .Padding(pad)
                         .Text(t =>
                         {
                             if (isHeader) t.DefaultTextStyle(x => x.Bold());
@@ -288,11 +292,29 @@ public static class MarkdownPdfConverter
                 // Pad missing cells so the QuestPDF grid stays aligned
                 while (cellsAdded < colCount)
                 {
-                    tbl.Cell().Background(isHeader ? Colors.Grey.Lighten3 : Colors.White).Border(0.5f).Padding(3).Text("");
+                    tbl.Cell().Background(isShaded ? Colors.Grey.Lighten3 : Colors.White).Border(0.5f).Padding(compact ? 1 : 3).Text("");
                     cellsAdded++;
                 }
             }
         });
+    }
+
+    private static bool IsRowAllBold(TableRow row)
+    {
+        foreach (TableCell cell in row)
+        {
+            foreach (var block in cell)
+            {
+                if (block is not ParagraphBlock para || para.Inline == null) continue;
+                foreach (var inline in para.Inline)
+                {
+                    if (inline is EmphasisInline em && em.DelimiterCount == 2) continue;
+                    if (inline is LiteralInline lit && lit.Content.ToString().Trim() == "") continue;
+                    return false;
+                }
+            }
+        }
+        return true;
     }
 
     private static int DeriveColCountFromData(Table table, List<TableRow> rows, int maxCellsPerRow)

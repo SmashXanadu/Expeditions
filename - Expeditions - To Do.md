@@ -1,6 +1,4 @@
 # To Do: Expeditions Rules System
-- Front Cover Inside Bonus Tables before TOC?
-  - d20 each, Weather, NPC (Full Name and one liner description), Adversary Type, Adversary Acitivity, Exploration Event, Town Event. trap, loot, magical item, town event, foragable goods, etc
 - update overall gitlab project readme file. no longer completely accurate
 - Create SNExpeditions: Snailfolk Starter Adventure and format for print.
 
