@@ -251,6 +251,11 @@ public class MainForm : Form
         node.Tag is string path && File.Exists(path) &&
         Path.GetFileName(path).StartsWith('-');
 
+    private static bool HasPdfCounterpart(TreeNode node) =>
+        node.Tag is string path &&
+        path.EndsWith(".md", StringComparison.OrdinalIgnoreCase) &&
+        File.Exists(Path.ChangeExtension(path, ".pdf"));
+
     private void SetAllChecked(TreeNodeCollection nodes, bool value)
     {
         _suppressCheck = true;
@@ -259,6 +264,7 @@ public class MainForm : Form
             foreach (TreeNode node in nodes)
             {
                 if (value && IsHyphenFile(node)) continue;
+                if (value && HasPdfCounterpart(node)) continue;
                 node.Checked = value;
                 SetAllChecked(node.Nodes, value);
             }
@@ -350,7 +356,9 @@ public class MainForm : Form
         // Split checked files: pre-built PDFs are used as-is; markdown files are converted.
         // Source PDFs are never added to `generated` so they are never deleted by cleanup.
         var sourcePdfs    = mdFiles.Where(f => f.EndsWith(".pdf", StringComparison.OrdinalIgnoreCase)).ToList();
-        var markdownFiles = mdFiles.Where(f => f.EndsWith(".md",  StringComparison.OrdinalIgnoreCase)).ToList();
+        var sourcePdfNames = sourcePdfs.Select(f => Path.GetFileNameWithoutExtension(f)).ToHashSet(StringComparer.OrdinalIgnoreCase);
+        var markdownFiles = mdFiles.Where(f => f.EndsWith(".md", StringComparison.OrdinalIgnoreCase)
+                                            && !sourcePdfNames.Contains(Path.GetFileNameWithoutExtension(f))).ToList();
 
         foreach (var pdf in sourcePdfs)
             Log($"  Using pre-built {Path.GetFileName(pdf)}", Color.LightGray);
