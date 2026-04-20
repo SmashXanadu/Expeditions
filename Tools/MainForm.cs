@@ -373,15 +373,39 @@ public class MainForm : Form
             var cover = all.FirstOrDefault(f => Path.GetFileNameWithoutExtension(f).Equals("Cover", StringComparison.OrdinalIgnoreCase));
             var back  = all.FirstOrDefault(f => Path.GetFileNameWithoutExtension(f).Equals("Back",  StringComparison.OrdinalIgnoreCase));
             var middle = all.Where(f => f != cover && f != back).ToList();
+
+            // Build TOC from content pages and generate its PDF
+            string? tocPath = null;
+            var tocEntries = BuildTocEntries(middle, markdownFiles);
+            if (tocEntries.Count > 0)
+            {
+                tocPath = Path.Combine(_outputFolder, "_TOC.pdf");
+                if (MarkdownPdfConverter.GenerateToc(tocEntries, tocPath))
+                    Log("  Generated table of contents", Color.LightGray);
+                else
+                    tocPath = null;
+            }
+
             var orderedFiles = new List<string>();
-            if (cover != null) orderedFiles.Add(cover);
+            if (cover   != null) orderedFiles.Add(cover);
+            if (tocPath != null) orderedFiles.Add(tocPath);
             orderedFiles.AddRange(middle);
-            if (back  != null) orderedFiles.Add(back);
+            if (back    != null) orderedFiles.Add(back);
+
+            int frontSkip = (cover != null ? 1 : 0) + (tocPath != null ? 1 : 0);
+            int backSkip  = back != null ? 1 : 0;
+
             string digitalName = $"{folderName}_Digital.pdf";
-            CombinePdfs(orderedFiles, digitalName);
+            string digitalPath = Path.Combine(_outputFolder, digitalName);
+            CombinePdfs(orderedFiles, digitalName); // merge only — no page numbers yet
 
             if (printVersion)
-                CreateBookletPdf(Path.Combine(_outputFolder, digitalName), $"{folderName}_Print.pdf");
+                CreateBookletPdf(digitalPath, $"{folderName}_Print.pdf", frontSkip, backSkip);
+
+            // Stamp digital page numbers after print imposition so the source is always clean
+            StampPageNumbers(digitalPath, frontSkip, backSkip, printStyle: false);
+
+            if (tocPath != null) try { File.Delete(tocPath); } catch { }
 
             if (!keepIndividual)
             {
@@ -427,6 +451,33 @@ public class MainForm : Form
         }
     }
 
+    private static void StampPageNumbers(string path, int frontSkip, int backSkip, bool printStyle)
+    {
+        using var doc  = PdfReader.Open(path, PdfDocumentOpenMode.Modify);
+        var font       = new XFont("Segoe UI", 7, XFontStyle.Regular);
+        double margin  = 0.375 * 72;
+        int    total   = doc.PageCount;
+
+        for (int i = 0; i < total; i++)
+        {
+            if (i < frontSkip || i >= total - backSkip) continue;
+
+            int    num        = i - frontSkip + 1; // content pages start at 1
+            var    page       = doc.Pages[i];
+            double w          = page.Width.Point;
+            double h          = page.Height.Point;
+            double y          = h - margin * 0.5;
+            bool   rightAlign = !printStyle || num % 2 == 0;
+            double x          = rightAlign ? w - margin : margin;
+            var    format     = rightAlign ? XStringFormats.BaseLineRight : XStringFormats.BaseLineLeft;
+
+            using var gfx = XGraphics.FromPdfPage(page, XGraphicsPdfPageOptions.Append);
+            gfx.DrawString(num.ToString(), font, XBrushes.Black, x, y, format);
+        }
+
+        doc.Save(path);
+    }
+
     private static bool IsPageBlank(PdfSharpCore.Pdf.PdfPage page)
     {
         var content = page.Elements["/Contents"];
@@ -459,7 +510,7 @@ public class MainForm : Form
         return s.Length == 0 || s == "q Q" || s == "Q";
     }
 
-    private void CreateBookletPdf(string sourcePath, string outputFileName)
+    private void CreateBookletPdf(string sourcePath, string outputFileName, int frontSkip, int backSkip)
     {
         string outPath = Path.Combine(_outputFolder, outputFileName);
         try
@@ -468,18 +519,20 @@ public class MainForm : Form
             using (var countDoc = PdfReader.Open(sourcePath, PdfDocumentOpenMode.Import))
                 pageCount = countDoc.PageCount;
 
-            // Pad total to next multiple of 4 so the booklet folds evenly
-            int N = ((pageCount + 3) / 4) * 4;
+            int N    = ((pageCount + 3) / 4) * 4;
+            var font = new XFont("Segoe UI", 7, XFontStyle.Regular);
 
             using var src    = XPdfForm.FromFile(sourcePath);
             using var output = new PdfDocument();
 
-            // Each pair p produces one landscape 8.5×11 sheet with two 5.5×8.5 pages.
-            // Booklet order: even p → [N-1-p | p], odd p → [p | N-1-p]
+            // Virtual index 0 = Cover, virtual N-1 = Back, interior content fills 1..N-2.
+            // Blank padding sits between the last content page and Back.
             for (int p = 0; p < N / 2; p++)
             {
-                int leftIdx  = (p % 2 == 0) ? N - 1 - p : p;
-                int rightIdx = N - 1 - leftIdx;
+                int leftVirtual  = (p % 2 == 0) ? N - 1 - p : p;
+                int rightVirtual = N - 1 - leftVirtual;
+                int leftActual   = VirtualToActual(leftVirtual,  pageCount, frontSkip, backSkip, N);
+                int rightActual  = VirtualToActual(rightVirtual, pageCount, frontSkip, backSkip, N);
 
                 var sheet = output.AddPage();
                 sheet.Width  = XUnit.FromPoint(11 * 72);
@@ -487,15 +540,17 @@ public class MainForm : Form
 
                 using var gfx = XGraphics.FromPdfPage(sheet);
 
-                if (leftIdx < pageCount)
+                if (leftActual >= 0)
                 {
-                    src.PageNumber = leftIdx + 1;
+                    src.PageNumber = leftActual + 1;
                     gfx.DrawImage(src, new XRect(0, 0, 5.5 * 72, 8.5 * 72));
+                    DrawPrintPageNumber(gfx, font, leftVirtual, new XRect(0, 0, 5.5 * 72, 8.5 * 72), frontSkip, backSkip, N, isLeftPage: true);
                 }
-                if (rightIdx < pageCount)
+                if (rightActual >= 0)
                 {
-                    src.PageNumber = rightIdx + 1;
+                    src.PageNumber = rightActual + 1;
                     gfx.DrawImage(src, new XRect(5.5 * 72, 0, 5.5 * 72, 8.5 * 72));
+                    DrawPrintPageNumber(gfx, font, rightVirtual, new XRect(5.5 * 72, 0, 5.5 * 72, 8.5 * 72), frontSkip, backSkip, N, isLeftPage: false);
                 }
             }
 
@@ -506,6 +561,73 @@ public class MainForm : Form
         {
             Log($"  Booklet error: {ex.Message}", Color.Tomato);
         }
+    }
+
+    // Maps a virtual booklet slot (0 = Cover, N-1 = Back, interior = content then blanks)
+    // to the actual 0-based page index in the source PDF, or -1 for a blank slot.
+    // frontSkip = number of non-numbered pages at the front (Cover, TOC, etc.)
+    // backSkip  = number of non-numbered pages at the back (Back cover, etc.)
+    private static int VirtualToActual(int virtualIdx, int pageCount, int frontSkip, int backSkip, int N)
+    {
+        // Front special pages map 1:1 to source
+        if (virtualIdx < frontSkip)
+            return virtualIdx < pageCount ? virtualIdx : -1;
+
+        // Back special pages map 1:1 to the last source pages
+        if (virtualIdx >= N - backSkip)
+        {
+            int src = pageCount - backSkip + (virtualIdx - (N - backSkip));
+            return src < pageCount ? src : -1;
+        }
+
+        // Interior: content pages fill first, blanks fill the rest
+        int offset       = virtualIdx - frontSkip;
+        int contentCount = pageCount - frontSkip - backSkip;
+        return offset < contentCount ? frontSkip + offset : -1;
+    }
+
+    private static void DrawPrintPageNumber(XGraphics gfx, XFont font, int virtualIdx, XRect area,
+                                            int frontSkip, int backSkip, int N, bool isLeftPage)
+    {
+        if (virtualIdx < frontSkip || virtualIdx >= N - backSkip) return;
+
+        int    num    = virtualIdx - frontSkip + 1;
+        double margin = 0.375 * 72;
+        double x      = isLeftPage ? area.Left + margin : area.Right - margin;
+        double y      = area.Bottom - margin * 0.5;
+        var    format = isLeftPage ? XStringFormats.BaseLineLeft : XStringFormats.BaseLineRight;
+
+        gfx.DrawString(num.ToString(), font, XBrushes.Black, x, y, format);
+    }
+
+    private static List<(string Heading, int Page)> BuildTocEntries(List<string> contentPdfs, List<string> markdownFiles)
+    {
+        var entries = new List<(string, int)>();
+        int page = 1;
+
+        foreach (var pdfPath in contentPdfs)
+        {
+            string baseName = Path.GetFileNameWithoutExtension(pdfPath);
+            var mdFile = markdownFiles.FirstOrDefault(f =>
+                Path.GetFileNameWithoutExtension(f).Equals(baseName, StringComparison.OrdinalIgnoreCase));
+
+            string heading = string.Empty;
+            if (mdFile != null)
+                heading = MarkdownPdfConverter.ExtractH1(File.ReadAllText(mdFile));
+            if (string.IsNullOrEmpty(heading))
+                heading = baseName;
+
+            entries.Add((heading, page));
+
+            try
+            {
+                using var doc = PdfReader.Open(pdfPath, PdfDocumentOpenMode.Import);
+                page += doc.PageCount;
+            }
+            catch { page++; }
+        }
+
+        return entries;
     }
 
     // -------------------------------------------------------------------------

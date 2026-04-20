@@ -1,7 +1,6 @@
 # To Do: Expeditions Rules System
-- Dynamically add page number footers at time of file generation
-  - Print Format - No page numbers on cover or back, odd pages bottom left corner, even pages bottom right corner
-  - Digital Format - No page numbers on cover or back, all page numbers in bottom right corner
+- Page 13 Rules Glossary! Reformat to fit on one page? OR use two? dynamically generate? prob cant
+- Extra page available still? Inner front cover Bonus Tables before TOC?
 - Finish Trade Skill Recipes - use alchemist as an example
 - Rules Review
   - [ ] Trade Skill Recipes & Perls

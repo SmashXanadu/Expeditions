@@ -2,7 +2,7 @@
 layout: default
 permalink: /Rules/Summary/
 ---
-# [Rules Summary](#summary)
+# [Expeditions RPG: Rules Summary](#summary)
 
 | Dice Roll                           | Result                                         |
 | :---------------------------------- | :--------------------------------------------- |

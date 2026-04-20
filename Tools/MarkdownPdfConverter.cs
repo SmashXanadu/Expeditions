@@ -19,6 +19,65 @@ public static class MarkdownPdfConverter
         .UseYamlFrontMatter()
         .Build();
 
+    public static string ExtractH1(string markdownContent)
+    {
+        var doc = Markdown.Parse(markdownContent, Pipeline);
+        var h1  = doc.OfType<HeadingBlock>().FirstOrDefault(h => h.Level == 1);
+        return h1?.Inline != null ? ExtractPlainText(h1.Inline) : string.Empty;
+    }
+
+    public static bool GenerateToc(List<(string Heading, int Page)> entries, string outputPath)
+    {
+        try
+        {
+            Document.Create(container =>
+            {
+                container.Page(page =>
+                {
+                    page.Size(5.5f * 72, 8.5f * 72);
+                    page.Margin(0.375f * 72);
+                    page.DefaultTextStyle(x => x.FontFamily(FontFamily).FontSize(BaseFontSize));
+
+                    page.Content().Column(col =>
+                    {
+                        col.Spacing(4);
+                        col.Item().Text("Contents").Bold().FontSize(H1FontSize);
+
+                        foreach (var (heading, pageNum) in entries)
+                        {
+                            col.Item().Row(row =>
+                            {
+                                row.AutoItem().PaddingRight(4).Text(heading);
+                                row.RelativeItem().PaddingBottom(2).AlignBottom().BorderBottom(0.5f).BorderColor(Colors.Black);
+                                row.AutoItem().PaddingLeft(4).Text(pageNum.ToString());
+                            });
+                        }
+                    });
+                });
+            }).GeneratePdf(outputPath);
+            return true;
+        }
+        catch { return false; }
+    }
+
+    private static string ExtractPlainText(ContainerInline inlines)
+    {
+        var sb = new System.Text.StringBuilder();
+        foreach (var inline in inlines)
+        {
+            switch (inline)
+            {
+                case LiteralInline lit:
+                    sb.Append(lit.Content.ToString());
+                    break;
+                case ContainerInline container:
+                    sb.Append(ExtractPlainText(container));
+                    break;
+            }
+        }
+        return sb.ToString().Trim();
+    }
+
     public static bool Convert(string inputPath, string outputPath, bool stripLastLine = false)
     {
         string label = Path.GetFileName(outputPath);
