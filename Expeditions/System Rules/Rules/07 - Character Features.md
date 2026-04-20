@@ -2,7 +2,7 @@
 layout: default
 permalink: /Rules/7/
 ---
-# [Your Character](#your-character)
+# [Character Features](#your-character)
 
 ## [Stats](#stats)
 - **Health** – The only stat. Tracks how much damage you can sustain before falling unconscious. Set by your Loadout during character creation.

@@ -240,11 +240,11 @@ public static class MarkdownPdfConverter
             while (colCount > 0 && GetCellTextLength(headerCells[colCount - 1]) == 0)
                 colCount--;
             if (colCount == 0)
-                colCount = table.ColumnDefinitions?.Count ?? maxCellsPerRow;
+                colCount = DeriveColCountFromData(table, rows, maxCellsPerRow);
         }
         else
         {
-            colCount = table.ColumnDefinitions?.Count ?? maxCellsPerRow;
+            colCount = DeriveColCountFromData(table, rows, maxCellsPerRow);
         }
 
         var colWidths = ComputeColumnWidths(rows, colCount);
@@ -293,6 +293,21 @@ public static class MarkdownPdfConverter
                 }
             }
         });
+    }
+
+    private static int DeriveColCountFromData(Table table, List<TableRow> rows, int maxCellsPerRow)
+    {
+        // Use data rows as the source of truth: count max non-empty cells in any
+        // data row. Trailing empty cells added by Markdig for the closing pipe
+        // have length 0 and are excluded. This also handles whitespace-only headers
+        // and the case where ColumnDefinitions mistakenly includes the trailing pipe.
+        int dataMax = rows.Where(r => !r.IsHeader)
+                          .Select(r => r.OfType<TableCell>().Count(c => GetCellTextLength(c) > 0))
+                          .DefaultIfEmpty(0).Max();
+        if (dataMax > 0) return dataMax;
+
+        // No data rows — fall back to ColumnDefinitions then raw cell count
+        return table.ColumnDefinitions?.Count ?? maxCellsPerRow;
     }
 
     // Compute column widths. Returns float[] where:

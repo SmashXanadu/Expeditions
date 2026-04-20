@@ -1,14 +1,16 @@
 # To Do: Expeditions Rules System
-- Page 13 Rules Glossary! Reformat to fit on one page? OR use two? dynamically generate? prob cant
-- Extra page available still? Inner front cover Bonus Tables before TOC?
+- Front Cover Inside Bonus Tables before TOC?
+  - d20 each, Weather, NPC (Full Name and one liner description), Adversary Type, Adversary Acitivity, Exploration Event, Town Event. trap, loot, magical item, town event, foragable goods, etc
+- update overall gitlab project readme file. no longer completely accurate
+- Create SNExpeditions: Snailfolk Starter Adventure and format for print.
+
+---
 - Finish Trade Skill Recipes - use alchemist as an example
 - Rules Review
   - [ ] Trade Skill Recipes & Perls
   - [ ] Skill Perks
   - [ ] Ability Text
-- update overall gitlab project readme file. no longer completely accurate
 - Plan Guide's Guide Content
-
 
 # To Do: Uncharted Waters Campaign
 

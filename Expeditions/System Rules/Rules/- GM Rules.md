@@ -1,4 +1,5 @@
 # GM Rules to Add
+- Update Player Rules Index page numbers with g.XX where that is the page that the rules are listed for the Guide book
 - [ ] **Unconscious** *(Index)* — Rule 5 says dropping to 0 Health makes you Unconscious, but there are no rules for what that means. Can you be revived? By whom? Do you die after a number of rounds? Is there a death save or similar?
 - [ ] **Status effects** — Adversary abilities reference conditions like poison, fire, and fear, but no status effect rules exist anywhere in the rulebook. What do these conditions do mechanically? Guide will describe. hand wave this one
 - [ ] **Repair activity mechanics** — Downtime lists Repair as an optional activity but gives no rules for it. What skill do you use? Is there a TN? What materials are needed? Can you partially repair something?

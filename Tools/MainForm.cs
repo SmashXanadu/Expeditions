@@ -206,9 +206,18 @@ public class MainForm : Form
                 .OrderBy(f =>
                 {
                     string n = Path.GetFileNameWithoutExtension(f);
-                    if (n.Equals("Cover", StringComparison.OrdinalIgnoreCase)) return 0;
-                    if (n.Equals("Back",  StringComparison.OrdinalIgnoreCase)) return 2;
+                    if (n.StartsWith("Front Cover", StringComparison.OrdinalIgnoreCase)) return 0;
+                    if (n.StartsWith("Back Cover",  StringComparison.OrdinalIgnoreCase)) return 2;
                     return 1;
+                })
+                .ThenBy(f =>
+                {
+                    string n = Path.GetFileNameWithoutExtension(f);
+                    if (n.StartsWith("Front Cover", StringComparison.OrdinalIgnoreCase))
+                        return n.EndsWith("Outside", StringComparison.OrdinalIgnoreCase) ? 0 : 1;
+                    if (n.StartsWith("Back Cover", StringComparison.OrdinalIgnoreCase))
+                        return n.EndsWith("Inside", StringComparison.OrdinalIgnoreCase) ? 0 : 1;
+                    return 0;
                 })
                 .ThenBy(f => f);
 
@@ -356,7 +365,7 @@ public class MainForm : Form
                 ? Path.Combine(_outputFolder, fileName)
                 : Path.Combine(_outputFolder, $"{folderName} - {fileName}");
             string baseName = Path.GetFileNameWithoutExtension(mdFile);
-            bool stripLast = isSystemRules && !baseName.Equals("Cover", StringComparison.OrdinalIgnoreCase);
+            bool stripLast = isSystemRules && !baseName.StartsWith("Front Cover", StringComparison.OrdinalIgnoreCase);
             bool ok = MarkdownPdfConverter.Convert(mdFile, outPath, stripLast);
 
             if (ok)  { generated.Add(outPath); Log($"  OK   {Path.GetFileName(mdFile)}", Color.LightGray); }
@@ -368,11 +377,18 @@ public class MainForm : Form
 
         if (combine)
         {
-            // Merge converted and pre-built PDFs, then pin Cover first and Back last
-            var all   = generated.Concat(sourcePdfs).OrderBy(f => Path.GetFileNameWithoutExtension(f)).ToList();
-            var cover = all.FirstOrDefault(f => Path.GetFileNameWithoutExtension(f).Equals("Cover", StringComparison.OrdinalIgnoreCase));
-            var back  = all.FirstOrDefault(f => Path.GetFileNameWithoutExtension(f).Equals("Back",  StringComparison.OrdinalIgnoreCase));
-            var middle = all.Where(f => f != cover && f != back).ToList();
+            // Merge converted and pre-built PDFs, pinning front/back covers in order
+            var all = generated.Concat(sourcePdfs).OrderBy(f => Path.GetFileNameWithoutExtension(f)).ToList();
+
+            var frontCovers = all
+                .Where(f => Path.GetFileNameWithoutExtension(f).StartsWith("Front Cover", StringComparison.OrdinalIgnoreCase))
+                .OrderBy(f => Path.GetFileNameWithoutExtension(f).EndsWith("Outside", StringComparison.OrdinalIgnoreCase) ? 0 : 1)
+                .ToList();
+            var backCovers = all
+                .Where(f => Path.GetFileNameWithoutExtension(f).StartsWith("Back Cover", StringComparison.OrdinalIgnoreCase))
+                .OrderBy(f => Path.GetFileNameWithoutExtension(f).EndsWith("Inside", StringComparison.OrdinalIgnoreCase) ? 0 : 1)
+                .ToList();
+            var middle = all.Where(f => !frontCovers.Contains(f) && !backCovers.Contains(f)).ToList();
 
             // Build TOC from content pages and generate its PDF
             string? tocPath = null;
@@ -387,13 +403,13 @@ public class MainForm : Form
             }
 
             var orderedFiles = new List<string>();
-            if (cover   != null) orderedFiles.Add(cover);
+            orderedFiles.AddRange(frontCovers);
             if (tocPath != null) orderedFiles.Add(tocPath);
             orderedFiles.AddRange(middle);
-            if (back    != null) orderedFiles.Add(back);
+            orderedFiles.AddRange(backCovers);
 
-            int frontSkip = (cover != null ? 1 : 0) + (tocPath != null ? 1 : 0);
-            int backSkip  = back != null ? 1 : 0;
+            int frontSkip = frontCovers.Count + (tocPath != null ? 1 : 0);
+            int backSkip  = backCovers.Count;
 
             string digitalName = $"{folderName}_Digital.pdf";
             string digitalPath = Path.Combine(_outputFolder, digitalName);
