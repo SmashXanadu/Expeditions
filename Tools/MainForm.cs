@@ -1,6 +1,8 @@
 using System.Collections.Concurrent;
 using System.Drawing;
 using System.Windows.Forms;
+using PdfSharpCore.Drawing;
+using PdfSharpCore.Pdf;
 using PdfSharpCore.Pdf.IO;
 
 public class MainForm : Form
@@ -11,6 +13,7 @@ public class MainForm : Form
     private readonly Button _selectAllBtn;
     private readonly Button _deselectAllBtn;
     private readonly CheckBox _includeIndividualChk;
+    private readonly CheckBox _printVersionChk;
 
     private readonly string _solutionRoot;
     private readonly string _outputFolder;
@@ -108,6 +111,14 @@ public class MainForm : Form
             Anchor = AnchorStyles.Left | AnchorStyles.Top
         };
 
+        _printVersionChk = new CheckBox
+        {
+            Text = "Generate print version (booklet/zine)",
+            Checked = false,
+            AutoSize = true,
+            Anchor = AnchorStyles.Left | AnchorStyles.Top
+        };
+
         _selectAllBtn.Click   += (_, _) => SetAllChecked(_treeView.Nodes, true);
         _deselectAllBtn.Click += (_, _) => SetAllChecked(_treeView.Nodes, false);
         _convertBtn.Click     += ConvertBtn_Click;
@@ -127,6 +138,7 @@ public class MainForm : Form
             Padding = new Padding(6, 11, 0, 0)
         };
         middleOptions.Controls.Add(_includeIndividualChk);
+        middleOptions.Controls.Add(_printVersionChk);
 
         var rightButtons = new FlowLayoutPanel
         {
@@ -189,12 +201,24 @@ public class MainForm : Form
                 parent.Nodes.Add(node);
             }
 
-            foreach (var file in Directory.GetFiles(path, "*.md").OrderBy(f => f))
+            var allFiles = Directory.GetFiles(path, "*.md")
+                .Concat(Directory.GetFiles(path, "*.pdf"))
+                .OrderBy(f =>
+                {
+                    string n = Path.GetFileNameWithoutExtension(f);
+                    if (n.Equals("Cover", StringComparison.OrdinalIgnoreCase)) return 0;
+                    if (n.Equals("Back",  StringComparison.OrdinalIgnoreCase)) return 2;
+                    return 1;
+                })
+                .ThenBy(f => f);
+
+            foreach (var file in allFiles)
             {
+                bool isPdf = file.EndsWith(".pdf", StringComparison.OrdinalIgnoreCase);
                 var node = new TreeNode(Path.GetFileNameWithoutExtension(file))
                 {
                     Tag       = file,
-                    ForeColor = Color.CornflowerBlue
+                    ForeColor = isPdf ? Color.Goldenrod : Color.CornflowerBlue
                 };
                 parent.Nodes.Add(node);
             }
@@ -279,6 +303,7 @@ public class MainForm : Form
             .Select(g =>
             {
                 int totalInFolder = Directory.GetFiles(g.Key, "*.md", SearchOption.TopDirectoryOnly)
+                    .Concat(Directory.GetFiles(g.Key, "*.pdf", SearchOption.TopDirectoryOnly))
                     .Count(f => !Path.GetFileNameWithoutExtension(f).StartsWith('-'));
                 bool allSelected = g.Count() >= totalInFolder;
                 return (folder: g.Key, files: g.ToList(), combine: allSelected);
@@ -286,10 +311,11 @@ public class MainForm : Form
             .ToList();
 
         bool keepIndividual = _includeIndividualChk.Checked;
+        bool printVersion   = _printVersionChk.Checked;
         await Task.Run(() =>
         {
             foreach (var (folder, files, combine) in byFolder)
-                ProcessFolder(folder, files, combine, keepIndividual);
+                ProcessFolder(folder, files, combine, keepIndividual, printVersion);
         });
 
         Log("\n=== All done! ===", Color.LightGreen);
@@ -304,23 +330,34 @@ public class MainForm : Form
         _treeView.Enabled       = enabled;
     }
 
-    private void ProcessFolder(string sourceFolder, List<string> mdFiles, bool combine, bool keepIndividual)
+    private void ProcessFolder(string sourceFolder, List<string> mdFiles, bool combine, bool keepIndividual, bool printVersion)
     {
         string folderName = Path.GetFileName(sourceFolder)!;
         Log($"\n=== {folderName} ===", Color.Cyan);
         Log($"  Converting {mdFiles.Count} file(s){(combine ? " (will combine)" : "")}...", Color.White);
 
         bool isSystemRules = sourceFolder.Contains("System Rules");
-        var failures  = new ConcurrentBag<string>();
-        var generated = new ConcurrentBag<string>();
 
-        Parallel.ForEach(mdFiles.OrderBy(f => f), mdFile =>
+        // Split checked files: pre-built PDFs are used as-is; markdown files are converted.
+        // Source PDFs are never added to `generated` so they are never deleted by cleanup.
+        var sourcePdfs    = mdFiles.Where(f => f.EndsWith(".pdf", StringComparison.OrdinalIgnoreCase)).ToList();
+        var markdownFiles = mdFiles.Where(f => f.EndsWith(".md",  StringComparison.OrdinalIgnoreCase)).ToList();
+
+        foreach (var pdf in sourcePdfs)
+            Log($"  Using pre-built {Path.GetFileName(pdf)}", Color.LightGray);
+
+        var failures  = new ConcurrentBag<string>();
+        var generated = new ConcurrentBag<string>(); // converted files only — lives in _outputFolder
+
+        Parallel.ForEach(markdownFiles.OrderBy(f => f), mdFile =>
         {
             string fileName = Path.ChangeExtension(Path.GetFileName(mdFile), ".pdf");
             string outPath = combine
                 ? Path.Combine(_outputFolder, fileName)
                 : Path.Combine(_outputFolder, $"{folderName} - {fileName}");
-            bool ok = MarkdownPdfConverter.Convert(mdFile, outPath, isSystemRules);
+            string baseName = Path.GetFileNameWithoutExtension(mdFile);
+            bool stripLast = isSystemRules && !baseName.Equals("Cover", StringComparison.OrdinalIgnoreCase);
+            bool ok = MarkdownPdfConverter.Convert(mdFile, outPath, stripLast);
 
             if (ok)  { generated.Add(outPath); Log($"  OK   {Path.GetFileName(mdFile)}", Color.LightGray); }
             else     { failures.Add(Path.GetFileName(mdFile)); Log($"  FAIL {Path.GetFileName(mdFile)}", Color.Tomato); }
@@ -331,12 +368,25 @@ public class MainForm : Form
 
         if (combine)
         {
-            var orderedFiles = generated.OrderBy(f => f).ToList();
-            CombinePdfs(orderedFiles, $"{folderName}.pdf");
+            // Merge converted and pre-built PDFs, then pin Cover first and Back last
+            var all   = generated.Concat(sourcePdfs).OrderBy(f => Path.GetFileNameWithoutExtension(f)).ToList();
+            var cover = all.FirstOrDefault(f => Path.GetFileNameWithoutExtension(f).Equals("Cover", StringComparison.OrdinalIgnoreCase));
+            var back  = all.FirstOrDefault(f => Path.GetFileNameWithoutExtension(f).Equals("Back",  StringComparison.OrdinalIgnoreCase));
+            var middle = all.Where(f => f != cover && f != back).ToList();
+            var orderedFiles = new List<string>();
+            if (cover != null) orderedFiles.Add(cover);
+            orderedFiles.AddRange(middle);
+            if (back  != null) orderedFiles.Add(back);
+            string digitalName = $"{folderName}_Digital.pdf";
+            CombinePdfs(orderedFiles, digitalName);
+
+            if (printVersion)
+                CreateBookletPdf(Path.Combine(_outputFolder, digitalName), $"{folderName}_Print.pdf");
 
             if (!keepIndividual)
             {
-                foreach (var file in orderedFiles)
+                // Only delete files we generated — never touch source PDFs
+                foreach (var file in generated)
                 {
                     try { File.Delete(file); }
                     catch { /* best effort */ }
@@ -366,10 +416,95 @@ public class MainForm : Form
             }
         }
 
+        // Strip trailing blank pages (QuestPDF sometimes emits an empty trailing page)
+        while (combined.PageCount > 0 && IsPageBlank(combined.Pages[combined.PageCount - 1]))
+            combined.Pages.RemoveAt(combined.PageCount - 1);
+
         if (combined.PageCount > 0)
         {
             combined.Save(outPath);
             Log($"  -> {outputFileName}  ({files.Count} PDFs merged)", Color.LightGreen);
+        }
+    }
+
+    private static bool IsPageBlank(PdfSharpCore.Pdf.PdfPage page)
+    {
+        var content = page.Elements["/Contents"];
+        if (content == null) return true;
+
+        // Resolve through indirect reference if needed
+        var obj = content is PdfSharpCore.Pdf.Advanced.PdfReference r ? r.Value : content;
+
+        if (obj is PdfSharpCore.Pdf.PdfDictionary dict && dict.Stream != null)
+            return IsStreamBlank(dict.Stream.Value);
+
+        if (obj is PdfSharpCore.Pdf.PdfArray arr)
+        {
+            foreach (var item in arr.Elements)
+            {
+                var resolved = item is PdfSharpCore.Pdf.Advanced.PdfReference pr ? pr.Value : item;
+                if (resolved is PdfSharpCore.Pdf.PdfDictionary sd && sd.Stream != null && !IsStreamBlank(sd.Stream.Value))
+                    return false;
+            }
+            return true;
+        }
+
+        return false; // unknown structure — assume not blank
+    }
+
+    private static bool IsStreamBlank(byte[]? bytes)
+    {
+        if (bytes == null || bytes.Length == 0) return true;
+        string s = System.Text.Encoding.Latin1.GetString(bytes).Trim();
+        return s.Length == 0 || s == "q Q" || s == "Q";
+    }
+
+    private void CreateBookletPdf(string sourcePath, string outputFileName)
+    {
+        string outPath = Path.Combine(_outputFolder, outputFileName);
+        try
+        {
+            int pageCount;
+            using (var countDoc = PdfReader.Open(sourcePath, PdfDocumentOpenMode.Import))
+                pageCount = countDoc.PageCount;
+
+            // Pad total to next multiple of 4 so the booklet folds evenly
+            int N = ((pageCount + 3) / 4) * 4;
+
+            using var src    = XPdfForm.FromFile(sourcePath);
+            using var output = new PdfDocument();
+
+            // Each pair p produces one landscape 8.5×11 sheet with two 5.5×8.5 pages.
+            // Booklet order: even p → [N-1-p | p], odd p → [p | N-1-p]
+            for (int p = 0; p < N / 2; p++)
+            {
+                int leftIdx  = (p % 2 == 0) ? N - 1 - p : p;
+                int rightIdx = N - 1 - leftIdx;
+
+                var sheet = output.AddPage();
+                sheet.Width  = XUnit.FromPoint(11 * 72);
+                sheet.Height = XUnit.FromPoint(8.5 * 72);
+
+                using var gfx = XGraphics.FromPdfPage(sheet);
+
+                if (leftIdx < pageCount)
+                {
+                    src.PageNumber = leftIdx + 1;
+                    gfx.DrawImage(src, new XRect(0, 0, 5.5 * 72, 8.5 * 72));
+                }
+                if (rightIdx < pageCount)
+                {
+                    src.PageNumber = rightIdx + 1;
+                    gfx.DrawImage(src, new XRect(5.5 * 72, 0, 5.5 * 72, 8.5 * 72));
+                }
+            }
+
+            output.Save(outPath);
+            Log($"  -> {outputFileName}  (booklet, {N / 2} imposed sheets)", Color.LightGreen);
+        }
+        catch (Exception ex)
+        {
+            Log($"  Booklet error: {ex.Message}", Color.Tomato);
         }
     }
 

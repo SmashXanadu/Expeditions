@@ -1,4 +1,3 @@
-\\Knowhere\data\Will\Projects\Game Design\Expeditions\Pocket
 - [ ] Ensure abilities, backgrounds, and loadouts, havent been significantly updated 
 - [ ] Expedition Quest Board Cards. Bulletin Board Style
 - [ ] Update Loadout Card Template

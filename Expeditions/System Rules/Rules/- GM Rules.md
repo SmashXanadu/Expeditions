@@ -10,8 +10,22 @@
   - [ ] Can be used at any time during the session
   - [ ] Never undermines success
   - [ ] Always introduces complications or tension
-
+- New Rule to Test
+	- An Expedition has a Target Number equal to its Difficulty Rating (10-20)
+	- Rewards scale accordingly
 - [ ] Define **"Ring the Bell" escalation mechanic**
   - [ ] When it can be triggered
   - [ ] What escalation means mechanically
   - [ ] Example uses in play
+  - - Lose EXP as an option for major complications (alongside: lose ability, lose skill, lose max HP, lose speed, etc.)
+  - Minor and Major Consequences Charts (lose spells, charges, items, limbs, etc.)
+- When to call for rolls
+- Guidance note: "Your players' ideas are as good as your ideas. Often better — mine them to make your story better."
+
+
+## Inspiration & References
+- Daggerheart
+- Tales of the Valiant (crafting)
+- 13th Age (feats for ability ideas, items, class features)
+- Hex map content from Mythic Bastionland
+- Bermuda Sloop (crew 4–15, 2 rowboats magnetized to sides) — nautical setting element
