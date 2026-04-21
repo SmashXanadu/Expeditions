@@ -28,16 +28,9 @@ All skills work the same way — each has a **Modifier** you add to your d20 rol
 ## [Equipment](#equipment)
 Your character has the following equipment slots:
 
-| Slot      |
-| :-------- |
-| Main Hand  |
-| Off Hand   |
-| Head       |
-| Chest      |
-| Hands      |
-| Legs       |
-| Feet       |
-| Accessory  |
+| **Main Hand** | **Chest** | **Legs** | **Head** |
+| :--: | :--: | :--: | :--: | 
+| **Off Hand** | **Hands** | **Feet** | **Accessory** |
 
 - **Weapons** and **Armor** can have magical properties.
 - Only one item may be equipped in each slot.

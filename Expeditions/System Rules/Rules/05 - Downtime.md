@@ -19,5 +19,18 @@ During each Downtime phase, every player performs all of the **Standard Downtime
 - **Work**: Take on a side job to earn gold.
 - **Custom** (Limit 1): Work with your **Guide** to create a unique activity for your character.
 
+> **Guide:** Alright, downtime. Everyone rests and gets their charges back. What's everyone doing for their downtime activities?
+>
+> **Player:** I want to Gather Information first — asking around the docks about the old lighthouse. And then I'll Work a shift at the inn to cover my debts.
+>
+> **Guide:** You'll need to roll a 12 or higher to gather information at the docks.
+>
+> **Player:** I rolled a 10, but I have +2 Manipulator. I think I would be able to use that to help out. 
+>
+> **Guide:** For sure. You succeed with a 12. You hear two things: the lighthouse has been dark for three weeks, and a fisherman went up there and never came back. Later you spend an uneventful evening serving tables at the inn and earn yourself 2 gold. Aldric is next!
+>
+> **The rest of the players similarly take turns describing their downtime actions...** 
+>
+> **Guide:** Okay — everyone make sure you spent experience on perks, note any new gold or items, and we'll pick up at dawn for the next Expedition!
 
 [Previous]({{site.baseurl}}/Rules/4/#combat) | **[Next: Character Creation]({{site.baseurl}}/Rules/6/)** | [Rules]({{site.baseurl}}/Rules/Index/#rules)

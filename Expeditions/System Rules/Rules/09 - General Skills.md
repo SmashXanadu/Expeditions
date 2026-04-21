@@ -7,10 +7,14 @@ permalink: /Rules/9/
 ## [Core Skills](#core-skills)
 Every character starts with these four skills. They are used in combat and cannot be removed or replaced.
 
-- **Attack:** You strike with weapons and physical abilities. Used to hit enemies in melee or ranged combat.
-- **Magic:** You channel arcane or elemental power. Used to hit enemies with magical abilities.
-- **Evade:** You avoid incoming danger through speed and sharp reflexes. Rolled when an enemy makes a physical attack against you.
-- **Resist:** You endure magical forces and effects through will and resilience. Rolled when an enemy uses a magical ability against you.
+- **Attack:** You strike with weapons and physical abilities.  
+Used to hit enemies in melee or ranged combat.
+- **Magic:** You channel arcane or elemental power.  
+Used to hit enemies with magical abilities.
+- **Evade:** You avoid incoming danger through speed and sharp reflexes.  
+Rolled when an enemy makes a physical attack against you.
+- **Resist:** You endure magical forces and effects through will and resilience.  
+Rolled when an enemy uses a magical ability against you.
 
 ## [General Skills](#general-skill-list)
 **General Skills** represent your character's natural talents and learned abilities. They are used for skill checks in and out of combat.

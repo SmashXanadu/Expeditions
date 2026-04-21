@@ -1,5 +1,7 @@
 # To Do: Expeditions Rules System
-- update overall gitlab project readme file. no longer completely accurate
+- Inner Front Cover - Extra Page. Could be replaced / moved
+- Print Ready - Print for Joe & Harrison.
+- Make and print general Character sheet like Snexpeditions one. Make a spot for gold
 - Create SNExpeditions: Snailfolk Starter Adventure and format for print.
 
 ---
@@ -9,6 +11,9 @@
   - [ ] Skill Perks
   - [ ] Ability Text
 - Plan Guide's Guide Content
+
+---
+Update UI to WPF with XML layout definition. Fork to general tool?
 
 # To Do: Uncharted Waters Campaign
 

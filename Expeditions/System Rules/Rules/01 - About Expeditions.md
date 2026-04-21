@@ -4,28 +4,30 @@ permalink: /Rules/1/
 ---
 # [About Expeditions](#about-expeditions)
 ## What is Expeditions?
-Expeditions is a fast-paced tabletop roleplaying game that uses a D20 die to cooperatively create fun stories with a group of players.
+Expeditions is a fast-paced tabletop roleplaying game that uses a D20 die to cooperatively create fun stories with a group of players. The goal of expeditions is to provide a timed, immersive experience that can be played by differently experienced players at the same time without limiting the story or game play.
 ## What do I need to Play?
+
+- 2+ players
 - This rulebook
+- Character sheets for each player
 - Pencils and pens
 - A 20-Sided Die
-- At least one other person to play with
 
 ## What makes it different than other RPGs?
 
 **Real-Time Expeditions**
-Run Expeditions that last a predetermined amount of real time (30 or 60min) with quick downtime phases in-between.
+	Sessions last a predetermined amount of real time--either 30 or 60 minutes--with quick downtime phases in-between, allowing Expeditions to fit into your daily life like an typical board game.
 
 **Streamlined Combat Rules**
-Simplified math and movement to make combat faster. If you are close, you can melee attack. If you are near, you can ranged attack, and if you are far, move closer!
+	Combat moves efficiently with simple math and intuitive movement. Players are either close (melee), near (ranged), or far (cannot hit), without needing to measure distance or count squares.
 
 **Minimal Guide (GM) Prep**
-System and handouts designed to require less time for the Guide to prepare. 
+	System and handouts are designed to require less time for the Guide to prepare. Rolls and decisions are moved to the players to complete with comprehensive tables and customizable scenarios for Guides to use on the fly.
 
 **Classless Specialization Grid**
-Build your character exactly how you want without being restricted by a class.
+	Players build characters without being restricted by class, race, or species. Backgrounds and specializations can easily be combined, added, and customized.
 
 **Player Driven Fate**
-Only players roll dice. The Guide never rolls.
+	Every roll is done by players and success is clearly defined.  They can choose to extend themselves past their ability level when necessary.  Fate is in their hands, and the Guide is the facilitator of their story, not the antagonist. 
 
 **[Next: Basic Rules]({{site.baseurl}}/Rules/2/)** | [Rules]({{site.baseurl}}/Rules/Index/#rules)

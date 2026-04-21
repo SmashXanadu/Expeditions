@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ed94ad12399f6340",
+        "id": "8682b1af58930450",
         "type": "tabs",
         "children": [
           {
-            "id": "7b611db905344d46",
+            "id": "37c53e6a8486bbd7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Expeditions/Player Resources/Perks.md",
+                "file": "Expeditions/System Rules/Rules/05 - Downtime.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Perks"
+              "title": "05 - Downtime"
             }
           }
         ]
@@ -165,8 +165,18 @@
       "print:Print note": false
     }
   },
-  "active": "7b611db905344d46",
+  "active": "37c53e6a8486bbd7",
   "lastOpenFiles": [
+    "Expeditions/System Rules/Rules/04 - Combat.md",
+    "Expeditions/System Rules/Rules/01 - About Expeditions.md",
+    "Expeditions/System Rules/Rules/03 - Resolving Dice Rolls.md",
+    "Expeditions/System Rules/Rules/05 - Downtime.md",
+    "Expeditions/System Rules/Rules/Back Cover Inside.md.tmp.51628.1776737935875",
+    "Expeditions/System Rules/Rules/02 - Basic Rules.md",
+    "Tools/MarkdownPdfConverter.cs.tmp.51628.1776736729873",
+    "Expeditions/System Rules/Rules/psEAC0.tmp",
+    "Expeditions/System Rules/Rules/08 - Character Progression.pdf",
+    "Expeditions/Player Resources/Perks.md",
     "Expeditions/Guide Resources/Premade Adventures/SNExpeditions/ps7245.tmp",
     "Expeditions/Guide Resources/Premade Adventures/SNExpeditions/Cover.pdf",
     "Expeditions/Guide Resources/Premade Adventures/SNExpeditions/Back.md",
@@ -184,7 +194,6 @@
     "Expeditions/System Rules/Rules/- Rules Summary.md",
     "Expeditions/System Rules/Rules/Cover copy.md",
     "Expeditions/System Rules/Rules/Cover.md",
-    "Expeditions/System Rules/Rules/Cover",
     "Expeditions/Product Design.md",
     "Expeditions/Player Resources/Abilities/Impact.md",
     "Expeditions/Player Resources/Abilities/Armored.md",
@@ -194,15 +203,6 @@
     "Expeditions/Player Resources/Abilities/Sun.md",
     "Expeditions/Player Resources/Abilities/Ice.md",
     "Expeditions/Player Resources/Abilities/Moon.md",
-    "Expeditions/Player Resources/Abilities/Undead.md",
-    "Expeditions/Player Resources/Abilities/Discipline.md",
-    "Expeditions/Player Resources/Abilities/Wild.md",
-    "Expeditions/Player Resources/Abilities/Illusion.md",
-    "Expeditions/Player Resources/Abilities/Gravity.md",
-    "Expeditions/Player Resources/Species/Snailfolk/Backgrounds",
-    "Expeditions/Player Resources/Species/Snailfolk/Loadouts",
-    "Expeditions/Player Resources/Loadouts/Loadouts",
-    "Expeditions/Player Resources/Species/Snailfolk",
     "images/GridExample.png",
     "images/Cards/Pasted image 20260112122044.png",
     "images/Cards/Pasted image 20260112122003.png",

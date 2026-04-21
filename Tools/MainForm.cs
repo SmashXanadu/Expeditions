@@ -319,7 +319,10 @@ public class MainForm : Form
             {
                 int totalInFolder = Directory.GetFiles(g.Key, "*.md", SearchOption.TopDirectoryOnly)
                     .Concat(Directory.GetFiles(g.Key, "*.pdf", SearchOption.TopDirectoryOnly))
-                    .Count(f => !Path.GetFileNameWithoutExtension(f).StartsWith('-'));
+                    .Where(f => !Path.GetFileNameWithoutExtension(f).StartsWith('-'))
+                    .Where(f => !(f.EndsWith(".md", StringComparison.OrdinalIgnoreCase) &&
+                                  File.Exists(Path.ChangeExtension(f, ".pdf"))))
+                    .Count();
                 bool allSelected = g.Count() >= totalInFolder;
                 return (folder: g.Key, files: g.ToList(), combine: allSelected);
             })
@@ -640,7 +643,10 @@ public class MainForm : Form
             if (mdFile != null)
                 heading = MarkdownPdfConverter.ExtractH1(File.ReadAllText(mdFile));
             if (string.IsNullOrEmpty(heading))
-                heading = baseName;
+            {
+                // Strip leading "NN - " numeric prefix from the file name
+                heading = System.Text.RegularExpressions.Regex.Replace(baseName, @"^\d+\s*-\s*", "");
+            }
 
             entries.Add((heading, page));
 

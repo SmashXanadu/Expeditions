@@ -6,7 +6,7 @@ permalink: /Rules/Summary/
 
 | Dice Roll                           | Result                                         |
 | :---------------------------------- | :--------------------------------------------- |
-| **Roll + Mod ≥ Target**             | **Success**                                    |
+| **Roll** + Mod ≥ Target             | **Success**                                    |
 | Miss by **1–2**                     | Success with **Minor Complication** (Optional) |
 | Miss by **3–5**                     | Success with **Major Complication** (Optional) |
 | **Natural 1** (The die shows '1')   | Failure with **Major Complication**            |

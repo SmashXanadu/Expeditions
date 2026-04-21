@@ -359,16 +359,32 @@ public static class MarkdownPdfConverter
             }
         }
 
+        // If all columns are short labels of similar length, equalize them.
+        // This prevents one column with a short header but long data (or vice versa)
+        // from absorbing all remaining space when neighbours snap to constants.
+        int[] perColMax = Enumerable.Range(0, colCount)
+            .Select(i => Math.Max(headerLengths[i], maxDataLengths[i]))
+            .ToArray();
+        int tableMax = perColMax.Length > 0 ? perColMax.Max() : 0;
+        int tableMin = perColMax.Length > 0 ? perColMax.Min() : 0;
+        if (tableMax <= 12 && (tableMin == 0 || tableMax / (float)tableMin <= 3f))
+        {
+            var equal = new float[colCount];
+            for (int i = 0; i < colCount; i++) equal[i] = 1f;
+            return equal;
+        }
+
         var widths = new float[colCount];
         for (int i = 0; i < colCount; i++)
         {
             int h = headerLengths[i];
             int d = maxDataLengths[i];
             int maxLen = Math.Max(h, d);
-            // Header is longer than data and non-trivially long: snap to constant width.
-            // 6.5pt/char + 6pt padding comfortably fits bold header text at 8pt.
-            if (h > 6 && d <= h)
-                widths[i] = -(h * 6.5f + 6f); // negative = ConstantColumn
+            // Header is longer than (or close to) data and non-trivially long: snap to constant width.
+            // Allow d up to h+2 so bold data that is 1-2 chars longer than the header still snaps.
+            // Use max(h,d) so the constant accommodates whichever is wider.
+            if (h > 6 && d <= h + 2)
+                widths[i] = -(Math.Max(h, d) * 6.5f + 6f); // negative = ConstantColumn
             // Short columns (e.g. TN, Mod): snap to a small constant rather than
             // letting sqrt(8) inflate them to the same weight as medium columns.
             else if (maxLen <= 4)

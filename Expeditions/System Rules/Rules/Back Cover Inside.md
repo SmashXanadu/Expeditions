@@ -24,4 +24,35 @@ permalink: /Rules/13/
 | Damage: p.4 | Move: p.4 | Zone: p.4 |
 | Disadvantage: p.3 | Node: p.8 | |
 
+---
+**Credits**
+---
+
+**Design & Writing** — Will Norton
+
+**Art & Layout** — [Your Name]
+
+**Playtesting** — [Name], [Name], [Name], [Name]
+
+---
+
+## Acknowledgements
+
+[Who helped, inspired, or supported this project.]
+
+---
+
+## Inspirations
+
+[Games, books, or other works that influenced Expeditions.]
+
+---
+
+## Licenses
+
+[5e SRD]  
+[Font name] is licensed under the [License Name] ([URL]).
+
+---
+
 **[Rules]({{site.baseurl}}/Rules/Index/#rules)**

@@ -7,14 +7,16 @@ permalink: /Rules/6/
 Creating your character is done in four simple steps. 
 
 ## [1. Choose a Background](#choose-a-background)
-The first four values are your **Core Skills** (Attack, Magic, Evade, Resist). The remaining six are your starting **General Skills**.
+The first four columns are your **Core Skills**. The last column lists your starting **General Skills**.
 
-**Infiltrator** — Attack +2, Magic +0, Evade +3, Resist +1 | Sneaky +4, Dexterous +3, Thief +2, Fast +2, Careful +1, Observant +1
-**Guardian** — Attack +1, Magic +1, Evade +1, Resist +3 | Strong +4, Tough +3, Leader +2, Intimidating +2, Wise +1, Kind +1
-**Scholar** — Attack +0, Magic +2, Evade +1, Resist +3 | Smart +4, Wise +3, Observant +2, Careful +2, Lucky +1, Trickster +1
-**Wayfinder** — Attack +1, Magic +1, Evade +2, Resist +2 | Survivalist +4, Explorer +3, Tough +2, Scavenger +2, Sneaky +1, Fast +1
-**Diplomat** — Attack +1, Magic +2, Evade +1, Resist +3 | Charismatic +4, Manipulator +3, Leader +2, Performer +2, Trickster +1, Lucky +1
-**Survivor** — Attack +2, Magic +0, Evade +2, Resist +2 | Lucky +4, Scavenger +3, Smart +2, Fast +2, Dexterous +1, Survivalist +1
+| Background | Attack | Magic | Evade | Resist | General Skills |
+| :--- | :---: | :---: | :---: | :---: | :--- |
+| **Infiltrator** | +2 | +0 | +3 | +1 | Sneaky +4, Dexterous +3, Thief +2, Fast +2, Careful +1, Observant +1 |
+| **Guardian** | +1 | +1 | +1 | +3 | Strong +4, Tough +3, Leader +2, Intimidating +2, Wise +1, Kind +1 |
+| **Scholar** | +0 | +2 | +1 | +3 | Smart +4, Wise +3, Observant +2, Careful +2, Lucky +1, Trickster +1 |
+| **Wayfinder** | +1 | +1 | +2 | +2 | Survivalist +4, Explorer +3, Tough +2, Scavenger +2, Sneaky +1, Fast +1 |
+| **Diplomat** | +1 | +2 | +1 | +3 | Charismatic +4, Manipulator +3, Leader +2, Performer +2, Trickster +1, Lucky +1 |
+| **Survivor** | +2 | +0 | +2 | +2 | Lucky +4, Scavenger +3, Smart +2, Fast +2, Dexterous +1, Survivalist +1 |
 
 ## [2. Choose a Loadout](#choose-a-loadout)
 **The Heavy** — Health: 5 | Weapon: Reinforced Greataxe | Signature: Stonefoot Signet
@@ -42,6 +44,6 @@ Choose one Starter Ability from the **Hero Grid** as your character's first node
 - **[Electric]({{site.baseurl}}/PlayerResources/Abilities/Electric/)**:  Shock, magnetize, and discharge devastating arcs of electricity.
 
 ## [4. Describe your character](#describe-your-character)
-Take everything you've chosen and tie it together into someone real. Give your character a want, a flaw, and a line they won't cross. Who are they? What drives them into danger? Do they have any notable features that make them unique?
+Take everything you've chosen and tie it together into someone real. Give your character a want, a flaw, and a line they won't cross. Do they have any notable features that make them unique?
 
 [Previous]({{site.baseurl}}/Rules/5/#downtime) | **[Next: Your Character]({{site.baseurl}}/Rules/7/)** | [Rules]({{site.baseurl}}/Rules/Index/#rules)

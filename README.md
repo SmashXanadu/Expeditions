@@ -12,27 +12,16 @@ Simplified math and movement to make combat faster. If you are close, you can me
 **Minimal Guide (GM) Prep**
 System and handouts designed to require less prep time. 
 
-**Learn by Failure**
-Every failed attack or skill check progresses your character. 
-
 **Classless Specialization Grid**
 Create your character how you see it without having to fit into a pre-determined class or job mold.
-
-**Equipment Matters**
-Damage is mitigated by armor durability and health.
 
 **No GM Dice Rolls**
 Players decide their fate by rolling to attack, evade, and everything in-between.
 
-**Rules for Every Type of Player**
-Different versions of player facing materials tailored to fit different player types while keeping everyone playing the same game. Ex: **Novice** (Kids), **Apprentice** (New RPG Players), **Journeyman** (Standard), and **Master** (Advanced Players)
-
 
 # **What is Uncharted Waters?**
-**Uncharted Waters** is an Open Table Campaign based on sea exploration and adventuring. using the **Expeditions** rules system. Players set sail from the mainland into the _uncharted waters_ of the **Western Sea**.
+**Uncharted Waters** is an open-table exploration campaign built on the **Expeditions** rules system. The maps end at the last port. Everything west is blank parchment — unknown islands, forgotten civilizations, and living things that have never had names.
 
+Players sail aboard **The Emerald Dawn** into the **Western Sea**, where merchant fleets and pirates, druids and industrialists, scavengers and scholars are all racing toward conflict — and the crew answers to none of them.
 
-This work includes material taken from the System Reference Document 5.1 (“SRD 5.1”) by Wizards of
-the Coast LLC and available at https://dnd.wizards.com/resources/systems-reference-document. The
-SRD 5.1 is licensed under the Creative Commons Attribution 4.0 International License available at
-https://creativecommons.org/licenses/by/4.0/legalcode
+Every session is self-contained and completable in one sitting. No fixed group, no attendance requirement. Show up when you can... the world keeps moving either way.
