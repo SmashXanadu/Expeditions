@@ -33,4 +33,6 @@ During each Downtime phase, every player performs all of the **Standard Downtime
 >
 > **Guide:** Okay — everyone make sure you spent experience on perks, note any new gold or items, and we'll pick up at dawn for the next Expedition!
 
+[Image of a heroes in a bustling town]
+
 [Previous]({{site.baseurl}}/Rules/4/#combat) | **[Next: Character Creation]({{site.baseurl}}/Rules/6/)** | [Rules]({{site.baseurl}}/Rules/Index/#rules)

@@ -87,7 +87,7 @@ public static class MarkdownPdfConverter
             if (stripLastLine) content = StripLastContentLine(content);
 
             var document = Markdown.Parse(content, Pipeline);
-            float fontSize = compact ? 6f : BaseFontSize;
+            float fontSize = compact ? 5.5f : BaseFontSize;
 
             Document.Create(container =>
             {

@@ -23,7 +23,7 @@ All skills work the same way — each has a **Modifier** you add to your d20 rol
 - **Evade** – Rolled to avoid physical attacks made against you.
 - **Resist** – Rolled to resist magical attacks made against you.
 
-**General Skills** and **Trade Skills** represent your character's other talents. See pages 9 and 10 for the full lists.
+**General Skills** and **Trade Skills** represent your character's other talents.
 
 ## [Equipment](#equipment)
 Your character has the following equipment slots:

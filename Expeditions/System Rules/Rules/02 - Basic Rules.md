@@ -37,6 +37,6 @@ This may sound like:
 >
 >**Guide**: “I’m not sure if you are strong enough to lift this, let’s roll to see...”
 
-
+**[Image of a hero pushing a boulder away from a blocked cave entrance]**
 
 [Previous]({{site.baseurl}}/Rules/1/#about-expeditions) | **[Next: Resolving Dice Rolls]({{site.baseurl}}/Rules/3/)** | [Rules]({{site.baseurl}}/Rules/Index/#rules)
