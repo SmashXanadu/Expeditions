@@ -30,20 +30,20 @@ The first four columns are your **Core Skills**. The last column lists your star
 ## [3. Starting Node](#starting-node)
 Choose one Starter Ability from the **Hero Grid** as your character's first node.
 
-- **[Air]({{site.baseurl}}/PlayerResources/Abilities/Air/)**:  Move, push enemies, and deflect attacks with manipulated wind.
+- **[Air]({{site.baseurl}}/PlayerResources/Abilities/Air/)**:  Move, push enemies, and deflect attacks by manipulating wind.
 - **[Dark]({{site.baseurl}}/PlayerResources/Abilities/Dark/)**:  Teleport, phase through objects, and blind enemies using shadows.
-- **[Water]({{site.baseurl}}/PlayerResources/Abilities/Water/)**:  Bind movement, douse flames, and modify terrain with water.
+- **[Water]({{site.baseurl}}/PlayerResources/Abilities/Water/)**:  Whip enemies, douse flames, and modify terrain with water.
 - **[Fire]({{site.baseurl}}/PlayerResources/Abilities/Fire/)**:  Burn, reshape, and illuminate your surroundings with conjured flame.
 - **[Earth]({{site.baseurl}}/PlayerResources/Abilities/Earth/)**:  Create cover, trigger tremors, and crush obstacles with stone and soil.
 - **[Nature]({{site.baseurl}}/PlayerResources/Abilities/Nature/)**:  Sense life, grow plants, and survive anywhere in the natural world.
 - **[Light]({{site.baseurl}}/PlayerResources/Abilities/Light/)**:  Reveal, cleanse, signal, and blind with projected pure light.
-- **[Armored]({{site.baseurl}}/PlayerResources/Abilities/Armored/)**:  Hold ground, absorb blows, and dominate the frontline with your armor.
-- **[Unarmored]({{site.baseurl}}/PlayerResources/Abilities/Unarmored/)**:  Evade danger and strike from unexpected angles with fluid precision.
+- **[Armored]({{site.baseurl}}/PlayerResources/Abilities/Armored/)**:  Hold your ground, absorb blows, and dominate the frontline with your armor.
+- **[Unarmored]({{site.baseurl}}/PlayerResources/Abilities/Unarmored/)**:  Evade danger and strike quickly with fluid precision.
 - **[Weapon Specialist]({{site.baseurl}}/PlayerResources/Abilities/WeaponSpecialist/)**:  Master your weapon to make every blow find its mark.
 - **[Spirit]({{site.baseurl}}/PlayerResources/Abilities/Spirit/)**:  Sense emotions, project thoughts, and perceive the hidden.
 - **[Electric]({{site.baseurl}}/PlayerResources/Abilities/Electric/)**:  Shock, magnetize, and discharge devastating arcs of electricity.
 
 ## [4. Describe your character](#describe-your-character)
-Take everything you've chosen and tie it together into someone real. Give your character a want, a flaw, and a line they won't cross. Do they have any notable features that make them unique?
+Take everything you've chosen and tie it together into someone real. Check out the **Character Ideas Table** in the back of this booklet for inspiration!
 
 [Previous]({{site.baseurl}}/Rules/5/#downtime) | **[Next: Your Character]({{site.baseurl}}/Rules/7/)** | [Rules]({{site.baseurl}}/Rules/Index/#rules)

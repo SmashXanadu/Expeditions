@@ -1,5 +1,4 @@
 # To Do: Expeditions Rules System
-- Close review and edits on character idea tables. Have room for a few more words generally
 - Clean and store downloads folder securely. lots of expeditions content
 - Make Tools.cs embed images easier by linking png files and defining the size
 - Print Ready - Print for Joe & Harrison.
@@ -19,7 +18,13 @@ Update UI to WPF with XML layout definition. Fork to general tool?
 
 # To Do: Uncharted Waters Campaign
 
-- Generate Uncharted Waters starting expeditions
+- Develop 1d20 + Hex Danger system Depth Crawl. 30 row Depth Crawl Table
+Hex TN = Danger Level
+Danger Roll = 1d20 + Danger
+  Location (Permanent Upon Discovery)
+  Detail (Permanent Upon Discovery)
+  Event (Random Every Time)
+  Encountert (Random Every Time)
 - [ ] Finalize the **Core Truths of the World**
   - [ ] The world is a vast, unexplored ocean
   - [ ] Ancient advanced civilization left behind magical technology

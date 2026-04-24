@@ -4,12 +4,13 @@ permalink: /Rules/1/
 ---
 # [About Expeditions](#about-expeditions)
 ## What is Expeditions?
-Expeditions is a fast-paced tabletop roleplaying game that uses a D20 die to cooperatively create fun stories with a group of players. The goal of expeditions is to provide a timed, immersive experience that can be played by differently experienced players at the same time without limiting the story or game play.
+Expeditions is a fast-paced tabletop roleplaying game that uses a D20 die to cooperatively create fun stories with a group of players. The goal of expeditions is to provide a timed, immersive experience that can be played by players of different experience levels at the same time without limiting the story or game play.
 
 ## What do I need to Play?
 
 - 2+ players
-- This quick start rulebook
+- This "Player Rules" booklet
+- A "Guide Rules" booklet
 - Character sheets for each player
 - Pencils and pens
 - A 20-Sided Die
@@ -33,4 +34,10 @@ Expeditions is a fast-paced tabletop roleplaying game that uses a D20 die to coo
 **Player Driven Fate**
 	Every roll is done by players and success is clearly defined. Players can push beyond their limits when the stakes demand it. Fate is in their hands. The Guide is the facilitator of their story, not the antagonist. 
 
-**[Next: Basic Rules]({{site.baseurl}}/Rules/2/)** | [Rules]({{site.baseurl}}/Rules/Index/#rules)
+---
+**Credits**
+---
+
+**Design & Writing** — Will Norton
+
+**Art & Layout** — [Your Name]

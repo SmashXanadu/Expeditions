@@ -4,17 +4,6 @@ permalink: /Rules/8/
 ---
 # [Character Progression](#character-progression)
 
-## [Hero Grid](#hero-grid)
-The **Hero Grid** represents the advancement of your character as you learn and grow on your adventures.
-
-You start with a single node unlocked during character creation. Over time you earn enough experience to unlock perks that grant additional nodes (up to a maximum of 5).
-
-You can only unlock a new node if it's connected to a node you've already unlocked, or connected to the center of the grid.
-
-**[Image of the Hero Grid]**
-
-When you unlock a node you immediately gain access to its corresponding [Abilities]({{site.baseurl}}/PlayerResources/Abilities/AbilityList/#ability-list).
-
 ## [Earning Experience](#earning-experience)
 - You earn **1 Experience** at the end of every expedition.
 - You earn an **additional 1 Experience** if the expedition was a **success** within the defined time limit.
@@ -27,5 +16,17 @@ During **Downtime**, spend **Experience** to choose perks from your **Perk Sheet
 - **Physical Offence**: Permanent combat upgrades for weapon users.
 - **Magical Offence**: Permanent upgrades for magic users.
 - **Defense**: Passive survivability upgrades.
+
+**[Image of the Hero Grid]**
+
+## [Hero Grid](#hero-grid)
+The **Hero Grid** represents the advancement of your character as you learn and grow on your adventures.
+
+You start with a single node unlocked during character creation. Over time you earn enough experience to unlock perks that grant additional nodes (up to a maximum of 5).
+
+You can only unlock a new node if it's connected to a node you've already unlocked, or connected to the center of the grid.
+
+When you unlock a node you immediately gain access to its corresponding [Abilities]({{site.baseurl}}/PlayerResources/Abilities/AbilityList/#ability-list).
+
 
 [Previous]({{site.baseurl}}/Rules/7/#your-character) | **[Next: General Skills]({{site.baseurl}}/Rules/9/)** | [Rules]({{site.baseurl}}/Rules/Index/#rules)

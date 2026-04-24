@@ -6,16 +6,15 @@ permalink: /Rules/11/
 Abilities are unlocked by progressing through the **Hero Grid**. All abilities start with **3 Charges**.
 
 ## [Starter Abilities](#starter-abilities)
-
-- **[Air]({{site.baseurl}}/PlayerResources/Abilities/Air/)**:  Move, push enemies, and deflect attacks with manipulated wind.
+- **[Air]({{site.baseurl}}/PlayerResources/Abilities/Air/)**:  Move, push enemies, and deflect attacks by manipulating wind.
 - **[Dark]({{site.baseurl}}/PlayerResources/Abilities/Dark/)**:  Teleport, phase through objects, and blind enemies using shadows.
-- **[Water]({{site.baseurl}}/PlayerResources/Abilities/Water/)**:  Bind movement, douse flames, and modify terrain with water.
+- **[Water]({{site.baseurl}}/PlayerResources/Abilities/Water/)**:  Whip enemies, douse flames, and modify terrain with water.
 - **[Fire]({{site.baseurl}}/PlayerResources/Abilities/Fire/)**:  Burn, reshape, and illuminate your surroundings with conjured flame.
 - **[Earth]({{site.baseurl}}/PlayerResources/Abilities/Earth/)**:  Create cover, trigger tremors, and crush obstacles with stone and soil.
 - **[Nature]({{site.baseurl}}/PlayerResources/Abilities/Nature/)**:  Sense life, grow plants, and survive anywhere in the natural world.
 - **[Light]({{site.baseurl}}/PlayerResources/Abilities/Light/)**:  Reveal, cleanse, signal, and blind with projected pure light.
-- **[Armored]({{site.baseurl}}/PlayerResources/Abilities/Armored/)**:  Hold ground, absorb blows, and dominate the frontline with your armor.
-- **[Unarmored]({{site.baseurl}}/PlayerResources/Abilities/Unarmored/)**:  Evade danger and strike from unexpected angles with fluid precision.
+- **[Armored]({{site.baseurl}}/PlayerResources/Abilities/Armored/)**:  Hold your ground, absorb blows, and dominate the frontline with your armor.
+- **[Unarmored]({{site.baseurl}}/PlayerResources/Abilities/Unarmored/)**:  Evade danger and strike quickly with fluid precision.
 - **[Weapon Specialist]({{site.baseurl}}/PlayerResources/Abilities/WeaponSpecialist/)**:  Master your weapon to make every blow find its mark.
 - **[Spirit]({{site.baseurl}}/PlayerResources/Abilities/Spirit/)**:  Sense emotions, project thoughts, and perceive the hidden.
 - **[Electric]({{site.baseurl}}/PlayerResources/Abilities/Electric/)**:  Shock, magnetize, and discharge devastating arcs of electricity.
@@ -24,7 +23,7 @@ Abilities are unlocked by progressing through the **Hero Grid**. All abilities s
 
 - **[Shield]({{site.baseurl}}/PlayerResources/Abilities/Shield/)**:  Block, soak, and redirect attacks to protect yourself and your allies.
 - **[Protector]({{site.baseurl}}/PlayerResources/Abilities/Protector/)**:  Force enemies to face you before they can reach anyone else.
-- **[Disciplined]({{site.baseurl}}/PlayerResources/Abilities/Disciplined/)**:  Anticipate strikes with calm precision, nearly impossible to pin down.
+- **[Disciplined]({{site.baseurl}}/PlayerResources/Abilities/Disciplined/)**:  Parry, counter, and endure through iron discipline and trained precision.
 - **[Wild]({{site.baseurl}}/PlayerResources/Abilities/Wild/)**:  Overwhelm enemies with unpredictable ferocity and relentless aggression.
 - **[Brawler]({{site.baseurl}}/PlayerResources/Abilities/Brawler/)**:  Use your body and dirty tactics to keep opponents off-balance.
 - **[Impact]({{site.baseurl}}/PlayerResources/Abilities/Impact/)**:  Shatter defenses and send enemies flying with every heavy swing.
@@ -42,7 +41,7 @@ Abilities are unlocked by progressing through the **Hero Grid**. All abilities s
 - **[Animals]({{site.baseurl}}/PlayerResources/Abilities/Animals/)**:  Borrow animal senses and allies to hunt, scout, and overpower prey.
 - **[Psychic]({{site.baseurl}}/PlayerResources/Abilities/Psychic/)**:  Project thoughts, plant suggestions, and strike minds with psychic force.
 - **[Illusion]({{site.baseurl}}/PlayerResources/Abilities/Illusion/)**:  Weave illusions of sight and sound to deceive and misdirect.
-- **[Ice]({{site.baseurl}}/PlayerResources/Abilities/Ice/)**:  Freeze terrain and enemies to control movement and shatter defenses.
+- **[Ice]({{site.baseurl}}/PlayerResources/Abilities/Ice/)**:  Freeze terrain and enemies to impair movement and shatter defenses.
 - **[Storm]({{site.baseurl}}/PlayerResources/Abilities/Storm/)**:  Unleash thunder, lightning, and gale winds to dominate the field.
 - **[Explosion]({{site.baseurl}}/PlayerResources/Abilities/Explosion/)**:  Detonate concentrated blasts that level structures and clear the field.
 - **[Gravity]({{site.baseurl}}/PlayerResources/Abilities/Gravity/)**:  Pin enemies, leap great distances, and pull objects to hand.

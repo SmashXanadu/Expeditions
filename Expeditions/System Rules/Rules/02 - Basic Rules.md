@@ -12,12 +12,13 @@ The game is split into two main parts: **Expeditions** and **Downtime**.
 An **Expedition** is a focused adventure with a clear objective. You'll have a limited amount of real-world time, usually 30 or 60 minutes, to complete your goal.
 
 During an Expedition, you will be rolling dice and experiencing the excitement of the game. You might be in **Combat**, a **Social Encounter**, or **Exploring**. Keep an eye on the clock, because it's always ticking!
+
 ### [Downtime](#downtime)
-In between Expeditions, the game shifts to **Downtime**. During this phase, you can choose from a menu of options to describe what your character does in order to progress and grow. Downtime is handled in short, "fast-forward" scenes and montages.
+In between Expeditions, the game shifts to **Downtime**. During this phase, you will choose from a menu of options and describe what your character does in order to progress and grow. Downtime is handled in short, "fast-forward" scenes and montages.
 
 ## Social Encounters and Exploration
 
-As you create a story collaboratively, the **Guide** will describe your environment and the situations you find yourself in. It is your responsibility to state what your character would do and how.  Your **Guide** will either describe what happens or ask you for a roll to determine what happens.
+As you create a story collaboratively, the **Guide** will describe your environment and the situations you find yourself in. It is your responsibility to state your character's intended actions.  Your **Guide** will either describe what happens or ask you for a roll to determine what happens.
 
 This may sound like:
 

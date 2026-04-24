@@ -3,7 +3,7 @@ layout: default
 permalink: /Rules/3/
 ---
 # [Resolving Dice Rolls](#resolving-dice-rolls)
-When you try to do something with an uncertain outcome, your **Guide** will tell you the **target number** you need to beat. This number will usually be between 8 (Trivial) and 18 (Very Hard).
+When you try to do something with an uncertain outcome, your **Guide** will tell you the **Target Number** (TN) that you need to beat. This number will usually be between 8 (Trivial) and 18 (Very Hard).
 
 To find out if you succeed, follow these steps:
 
@@ -32,15 +32,15 @@ If you fail to hit your target number, you can choose to succeed by pushing your
 
 **Critical Rolls**
 
-- **A roll of 1** (before adding any bonuses) is always a **Critical Failure** — you fail and suffer a **Major Complication** with no way to avoid it. 
+- **A roll of 1** (before adding any bonuses) is always a **Critical Failure** — you fail and suffer two **Minor Complications** with no way to avoid them. 
 
-- **A roll of 20** (before adding any bonuses) is always a **Critical Success** with a **Major Benefit** *(e.g. disarm an enemy, an NPC becomes a reliable contact)*.
+- **A roll of 20** (before adding any bonuses) is always a **Critical Success** with a **Benefit** *(e.g. disarm an enemy, an NPC becomes a reliable contact)*.
 
 **[Image of two d20's being rolled together]**
 
 **Advantage and Disadvantage**
 
-Your guide may impose Advantage or Disadvantage on your rolls due to the circumstances or environment your character is in.
+Your guide may impose Advantage or Disadvantage on your roll due to the circumstances or environment your character is in.
 
 - **Advantage**: Roll the d20 twice and use the **higher** result.
 - **Disadvantage**: Roll the d20 twice and use the **lower** result.

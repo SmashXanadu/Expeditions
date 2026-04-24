@@ -384,7 +384,7 @@ public static class MarkdownPdfConverter
             // Allow d up to h+2 so bold data that is 1-2 chars longer than the header still snaps.
             // Use max(h,d) so the constant accommodates whichever is wider.
             if (h > 6 && d <= h + 2)
-                widths[i] = -(Math.Max(h, d) * 6.5f + 6f); // negative = ConstantColumn
+                widths[i] = -(Math.Max(h, d) * 4.0f + 6f); // negative = ConstantColumn
             // Short columns (e.g. TN, Mod): snap to a small constant rather than
             // letting sqrt(8) inflate them to the same weight as medium columns.
             else if (maxLen <= 4)

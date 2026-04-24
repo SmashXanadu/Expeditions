@@ -7,7 +7,7 @@ permalink: /Rules/9/
 ## [Core Skills](#core-skills)
 Every character starts with these four skills. They are used in combat and cannot be removed or replaced.
 
-- **Attack:** You strike with weapons and physical abilities.  
+- **Attack:** You strike with weapons or physical abilities.  
 Used to hit enemies in melee or ranged combat.
 - **Magic:** You channel arcane or elemental power.  
 Used to hit enemies with magical abilities.

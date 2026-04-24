@@ -2,13 +2,28 @@
 layout: default
 permalink: /Rules/5/
 ---
+
+# [Unconciousness](#unconciousness)
+When a character's **Health** is reduced to **0**, they fall **Unconscious** and cannot act, move, or react.
+
+An ally who is **Close** may use their **Action** to stabilize them, restoring them to **1 Health**.
+
+An unconscious character is **defenseless**. If they take any direct damage before being stabilized, they **die**.
+
+# [Death](#death)
+Death is permanent. When a character dies, the player may introduce a new character at the start of the next Expedition.
+
+Though death cannot normally be undone, rare and powerful artifacts are said to exist that can cheat it - whether they can be discovered is up to you...
+
+---
+
 # [Downtime](#downtime)
 In between **Expeditions**, the game shifts into a "fast-forward" style of play called **Downtime**. During this time, you and your **Guide** will quickly go over what your character does to prepare for the next adventure.
 
 During each Downtime phase, every player performs all of the **Standard Downtime Activities** and up to two **Optional Activities**.
 
 ## [Standard Activities](#standard-downtime-activities)
-- **Gain Experience**: Earn **1 Experience** every expedition, plus **1 additional** if the expedition was completed successfully within the timer.
+- **Gain Experience**: Earn **1 Experience** plus **1 additional experience** if the last expedition was completed successfully within the timer.
 - **Spend Experience**: Spend experience to unlock Perks on your **Perk Sheet**.
 - **Rest**: Fully restore your **Health** and all **Ability Charges**.
 
@@ -21,18 +36,16 @@ During each Downtime phase, every player performs all of the **Standard Downtime
 
 > **Guide:** Alright, downtime. Everyone rests and gets their charges back. What's everyone doing for their downtime activities?
 >
-> **Player:** I want to Gather Information first — asking around the docks about the old lighthouse. And then I'll Work a shift at the inn to cover my debts.
+> **Player:** I want to **Gather Information** first... asking around the docks about the old lighthouse. And then I'll **Work** a shift at the inn to cover my debts.
 >
 > **Guide:** You'll need to roll a 12 or higher to gather information at the docks.
 >
 > **Player:** I rolled a 10, but I have +2 Manipulator. I think I would be able to use that to help out. 
 >
-> **Guide:** For sure. You succeed with a 12. You hear two things: the lighthouse has been dark for three weeks, and a fisherman went up there and never came back. Later you spend an uneventful evening serving tables at the inn and earn yourself 2 gold. Aldric is next!
+> **Guide:** For sure. You succeed with a 12. You hear two things: the lighthouse has been dark for three weeks, and a fisherman went up there and never came back. Later you spend an uneventful evening serving tables at the inn and earn yourself 2 gold. Who want's to go next?
 >
 > **The rest of the players similarly take turns describing their downtime actions...** 
 >
 > **Guide:** Okay — everyone make sure you spent experience on perks, note any new gold or items, and we'll pick up at dawn for the next Expedition!
-
-[Image of a heroes in a bustling town]
 
 [Previous]({{site.baseurl}}/Rules/4/#combat) | **[Next: Character Creation]({{site.baseurl}}/Rules/6/)** | [Rules]({{site.baseurl}}/Rules/Index/#rules)
