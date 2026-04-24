@@ -46,4 +46,4 @@ Abilities are unlocked by progressing through the **Hero Grid**. All abilities s
 - **[Explosion]({{site.baseurl}}/PlayerResources/Abilities/Explosion/)**:  Detonate concentrated blasts that level structures and clear the field.
 - **[Gravity]({{site.baseurl}}/PlayerResources/Abilities/Gravity/)**:  Pin enemies, leap great distances, and pull objects to hand.
 
-[Previous]({{site.baseurl}}/Rules/10/#trade-skills) | [Rules]({{site.baseurl}}/Rules/Index/#rules)
+[Previous]({{site.baseurl}}/Rules/10/#trade-skills) | **[Next: Character Idea Tables]({{site.baseurl}}/Rules/12/)** | [Rules]({{site.baseurl}}/Rules/Index/#rules)

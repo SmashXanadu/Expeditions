@@ -71,4 +71,4 @@ permalink: /Rules/12/
 | 19    | A sacrifice no one noticed  | Slowly dying, told no one     | Earn forgiveness               |
 | 20    | Normal life, until one day  | Left someone behind to escape | Make a name for themselves     |
 
-**[Rules]({{site.baseurl}}/Rules/Index/#rules)**
+[Previous]({{site.baseurl}}/Rules/11/#abilities) | **[Rules]({{site.baseurl}}/Rules/Index/#rules)**
