@@ -15,7 +15,7 @@ Expeditions is a fast-paced tabletop roleplaying game that uses a D20 die to coo
 - Pencils and pens
 - A 20-Sided Die
 
-**[Image of game materials on a table]**
+![Game materials on a table]({{site.baseurl}}/images/Rules/rulebook.png)
 
 ## What makes it different than other RPGs?
 

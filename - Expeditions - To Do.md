@@ -1,8 +1,8 @@
 # To Do: Expeditions Rules System
-- Embed images simimlar to basic rules & boulder. 300dpi horizontal slices. embed all rules images. test how they display in web
+- Test how images display in web
 - Close review and edits on character idea tables. Have room for a few more words generally
 - Clean and store downloads folder securely. lots of expeditions content
-- Make Tools.cs embed images easier by linking png files and defining the size
+- Make a Background and Loadout double sided output to include with rules
 - Print Ready - Print for Joe & Harrison.
 - Create SNExpeditions: Snailfolk Starter Adventure and format for print.
 

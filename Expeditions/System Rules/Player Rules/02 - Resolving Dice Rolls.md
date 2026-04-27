@@ -36,7 +36,7 @@ If you fail to hit your target number, you can choose to succeed by pushing your
 
 - **A roll of 20** (before adding any bonuses) is always a **Critical Success** with a **Benefit** *(e.g. disarm an enemy, an NPC becomes a reliable contact)*.
 
-**[Image of two d20's being rolled together]**
+  ![Two d20's being rolled together]({{site.baseurl}}/images/Rules/2d20s.png)
 
 **Advantage and Disadvantage**
 

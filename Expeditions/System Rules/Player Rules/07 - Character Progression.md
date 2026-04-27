@@ -17,7 +17,7 @@ During **Downtime**, spend **Experience** to choose perks from your **Perk Sheet
 - **Magical Offence**: Permanent upgrades for magic users.
 - **Defense**: Passive survivability upgrades.
 
-**[Image of the Hero Grid]**
+![Hero Grid]({{site.baseurl}}/images/Rules/grid.png)
 
 ## [Hero Grid](#hero-grid)
 The **Hero Grid** represents the advancement of your character as you learn and grow on your adventures.
