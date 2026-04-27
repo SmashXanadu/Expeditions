@@ -22,4 +22,8 @@ permalink: /PlayerResources/Backgrounds/Guardian/
 - **+1 Wise:** You know from experience how to handle most situations.
 - **+1 Kind:** Your care and generosity toward others knows no bounds.
 
+---
+
+**Background Details:**
+
 [Background List]({{site.baseurl}}/PlayerResources/Backgrounds/BackgroundList/#background-list)

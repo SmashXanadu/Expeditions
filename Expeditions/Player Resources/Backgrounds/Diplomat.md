@@ -22,4 +22,8 @@ permalink: /PlayerResources/Backgrounds/Diplomat/
 - **+1 Trickster:** You know how to fool others into seeing your truth.
 - **+1 Lucky:** Somehow things always seem to work out for you.
 
+---
+
+**Background Details:**
+
 [Background List]({{site.baseurl}}/PlayerResources/Backgrounds/BackgroundList/#background-list)

@@ -26,6 +26,8 @@ permalink: /PlayerResources/Loadouts/TheNoble/
 ---
 ### Inventory
 
+**Gold**:
+
 | Item            | Description                              |
 | --------------- | ---------------------------------------- |
 | Official Wax Kit | Stamps for three different official seals. |

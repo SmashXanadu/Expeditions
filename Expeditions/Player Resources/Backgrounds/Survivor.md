@@ -22,4 +22,8 @@ permalink: /PlayerResources/Backgrounds/Survivor/
 - **+1 Dexterous:** You can control your body and move with confidence.
 - **+1 Survivalist:** You know how to get by on limited resources.
 
+---
+
+**Background Details:**
+
 [Background List]({{site.baseurl}}/PlayerResources/Backgrounds/BackgroundList/#background-list)

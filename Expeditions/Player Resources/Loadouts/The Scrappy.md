@@ -26,6 +26,8 @@ permalink: /PlayerResources/Loadouts/TheScrappy/
 ---
 ### Inventory
 
+**Gold**:
+
 | Item              | Description                                     |
 | ----------------- | ----------------------------------------------- |
 | Industrial Grease | Thick lubricant for traps, slides, or sabotage. |

@@ -26,6 +26,8 @@ permalink: /PlayerResources/Loadouts/TheSilent/
 ---
 ### Inventory
 
+**Gold**:
+
 | Item              | Description                                      |
 | ----------------- | ------------------------------------------------ |
 | Lockpicking Tools | Opens even the most delicate locks.              |

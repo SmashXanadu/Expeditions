@@ -26,6 +26,8 @@ permalink: /PlayerResources/Loadouts/TheWild/
 ---
 ### Inventory
 
+**Gold**:
+
 | Item             | Description                                  |
 | ---------------- | -------------------------------------------- |
 | Bearskin Bedroll | Keeps out damp and bitter cold.              |

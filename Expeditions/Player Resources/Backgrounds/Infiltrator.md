@@ -22,4 +22,8 @@ permalink: /PlayerResources/Backgrounds/Infiltrator/
 - **+1 Careful:** You have nimble hands, patience, and attention to detail.
 - **+1 Observant:** Nothing gets past you. You are always on the watch.
 
+---
+
+**Background Details:**
+
 [Background List]({{site.baseurl}}/PlayerResources/Backgrounds/BackgroundList/#background-list)

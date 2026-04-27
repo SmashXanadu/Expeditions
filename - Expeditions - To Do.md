@@ -3,7 +3,6 @@
 - Clean and store downloads folder securely. lots of expeditions content
 - Make Tools.cs embed images easier by linking png files and defining the size
 - Print Ready - Print for Joe & Harrison.
-- Make and print general Character sheet like Snexpeditions one. Make a spot for gold
 - Create SNExpeditions: Snailfolk Starter Adventure and format for print.
 
 ---

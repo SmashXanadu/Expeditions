@@ -26,6 +26,8 @@ permalink: /PlayerResources/Loadouts/TheDevout/
 ---
 ### Inventory
 
+**Gold**:
+
 | Item             | Description                                          |
 | ---------------- | ---------------------------------------------------- |
 | Prayer Beads     | Use for meditation and ritual focus.                 |
@@ -38,6 +40,5 @@ permalink: /PlayerResources/Loadouts/TheDevout/
 |                  |                                                      |
 |                  |                                                      |
 |                  |                                                      |
-
 
 [Loadout List]({{site.baseurl}}/PlayerResources/Loadouts/LoadoutList/#loadout-list)

@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8682b1af58930450",
+        "id": "6636c64012501aa8",
         "type": "tabs",
         "children": [
           {
-            "id": "37c53e6a8486bbd7",
+            "id": "dda262abfb9c0020",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Expeditions/System Rules/Rules/12 - Character Idea Tables.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "12 - Character Idea Tables"
+              "title": "New tab"
             }
           }
         ]
@@ -165,7 +161,7 @@
       "print:Print note": false
     }
   },
-  "active": "37c53e6a8486bbd7",
+  "active": "dda262abfb9c0020",
   "lastOpenFiles": [
     "Expeditions/Guide Resources/Premade Adventures/Open Table Campaigns/Uncharted Waters/Depth Crawl.md",
     "Expeditions/System Rules/Rules/05 - Downtime.md",

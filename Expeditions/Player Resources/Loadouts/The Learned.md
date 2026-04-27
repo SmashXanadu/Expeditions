@@ -26,6 +26,8 @@ permalink: /PlayerResources/Loadouts/TheLearned/
 ---
 ### Inventory
 
+**Gold**:
+
 | Item                     | Description                                        |
 | ------------------------ | -------------------------------------------------- |
 | Specimen Jars            | Sealed bottles and tweezers for delicate samples.  |

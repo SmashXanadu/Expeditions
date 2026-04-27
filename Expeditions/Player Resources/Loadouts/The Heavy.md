@@ -26,6 +26,8 @@ permalink: /PlayerResources/Loadouts/TheHeavy/
 ---
 ### Inventory
 
+**Gold**:
+
 | Item               | Description                                    |
 | ------------------ | ---------------------------------------------- |
 | Bastion Whetstone  | Maintains a brutal edge on heavy blades.       |

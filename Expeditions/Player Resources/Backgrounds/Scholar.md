@@ -22,4 +22,8 @@ permalink: /PlayerResources/Backgrounds/Scholar/
 - **+1 Lucky:** Somehow things always seem to work out for you.
 - **+1 Trickster:** You know how to fool others into seeing your truth.
 
+---
+
+**Background Details:**
+
 [Background List]({{site.baseurl}}/PlayerResources/Backgrounds/BackgroundList/#background-list)

@@ -22,4 +22,8 @@ permalink: /PlayerResources/Backgrounds/Wayfinder/
 - **+1 Sneaky:** You move silently, almost unnoticed by others.
 - **+1 Fast:** You have near instant reaction time and move quickly.
 
+---
+
+**Background Details:**
+
 [Background List]({{site.baseurl}}/PlayerResources/Backgrounds/BackgroundList/#background-list)

@@ -18,6 +18,7 @@ public class MainForm : Form
     private readonly string _solutionRoot;
     private readonly string _outputFolder;
     private readonly string _expeditionsRoot;
+    private readonly string _unchartedWatersRoot;
 
     private bool _suppressCheck;
 
@@ -25,7 +26,8 @@ public class MainForm : Form
     {
         _solutionRoot = Path.GetFullPath(Path.Combine(AppContext.BaseDirectory, @"..\..\..\..\"));
         _outputFolder = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.UserProfile), "Downloads", "Outputs");
-        _expeditionsRoot = Path.Combine(_solutionRoot, "Expeditions");
+        _expeditionsRoot     = Path.Combine(_solutionRoot, "Expeditions");
+        _unchartedWatersRoot = Path.Combine(_expeditionsRoot, "Guide Resources", "Premade Adventures", "Open Table Campaigns", "Uncharted Waters");
 
         Text = "Expeditions PDF Converter";
         Size = new Size(900, 680);
@@ -183,6 +185,14 @@ public class MainForm : Form
         AddDirectoryNodes(root, _expeditionsRoot);
         _treeView.Nodes.Add(root);
         root.Expand();
+
+        if (Directory.Exists(_unchartedWatersRoot))
+        {
+            var uwRoot = new TreeNode("Uncharted Waters") { Tag = _unchartedWatersRoot };
+            AddDirectoryNodes(uwRoot, _unchartedWatersRoot);
+            _treeView.Nodes.Add(uwRoot);
+            uwRoot.Expand();
+        }
 
         _treeView.EndUpdate();
     }
@@ -354,8 +364,6 @@ public class MainForm : Form
         Log($"\n=== {folderName} ===", Color.Cyan);
         Log($"  Converting {mdFiles.Count} file(s){(combine ? " (will combine)" : "")}...", Color.White);
 
-        bool isSystemRules = sourceFolder.Contains("System Rules");
-
         // Split checked files: pre-built PDFs are used as-is; markdown files are converted.
         // Source PDFs are never added to `generated` so they are never deleted by cleanup.
         var sourcePdfs    = mdFiles.Where(f => f.EndsWith(".pdf", StringComparison.OrdinalIgnoreCase)).ToList();
@@ -376,10 +384,9 @@ public class MainForm : Form
                 ? Path.Combine(_outputFolder, fileName)
                 : Path.Combine(_outputFolder, $"{folderName} - {fileName}");
             string baseName = Path.GetFileNameWithoutExtension(mdFile);
-            bool stripLast = isSystemRules && !baseName.StartsWith("Front Cover", StringComparison.OrdinalIgnoreCase);
-            bool compact   = baseName.Contains("Character Idea", StringComparison.OrdinalIgnoreCase)
-                          || baseName.Contains("Depth Crawl", StringComparison.OrdinalIgnoreCase);
-            bool ok = MarkdownPdfConverter.Convert(mdFile, outPath, stripLast, compact);
+            bool compact = baseName.Contains("Character Idea", StringComparison.OrdinalIgnoreCase)
+                        || baseName.Contains("Depth Crawl", StringComparison.OrdinalIgnoreCase);
+            bool ok = MarkdownPdfConverter.Convert(mdFile, outPath, compact);
 
             if (ok)  { generated.Add(outPath); Log($"  OK   {Path.GetFileName(mdFile)}", Color.LightGray); }
             else     { failures.Add(Path.GetFileName(mdFile)); Log($"  FAIL {Path.GetFileName(mdFile)}", Color.Tomato); }
@@ -390,6 +397,12 @@ public class MainForm : Form
 
         if (combine)
         {
+            // A folder is "book-like" when at least one of its markdown files has a
+            // number-prefixed name (e.g. "01 - Introduction.md"). Only book-like folders
+            // get a TOC and page numbers.
+            bool isBook = markdownFiles.Any(f =>
+                char.IsDigit(Path.GetFileName(f)[0]));
+
             // Merge converted and pre-built PDFs, pinning front/back covers in order
             var all = generated.Concat(sourcePdfs).OrderBy(f => Path.GetFileNameWithoutExtension(f)).ToList();
 
@@ -403,16 +416,19 @@ public class MainForm : Form
                 .ToList();
             var middle = all.Where(f => !frontCovers.Contains(f) && !backCovers.Contains(f)).ToList();
 
-            // Build TOC from content pages and generate its PDF
+            // Build TOC from content pages and generate its PDF (book-like folders only)
             string? tocPath = null;
-            var tocEntries = BuildTocEntries(middle, markdownFiles);
-            if (tocEntries.Count > 0)
+            if (isBook)
             {
-                tocPath = Path.Combine(_outputFolder, "_TOC.pdf");
-                if (MarkdownPdfConverter.GenerateToc(tocEntries, tocPath))
-                    Log("  Generated table of contents", Color.LightGray);
-                else
-                    tocPath = null;
+                var tocEntries = BuildTocEntries(middle, markdownFiles);
+                if (tocEntries.Count > 0)
+                {
+                    tocPath = Path.Combine(_outputFolder, "_TOC.pdf");
+                    if (MarkdownPdfConverter.GenerateToc(tocEntries, tocPath))
+                        Log("  Generated table of contents", Color.LightGray);
+                    else
+                        tocPath = null;
+                }
             }
 
             var orderedFiles = new List<string>();
@@ -431,8 +447,9 @@ public class MainForm : Form
             if (printVersion)
                 CreateBookletPdf(digitalPath, $"{folderName}_Print.pdf", frontSkip, backSkip);
 
-            // Stamp digital page numbers after print imposition so the source is always clean
-            StampPageNumbers(digitalPath, frontSkip, backSkip, printStyle: false);
+            // Stamp page numbers only for book-like folders
+            if (isBook)
+                StampPageNumbers(digitalPath, frontSkip, backSkip, printStyle: false);
 
             if (tocPath != null) try { File.Delete(tocPath); } catch { }
 

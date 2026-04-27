@@ -78,13 +78,13 @@ public static class MarkdownPdfConverter
         return sb.ToString().Trim();
     }
 
-    public static bool Convert(string inputPath, string outputPath, bool stripLastLine = false, bool compact = false)
+    public static bool Convert(string inputPath, string outputPath, bool compact = false)
     {
         string label = Path.GetFileName(outputPath);
         try
         {
             string content = File.ReadAllText(inputPath);
-            if (stripLastLine) content = StripLastContentLine(content);
+            content = StripSiteBaseUrlLine(content);
 
             var document = Markdown.Parse(content, Pipeline);
             float fontSize = compact ? 5.5f : BaseFontSize;
@@ -122,14 +122,15 @@ public static class MarkdownPdfConverter
         }
     }
 
-    private static string StripLastContentLine(string content)
+    private static string StripSiteBaseUrlLine(string content)
     {
         var lines = content.Split('\n').ToList();
         for (int i = lines.Count - 1; i >= 0; i--)
         {
             if (!string.IsNullOrWhiteSpace(lines[i]))
             {
-                lines.RemoveAt(i);
+                if (lines[i].Contains("site.baseurl", StringComparison.OrdinalIgnoreCase))
+                    lines.RemoveAt(i);
                 break;
             }
         }
@@ -207,9 +208,33 @@ public static class MarkdownPdfConverter
         var rows = table.OfType<TableRow>().ToList();
         int maxCellsPerRow = rows.Any() ? rows.Max(r => r.Count) : 0;
 
-        // Single-column "card" tables (ability/skill cards) — render as plain stacked text
+        // Single-column tables: named boxes (e.g. "| Gold |") or plain card text
         if (maxCellsPerRow <= 1)
         {
+            var singleHeader = rows.FirstOrDefault(r => r.IsHeader);
+            var headerLabel = new System.Text.StringBuilder();
+            if (singleHeader != null)
+                foreach (TableCell cell in singleHeader)
+                    foreach (var para in cell.OfType<ParagraphBlock>())
+                        if (para.Inline != null)
+                            headerLabel.Append(ExtractPlainText(para.Inline));
+            string label = headerLabel.ToString().Trim();
+
+            if (!string.IsNullOrEmpty(label))
+            {
+                // Render as a named bordered box (header label + empty writable cell)
+                col.Item().Table(tbl =>
+                {
+                    tbl.ColumnsDefinition(cols => cols.RelativeColumn());
+                    tbl.Cell().Background(Colors.Grey.Lighten3).Border(0.5f).Padding(compact ? 1 : 3)
+                        .Text(t => t.Span(label).Bold());
+                    foreach (var _ in rows.Where(r => !r.IsHeader))
+                        tbl.Cell().Border(0.5f).Padding(compact ? 1 : 3).MinHeight(12).Text("");
+                });
+                return;
+            }
+
+            // No header — render as plain stacked text (ability/skill cards)
             foreach (var row in rows)
             {
                 if (row.IsHeader) continue;
@@ -301,6 +326,7 @@ public static class MarkdownPdfConverter
 
     private static bool IsRowAllBold(TableRow row)
     {
+        bool hasBoldContent = false;
         foreach (TableCell cell in row)
         {
             foreach (var block in cell)
@@ -308,13 +334,13 @@ public static class MarkdownPdfConverter
                 if (block is not ParagraphBlock para || para.Inline == null) continue;
                 foreach (var inline in para.Inline)
                 {
-                    if (inline is EmphasisInline em && em.DelimiterCount == 2) continue;
+                    if (inline is EmphasisInline em && em.DelimiterCount == 2) { hasBoldContent = true; continue; }
                     if (inline is LiteralInline lit && lit.Content.ToString().Trim() == "") continue;
                     return false;
                 }
             }
         }
-        return true;
+        return hasBoldContent;
     }
 
     private static int DeriveColCountFromData(Table table, List<TableRow> rows, int maxCellsPerRow)
