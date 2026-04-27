@@ -78,7 +78,7 @@ public static class MarkdownPdfConverter
         return sb.ToString().Trim();
     }
 
-    public static bool Convert(string inputPath, string outputPath, bool compact = false)
+    public static bool Convert(string inputPath, string outputPath, string vaultRoot, bool compact = false)
     {
         string label = Path.GetFileName(outputPath);
         try
@@ -106,7 +106,7 @@ public static class MarkdownPdfConverter
                                 ep.Inline?.FirstOrDefault() is LiteralInline el &&
                                 el.Content.ToString().Trim() == @"\end")
                                 break;
-                            RenderBlock(col, block, compact);
+                            RenderBlock(col, block, vaultRoot, compact);
                         }
                     });
                 });
@@ -137,7 +137,7 @@ public static class MarkdownPdfConverter
         return string.Join('\n', lines);
     }
 
-    private static void RenderBlock(ColumnDescriptor col, Block block, bool compact = false)
+    private static void RenderBlock(ColumnDescriptor col, Block block, string vaultRoot, bool compact = false)
     {
         switch (block)
         {
@@ -164,6 +164,13 @@ public static class MarkdownPdfConverter
                     col.Item().PageBreak();
                     break;
                 }
+                // Standalone image: single link inline that is an image
+                var inlineList = para.Inline?.ToList();
+                if (inlineList?.Count == 1 && inlineList[0] is LinkInline { IsImage: true } imgLink)
+                {
+                    RenderImage(col, imgLink, vaultRoot);
+                    break;
+                }
                 col.Item().Text(t => RenderInlines(t, para.Inline));
                 break;
 
@@ -180,7 +187,7 @@ public static class MarkdownPdfConverter
                     {
                         quoteCol.Spacing(2);
                         foreach (var b in quote)
-                            RenderBlock(quoteCol, b, compact);
+                            RenderBlock(quoteCol, b, vaultRoot, compact);
                     });
                 });
                 break;
@@ -195,12 +202,23 @@ public static class MarkdownPdfConverter
                         {
                             itemCol.Spacing(2);
                             foreach (var b in item)
-                                RenderBlock(itemCol, b, compact);
+                                RenderBlock(itemCol, b, vaultRoot, compact);
                         });
                     });
                 }
                 break;
         }
+    }
+
+    private static void RenderImage(ColumnDescriptor col, LinkInline img, string vaultRoot)
+    {
+        string url = img.Url ?? "";
+        // Strip any {{site.baseurl}} or similar Liquid tag prefix
+        url = System.Text.RegularExpressions.Regex.Replace(url, @"\{\{[^}]+\}\}", "");
+        url = url.TrimStart('/').Replace('/', Path.DirectorySeparatorChar);
+        string fullPath = Path.Combine(vaultRoot, url);
+        if (!File.Exists(fullPath)) return;
+        col.Item().Image(fullPath).FitWidth();
     }
 
     private static void RenderTable(ColumnDescriptor col, Table table, bool compact = false)

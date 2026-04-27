@@ -386,7 +386,7 @@ public class MainForm : Form
             string baseName = Path.GetFileNameWithoutExtension(mdFile);
             bool compact = baseName.Contains("Character Idea", StringComparison.OrdinalIgnoreCase)
                         || baseName.Contains("Depth Crawl", StringComparison.OrdinalIgnoreCase);
-            bool ok = MarkdownPdfConverter.Convert(mdFile, outPath, compact);
+            bool ok = MarkdownPdfConverter.Convert(mdFile, outPath, _solutionRoot, compact);
 
             if (ok)  { generated.Add(outPath); Log($"  OK   {Path.GetFileName(mdFile)}", Color.LightGray); }
             else     { failures.Add(Path.GetFileName(mdFile)); Log($"  FAIL {Path.GetFileName(mdFile)}", Color.Tomato); }

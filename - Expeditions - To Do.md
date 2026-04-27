@@ -1,4 +1,5 @@
 # To Do: Expeditions Rules System
+- Embed images simimlar to basic rules & boulder. 300dpi horizontal slices. embed all rules images. test how they display in web
 - Close review and edits on character idea tables. Have room for a few more words generally
 - Clean and store downloads folder securely. lots of expeditions content
 - Make Tools.cs embed images easier by linking png files and defining the size
