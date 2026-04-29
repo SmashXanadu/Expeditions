@@ -1,6 +1,5 @@
 # To Do: Expeditions Rules System
-- Print Ready - Print for Joe & Harrison.
-- Standard Premade Printout Sheets
+- Standard Premade Character Printout Sheets (backgrounds 7 Loadouts double sided lioke snexpeditions)
 - "Blank Character / Custom" Background and Loadout Sheets
 - Clean and store downloads folder securely. lots of expeditions content
 - Create SNExpeditions: Snailfolk Starter Adventure and format for print.
@@ -8,9 +7,10 @@
 ---
 - Finish Trade Skill Recipes - use alchemist as an example
 - Rules Review
-  - [ ] Trade Skill Recipes & Perls
+  - [ ] Trade Skill Recipes & Perlks
   - [ ] Skill Perks
   - [ ] Ability Text
+- Ensure System rules index and navigation is up to daet asnd working for web
 - Plan Guide's Guide Content
 
 ---
