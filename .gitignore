@@ -21,8 +21,10 @@ Thumbs.db
 
 # Obsidian's configuration folder
 .obsidian/
+
 # Obsidian's default trash/archive folder
 .trash/
+
 # Another common trash/archive pattern
 .Archive/
 Archives/
@@ -47,3 +49,6 @@ Backups/
 *~
 *.swp
 .obsidian/workspace.json
+
+# Claude's folder
+.claude/
