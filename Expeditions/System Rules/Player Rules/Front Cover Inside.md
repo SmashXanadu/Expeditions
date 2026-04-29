@@ -37,7 +37,10 @@ Expeditions is a fast-paced tabletop roleplaying game that uses a D20 die to coo
 ---
 **Credits**
 ---
+*Expeditions Player Rules v1.0*
 
 **Design & Writing** — Will Norton
 
 **Art & Layout** — [Your Name]
+
+| **[Next: Basic Rules]({{site.baseurl}}/Rules/2/)** | [Rules]({{site.baseurl}}/Rules/Index/#rules)

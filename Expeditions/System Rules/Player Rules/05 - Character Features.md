@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /Rules/7/
+permalink: /Rules/6/
 ---
 # [Character Features](#your-character)
 
@@ -40,4 +40,4 @@ Your character has the following equipment slots:
     - Massive items may not be able to be carried or stored in your inventory at all.
 - **Gold** is the currency you use to buy and sell items.
 
-[Previous]({{site.baseurl}}/Rules/6/#character-creation) | **[Next: Character Progression]({{site.baseurl}}/Rules/8/)** | [Rules]({{site.baseurl}}/Rules/Index/#rules)
+[Previous]({{site.baseurl}}/Rules/5/#downtime) | **[Next: Character Creation]({{site.baseurl}}/Rules/7/)** | [Rules]({{site.baseurl}}/Rules/Index/#rules)

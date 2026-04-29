@@ -1,0 +1,71 @@
+- About Expeditions
+- Table of Contents
+- Design Principles & North Stars
+    - Players
+    - Guide's
+- Core Rules
+    - Dice Resolution Mechanic
+    - Characters
+        - Stats
+        - Skills
+        - Backgrounds
+        - Loadouts
+        - Abilities
+        - Progression / Experience
+        - Perks
+    - Expeditions
+        - Combat
+            - Unconciousness and Death
+        - Social Encounters
+        - Exploration
+    - Downtime
+- Tools
+- Procedures
+- Tables
+    - NPCs
+
+# [Unconciousness](#unconciousness)
+When a character's **Health** is reduced to **0**, they fall **Unconscious** and cannot act, move, or react.
+
+An ally who is **Close** may use their **Action** to stabilize them, restoring them to **1 Health**.
+
+An unconscious character is **defenseless**. If they take any direct damage before being stabilized, they **die**.
+
+# [Death](#death)
+Death is permanent. When a character dies, the player may introduce a new character at the start of the next Expedition.
+
+Though death cannot normally be undone, rare and powerful artifacts are said to exist that can cheat it - whether they can be discovered is up to you...
+
+# GM Rules to Add
+- Custom Skills during downtime as described in quickstart rules
+- Update Player Rules Index page numbers with g.XX where that is the page that the rules are listed for the Guide book
+- [ ] **Unconscious** *(Index)* — Rule 5 says dropping to 0 Health makes you Unconscious, but there are no rules for what that means. Can you be revived? By whom? Do you die after a number of rounds? Is there a death save or similar?
+- [ ] **Status effects** — Adversary abilities reference conditions like poison, fire, and fear, but no status effect rules exist anywhere in the rulebook. What do these conditions do mechanically? Guide will describe. hand wave this one
+- [ ] **Repair activity mechanics** — Downtime lists Repair as an optional activity but gives no rules for it. What skill do you use? Is there a TN? What materials are needed? Can you partially repair something?
+- [ ] **Trade Skill usage mechanics** — Rule 12 lists Trade Skills but never explains how they work in practice. What's the resolution process? How do you use Blacksmith or Alchemist — roll against a TN? What materials are needed? What do you get?
+- [ ] **Expedition clock mechanics** — Rule 1 and Rule 4 mention 30- or 60-minute real-time expeditions with a "ticking clock," but there are no formal rules for what happens when time runs out, how escalations work, or how the Guide tracks pressure.
+- [ ] **Shopping and item pricing** — Rule 10 mentions Gold as currency but there are no rules for where or how to spend it. Equipment lists presumably have prices, but no buying/selling rules exist in the rulebook. This will be in the Guide Book
+- [ ] Award bonus exp for good player behavior
+- [ ] Design **"Hold a Consequence" mechanic**
+  - [ ] Can be used at any time during the session
+  - [ ] Never undermines success
+  - [ ] Always introduces complications or tension
+- New Rule to Test
+	- An Expedition has a Target Number equal to its Difficulty Rating (10-20)
+	- Rewards scale accordingly
+- [ ] Define **"Ring the Bell" escalation mechanic**
+  - [ ] When it can be triggered
+  - [ ] What escalation means mechanically
+  - [ ] Example uses in play
+  - - Lose EXP as an option for major complications (alongside: lose ability, lose skill, lose max HP, lose speed, etc.)
+  - Minor and Major Consequences Charts (lose spells, charges, items, limbs, etc.)
+- When to call for rolls
+- Guidance note: "Your players' ideas are as good as your ideas. Often better — mine them to make your story better."
+
+
+## Inspiration & References
+- Daggerheart
+- Tales of the Valiant (crafting)
+- 13th Age (feats for ability ideas, items, class features)
+- Hex map content from Mythic Bastionland
+- Bermuda Sloop (crew 4–15, 2 rowboats magnetized to sides) — nautical setting element

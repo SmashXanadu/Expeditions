@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /Rules/11/
+permalink: /Rules/14/
 ---
 # [Abilities](#abilities)
 Abilities are unlocked by progressing through the **Hero Grid**. All abilities start with **3 Charges**.
@@ -46,4 +46,4 @@ Abilities are unlocked by progressing through the **Hero Grid**. All abilities s
 - **[Explosion]({{site.baseurl}}/PlayerResources/Abilities/Explosion/)**:  Detonate concentrated blasts that level structures and clear the field.
 - **[Gravity]({{site.baseurl}}/PlayerResources/Abilities/Gravity/)**:  Pin enemies, leap great distances, and pull objects to hand.
 
-[Previous]({{site.baseurl}}/Rules/10/#trade-skills) | **[Next: Character Idea Tables]({{site.baseurl}}/Rules/12/)** | [Rules]({{site.baseurl}}/Rules/Index/#rules)
+[Previous]({{site.baseurl}}/Rules/13/#character-progression) | **[Next: General Skills]({{site.baseurl}}/Rules/15/)** | [Rules]({{site.baseurl}}/Rules/Index/#rules)

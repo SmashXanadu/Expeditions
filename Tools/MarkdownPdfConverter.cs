@@ -26,10 +26,34 @@ public static class MarkdownPdfConverter
         return h1?.Inline != null ? ExtractPlainText(h1.Inline) : string.Empty;
     }
 
-    public static bool GenerateToc(List<(string Heading, int Page)> entries, string outputPath)
+    public static bool GenerateToc(List<(string Heading, int Page)> entries, string outputPath,
+                                   string? templatePath = null, string vaultRoot = "")
     {
         try
         {
+            // Parse template and split at \toc marker if provided
+            List<Block>? beforeToc = null;
+            List<Block>? afterToc  = null;
+            if (templatePath != null && File.Exists(templatePath))
+            {
+                string raw = StripSiteBaseUrlLine(File.ReadAllText(templatePath));
+                var allBlocks = Markdown.Parse(raw, Pipeline).ToList();
+                int tocIdx = allBlocks.FindIndex(b =>
+                    b is ParagraphBlock p &&
+                    p.Inline?.FirstOrDefault() is LiteralInline lit &&
+                    lit.Content.ToString().Trim() == @"\toc");
+                if (tocIdx >= 0)
+                {
+                    beforeToc = allBlocks.Take(tocIdx).ToList();
+                    afterToc  = allBlocks.Skip(tocIdx + 1).ToList();
+                }
+                else
+                {
+                    beforeToc = allBlocks;
+                    afterToc  = new List<Block>();
+                }
+            }
+
             Document.Create(container =>
             {
                 container.Page(page =>
@@ -41,7 +65,12 @@ public static class MarkdownPdfConverter
                     page.Content().Column(col =>
                     {
                         col.Spacing(4);
-                        col.Item().Text("Contents").Bold().FontSize(H1FontSize);
+
+                        if (beforeToc != null)
+                            foreach (var b in beforeToc)
+                                RenderBlock(col, b, vaultRoot);
+                        else
+                            col.Item().Text("Contents").Bold().FontSize(H1FontSize);
 
                         foreach (var (heading, pageNum) in entries)
                         {
@@ -52,6 +81,10 @@ public static class MarkdownPdfConverter
                                 row.AutoItem().PaddingLeft(4).Text(pageNum.ToString());
                             });
                         }
+
+                        if (afterToc != null)
+                            foreach (var b in afterToc)
+                                RenderBlock(col, b, vaultRoot);
                     });
                 });
             }).GeneratePdf(outputPath);
@@ -164,15 +197,26 @@ public static class MarkdownPdfConverter
                     col.Item().PageBreak();
                     break;
                 }
-                // Standalone image: single link inline that is an image
+                // Standalone image: first inline is an image, rest are only whitespace/soft-breaks
                 var inlineList = para.Inline?.ToList();
-                if (inlineList?.Count == 1 && inlineList[0] is LinkInline { IsImage: true } imgLink)
+                if (inlineList?.Count > 0 && inlineList[0] is LinkInline { IsImage: true } imgLink &&
+                    inlineList.Skip(1).All(i => i is LineBreakInline ||
+                        (i is LiteralInline wl && wl.Content.ToString().Trim() == "")))
                 {
                     RenderImage(col, imgLink, vaultRoot);
                     break;
                 }
                 col.Item().Text(t => RenderInlines(t, para.Inline));
                 break;
+
+            case HtmlBlock html:
+            {
+                var m = System.Text.RegularExpressions.Regex.Match(
+                    html.Lines.ToString(), @"<!--\s*vspace:(\d+)\s*-->");
+                if (m.Success && int.TryParse(m.Groups[1].Value, out int pts))
+                    col.Item().Height(pts);
+                break;
+            }
 
             case Table table:
                 RenderTable(col, table, compact);
@@ -428,7 +472,7 @@ public static class MarkdownPdfConverter
             // Allow d up to h+2 so bold data that is 1-2 chars longer than the header still snaps.
             // Use max(h,d) so the constant accommodates whichever is wider.
             if (h > 6 && d <= h + 2)
-                widths[i] = -(Math.Max(h, d) * 4.0f + 6f); // negative = ConstantColumn
+                widths[i] = -(Math.Max(h, d) * 5.0f + 8f); // negative = ConstantColumn
             // Short columns (e.g. TN, Mod): snap to a small constant rather than
             // letting sqrt(8) inflate them to the same weight as medium columns.
             else if (maxLen <= 4)

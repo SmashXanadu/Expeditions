@@ -3,20 +3,6 @@ layout: default
 permalink: /Rules/5/
 ---
 
-# [Unconciousness](#unconciousness)
-When a character's **Health** is reduced to **0**, they fall **Unconscious** and cannot act, move, or react.
-
-An ally who is **Close** may use their **Action** to stabilize them, restoring them to **1 Health**.
-
-An unconscious character is **defenseless**. If they take any direct damage before being stabilized, they **die**.
-
-# [Death](#death)
-Death is permanent. When a character dies, the player may introduce a new character at the start of the next Expedition.
-
-Though death cannot normally be undone, rare and powerful artifacts are said to exist that can cheat it - whether they can be discovered is up to you...
-
----
-
 # [Downtime](#downtime)
 In between **Expeditions**, the game shifts into a "fast-forward" style of play called **Downtime**. During this time, you and your **Guide** will quickly go over what your character does to prepare for the next adventure.
 
@@ -34,6 +20,8 @@ During each Downtime phase, every player performs all of the **Standard Downtime
 - **Work**: Take on a side job to earn gold.
 - **Custom** (Limit 1): Work with your **Guide** to create a unique activity for your character.
 
+<!-- vspace:9 --> 
+
 > **Guide:** Alright, downtime. Everyone rests and gets their charges back. What's everyone doing for their downtime activities?
 >
 > **Player:** I want to **Gather Information** first... asking around the docks about the old lighthouse. And then I'll **Work** a shift at the inn to cover my debts.
@@ -48,4 +36,6 @@ During each Downtime phase, every player performs all of the **Standard Downtime
 >
 > **Guide:** Okay — everyone make sure you spent experience on perks, note any new gold or items, and we'll pick up at dawn for the next Expedition!
 
-[Previous]({{site.baseurl}}/Rules/4/#combat) | **[Next: Character Creation]({{site.baseurl}}/Rules/6/)** | [Rules]({{site.baseurl}}/Rules/Index/#rules)
+  ![Characters entering a bustling town]({{site.baseurl}}/images/Rules/downtime.png)
+
+[Previous]({{site.baseurl}}/Rules/4/#combat) | **[Next: Character Features]({{site.baseurl}}/Rules/6/)** | [Rules]({{site.baseurl}}/Rules/Index/#rules)

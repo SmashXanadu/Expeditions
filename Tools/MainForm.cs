@@ -259,7 +259,8 @@ public class MainForm : Form
 
     private static bool IsHyphenFile(TreeNode node) =>
         node.Tag is string path && File.Exists(path) &&
-        Path.GetFileName(path).StartsWith('-');
+        Path.GetFileName(path).StartsWith('-') &&
+        !Path.GetFileNameWithoutExtension(path).Equals("- Table of Contents", StringComparison.OrdinalIgnoreCase);
 
     private static bool HasPdfCounterpart(TreeNode node) =>
         node.Tag is string path &&
@@ -423,8 +424,10 @@ public class MainForm : Form
                 var tocEntries = BuildTocEntries(middle, markdownFiles);
                 if (tocEntries.Count > 0)
                 {
+                    string tocTemplatePath = Path.Combine(sourceFolder, "- Table of Contents.md");
+                    string? tocTemplate = File.Exists(tocTemplatePath) ? tocTemplatePath : null;
                     tocPath = Path.Combine(_outputFolder, "_TOC.pdf");
-                    if (MarkdownPdfConverter.GenerateToc(tocEntries, tocPath))
+                    if (MarkdownPdfConverter.GenerateToc(tocEntries, tocPath, tocTemplate, _solutionRoot))
                         Log("  Generated table of contents", Color.LightGray);
                     else
                         tocPath = null;

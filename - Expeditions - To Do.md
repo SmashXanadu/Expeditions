@@ -1,9 +1,8 @@
 # To Do: Expeditions Rules System
-- Test how images display in web
-- Close review and edits on character idea tables. Have room for a few more words generally
-- Clean and store downloads folder securely. lots of expeditions content
-- Make a Background and Loadout double sided output to include with rules
 - Print Ready - Print for Joe & Harrison.
+- Standard Premade Printout Sheets
+- "Blank Character / Custom" Background and Loadout Sheets
+- Clean and store downloads folder securely. lots of expeditions content
 - Create SNExpeditions: Snailfolk Starter Adventure and format for print.
 
 ---

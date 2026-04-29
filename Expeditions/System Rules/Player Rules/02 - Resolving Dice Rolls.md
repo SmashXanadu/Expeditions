@@ -11,12 +11,12 @@ To find out if you succeed, follow these steps:
 2. (Optional) Add a bonus from an appropriate **Skill**.
 3. Compare the total to the target number.
 
-**Success and Failure**
+## Success and Failure
 
 - **Success**: If your total is **equal to or higher** than the target number, you succeed!
 - **Failure**: If your total is **lower** than the target number, you fail.
 
-**Succeeding with Complications**
+### Succeeding with Complications
 
 If you fail to hit your target number, you can choose to succeed by pushing yourself beyond your limits and accepting a complication.
 
@@ -30,7 +30,9 @@ If you fail to hit your target number, you can choose to succeed by pushing your
 >
 >**Guide**: "You move the boulder, but in the process, your grunting wakes a nearby cave bear."
 
-**Critical Rolls**
+<!-- vspace:9 --> 
+
+### Critical Rolls
 
 - **A roll of 1** (before adding any bonuses) is always a **Critical Failure** — you fail and suffer two **Minor Complications** with no way to avoid them. 
 
@@ -38,7 +40,7 @@ If you fail to hit your target number, you can choose to succeed by pushing your
 
   ![Two d20's being rolled together]({{site.baseurl}}/images/Rules/2d20s.png)
 
-**Advantage and Disadvantage**
+## Advantage and Disadvantage
 
 Your guide may impose Advantage or Disadvantage on your roll due to the circumstances or environment your character is in.
 

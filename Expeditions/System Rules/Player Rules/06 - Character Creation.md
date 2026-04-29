@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /Rules/6/
+permalink: /Rules/7/
 ---
 # [Character Creation](#character-creation)
 
@@ -27,7 +27,7 @@ The first four columns are your **Core Skills**. The last column lists your star
 **The Scrappy** — Health: 4 | Weapon: Anchor Flail | Signature: Cracked Glass Eye
 **The Devout** — Health: 3 | Weapon: Sanctified Mace | Signature: Amulet of Sacred Ashes
 
-## [3. Starting Node](#starting-node)
+## [3. Starting Ability](#starting-node)
 Choose one Starter Ability from the **Hero Grid** as your character's first node.
 
 - **[Air]({{site.baseurl}}/PlayerResources/Abilities/Air/)**:  Move, push enemies, and deflect attacks by manipulating wind.
@@ -46,4 +46,4 @@ Choose one Starter Ability from the **Hero Grid** as your character's first node
 ## [4. Describe your character](#describe-your-character)
 Take everything you've chosen and tie it together into someone real. Check out the **Character Ideas Table** in the back of this booklet for inspiration!
 
-[Previous]({{site.baseurl}}/Rules/5/#downtime) | **[Next: Your Character]({{site.baseurl}}/Rules/7/)** | [Rules]({{site.baseurl}}/Rules/Index/#rules)
+[Previous]({{site.baseurl}}/Rules/6/#your-character) | **[Next: Background Sample]({{site.baseurl}}/Rules/8/)** | [Rules]({{site.baseurl}}/Rules/Index/#rules)
