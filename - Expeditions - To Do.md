@@ -1,7 +1,6 @@
 # To Do: Expeditions Rules System
-- Standard Premade Character Printout Sheets (backgrounds 7 Loadouts double sided lioke snexpeditions)
+- Standard Premade Character Printout Sheets (backgrounds 7 Loadouts double sided like snexpeditions)
 - "Blank Character / Custom" Background and Loadout Sheets
-- Clean and store downloads folder securely. lots of expeditions content
 - Create SNExpeditions: Snailfolk Starter Adventure and format for print.
 
 ---
