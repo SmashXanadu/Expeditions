@@ -47,3 +47,5 @@ Below is a sample Loadout from one of the **Loadout Sheets** available to player
 |                  |                                              |
 |                  |                                              |
 |                  |                                              |
+
+[Previous]({{site.baseurl}}/Rules/8/) | **[Next: Perk Sheet]({{site.baseurl}}/Rules/10/)** | [Rules]({{site.baseurl}}/Rules/Index/#rules)

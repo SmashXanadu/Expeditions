@@ -56,3 +56,5 @@ Below is the **Perk Sheet** that can be found on the back side of the **Loadout 
 [2 EXP] ☐ **Veteran**: Once per expedition, ignore a complication result.  
 [3 EXP] ☐ **Lucky**: Once per expedition, reroll any die and keep the new result.  
 [3 EXP] ☐ **Thick Skinned**: Reduce all incoming damage by 1 (minimum 1).
+
+[Previous]({{site.baseurl}}/Rules/9/) | **[Next: Ability Sample]({{site.baseurl}}/Rules/11/)** | [Rules]({{site.baseurl}}/Rules/Index/#rules)

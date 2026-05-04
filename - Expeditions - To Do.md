@@ -11,6 +11,7 @@
   - [ ] Ability Text
 - Ensure System rules index and navigation is up to daet asnd working for web
 - Plan Guide's Guide Content
+  - G index needs to get pulled over into the new content
 
 ---
 Update UI to WPF with XML layout definition. Fork to general tool?

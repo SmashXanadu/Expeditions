@@ -35,3 +35,4 @@ Below is a sample background from one of the **Background Sheets** available to 
 
 
 
+[Previous]({{site.baseurl}}/Rules/7/#character-creation) | **[Next: Loadout Sample]({{site.baseurl}}/Rules/9/)** | [Rules]({{site.baseurl}}/Rules/Index/#rules)

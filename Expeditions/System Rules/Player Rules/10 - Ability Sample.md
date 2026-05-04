@@ -51,3 +51,5 @@ Below is a sample ability from one of the **Ability Sheets** available to player
 <!-- vspace:50 --> 
 
 A full list of **Abilities** can be found later in this booklet.
+
+[Previous]({{site.baseurl}}/Rules/10/) | **[Next: Character Idea Tables]({{site.baseurl}}/Rules/12/)** | [Rules]({{site.baseurl}}/Rules/Index/#rules)

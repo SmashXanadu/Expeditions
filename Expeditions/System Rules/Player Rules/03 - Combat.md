@@ -50,4 +50,4 @@ When an enemy attacks you:
 
 When you take damage, you reduce your current **Health** by the amount of incoming damage. If your **Health** drops to 0, you fall **Unconscious** and be at risk of dying. Your **Guide** has additional information on **Death**. 
 
-[Previous]({{site.baseurl}}/Rules/3/#resolving-dice-rolls) | **[Next: Unconsciousness & Downtime]({{site.baseurl}}/Rules/5/)** | [Rules]({{site.baseurl}}/Rules/Index/#rules)
+[Previous]({{site.baseurl}}/Rules/3/#resolving-dice-rolls) | **[Next: Downtime]({{site.baseurl}}/Rules/5/)** | [Rules]({{site.baseurl}}/Rules/Index/#rules)
