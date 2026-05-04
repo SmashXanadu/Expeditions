@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /Rules/1/
+permalink: /Rules/About/
 ---
 # [About Expeditions](#about-expeditions)
 ## What is Expeditions?

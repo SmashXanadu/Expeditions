@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /Rules/7/
+permalink: /Rules/6/
 ---
 # [Character Creation](#character-creation)
 
@@ -46,4 +46,4 @@ Choose one Starter Ability from the **Hero Grid** as your character's first node
 ## [4. Describe your character](#describe-your-character)
 Take everything you've chosen and tie it together into someone real. Check out the **Character Ideas Table** in the back of this booklet for inspiration!
 
-[Previous]({{site.baseurl}}/Rules/6/#your-character) | **[Next: Background Sample]({{site.baseurl}}/Rules/8/)** | [Rules]({{site.baseurl}}/Rules/Index/#rules)
+[Previous]({{site.baseurl}}/Rules/5/#your-character) | **[Next: Background Sample]({{site.baseurl}}/Rules/7/)** | [Rules]({{site.baseurl}}/Rules/Index/#rules)

@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /Rules/8/
+permalink: /Rules/7/
 ---
 # [Background Sample](#choose-a-background)
 Below is a sample background from one of the **Background Sheets** available to players during character creation:
@@ -35,4 +35,4 @@ Below is a sample background from one of the **Background Sheets** available to 
 
 
 
-[Previous]({{site.baseurl}}/Rules/7/#character-creation) | **[Next: Loadout Sample]({{site.baseurl}}/Rules/9/)** | [Rules]({{site.baseurl}}/Rules/Index/#rules)
+[Previous]({{site.baseurl}}/Rules/6/#character-creation) | **[Next: Loadout Sample]({{site.baseurl}}/Rules/8/)** | [Rules]({{site.baseurl}}/Rules/Index/#rules)

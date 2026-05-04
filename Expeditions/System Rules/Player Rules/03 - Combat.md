@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /Rules/4/
+permalink: /Rules/3/
 ---
 # [Combat](#combat)
 When conflict breaks out, the **Guide** will let you know when you are in **Combat**. Combat is organized into rounds, where the **Players** and the **Adversaries** take turns performing actions.
@@ -50,4 +50,4 @@ When an enemy attacks you:
 
 When you take damage, you reduce your current **Health** by the amount of incoming damage. If your **Health** drops to 0, you fall **Unconscious** and be at risk of dying. Your **Guide** has additional information on **Death**. 
 
-[Previous]({{site.baseurl}}/Rules/3/#resolving-dice-rolls) | **[Next: Downtime]({{site.baseurl}}/Rules/5/)** | [Rules]({{site.baseurl}}/Rules/Index/#rules)
+[Previous]({{site.baseurl}}/Rules/2/#resolving-dice-rolls) | **[Next: Downtime]({{site.baseurl}}/Rules/4/)** | [Rules]({{site.baseurl}}/Rules/Index/#rules)

@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /Rules/15/
+permalink: /Rules/14/
 ---
 # [General Skills](#general-skills)
 
@@ -45,7 +45,7 @@ Here's a list of available General Skills:
 
 If your character has a skill not on this list, work with your **Guide** to create a **custom skill**.
 
-[Previous]({{site.baseurl}}/Rules/14/#abilities) | **[Next: Trade Skills]({{site.baseurl}}/Rules/16/)** | [Rules]({{site.baseurl}}/Rules/Index/#rules)
+[Previous]({{site.baseurl}}/Rules/13/#abilities) | **[Next: Trade Skills]({{site.baseurl}}/Rules/15/)** | [Rules]({{site.baseurl}}/Rules/Index/#rules)
 
 
 

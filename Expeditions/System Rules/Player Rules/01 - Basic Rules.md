@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /Rules/2/
+permalink: /Rules/1/
 ---
 # [Basic Rules](#basic-rules)
 
@@ -40,4 +40,4 @@ This may sound like:
 
   ![Hero pushing a boulder away from a blocked cave entrance]({{site.baseurl}}/images/Rules/boulder.png)
 
-[Previous]({{site.baseurl}}/Rules/1/#about-expeditions) | **[Next: Resolving Dice Rolls]({{site.baseurl}}/Rules/3/)** | [Rules]({{site.baseurl}}/Rules/Index/#rules)
+[Previous]({{site.baseurl}}/Rules/About/#about-expeditions) | **[Next: Resolving Dice Rolls]({{site.baseurl}}/Rules/2/)** | [Rules]({{site.baseurl}}/Rules/Index/#rules)

@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /Rules/5/
+permalink: /Rules/4/
 ---
 
 # [Downtime](#downtime)
@@ -38,4 +38,4 @@ During each Downtime phase, every player performs all of the **Standard Downtime
 
   ![Characters entering a bustling town]({{site.baseurl}}/images/Rules/downtime.png)
 
-[Previous]({{site.baseurl}}/Rules/4/#combat) | **[Next: Character Features]({{site.baseurl}}/Rules/6/)** | [Rules]({{site.baseurl}}/Rules/Index/#rules)
+[Previous]({{site.baseurl}}/Rules/3/#combat) | **[Next: Character Features]({{site.baseurl}}/Rules/5/)** | [Rules]({{site.baseurl}}/Rules/Index/#rules)

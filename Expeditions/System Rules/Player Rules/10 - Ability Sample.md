@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /Rules/11/
+permalink: /Rules/10/
 ---
 
 # [Ability Sample](#choose-a-background)
@@ -52,4 +52,4 @@ Below is a sample ability from one of the **Ability Sheets** available to player
 
 A full list of **Abilities** can be found later in this booklet.
 
-[Previous]({{site.baseurl}}/Rules/10/) | **[Next: Character Idea Tables]({{site.baseurl}}/Rules/12/)** | [Rules]({{site.baseurl}}/Rules/Index/#rules)
+[Previous]({{site.baseurl}}/Rules/9/) | **[Next: Character Idea Tables]({{site.baseurl}}/Rules/11/)** | [Rules]({{site.baseurl}}/Rules/Index/#rules)

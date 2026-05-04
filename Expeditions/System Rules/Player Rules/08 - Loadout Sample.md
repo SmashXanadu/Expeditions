@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /Rules/9/
+permalink: /Rules/8/
 ---
 # [Loadout Sample](#choose-a-background)
 Below is a sample Loadout from one of the **Loadout Sheets** available to players during character creation:
@@ -48,4 +48,4 @@ Below is a sample Loadout from one of the **Loadout Sheets** available to player
 |                  |                                              |
 |                  |                                              |
 
-[Previous]({{site.baseurl}}/Rules/8/) | **[Next: Perk Sheet]({{site.baseurl}}/Rules/10/)** | [Rules]({{site.baseurl}}/Rules/Index/#rules)
+[Previous]({{site.baseurl}}/Rules/7/) | **[Next: Perk Sheet]({{site.baseurl}}/Rules/9/)** | [Rules]({{site.baseurl}}/Rules/Index/#rules)

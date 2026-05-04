@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /Rules/3/
+permalink: /Rules/2/
 ---
 # [Resolving Dice Rolls](#resolving-dice-rolls)
 When you try to do something with an uncertain outcome, your **Guide** will tell you the **Target Number** (TN) that you need to beat. This number will usually be between 8 (Trivial) and 18 (Very Hard).
@@ -49,4 +49,4 @@ Your guide may impose Advantage or Disadvantage on your roll due to the circumst
 
 If you have both advantage and disadvantage at the same time, they cancel out and you roll normally.
 
-[Previous]({{site.baseurl}}/Rules/2/#basic-rules) | **[Next: Combat]({{site.baseurl}}/Rules/4/)** | [Rules]({{site.baseurl}}/Rules/Index/#rules)
+[Previous]({{site.baseurl}}/Rules/1/#basic-rules) | **[Next: Combat]({{site.baseurl}}/Rules/3/)** | [Rules]({{site.baseurl}}/Rules/Index/#rules)

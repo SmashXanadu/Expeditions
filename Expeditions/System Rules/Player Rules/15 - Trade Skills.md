@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /Rules/16/
+permalink: /Rules/15/
 ---
 # [Trade Skills](#tradeskills)
 **Trade Skills** are specialized knowledge and abilities your character can use to craft items, earn money, and help the party. You will use these skills for **Skill Checks** during **Downtime** and when a situation calls for them.
@@ -28,7 +28,7 @@ If your character has a skill not on this list, work with your **Guide** to crea
 
 ![A Character crafting something]({{site.baseurl}}/images/Rules/tradeskill.png)
 
-[Previous]({{site.baseurl}}/Rules/15/#general-skills) | **[Rules]({{site.baseurl}}/Rules/Index/#rules)**
+[Previous]({{site.baseurl}}/Rules/14/#general-skills) | **[Rules]({{site.baseurl}}/Rules/Index/#rules)**
 
 
 

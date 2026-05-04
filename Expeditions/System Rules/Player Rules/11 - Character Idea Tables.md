@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /Rules/12/
+permalink: /Rules/11/
 ---
 
 # Character Idea Tables
@@ -71,4 +71,4 @@ permalink: /Rules/12/
 | 19    | A sacrifice no one noticed  | Slowly dying, told no one     | Earn forgiveness               |
 | 20    | Gave up more than they bargained for | Left someone behind to escape | Make a name for themselves     |
 
-[Previous]({{site.baseurl}}/Rules/11/) | **[Next: Character Progression]({{site.baseurl}}/Rules/13/)** | [Rules]({{site.baseurl}}/Rules/Index/#rules)
+[Previous]({{site.baseurl}}/Rules/10/) | **[Next: Character Progression]({{site.baseurl}}/Rules/12/)** | [Rules]({{site.baseurl}}/Rules/Index/#rules)

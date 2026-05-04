@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /Rules/10/
+permalink: /Rules/9/
 ---
 # [Perk Sheet Sample](#choose-a-background)
 Below is the **Perk Sheet** that can be found on the back side of the **Loadout Sheets** available to players during character creation:
@@ -57,4 +57,4 @@ Below is the **Perk Sheet** that can be found on the back side of the **Loadout 
 [3 EXP] ☐ **Lucky**: Once per expedition, reroll any die and keep the new result.  
 [3 EXP] ☐ **Thick Skinned**: Reduce all incoming damage by 1 (minimum 1).
 
-[Previous]({{site.baseurl}}/Rules/9/) | **[Next: Ability Sample]({{site.baseurl}}/Rules/11/)** | [Rules]({{site.baseurl}}/Rules/Index/#rules)
+[Previous]({{site.baseurl}}/Rules/8/) | **[Next: Ability Sample]({{site.baseurl}}/Rules/10/)** | [Rules]({{site.baseurl}}/Rules/Index/#rules)

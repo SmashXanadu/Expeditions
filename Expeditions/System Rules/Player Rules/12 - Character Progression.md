@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /Rules/13/
+permalink: /Rules/12/
 ---
 # [Character Progression](#character-progression)
 
@@ -29,4 +29,4 @@ You can only unlock a new node if it's connected to a node you've already unlock
 When you unlock a node you immediately gain access to its corresponding [Abilities]({{site.baseurl}}/PlayerResources/Abilities/AbilityList/#ability-list).
 
 
-[Previous]({{site.baseurl}}/Rules/12/#character-idea-tables) | **[Next: Abilities]({{site.baseurl}}/Rules/14/)** | [Rules]({{site.baseurl}}/Rules/Index/#rules)
+[Previous]({{site.baseurl}}/Rules/11/#character-idea-tables) | **[Next: Abilities]({{site.baseurl}}/Rules/13/)** | [Rules]({{site.baseurl}}/Rules/Index/#rules)
