@@ -25,6 +25,11 @@
 	- Custom
 - Tools
 - Procedures
+    - Hex Crawl
+    - Depth Crawl
+    - Dungeon Crawl
+    - Facilities
+        - Shops
 - Tables
     - NPCs
 - One Shot Expeditions of Various difficulties

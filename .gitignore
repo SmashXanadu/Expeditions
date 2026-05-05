@@ -52,3 +52,4 @@ Backups/
 
 # Claude's folder
 .claude/
+.obsidian/workspace.json
