@@ -1,0 +1,1 @@
+Discussion on starter expedition, vs starting a campaign, planning, etc . List out page numbers for starter scenario and basic one shot expeditions

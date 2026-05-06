@@ -2,6 +2,18 @@
 layout: default
 permalink: /GMRules/Tables/
 ---
+
+## Advice & Tips
+- Battlefield Features (Make combat interesting)
+- Player Rolls
+- Running the Game
+- "Your players' ideas are as good as yours. Mine them."
+- When to Call for a Roll
+- Never Undermine Success
+- Introduce Complications or Tension
+
+
+
 - Never show your mechanics — your moves are prompts for you, not scripts to read aloud.
 - Give every monster life — describe their smells, sounds, and motivations, not just their stats.
 - Name every NPC the players speak with, and give them a personality on the fly.
