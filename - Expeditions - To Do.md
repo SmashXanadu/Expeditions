@@ -1,20 +1,23 @@
 # To Do: Expeditions Rules System
 - Standard Premade Character Printout Sheets (backgrounds 7 Loadouts double sided like snexpeditions)
 - "Blank Character / Custom" Background and Loadout Sheets
+----
 - Create SNExpeditions: Snailfolk Starter Adventure and format for print.
-
 ---
 - Finish Trade Skill Recipes - use alchemist as an example
 - Rules Review
-  - [ ] Trade Skill Recipes & Perlks
+  - [ ] Trade Skill Recipes & Perks
   - [ ] Skill Perks
   - [ ] Ability Text
-- Ensure System rules index and navigation is up to daet asnd working for web
-- Plan Guide's Guide Content
-  - G index needs to get pulled over into the new content
+- Ensure System rules index and navigation is up to date and working for web
+---
+Guide Rules
 
 ---
+
 Update UI to WPF with XML layout definition. Fork to general tool?
+
+---
 
 # To Do: Uncharted Waters Campaign
 

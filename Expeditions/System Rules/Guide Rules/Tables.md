@@ -1,7 +1,8 @@
 ---
 layout: default
-permalink: /FrontCoverInside/
+permalink: /GMRules/Tables/
 ---
+
 |       |                                     |                                  |                                |
 | :---- | :---------------------------------- | :------------------------------- | :----------------------------- |
 | **#** | **NPC**                             | **Rumor**                        | **Town Event**                 |
@@ -62,38 +63,25 @@ permalink: /FrontCoverInside/
 | 19    | Merchant alone on road              | Unseasonably warm                | Pouch that holds twice as much |
 | 20    | Swarm of biting insects             | Strange red-tinted sky           | Map that updates in real time  |
 
-
-
-# GM Rules to Add
-- Custom Skills during downtime as described in quickstart rules
-- Update Player Rules Index page numbers with g.XX where that is the page that the rules are listed for the Guide book
-- [ ] **Unconscious** *(Index)* — Rule 5 says dropping to 0 Health makes you Unconscious, but there are no rules for what that means. Can you be revived? By whom? Do you die after a number of rounds? Is there a death save or similar?
-- [ ] **Status effects** — Adversary abilities reference conditions like poison, fire, and fear, but no status effect rules exist anywhere in the rulebook. What do these conditions do mechanically? Guide will describe. hand wave this one
-- [ ] **Repair activity mechanics** — Downtime lists Repair as an optional activity but gives no rules for it. What skill do you use? Is there a TN? What materials are needed? Can you partially repair something?
-- [ ] **Trade Skill usage mechanics** — Rule 12 lists Trade Skills but never explains how they work in practice. What's the resolution process? How do you use Blacksmith or Alchemist — roll against a TN? What materials are needed? What do you get?
-- [ ] **Expedition clock mechanics** — Rule 1 and Rule 4 mention 30- or 60-minute real-time expeditions with a "ticking clock," but there are no formal rules for what happens when time runs out, how escalations work, or how the Guide tracks pressure.
-- [ ] **Shopping and item pricing** — Rule 10 mentions Gold as currency but there are no rules for where or how to spend it. Equipment lists presumably have prices, but no buying/selling rules exist in the rulebook. This will be in the Guide Book
-- [ ] Award bonus exp for good player behavior
-- [ ] Design **"Hold a Consequence" mechanic**
-  - [ ] Can be used at any time during the session
-  - [ ] Never undermines success
-  - [ ] Always introduces complications or tension
-- New Rule to Test
-	- An Expedition has a Target Number equal to its Difficulty Rating (10-20)
-	- Rewards scale accordingly
-- [ ] Define **"Ring the Bell" escalation mechanic**
-  - [ ] When it can be triggered
-  - [ ] What escalation means mechanically
-  - [ ] Example uses in play
-  - - Lose EXP as an option for major complications (alongside: lose ability, lose skill, lose max HP, lose speed, etc.)
-  - Minor and Major Consequences Charts (lose spells, charges, items, limbs, etc.)
-- When to call for rolls
-- Guidance note: "Your players' ideas are as good as your ideas. Often better — mine them to make your story better."
-
-
-## Inspiration & References
-- Daggerheart
-- Tales of the Valiant (crafting)
-- 13th Age (feats for ability ideas, items, class features)
-- Hex map content from Mythic Bastionland
-- Bermuda Sloop (crew 4–15, 2 rowboats magnetized to sides) — nautical setting element
+| **#** | **Trait**      | **Instinct**         | **Knack**            |
+| :---- | :------------- | :------------------- | :------------------- |
+| 1     | Disfigured     | Spread religion      | Criminal connections |
+| 2     | Well-dressed   | Make money           | Skilled warrior      |
+| 3     | Kind           | Seek payback         | Hedge wizardry       |
+| 4     | Caring         | Question authority   | Local info           |
+| 5     | Scrawny        | Lord over others     | One-of-a-kind item   |
+| 6     | Naive          | Act impulsively      | Hidden knowledge     |
+| 7     | Bloodshot Eyes | Be cautious          | Magical awareness    |
+| 8     | Artistic       | Defy death           | Muscle               |
+| 9     | Emaciated      | Save someone         | Special destiny      |
+| 10    | Skeptic        | Teach                | Balance              |
+| 11    | Paranoid       | Settle down          | Speed                |
+| 12    | Easygoing      | Preserve law         | An eye for detail    |
+| 13    | Peaceful       | Discover             | Heroic               |
+| 14    | Awkward        | Keep quiet           | A hidden entrance    |
+| 15    | Spendthrift    | Die gloriously       | A powerful lover     |
+| 16    | Dreamer        | Reunite with a lover | Speaks to animals    |
+| 17    | Clean          | Pillage              | Inventive            |
+| 18    | Allergic       | Indulge              | Baking               |
+| 19    | Asthmatic      | Make the best of it  | Writing              |
+| 20    | Diseased       | Find love            | Cooking              |

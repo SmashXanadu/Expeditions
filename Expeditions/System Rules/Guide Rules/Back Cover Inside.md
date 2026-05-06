@@ -36,7 +36,13 @@ permalink: /Rules/13/
 
 ## Inspirations
 
-[Games, books, or other works that influenced Expeditions.]
+- Daggerheart
+- Tales of the Valiant (crafting)
+- 13th Age (feats for ability ideas, items, class features)
+- Hex map content from Mythic Bastionland
+- Bermuda Sloop (crew 4–15, 2 rowboats magnetized to sides) — nautical setting element
+- Yochai Gal
+- Mike Shea
 
 ---
 
