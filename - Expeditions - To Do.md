@@ -1,27 +1,31 @@
 # To Do: Expeditions Rules System
-- Standard Premade Character Printout Sheets (backgrounds 7 Loadouts double sided like snexpeditions)
-- "Blank Character / Custom" Background and Loadout Sheets
-----
-- Create SNExpeditions: Snailfolk Starter Adventure and format for print.
----
-- Finish Trade Skill Recipes - use alchemist as an example
+
+## Phase 1: Create Print Materials
+- [ ] Standard Premade Character Printout Sheets (7 backgrounds + loadouts, double-sided like SNExpeditions)
+- [ ] Blank Character / Custom Background and Loadout Sheets
+
+## Phase 2: Rules Completion
+- [ ] Finish Trade Skill Recipes — use alchemist as example
 - Rules Review
   - [ ] Trade Skill Recipes & Perks
   - [ ] Skill Perks
   - [ ] Ability Text
-- Ensure System rules index and navigation is up to date and working for web
----
-Guide Rules
+- [ ] Ensure rules index and navigation is up to date and working for web
+- [ ] Guide Rules booklet (GM-facing — currently rough outline)
 
----
+## Phase 3: SNExpeditions
+- [ ] Create SNExpeditions: Snailfolk Starter Adventure and format for print
 
-Update UI to WPF with XML layout definition. Fork to general tool?
+
+## Phase 4: Tooling (Side Project)
+- [ ] Update UI to WPF with XML layout definition — fork to general tool?
 
 ---
 
 # To Do: Uncharted Waters Campaign
 
-- Review & Develop Depth Crawl table 0in Open Table Campaigns Uncharted Waters
+## Phase 1: Launch Prep
+- [ ] Review existing campaign materials
 - [ ] Finalize the **Core Truths of the World**
   - [ ] The world is a vast, unexplored ocean
   - [ ] Ancient advanced civilization left behind magical technology
@@ -34,26 +38,30 @@ Update UI to WPF with XML layout definition. Fork to general tool?
     - [ ] Fire magic is feared
     - [ ] Air magic is prized and respected
     - [ ] Water magic is common
-- Create Base Set of Premade Monsters?
-  - Species half sheets like background half sheets
-      - Generate Species Ideas
+- [ ] Review & Develop Depth Crawl table
+- [ ] Split out each ship and faction into separate pages
+- [ ] Refine Starting Location Options (embed images)
 
-## Uncharted Waters: The Endless Sea
-- Review existing campaign materials
-- 36x48 Hex Map
-	- Define Key Locations
-	- Define Danger Tiers 1-5 Stars like quests
-	- Count Random Locations Needed for pulling
-	- Outer Ring is "The Great Fog"
-	- Inner ring is the "Deep One"
-- Split out each of the ships and factions into separate pages and stuff
-- Refine Starting Location Options (Embed Images)
-- Refine Factions (Embed Logos & Scene Images)
-- Refine Ships (Embed Images)
-- Make Map Ready top down perspective images of each location and ship
-- Table of known locations, known factions, known ships, etc
+## Phase 2: Core World
+- [ ] 36x48 Hex Map
+  - [ ] Define Key Locations
+  - [ ] Define Danger Tiers (1–5 stars like quests)
+  - [ ] Count Random Locations needed for pulling
+  - [ ] Outer Ring — "The Great Fog"
+  - [ ] Inner Ring — "The Deep One"
+- [ ] Refine Factions (embed logos & scene images)
+- [ ] Refine Ships (embed images)
+- [ ] Table of known locations, factions, and ships
+
+## Phase 3: Visual Assets
+- [ ] Make map-ready top-down perspective images of each location and ship
+
+## Phase 4: Encounters & Creatures
+- [ ] Create Base Set of Premade Monsters
+  - [ ] Species half sheets (like background half sheets)
+  - [ ] Generate species ideas
+
+## Phase 5: Future Campaign Arcs
 ### Uncharted Waters: Beyond the Fog
 ### Uncharted Waters: Into the Deeps
 ### Uncharted Waters: The Skies Above
-
-
