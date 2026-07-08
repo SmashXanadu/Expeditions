@@ -30,7 +30,7 @@ During each Downtime phase, every player performs all of the **Standard Downtime
 >
 > **Player:** I rolled a 10, but I have +2 Manipulator. I think I would be able to use that to help out. 
 >
-> **Guide:** For sure. You succeed with a 12. You hear two things: the lighthouse has been dark for three weeks, and a fisherman went up there and never came back. Later you spend an uneventful evening serving tables at the inn and earn yourself 2 gold. Who want's to go next?
+> **Guide:** For sure. You succeed with a 12. You hear two things: the lighthouse has been dark for three weeks, and a fisherman went up there and never came back. Later you spend an uneventful evening serving tables at the inn and earn yourself 2 gold. Who wants to go next?
 >
 > **The rest of the players similarly take turns describing their downtime actions...** 
 >

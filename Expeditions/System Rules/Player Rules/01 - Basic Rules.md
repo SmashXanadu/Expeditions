@@ -4,7 +4,7 @@ permalink: /Rules/1/
 ---
 # [Basic Rules](#basic-rules)
 
-You and a group of friends are about to embark on your first expedition where you will laugh, grow, fight, solve problems, and discover secrets together.  You will be lead by your **Guide**, who will facilitate your journey. 
+You and a group of friends are about to embark on your first expedition where you will laugh, grow, fight, solve problems, and discover secrets together.  You will be led by your **Guide**, who will facilitate your journey. 
 
 ## [Flow of the Game](#flow-of-the-game)
 The game is split into two main parts: **Expeditions** and **Downtime**.
@@ -24,7 +24,7 @@ This may sound like:
 
 >**Player**: “I want to move this boulder off the road.”
 >
->**Guide**: “What skill would do you want to use?”
+>**Guide**: “What skill do you want to use?”
 >
 >**Player**: “I would just try to muscle it out of the way using my **Strong** skill.”
 >

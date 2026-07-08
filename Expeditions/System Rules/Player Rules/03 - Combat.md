@@ -23,7 +23,7 @@ If your Ability is an **Attack** against an enemy:
 
 1. Tell the Guide what you're attacking and with which Ability.
 2. The Guide will tell you the **target number** you need to beat. This will be a **Defense** target number for physical attacks or **Resistance** for magic attacks.
-3. Roll a D20 and add optionally add a modifier from a relevant skill. If your total meets or beats the target number, your attack hits!
+3. Roll a D20 and optionally add a modifier from a relevant skill. If your total meets or beats the target number, your attack hits!
 4. If you hit, you deal 1 **Damage**, (or 2 damage on a critical hit) and any other effects happen.
 
 ### [Movement and Range](#zoned-combat)
@@ -48,6 +48,6 @@ When an enemy attacks you:
 
 ### [Taking Damage](#taking-damage)
 
-When you take damage, you reduce your current **Health** by the amount of incoming damage. If your **Health** drops to 0, you fall **Unconscious** and be at risk of dying. Your **Guide** has additional information on **Death**. 
+When you take damage, you reduce your current **Health** by the amount of incoming damage. If your **Health** drops to 0, you fall **Unconscious** and are at risk of dying. Your **Guide** has additional information on **Death**. 
 
 [Previous]({{site.baseurl}}/Rules/2/#resolving-dice-rolls) | **[Next: Downtime]({{site.baseurl}}/Rules/4/)** | [Rules]({{site.baseurl}}/Rules/Index/#rules)

@@ -13,8 +13,8 @@ During **Downtime**, spend **Experience** to choose perks from your **Perk Sheet
 
 - **Training**: Unlock new ability nodes and improve skills. Can be taken multiple times.
 - **General**: Utility upgrades for any character.
-- **Physical Offence**: Permanent combat upgrades for weapon users.
-- **Magical Offence**: Permanent upgrades for magic users.
+- **Physical Offense**: Permanent combat upgrades for weapon users.
+- **Magical Offense**: Permanent upgrades for magic users.
 - **Defense**: Passive survivability upgrades.
 
 ![Hero Grid]({{site.baseurl}}/images/Rules/grid.png)

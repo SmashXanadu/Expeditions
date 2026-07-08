@@ -39,6 +39,6 @@ Expeditions is a fast-paced tabletop roleplaying game that uses a D20 die to coo
 
 **Design, Writing & Layout** - Will Norton (WillNortonGames@pm.me)
 
-**Art** - *AI-generated placeholders. When Expeditions is funded, all artwork will be commissioned from and paid to human artists. Artists interested in this project pleasre reach out.*
+**Art** - *AI-generated placeholders. When Expeditions is funded, all artwork will be commissioned from and paid to human artists. Artists interested in this project please reach out.*
 
 | **[Next: Basic Rules]({{site.baseurl}}/Rules/2/)** | [Rules]({{site.baseurl}}/Rules/Index/#rules)

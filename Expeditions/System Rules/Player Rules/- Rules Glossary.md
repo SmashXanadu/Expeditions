@@ -108,6 +108,12 @@ permalink: /Rules/Glossary/
 
 ---
 
+### P
+
+**[Perks]({{site.baseurl}}/Rules/PerkSheet/#perk-sheet)** (p.XX, g.XX)
+
+---
+
 ### R
 
 **[Range]({{site.baseurl}}/Rules/5/#zoned-combat)** (p.XX, g.XX)
@@ -132,11 +138,6 @@ permalink: /Rules/Glossary/
 
 **[Social Encounters]({{site.baseurl}}/Rules/4/#social-and-exploration)** (p.XX, g.XX)
 
----
-
-### P
-
-**[Perks]({{site.baseurl}}/Rules/PerkSheet/#perk-sheet)** (p.XX, g.XX)
 
 ---
 

@@ -47,7 +47,7 @@ Joe Ballard, LauraLee Norton, Adam Voskuil, Erin Voskuil-Silcock, Adrienne Mille
 
 This work includes material from the System Reference Document 5.1 ("SRD 5.1") by Wizards of the Coast LLC, licensed under CC BY 4.0. Full license: creativecommons.org/licenses/by/4.0
 
-This zine is typeset in **Atkinson Hyperlegible**, a free font created by the Braille Institute of America in to make reading easier for people with low vision.
+This zine is typeset in **Atkinson Hyperlegible**, a free font created by the Braille Institute of America to make reading easier for people with low vision.
 
 ## Contact
 
