@@ -3,10 +3,10 @@ layout: default
 permalink: /Rules/3/
 ---
 # [Combat](#combat)
-When conflict breaks out, the **Guide** will let you know when you are in **Combat**. Combat is organized into rounds, where the **Players** and the **Adversaries** take turns performing actions.
+When conflict breaks out, the **Guide** will let you know if you enter **Combat**. Combat is organized into rounds, where the **Players** and the **Adversaries** take turns performing actions.
 
 ## [Turn Order](#turn-order)
-The **Guide** decides which team acts first — typically the side that started the fight. Players choose the order in which they act within their team's turn.
+The **Guide** decides which team acts first - typically the side that started the fight. Players choose the order in which they act within their team's turn.
 
 ## [Your Turn (Players)](#heroes-turn)
 During your turn, your character can do a few things in any order:

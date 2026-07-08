@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a9d578939ae43b97",
+        "id": "b6e3e09a3ad8b27c",
         "type": "tabs",
         "children": [
           {
-            "id": "5050ca126467e79b",
+            "id": "3a102fd93bb34193",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "UnchartedWaters/Gazetteer.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Gazetteer"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "steam",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -164,6 +167,22 @@
       "print:Print note": false
     }
   },
-  "active": "5050ca126467e79b",
-  "lastOpenFiles": []
+  "active": "3a102fd93bb34193",
+  "lastOpenFiles": [
+    "Untitled.base",
+    "README.md",
+    "index.md",
+    "- Expeditions - To Do.md",
+    "UnchartedWaters/Gazetteer.md",
+    "UnchartedWaters/Start Here.md",
+    "UnchartedWaters/Locations/- Locations.md",
+    "UnchartedWaters/Guide Materials/Factions/- Factions.md",
+    "UnchartedWaters/Guide Materials/Expeditions/- Expedition Generator.md",
+    "UnchartedWaters/Guide Materials/Expeditions/- Quest Givers.md",
+    "UnchartedWaters/Guide Materials/Expeditions/- Expedition Concepts.md",
+    "UnchartedWaters/Guide Materials/Adversaries/Steam Crab.md",
+    "UnchartedWaters/Characters/Characters.md",
+    "UnchartedWaters/Guide Materials/Maps/Player Sea Hex Map.md",
+    "UnchartedWaters/Guide Materials/Maps/Guide Sea Hex Map (121 Hex).md"
+  ]
 }

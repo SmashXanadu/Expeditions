@@ -24,25 +24,33 @@ permalink: /Rules/BackCover/
 | Damage: p.3 | Move: p.3 | Zone: p.3 |
 | Disadvantage: p.2 | Node: p.12 | |
 
-<!-- vspace:18 --> 
+<!-- vspace:9 --> 
 
 ## Acknowledgements
 
-[Who helped, inspired, or supported this project.]
-
-**Playtesters** — Joe Ballard, LauraLee Norton, Adam Voskuil, Erin Voskuil-Silcock, Adrienne Miller, Nate Williams.
-
----
+**Playtesters**
+Joe Ballard, LauraLee Norton, Adam Voskuil, Erin Voskuil-Silcock, Adrienne Miller, Nate Williams.
 
 ## Inspirations
 
-[Games, books, or other works that influenced Expeditions.]
+*These are the games and creators whose work shaped the way I think about adventure.*
 
----
+| | | |
+| :--- | :--- | :--- |
+| Cairn | Index Card RPG | Joseph R. Lewis |
+| Crown & Skull | Mothership | Mike Shea (Sly Flourish)|
+| Daggerheart | Shadowdark | Dungeon Master of None (Podcast)|
+| Dungeon World | The Dark of Hot Springs Island | |
+| Fate | Wildsea | |
 
-## Licenses
+## Licenses & Attributions
 
-[5e SRD]  
-[Font name] is licensed under the [License Name] ([URL]).
+This work includes material from the System Reference Document 5.1 ("SRD 5.1") by Wizards of the Coast LLC, licensed under CC BY 4.0. Full license: creativecommons.org/licenses/by/4.0
+
+This zine is typeset in **Atkinson Hyperlegible**, a free font created by the Braille Institute of America in to make reading easier for people with low vision.
+
+## Contact
+
+*Questions, feedback, or just want to talk games? Join the community on Discord at tinyurl.com/ExpeditionsDiscord, or reach us by email at ExpeditionsRPG@pm.me or BigAxeGames@pm.me.*
 
 **[Rules]({{site.baseurl}}/Rules/Index/#rules)**

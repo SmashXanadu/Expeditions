@@ -34,7 +34,7 @@ During each Downtime phase, every player performs all of the **Standard Downtime
 >
 > **The rest of the players similarly take turns describing their downtime actions...** 
 >
-> **Guide:** Okay — everyone make sure you spent experience on perks, note any new gold or items, and we'll pick up at dawn for the next Expedition!
+> **Guide:** Okay... everyone make sure you spent experience on perks, note any new gold or items, and we'll pick up at dawn for the next Expedition!
 
   ![Characters entering a bustling town]({{site.baseurl}}/images/Rules/downtime.png)
 
