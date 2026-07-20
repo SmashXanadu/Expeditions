@@ -12,6 +12,7 @@ The Emerald Dawn is a sturdy exploration vessel, built for long journeys and nav
 - **Captain Wren:** The stoic and experienced captain of the ship. Wren is a person of few words but keeps a keen eye on everything, guiding the ship's path with quiet authority.
 - **Finn:** The ship's quartermaster and first mate. Finn is a resourceful and superstitious sailor who knows the ship inside and out, from the rigging to the provisions.
 - **Pip:** The gentle and endlessly curious medic and botanist. Pip is responsible for keeping the crew healthy and is always on the lookout for new and interesting flora from the islands you visit.
+- **Oz:** The ageless and precise Waystone Magus. Oz maintains the ship's magical systems and provides the Waystones for each expedition, speaking to the stones as if they're listening.
 
 -------
 ### Facilities

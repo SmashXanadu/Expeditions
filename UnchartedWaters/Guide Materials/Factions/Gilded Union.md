@@ -12,7 +12,7 @@ The Gilded Union is a massive, bureaucratic network of trade lords who control t
 
 - **Ship:** [The Golden Sovereign]({{site.baseurl}}/UnchartedWaters/Locations/Ships/TheGoldenSovereign/#the-golden-sovereign)
 - **Leader:** High Factor Aurelia, a woman who values a silver tongue as much as a sharp sword.
-- **Location:** **Driftbloom Key** — The Union manages the sprawling network of floating farm platforms. They control the garden-decks and the "living coral anchors," effectively owning the largest food-production hub in the open ocean.
+- **Location:** **Sunbloom Key**. The Union holds exclusive contracts on the harvest, the only buyers permitted to trade with the Current-Farmers and Seed-Keepers. It isn't ownership (the farms are still theirs), but it might as well be, given how thoroughly the Union controls where that food ends up.
 - **Motivation:** To monopolize the trade of rare spices, fresh water, and luxury goods across all known territories.
 - **Hook:** The Golden Sovereign has been "taxed" by a phantom ship that leaves no survivors, and Aurelia is hiring investigators to track the ghost-vessel.
 

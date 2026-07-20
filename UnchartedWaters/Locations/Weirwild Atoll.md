@@ -15,7 +15,7 @@ A massive, ancient forest growing directly out of a shallow reef, its colossal r
 ### Occupants
 
 - **Canopy Wardens**: Agile climbers and hunters who maintain the ropeways, bridges, and platforms of High Weir.
-- **Root-Speakers**: Mystics who claim to commune with the forest itself, interpreting its bioluminescent pulses as warnings or omens.
+- **Root-Speakers**: The Verdant Circle's mystics on the atoll, who commune with the forest itself and interpret its bioluminescent pulses as warnings or omens. Arch-Druid Thalassa keeps her roots here between voyages of the Verdant Wake.
 - **Driftbound Survivors**: Sailors whose ships were claimed by the atoll and who now live among the branches, unable or unwilling to leave.
 
 ---------------

@@ -8,7 +8,7 @@ permalink: /UnchartedWaters/Locations/Driftworks/
 A colossal armada of ships lashed together by rope, chain, and makeshift platforms, drifting as one across the open sea. Walkways creak between decks, markets sprawl over planks and gangways, and the city slowly rearranges itself as vessels come and go.
 
 - **The Vibe:** Kinetic, crowded, and resourceful.
-- **The Hub:** The **Grand Flotilla**, a central cluster of heavy iron-clad hulls that serve as the "bedrock" of the city. Here, you’ll find the Council of Captains, the main foundries, and the Great Winch—a massive mechanism used to haul in stray wreckage or new ships joining the mass.
+- **The Hub:** The **Grand Flotilla**, a central cluster of heavy iron-clad hulls that serve as the "bedrock" of the city. Here, you’ll find the Council of Captains, the main foundries, and the Great Winch, a massive mechanism used to haul in stray wreckage or new ships joining the mass.
 - **The Hook:** The city is geographically locked to the world’s currents, meaning it follows a predictable circular path. However, the internal layout is a nightmare for newcomers; a tavern that was next to your lodgings in the morning might have "drifted" three blocks away by sunset as the ships shift and the ropes are retied to accommodate the tide.
 
 ---------
@@ -17,6 +17,8 @@ A colossal armada of ships lashed together by rope, chain, and makeshift platfor
 - **Harbormaster Coil**: A sharp-eyed veteran sailor responsible for tracking ship movements and negotiating where new vessels are allowed to latch on.
 - **The Council of Captains**: A rotating assembly of influential shipmasters who collectively govern the Driftworks, their power tied directly to the hulls they control.
 - **Scrap-Kin Crews**: Clans of salvagers who live among the lower decks, harvesting wreckage and reinforcing the city’s endless tangle of supports.
+- **Black Fleet Agents**: Pirates who slip in and out under false colors, fencing stolen goods and vanishing into the ever-shifting layout before the Council's eyes adjust.
+- **Horizon Chasers Outpost**: The Chasers keep a standing chart-room aboard one of the hulls, using the drifting armada as a mobile base for their mapping expeditions.
 
 ------------
 ### Facilities

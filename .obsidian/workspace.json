@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UnchartedWaters/Gazetteer.md",
+                "file": "UnchartedWaters/Setting Guide/10 - Weirwild Atoll.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gazetteer"
+              "title": "10 - Weirwild Atoll"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "magic",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -169,20 +169,37 @@
   },
   "active": "3a102fd93bb34193",
   "lastOpenFiles": [
+    "UnchartedWaters/Setting Guide/26 - Hex Crawls & Depth Crawls.md",
+    "- Expeditions - To Do.md.tmp.117972.6beb6c575b78",
+    "UnchartedWaters/Setting Guide/09 - Sunbloom Key.md",
+    "UnchartedWaters/Setting Guide/08 - Siren's Rest.md",
+    "UnchartedWaters/Setting Guide/07 - Rustreach Crag.md",
+    "UnchartedWaters/Setting Guide/06 - The Driftworks.md",
+    "UnchartedWaters/Setting Guide/05 - Ashfall Peak.md",
+    "UnchartedWaters/Setting Guide/04 - The Emerald Dawn & Crew.md",
+    "UnchartedWaters/Setting Guide/02 - The World.md",
+    "UnchartedWaters/Setting Guide/01 - About Uncharted Waters.md",
+    "UnchartedWaters/Setting Guide/03 - World Map.md",
+    "UnchartedWaters/Setting Guide/05 - Ashfall Peak 1.md",
+    "UnchartedWaters/Setting Guide/16 - Iron Legion.md",
+    "UnchartedWaters/Setting Guide/25 - The Catalogue.md",
+    "UnchartedWaters/Setting Guide/24 - The Waystone Network.md",
+    "images/Maps/Blank Map.png",
+    "images/Maps/UnchartedWatersDepthCrawlNoNumbers.png",
+    "images/Maps/UnchartedWatersDepthCrawl.png",
+    "images/Maps",
+    "UnchartedWaters/Setting Guide/23 - Magical Artifacts.md",
+    "UnchartedWaters/Setting Guide/22 - Random Encounters.md",
+    "UnchartedWaters/Setting Guide/21 - Running an Open Table.md",
+    "UnchartedWaters/Gazetteer.md",
     "Untitled.base",
     "README.md",
     "index.md",
     "- Expeditions - To Do.md",
-    "UnchartedWaters/Gazetteer.md",
     "UnchartedWaters/Start Here.md",
     "UnchartedWaters/Locations/- Locations.md",
     "UnchartedWaters/Guide Materials/Factions/- Factions.md",
     "UnchartedWaters/Guide Materials/Expeditions/- Expedition Generator.md",
-    "UnchartedWaters/Guide Materials/Expeditions/- Quest Givers.md",
-    "UnchartedWaters/Guide Materials/Expeditions/- Expedition Concepts.md",
-    "UnchartedWaters/Guide Materials/Adversaries/Steam Crab.md",
-    "UnchartedWaters/Characters/Characters.md",
-    "UnchartedWaters/Guide Materials/Maps/Player Sea Hex Map.md",
-    "UnchartedWaters/Guide Materials/Maps/Guide Sea Hex Map (121 Hex).md"
+    "UnchartedWaters/Guide Materials/Expeditions/- Quest Givers.md"
   ]
 }

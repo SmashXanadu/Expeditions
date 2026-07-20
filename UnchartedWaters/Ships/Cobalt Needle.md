@@ -17,7 +17,7 @@ The Horizon Chasers
 
 ### Occupants
 
-- **Chief Wayfinder:** A woman obsessed with filling the "blank spots" on the world map. She is a pioneer who values discovery over gold or blood.
+- **Chief Wayfinder Elara:** A woman obsessed with filling the "blank spots" on the world map. She is a pioneer who values discovery over gold or blood.
 - **Milo:** The Cartographer's Apprentice. He spends his days at the drafting table, meticulously updating charts with every new reef and island the ship discovers.
 - **Tracker:** The ship's scout. Often seen in a small rowboat or perched in the crow's nest, Tracker is the first to set foot on any newly discovered land.
 

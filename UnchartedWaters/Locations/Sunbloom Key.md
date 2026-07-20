@@ -9,7 +9,7 @@ A tiny ring of sun-bleached stone barely rising above the waves, surrounded by a
 
 - **The Vibe:** Gentle, industrious, and improbably hopeful. The air smells of salt and fresh soil, and the quiet splash of irrigation buckets replaces the usual crash of waves.
 - **The Hub:** **The Mooring Ring**, a circular dock-town built around the island’s single patch of solid ground. Here, storage silos, drying racks, and seed vaults cling to the rock, while rope-bridges and skiffs provide access to the drifting fields.
-- **The Hook:** The farms rely on a delicate balance of tide, current, and carefully bred buoyant soil. A recent shift in the currents has begun dragging entire crop platforms out of alignment, threatening to scatter the fields across the sea—and with them, one of the only reliable food sources in the Uncharted Waters.
+- **The Hook:** The farms rely on a delicate balance of tide, current, and carefully bred buoyant soil. A recent shift in the currents has begun dragging entire crop platforms out of alignment, threatening to scatter the fields across the sea, and with them, one of the only reliable food sources in the Uncharted Waters. The Gilded Union, who hold exclusive rights to buy the harvest, are suddenly very interested in a fix, for reasons that may not align with the farmers' own.
 
 --------
 ### Occupants
@@ -17,6 +17,7 @@ A tiny ring of sun-bleached stone barely rising above the waves, surrounded by a
 - **Current-Farmers**: Skilled growers who tend crops from skiffs and narrow plankways, reading water movement like weather.
 - **Tidewrights**: Engineers and coral-shapers who maintain the anchor systems and buoyant frameworks.
 - **Seed-Keepers**: Careful archivists who guard rare plant strains engineered to thrive on salt spray and shifting platforms.
+- **Union Factors**: Gilded Union agents stationed at the Mooring Ring, the only merchants permitted to buy the harvest. A monopoly the farmers tolerate more than welcome.
 
 --------
 ### Facilities
