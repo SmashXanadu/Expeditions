@@ -1,12 +1,49 @@
-# Session Zero Prep
-Print Consequence chips minor and major
+# Campaign Prep — Uncharted Waters
 
-Driftworks - Everyone hired for the same job.
-Shipwreck washed up on the same shore?
-first waystone?
+## Prep Checklist
+- [ ] Map: hex magnets sized to scale, staged on table lid
+- [ ] Review Players Handbook, make edits, print more
+- [ ] Print Player Handbooks (5) and Player Rules (3)
+- [ ] Print Consequence chips: minor and major, set max counts
+- [ ] Finish setting book draft, reread before session 0
+- [ ] Review and plan Guide Rules content stuff
 
-Print Player Handbooks (5) and Rules (3)
-Backgrounds, Loadouts, Abilities
+### Extra Credit Prep
+- [ ] Locale theme songs loaded to Bluetooth soundboard (start with Driftworks)
+
+
+## Initial Session Concept
+- Driftworks — everyone hired for the same job
+- Shipwreck washed up on the same shore?
+- First waystone?
+- Character creation: Backgrounds, Loadouts, Abilities
+
+## Session 0
+
+### Structure
+1. Character creation
+2. World/tone pitch (Uncharted Waters setting)
+3. Live tavern scene (below) — hard stop on cliffhanger
+
+### Tavern Scene Beats — Busted Maiden
+1. Open in-fiction per player: *Why are you here? Who are you sitting with? What are you doing?*
+2. Black Fleet crew enters, searching for the Weystone
+3. Crew produces the magical black lantern
+4. Lantern triggers magic sleep across the room
+5. Cut to black — cliffhanger
+
+## Session 1
+
+### Beats
+1. Open: PCs wake in a cell aboard the Black Fleet ship
+2. Establish fog emanating from the dark lantern — visibly the source, not ambient weather
+3. Breakout sequence: cell → ship, working toward the lantern
+4. Disable/destroy the lantern → fog lifts, spellcasting returns, escape options open up
+5. Resolve or escalate the Weystone thread as breakout progresses
+
+### Open Questions
+- [ ] Is the ship's lantern the *same* black lantern from the tavern, or a second one? (Same = does double duty as sleep-trigger and fog source; decide if intentional.)
+- [ ] How disable-able is the lantern at low level — brute force, skill check, or specific weakness/ritual? Sets difficulty of breakout climax.
 
 # To Do: Expeditions Rules System
 
