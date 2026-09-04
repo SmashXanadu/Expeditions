@@ -1,0 +1,1 @@
+Marker file. Its presence tells the PDF converter to skip the auto-generated table of contents and page numbers for this folder, even though its content pages are numbered. Do not check this file for conversion. It has no page content of its own.

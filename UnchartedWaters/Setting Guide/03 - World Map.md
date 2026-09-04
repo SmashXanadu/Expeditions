@@ -4,7 +4,7 @@ permalink: /UnchartedWaters/Guide/3/
 ---
 # [World Map](#world-map)
 
-![Uncharted Waters Map]({{site.baseurl}}/images/Maps/Blank%20Map.png)
+![Uncharted Waters Map]({{site.baseurl}}/images/Maps/BlankMap.png)
 
 The sea is a circle, and every boundary on it matters.
 

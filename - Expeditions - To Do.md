@@ -1,3 +1,13 @@
+# Session Zero Prep
+Print Consequence chips minor and major
+
+Driftworks - Everyone hired for the same job.
+Shipwreck washed up on the same shore?
+first waystone?
+
+Print Player Handbooks (5) and Rules (3)
+Backgrounds, Loadouts, Abilities
+
 # To Do: Expeditions Rules System
 
 ## Phase 1: Create Print Materials

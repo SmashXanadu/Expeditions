@@ -19,12 +19,12 @@ permalink: /Rules/Summary/
 **Turn Order** alternates between all **Players** and all **Enemies**. Players choose their own order within the player turn.
 
 ### On Your Turn (Any Order)
-1.  **Action:** Use an **Ability**, perform a **Skill Check**, or **Equip Gear**.
+1.  **Action:** Use an **Ability** or perform a **Skill Check**.
 2.  **Move:** Move to an **adjacent zone** (optional).
 3.  **Speak** or **Interact** with something.
 
 ### Attacking (Your Turn)
-1.  Mark Ability **Charge** (if needed).
+1.  If using an Ability and spending a **Charge**, succeed automatically. Do not roll.
 2.  **Roll Attack** vs. Enemy **Defense** *OR* **Roll Magic** vs. Enemy **Resistance**.
 3.  If **Success**, deal **Damage**.
 

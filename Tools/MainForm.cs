@@ -27,7 +27,7 @@ public class MainForm : Form
         _solutionRoot = Path.GetFullPath(Path.Combine(AppContext.BaseDirectory, @"..\..\..\..\"));
         _outputFolder = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.UserProfile), "Downloads", "Outputs");
         _expeditionsRoot     = Path.Combine(_solutionRoot, "Expeditions");
-        _unchartedWatersRoot = Path.Combine(_expeditionsRoot, "Guide Resources", "Premade Adventures", "Open Table Campaigns", "Uncharted Waters");
+        _unchartedWatersRoot = Path.Combine(_solutionRoot, "UnchartedWaters");
 
         Text = "Expeditions PDF Converter";
         Size = new Size(900, 680);
@@ -400,8 +400,10 @@ public class MainForm : Form
         {
             // A folder is "book-like" when at least one of its markdown files has a
             // number-prefixed name (e.g. "01 - Introduction.md"). Only book-like folders
-            // get a TOC and page numbers.
-            bool isBook = markdownFiles.Any(f =>
+            // get a TOC and page numbers. A folder can opt out (numbered pages, no TOC/page
+            // numbers) by including a "- No TOC.md" marker file.
+            bool noTocMarker = File.Exists(Path.Combine(sourceFolder, "- No TOC.md"));
+            bool isBook = !noTocMarker && markdownFiles.Any(f =>
                 char.IsDigit(Path.GetFileName(f)[0]));
 
             // Merge converted and pre-built PDFs, pinning front/back covers in order
