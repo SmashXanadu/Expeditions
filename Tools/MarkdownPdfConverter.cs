@@ -13,6 +13,9 @@ public static class MarkdownPdfConverter
     private const float BaseFontSize = 8f;
     private const float H1FontSize = 12f;
     private const float H2FontSize = 10f;
+    internal const float SmallTableFontSize = 7.5f; // LayoutCheck measures against this
+    private const float SmallTablePadding = 1.5f;
+    private const float SmallTableIndexGap = 3f;
 
     private static readonly MarkdownPipeline Pipeline = new MarkdownPipelineBuilder()
         .UsePipeTables()
@@ -111,7 +114,9 @@ public static class MarkdownPdfConverter
         return sb.ToString().Trim();
     }
 
-    public static bool Convert(string inputPath, string outputPath, string vaultRoot, bool compact = false)
+    // previewImageDir: when set, also writes one PNG per page there (used by
+    // LayoutCheck to eyeball page fit without opening the PDF).
+    public static bool Convert(string inputPath, string outputPath, string vaultRoot, bool compact = false, string? previewImageDir = null)
     {
         string label = Path.GetFileName(outputPath);
         try
@@ -131,7 +136,7 @@ public static class MarkdownPdfConverter
                 .Select(ComputeMaxLabelTextLen)
                 .DefaultIfEmpty(0).Max();
 
-            Document.Create(container =>
+            var pdfDocument = Document.Create(container =>
             {
                 container.Page(page =>
                 {
@@ -148,7 +153,15 @@ public static class MarkdownPdfConverter
                         RenderBlockSequence(col, blocks, vaultRoot, compact, sharedLabelLen);
                     });
                 });
-            }).GeneratePdf(outputPath);
+            });
+            pdfDocument.GeneratePdf(outputPath);
+
+            if (previewImageDir != null)
+            {
+                string stem = Path.GetFileNameWithoutExtension(outputPath);
+                pdfDocument.GenerateImages(i => Path.Combine(previewImageDir, $"{stem} p{i + 1}.png"),
+                    new ImageGenerationSettings { RasterDpi = 110 });
+            }
 
             Console.WriteLine($"  {label} ... [SUCCESS]");
             return true;
@@ -191,11 +204,20 @@ public static class MarkdownPdfConverter
     // sitting next to each other instead of stacked, mirroring the paired "# | Item"
     // layout already used inside the Inventory table, but for two independent blocks
     // that can't share one table). Everything else renders normally via RenderBlock.
-    private static void RenderBlockSequence(ColumnDescriptor col, List<Block> blocks, string vaultRoot, bool compact, int sharedLabelLen)
+    private static void RenderBlockSequence(ColumnDescriptor col, List<Block> blocks, string vaultRoot, bool compact, int sharedLabelLen, bool smallTables = false)
     {
         int i = 0;
         while (i < blocks.Count)
         {
+            // "\smalltables" shrinks every table after it in this file (e.g. a full
+            // page of d20 tables), without shrinking body text the way compact does.
+            if (GetParagraphDirective(blocks[i]) == @"\smalltables")
+            {
+                smallTables = true;
+                i++;
+                continue;
+            }
+
             if (GetParagraphDirective(blocks[i]) == @"\cols")
             {
                 i++;
@@ -219,19 +241,19 @@ public static class MarkdownPdfConverter
                         row.RelativeItem().Column(subCol =>
                         {
                             subCol.Spacing(compact ? 1 : 4);
-                            RenderBlockSequence(subCol, colBlocks, vaultRoot, compact, sharedLabelLen);
+                            RenderBlockSequence(subCol, colBlocks, vaultRoot, compact, sharedLabelLen, smallTables);
                         });
                     }
                 });
                 continue;
             }
 
-            RenderBlock(col, blocks[i], vaultRoot, compact, sharedLabelLen);
+            RenderBlock(col, blocks[i], vaultRoot, compact, sharedLabelLen, smallTables);
             i++;
         }
     }
 
-    private static void RenderBlock(ColumnDescriptor col, Block block, string vaultRoot, bool compact = false, int sharedLabelLen = 0)
+    private static void RenderBlock(ColumnDescriptor col, Block block, string vaultRoot, bool compact = false, int sharedLabelLen = 0, bool smallTables = false)
     {
         switch (block)
         {
@@ -280,7 +302,7 @@ public static class MarkdownPdfConverter
             }
 
             case Table table:
-                RenderTable(col, table, compact, sharedLabelLen);
+                RenderTable(col, table, compact, sharedLabelLen, smallTables);
                 break;
 
             case QuoteBlock quote:
@@ -334,7 +356,7 @@ public static class MarkdownPdfConverter
             col.Item().Image(fullPath).FitWidth();
     }
 
-    private static void RenderTable(ColumnDescriptor col, Table table, bool compact = false, int sharedLabelLen = 0)
+    private static void RenderTable(ColumnDescriptor col, Table table, bool compact = false, int sharedLabelLen = 0, bool smallTables = false)
     {
         var rows = table.OfType<TableRow>().ToList();
         int maxCellsPerRow = rows.Any() ? rows.Max(r => r.Count) : 0;
@@ -458,13 +480,18 @@ public static class MarkdownPdfConverter
                     // aligned too, the way a row number naturally sits, including the
                     // "#" header itself so it lines up with the numbers beneath it.
                     bool rightAlign = isIndexCol[cellsAdded] || (!isHeader && isLabelCol[cellsAdded]);
-                    float pad = compact ? 1 : 3;
+                    float pad = compact ? 1 : smallTables ? SmallTablePadding : 3;
+                    // At small-table padding a right-aligned row number sits jammed
+                    // against the divider, so give index cells a little breathing room.
+                    float indexGap = smallTables && isIndexCol[cellsAdded] ? SmallTableIndexGap : 0;
                     tbl.Cell()
                         .Background(cellShaded ? Colors.Grey.Lighten3 : Colors.White)
                         .Border(0.5f)
                         .Padding(pad)
+                        .PaddingRight(indexGap)
                         .Text(t =>
                         {
+                            if (smallTables) t.DefaultTextStyle(x => x.FontSize(SmallTableFontSize));
                             if (isHeader) t.DefaultTextStyle(x => x.Bold());
                             if (rightAlign) t.AlignRight();
                             foreach (var b in cell)
@@ -476,7 +503,7 @@ public static class MarkdownPdfConverter
                 // Pad missing cells so the QuestPDF grid stays aligned
                 while (cellsAdded < colCount)
                 {
-                    tbl.Cell().Background(isHeader ? Colors.Grey.Lighten3 : Colors.White).Border(0.5f).Padding(compact ? 1 : 3).Text("");
+                    tbl.Cell().Background(isHeader ? Colors.Grey.Lighten3 : Colors.White).Border(0.5f).Padding(compact ? 1 : smallTables ? SmallTablePadding : 3).Text("");
                     cellsAdded++;
                 }
             }

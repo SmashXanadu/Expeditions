@@ -5,21 +5,44 @@ permalink: /UnchartedWaters/NPCs/Finn/
 ---
 ### **Finn**
 
-![Finn](https://raw.githubusercontent.com/SmashXanadu/Expeditions/refs/heads/main/images/finn.png)
+![Finn]({{site.baseurl}}/images/NPCs/Finn.jpg "maxheight:300")
 
 **Ship:** [The Emerald Dawn]({{site.baseurl}}/UnchartedWaters/Locations/Ships/TheEmeraldDawn/#the-emerald-dawn)
-**Ship Role:** Quartermaster
+**Ship Role:** Quartermaster and first mate
 **Faction:** None
+**Pronouns:** they/them
 
-**General Appearance:** Finn is lean and wiry, with nimble fingers always busy with a knot or a loose thread on their worn but well-maintained clothing. Their hair is a tangled mess of sun-bleached brown, often escaping from under a perpetually askew bandana. They have bright, curious eyes that flicker nervously at distant storm clouds.
+**General Appearance:**
+- Lean, wiry, never fully still
+- Sun-bleached brown hair escaping a crooked bandana
+- Worn clothes, carefully patched
+- Fingers always busy: a knot in a cord, a rolling coin, a loose thread
+- Bright eyes that keep sliding to the water
 
-**Sounds Like:** Their voice is a rapid-fire cadence, shifting between boisterous laughter and hushed, conspiratorial whispers. Finn speaks with a thick, rolling accent that feels as old as the sea itself, and they frequently interject with nautical phrases and proverbs.
+**Sounds Like:**
+- Rapid-fire, swinging between big laughs and conspiratorial whispers
+- Thick, rolling accent as old as the sea
+- Talks in nautical proverbs and omens
 
-**Defining Characteristic(s):** Finn is defined by their boundless energy and an almost uncanny ability to "find" things—be it a missing tool, a forgotten snack, or a peculiar trinket washed ashore. They are also notoriously superstitious, attributing nearly every event, good or bad, to mystical signs.
+**Defining Characteristic(s):**
+- Boundless energy
+- Uncanny knack for *finding* things: a missing tool, a forgotten snack, a trinket on the tide
+- Superstitious to the bone. Every event, good or bad, is a sign.
 
-**Motivation:** Finn believes deeply in a dormant, ancient sea spirit that slumbers beneath the uncharted waters. They are convinced that the expeditions are part of a grand design to awaken or appease this entity. Finn secretly collects bizarre artifacts and samples from each new land, viewing them as sacred offerings or vital clues to fulfilling a prophecy, often subtly nudging the ship's course towards areas they deem "blessed" or "cursed."
+**Motivation:**
+- Believes an ancient sea spirit sleeps beneath these waters
+- Every expedition is part of a grand design to wake or appease it
+- Secretly collects odd artifacts and samples as offerings or clues
+- Quietly nudges the ship toward places that feel "blessed" or "cursed"
 
-**Flaw or Quirk:** Finn has an intense fear of calm seas, believing prolonged stillness is an omen of ill fortune. They also have a habit of muttering to themselves, particularly when handling strange objects or staring out at the open water.
+**Flaw or Quirk:**
+- Terrified of calm seas. Stillness means something bad is coming.
+- Mutters to themselves when handling strange objects or staring out at the water
+
+**Sample Lines:**
+- "Calm water's a held breath, friend. Something's always on the other end of it."
+- "Fair shares, decent food, and a captain who doesn't shout. Mostly doesn't shout."
+- "Ha! No. No, I like you. That's a good sign, that is. Sit, sit."
 
 ---
 

@@ -1,51 +1,8 @@
-# Campaign Prep — Uncharted Waters
-
-## Prep Checklist
-- [ ] Map: hex magnets sized to scale, staged on table lid
-- [ ] Review Players Handbook, make edits, print more
-- [ ] Print Player Handbooks (5) and Player Rules (3)
-- [ ] Print Consequence chips: minor and major, set max counts
-- [ ] Finish setting book draft, reread before session 0
-- [ ] Review and plan Guide Rules content stuff
-
-### Extra Credit Prep
-- [ ] Locale theme songs loaded to Bluetooth soundboard (start with Driftworks)
-
-
-## Initial Session Concept
-- Driftworks — everyone hired for the same job
-- Shipwreck washed up on the same shore?
-- First waystone?
-- Character creation: Backgrounds, Loadouts, Abilities
-
-## Session 0
-
-### Structure
-1. Character creation
-2. World/tone pitch (Uncharted Waters setting)
-3. Live tavern scene (below) — hard stop on cliffhanger
-
-### Tavern Scene Beats — Busted Maiden
-1. Open in-fiction per player: *Why are you here? Who are you sitting with? What are you doing?*
-2. Black Fleet crew enters, searching for the Weystone
-3. Crew produces the magical black lantern
-4. Lantern triggers magic sleep across the room
-5. Cut to black — cliffhanger
-
-## Session 1
-
-### Beats
-1. Open: PCs wake in a cell aboard the Black Fleet ship
-2. Establish fog emanating from the dark lantern — visibly the source, not ambient weather
-3. Breakout sequence: cell → ship, working toward the lantern
-4. Disable/destroy the lantern → fog lifts, spellcasting returns, escape options open up
-5. Resolve or escalate the Weystone thread as breakout progresses
-
-### Open Questions
-- [ ] Is the ship's lantern the *same* black lantern from the tavern, or a second one? (Same = does double duty as sleep-trigger and fog source; decide if intentional.)
-- [ ] How disable-able is the lantern at low level — brute force, skill check, or specific weakness/ritual? Sets difficulty of breakout climax.
-
 # To Do: Expeditions Rules System
+
+Idea Testing: Holding Consequences for later. 1 max per player. chips poc
+Idea Testing: Gain experience on a critical fail
+- [ ] Review and plan Guide Rules content stuff
 
 ## Phase 1: Create Print Materials
 - [ ] Standard Premade Character Printout Sheets (7 backgrounds + loadouts, double-sided like SNExpeditions)
@@ -121,11 +78,11 @@ Same production pipeline as the Player/Guide Rules booklets: 5.5"x8.5" zine, `Ma
 
 Chapter numbers below match the actual files in `UnchartedWaters/Setting Guide/` right now. Don't cascade-renumber the whole folder every time this list changes; append new chapters where they fit and do one real reordering pass later, once the chapter list has mostly stabilized.
 
-**First draft status:** Front matter through Ch. 10 are drafted (About, The World, World Map boundary text, The Emerald Dawn & Crew, and all six location spreads with their Rumors/Hooks tables). **Next up: Ch. 11-18, the eight faction deep-dive pages.**
+**First draft status:** Front matter through Ch. 18 are drafted (About, The World, World Map boundary text, The Emerald Dawn & Crew, all six location spreads, and all eight faction deep dives, each with Rumors/Hooks tables). **Next up: Ch. 19-26.**
 
 - [ ] Front Cover Outside: logo/title art (image only, no markdown content)
 - [ ] Front Cover Inside: "At a Glance" quick-reference table (locations, factions, leaders, ships)
-- [ ] Ch. 11-18: Faction Deep Dives, one spread per faction with a key-NPC page, a ship page, a Rumors table, and a Hooks table (8 spreads, now 2-3 pages each instead of 2; revisit the divisible-by-4 page count once these are drafted)
+- [ ] Ch. 11-18: review the faction deep-dive drafts, then revisit the divisible-by-4 page count now that they're 2-3 pages each
 - [ ] Ch. 19: Adversaries, monster roster (depends on Phase 4 Encounters & Creatures work)
 - [ ] Ch. 20: GM Toolkit, cross-cutting hooks and expedition seeds not tied to one location, pulled from Quest Givers and the expedition generator/concepts
 - [ ] Ch. 21: Running an Open Table (appended for now; belongs earlier in reading order, but slotting it in without a full renumber). General open-table advice, plus how it works specifically in this world: session structure, what persists between sessions, how factions react to the party's absence

@@ -4,7 +4,7 @@ A **Waystone** is a smooth, palm-sized crystal that hums with a faint, steady li
 
 ---
 ### How They Work
-Players in **Uncharted Waters** start with a single **waystone** that is anchored to the **Emerald Dawn**.
+Players in **Uncharted Waters** start with a single **Waystone** that is anchored to the **Emerald Dawn**.
 
 #### Voluntary Return
 

@@ -10,6 +10,13 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <!-- LayoutCheck is its own console project; keep its sources out of this app. -->
+    <Compile Remove="LayoutCheck\**" />
+    <EmbeddedResource Remove="LayoutCheck\**" />
+    <None Remove="LayoutCheck\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Markdig" Version="0.38.0" />
     <PackageReference Include="QuestPDF" Version="2024.10.4" />
     <PackageReference Include="PdfSharpCore" Version="1.3.67" />

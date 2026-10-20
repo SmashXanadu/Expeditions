@@ -12,6 +12,17 @@ A massive, ancient forest growing straight out of a shallow reef, colossal roots
 - **Occupants:** Canopy Wardens (maintain the ropeways and platforms), Driftbound Survivors (claimed by the atoll, unable or unwilling to leave), plus the resident faction below.
 - **Facilities:** High Weir Platforms, Root-Tunnel Docks, Glow Groves.
 
+**Senses:**
+- **Looks:** Colossal roots, dark pools, glowing fungus, blue pulses rippling through the canopy.
+- **Sounds:** Dripping water, creaking roots, birdsong, the tide rushing through the tunnels.
+- **Smells:** Wet bark, moss, salt rot, sweet night-blossoms.
+- **Feels:** Damp and close. Always climbing or paddling. Nothing is ever dry.
+
+**Crew Ties:**
+- **Pip:** The Glow Groves heal wounds overnight. Pip wants a seed more than anything.
+- **Finn:** The Circle protects the sea's oldest spirits, and Finn has a lot of questions.
+- **Oz:** The roots are crushing an Old World ruin that might be hiding a Waystone.
+
 ## Faction: The Verdant Circle
 
 - **Who:** A collective of guardians who see the ocean as a single living organism to protect from exploitation. Travel in organic vessels, using spirit-magic to command sea life and currents against polluters.
@@ -20,27 +31,59 @@ A massive, ancient forest growing straight out of a shallow reef, colossal roots
 - **Presence here:** Resides within the atoll's living lattice, tending the shadowed pools and keeping the canopy a sanctuary for the world's oldest sea-spirits.
 - **Motivation:** Restore the ocean's balance by purging "dead-water" (pollution) and protecting endangered leviathans.
 
-### Rumors (d6)
+\newpage
 
-| Roll | Rumor |
+\smalltables
+
+### Weirwild Atoll Rumors
+
+| # | Rumor |
 |:--:|:--|
-| 1 | Arch-Druid Thalassa's skin has started looking like driftwood, and the Root-Speakers say it's not a metaphor. |
+| 1 | Thalassa's skin is turning to driftwood, and the Root-Speakers say it's not a metaphor. |
 | 2 | The Driftbound Survivors know root-tunnel routes even the Canopy Wardens haven't mapped. |
-| 3 | Something ancient washed up in the low-tide caverns last season, and the Verdant Circle got to it first. |
-| 4 | The Verdant Wake blockaded a trade route last month, and the Circle hasn't explained why to anyone outside the atoll. |
-| 5 | A Canopy Warden swears the bioluminescent pulses have been spelling something out lately, if you know how to read them. |
+| 3 | Something ancient washed into the low-tide caverns last season. The Circle got to it first. |
+| 4 | The Verdant Wake blockaded a trade route last month, and the Circle hasn't explained why. |
+| 5 | A Canopy Warden swears the glowing pulses have been spelling something out lately. |
 | 6 | Not every Driftbound Survivor stays by choice. Some say the atoll doesn't let everyone leave. |
+| 7 | Low tide uncovers a new wreck in the roots every month, and the tide takes it back by dusk. |
+| 8 | The roots are slowly crushing an Old World ruin, and the Circle is letting them. |
+| 9 | High tide swallowed the lower village a day early, and the Root-Speakers didn't warn anyone. |
+| 10 | A night sleeping in the Glow Groves heals wounds that should have taken weeks. |
+| 11 | One Driftbound Survivor claims to have been here 80 years and doesn't look a day over 30. |
+| 12 | The Root-Speakers say they can hear the trees arguing with each other at night. |
+| 13 | The canopy is hiding a nest of something huge. The Wardens have stopped climbing that high. |
+| 14 | Ships don't sink at Weirwild Atoll. They get caught in the roots and tangled up for centuries. |
+| 15 | The forest is still growing, slowly, out toward open sea. |
+| 16 | A Canopy Warden fell from High Weir last month, and nobody ever found where they landed. |
+| 17 | The Circle keeps prisoners somewhere in the root tunnels. Mostly Coalition prospectors. |
+| 18 | Coalition spies have been caught climbing in the canopy twice this season. |
+| 19 | The shadowed pools have no bottom. The Root-Speakers have tried to find it. |
+| 20 | Pip would trade almost anything for a single seed from the Glow Groves. |
 
-### Hooks (d6)
+### Weirwild Atoll Hooks
 
-| Roll | Hook |
+| # | Hook |
 |:--:|:--|
-| 1 | The Verdant Wake is blockading a major trade route, claiming a whale migration takes precedence over commerce, and someone's caught in the middle. |
-| 2 | Low tide has exposed a shipwreck tangled in roots for centuries, due to vanish under the waves again by nightfall. |
-| 3 | A Root-Speaker needs help reaching a shadowed pool before the tide seals it off, insisting something down there needs protecting. |
-| 4 | A Driftbound Survivor wants passage off the atoll and knows something the Circle would rather keep buried. |
-| 5 | Endangered leviathans have been spotted near the atoll, and the Circle is quietly recruiting outsiders to help protect the migration. |
-| 6 | Someone's been pulling relics out of the low-tide ruins and selling them off the atoll, and the Root-Speakers want it stopped. |
+| 1 | The Wake is blockading a trade route for a whale migration, and a merchant ship is stuck. |
+| 2 | Low tide exposed a wreck tangled in roots for centuries. It'll be underwater by nightfall. |
+| 3 | A Root-Speaker needs to reach a shadowed pool before the tide seals it off. |
+| 4 | A Driftbound Survivor wants passage off the atoll and knows something the Circle would bury. |
+| 5 | Endangered leviathans are passing the atoll, and the Circle needs outsiders to protect them. |
+| 6 | Someone is pulling relics out of the low-tide ruins and selling them off the atoll. |
+| 7 | A canoe party is trapped in the root tunnels, and the tide is already coming in. |
+| 8 | A ropeway snapped. Fix it before High Weir is cut off from the rest of the canopy. |
+| 9 | Something is killing the Glow Groves from the roots up. |
+| 10 | The root tunnels need mapping, and the window is only the hours between two low tides. |
+| 11 | A Canopy Warden went missing near the shadowed pools and their canoe drifted back empty. |
+| 12 | A Coalition envoy wants to meet the Circle, and needs an escort nobody will shoot at. |
+| 13 | A ruin surfaced at low tide that doesn't appear on any old chart, Union or Chaser. |
+| 14 | The bioluminescence went dark across the whole atoll. The Root-Speakers are panicking. |
+| 15 | A rare fungus only fruits at slack tide, and only for an hour. Harvest it for the Circle. |
+| 16 | Find out why the Driftbound can't seem to leave, before the crew can't either. |
+| 17 | A relic was stolen from the Root-Speakers and is headed for the Lash Markets. |
+| 18 | A leviathan calf is trapped in the roots at low tide. Cut it free before the tide turns. |
+| 19 | A storm is coming, and the canopy is already overloaded with families from the lower village. |
+| 20 | A dead-water slick is drifting toward the atoll. Trace it back upcurrent to the source. |
 
 <!-- source: Locations/Weirwild Atoll.md + Guide Materials/Factions/Verdant Circle.md. Faction deep dive (key NPC + ship page) lives in Ch. 18. -->
 
