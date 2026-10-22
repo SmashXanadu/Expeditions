@@ -20,7 +20,7 @@ permalink: /UnchartedWaters/Guide/4/
 
 - **Role:** Quartermaster
 - **Behavior:** Boundless energy, rapid-fire talk that swings between boisterous laughter and hushed whispers. Superstitious to a fault.
-- **Quirk:** Deeply afraid of calm seas (an omen of ill fortune). Mutters to themselves when handling strange objects.
+- **Quirk:** Deeply afraid of calm seas (an omen of ill fortune). Mutters to himself when handling strange objects.
 - **Drive:** Believes a vast, dormant sea spirit sleeps beneath these waters. Every expedition is a chance to gather an offering or clue toward waking or appeasing it.
 - **Hook:** Eerie, omen-heavy expeditions: a stone idol that surfaced after a storm, a buoy that rings without wind, a ship graveyard nobody can explain.
 

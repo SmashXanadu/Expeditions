@@ -6,10 +6,14 @@ permalink: /UnchartedWaters/Characters/
 # [Characters](#characters)
 ## Active
 
-| **Name** | **Gold** | **Player** |
+| **Name** | **Description** | **Player** |
 | -------- | -------- | ---------- |
-| Test     | 100gp    | Will       |
-| Test     | 100gp    | Will       |
+| Bugg     | Ursine Bard with a HARMonica Weapon Specialty / Instrument   | Nate       |
+| Robyn Banks III     |  Spy?   | Nicole       |
+| Autumn Calhoun     |     | Erin       |
+| Heather     |     | Adrienne       |
+| The Blackwater Witch (Maris Blackwater)     |  Mangrove Mystic. Reads Tarot / Divines.   | LL       |
+| Tork     |     | Adam       |
 
 ## Inactive
 
@@ -22,14 +26,8 @@ permalink: /UnchartedWaters/Characters/
 
 | **Player** | **Point of Contact** | **Status** |
 | ---------- | -------------------- | ---------- |
-| LauraLee   |                      |            |
-| Adam       |                      |            |
-| Erin       |                      |            |
 | Christian  | Adam                 |            |
-| Adrienne   |                      |            |
 | Josh       | Adrienne             |            |
-| Nate       |                      |            |
-| Nicole     | Nate                 |            |
 | Donald     | Nate                 |            |
 | Harrison   |                      |            |
 | Lauren     |                      |            |

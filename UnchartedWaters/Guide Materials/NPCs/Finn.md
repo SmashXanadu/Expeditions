@@ -5,12 +5,10 @@ permalink: /UnchartedWaters/NPCs/Finn/
 ---
 ### **Finn**
 
-![Finn]({{site.baseurl}}/images/NPCs/Finn.jpg "maxheight:300")
-
 **Ship:** [The Emerald Dawn]({{site.baseurl}}/UnchartedWaters/Locations/Ships/TheEmeraldDawn/#the-emerald-dawn)
 **Ship Role:** Quartermaster and first mate
 **Faction:** None
-**Pronouns:** they/them
+**Pronouns:** he/him
 
 **General Appearance:**
 - Lean, wiry, never fully still
@@ -37,7 +35,7 @@ permalink: /UnchartedWaters/NPCs/Finn/
 
 **Flaw or Quirk:**
 - Terrified of calm seas. Stillness means something bad is coming.
-- Mutters to themselves when handling strange objects or staring out at the water
+- Mutters to himself when handling strange objects or staring out at the water
 
 **Sample Lines:**
 - "Calm water's a held breath, friend. Something's always on the other end of it."

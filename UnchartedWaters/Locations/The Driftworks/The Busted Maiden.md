@@ -38,7 +38,7 @@ Two upright half-hulls, a body-length apart. Planks and grating bridge the gap d
 ### House Quirks
 
 - The two halves don't rock in time. Regulars sit with a hand on their mug.
-- It's lucky to touch both halves of the Maiden's face on the way in. Finn always does, and gets visibly upset if they forget.
+- It's lucky to touch both halves of the Maiden's face on the way in. Finn always does, and gets visibly upset if he forgets.
 
 \newpage
 

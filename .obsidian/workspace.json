@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UnchartedWaters/Guide Materials/Session 0.md",
+                "file": "UnchartedWaters/Nerd Alert Campaign/Session 1 Guide.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 0"
+              "title": "Session 1 Guide"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "session 0",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -171,19 +171,27 @@
   },
   "active": "fcc9a7b51ae7b9d0",
   "lastOpenFiles": [
+    "UnchartedWaters/Nerd Alert Campaign/sedikT4we",
+    "UnchartedWaters/Nerd Alert Campaign/sedkrxccE",
+    "UnchartedWaters/Nerd Alert Campaign/sedJLrORQ",
+    "UnchartedWaters/Guide Materials/NPCs/sedcESqGt",
+    "UnchartedWaters/Guide Materials/NPCs/Vane.md",
+    "UnchartedWaters/Nerd Alert Campaign/sed5UUdPd",
+    "UnchartedWaters/Locations/The Driftworks/sedZjVDQU",
+    "UnchartedWaters/Setting Guide/sedRv1XYB",
+    "UnchartedWaters/Nerd Alert Campaign/Session 0 Notes.md",
+    "UnchartedWaters/Nerd Alert Campaign/Session 1 Guide.md",
+    "UnchartedWaters/Locations/sedev42dn",
+    "UnchartedWaters/Nerd Alert Campaign/sedWxQGDJ",
+    "UnchartedWaters/Nerd Alert Campaign/sedjzwFKl",
+    "UnchartedWaters/Nerd Alert Campaign/Session 1 Guide",
+    "UnchartedWaters/Nerd Alert Campaign/Session 0.md",
+    "images/Maps/BlankMap.png",
+    "images/NPCs/Finn.jpg",
+    "UnchartedWaters/Guide Materials/NPCs/Finn.md",
+    "Expeditions/Player Resources/Abilities/Weapon Specialist.md",
     "UnchartedWaters/Locations/The Driftworks/The Driftworks.md",
     "UnchartedWaters/Locations/The Driftworks/The Busted Maiden.md",
-    "UnchartedWaters/Guide Materials/Session 0.md",
-    "UnchartedWaters/Setting Guide/sedyg480k",
-    "UnchartedWaters/Setting Guide/sedC7Jvl2",
-    "UnchartedWaters/Locations/The Driftworks/The Busted Maiden.md.tmp.207592.96157a0eeda8",
-    "UnchartedWaters/Locations/The Driftworks",
-    "Tools/LayoutCheck/bin/Debug/net8.0-windows/LayoutCheck.pdb",
-    "Tools/LayoutCheck/bin/Debug/net8.0-windows/LayoutCheck.dll",
-    "Tools/LayoutCheck/bin/Debug/net8.0-windows/LayoutCheck.runtimeconfig.json",
-    "Tools/LayoutCheck/bin/Debug/net8.0-windows/LayoutCheck.deps.json",
-    "Tools/LayoutCheck/bin/Debug/net8.0-windows/LatoFont/OFL.txt",
-    "Tools/LayoutCheck/bin/Debug/net8.0-windows/LatoFont/Lato-ThinItalic.ttf",
     "UnchartedWaters/Setting Guide/10 - Weirwild Atoll.md",
     "UnchartedWaters/Setting Guide/11 - Black Fleet.md",
     "UnchartedWaters/Setting Guide/25 - The Catalogue.md",
@@ -201,12 +209,6 @@
     "UnchartedWaters/Setting Guide/13 - Deep Crawlers.md",
     "UnchartedWaters/Setting Guide/12 - Copper Coalition.md",
     "UnchartedWaters/Setting Guide/02 - The World.md",
-    "UnchartedWaters/Setting Guide/01 - About Uncharted Waters.md",
-    "UnchartedWaters/Setting Guide/09 - Sunbloom Key.md",
-    "UnchartedWaters/Setting Guide/07 - Rustreach Crag.md",
-    "UnchartedWaters/Setting Guide/06 - The Driftworks.md",
-    "UnchartedWaters/Setting Guide/05 - Ashfall Peak.md",
-    "images/NPCs/Finn.jpg",
     "images/Maps/Blank Map.png",
     "images/Maps/UnchartedWatersDepthCrawlNoNumbers.png",
     "images/Maps/UnchartedWatersDepthCrawl.png"

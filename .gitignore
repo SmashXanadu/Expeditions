@@ -53,3 +53,6 @@ Backups/
 # Claude's folder
 .claude/
 .obsidian/workspace.json
+
+# Campaign GM notes (local only, contains spoilers)
+UnchartedWaters/Nerd Alert Campaign/

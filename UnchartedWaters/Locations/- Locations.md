@@ -9,6 +9,7 @@ permalink: /UnchartedWaters/Locations/
 
 # [Locations](#locations)
 
-You have not discovered any other locations **yet**...
+- **[The Driftworks]({{site.baseurl}}/UnchartedWaters/Locations/Driftworks/#the-driftworks)**
+  - **[The Busted Maiden]({{site.baseurl}}/UnchartedWaters/Locations/Driftworks/BustedMaiden/#the-busted-maiden)**
 
 **[Back to Uncharted Waters]({{site.baseurl}}/UnchartedWaters/Index/#uncharted-waters)**
