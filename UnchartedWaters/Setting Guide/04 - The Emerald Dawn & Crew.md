@@ -13,7 +13,7 @@ permalink: /UnchartedWaters/Guide/4/
 - **Role:** Captain
 - **Behavior:** Quiet, unwavering authority. A single look does more than a shout would. Speaks slowly, low and measured, and thinks several steps ahead of everyone else.
 - **Quirk:** Traces constellations on any flat surface when deep in thought. Can't stand clutter.
-- **Drive:** Secretly hunting the **Celestial Navigator**, a legendary star chart tied to a vow made to someone they lost. Will bend the ship's course toward it, faction interests be damned.
+- **Drive:** Secretly hunting the **Celestial Navigator**, a legendary star chart tied to a vow made to someone she lost. Will bend the ship's course toward it, faction interests be damned.
 - **Hook:** Navigation and ancient-maps expeditions, star-aligned ruins, celestial devices, anything that smells like the sky is involved.
 
 ## Finn

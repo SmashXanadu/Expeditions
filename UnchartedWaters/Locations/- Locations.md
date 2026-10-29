@@ -6,6 +6,7 @@ permalink: /UnchartedWaters/Locations/
 # [Ships](#ships)
 
 - **[The Emerald Dawn]({{site.baseurl}}/UnchartedWaters/Locations/Ships/TheEmeraldDawn/#the-emerald-dawn)**
+- **[The Black Talon]({{site.baseurl}}/UnchartedWaters/Locations/Ships/TheBlackTalon/#the-black-talon)**
 
 # [Locations](#locations)
 

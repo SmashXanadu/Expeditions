@@ -2,6 +2,7 @@
 
 Idea Testing: Holding Consequences for later. 1 max per player. chips poc
 Idea Testing: Gain experience on a critical fail
+Idea Testing: Team attacks / combo attacks. Players already activate in any order on their turn, so two or more can act together on the same target for a significant bonus. Formalize the trigger, the bonus, and the cost.
 - [ ] Review and plan Guide Rules content stuff
 
 ## Phase 1: Create Print Materials
@@ -16,6 +17,7 @@ Idea Testing: Gain experience on a critical fail
   - [ ] Ability Text
 - [ ] Ensure rules index and navigation is up to date and working for web
 - [ ] Guide Rules booklet (GM-facing — currently rough outline)
+- [ ] Downtime procedures. `Guide Rules/07 - Downtime.md` is a stub. Needed before walking the Nerd Alert table through downtime (Session 3 or their first safe stop) and running it offline between sessions after that.
 
 ## Phase 3: SNExpeditions
 - [ ] Create SNExpeditions: Snailfolk Starter Adventure and format for print

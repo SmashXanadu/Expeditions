@@ -21,9 +21,9 @@ They often involve:
 Wren is **searching for the Celestial Navigator**.
 
 So occasionally:
-- they push the ship toward **ancient observatories**
-- they investigate **celestial devices**
-- they follow **strange star patterns**
+- she pushes the ship toward **ancient observatories**
+- she investigates **celestial devices**
+- she follows **strange star patterns**
 
 ### Expedition Example Seed
 
@@ -54,7 +54,7 @@ They often involve:
 
 Finn is collecting **offerings for the ancient sea spirit**.
 
-So they subtly guide the crew toward:
+So he subtly guides the crew toward:
 - relics
 - sacred locations
 - strange idols

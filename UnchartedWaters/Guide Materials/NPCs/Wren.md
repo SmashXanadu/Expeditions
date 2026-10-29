@@ -5,21 +5,57 @@ permalink: /UnchartedWaters/NPCs/Wren/
 ---
 ### **Wren**
 
-![Wren](https://raw.githubusercontent.com/SmashXanadu/Expeditions/refs/heads/main/images/wren.png)
+\cols
+
+![Wren]({{site.baseurl}}/images/NPCs/Wren.png "maxheight:210")
+
+\col
 
 **Ship:** [The Emerald Dawn]({{site.baseurl}}/UnchartedWaters/Locations/Ships/TheEmeraldDawn/#the-emerald-dawn)
 **Ship Role:** Captain
 **Faction:** None
+**Pronouns:** she/her
 
-**General Appearance:** Wren has a weathered face with deep-set eyes that seem to miss nothing. Their dark hair is pulled back in a tight bun, and they carry themselves with a straight, unyielding posture. They are typically dressed in a clean but well-worn captain's coat, often seen with a simple brass spyglass in hand.
+**General Appearance:**
+- Weathered face, deep-set eyes that miss nothing
+- Dark hair pulled back in a tight bun
+- Straight, unyielding posture
+- Clean but well-worn captain's coat, brass spyglass in hand
 
-**Sounds Like:** Their voice is low and measured. Wren speaks slowly and deliberately, choosing their words carefully. They have a subtle accent from a far-off port that is hard to place.
+**Sounds Like:**
+- Low and measured. Slow, deliberate, every word chosen.
+- A faint accent from a far-off port nobody can place
+- Silence does most of the talking. A look usually ends the argument.
 
-**Defining Characteristic(s):** Wren is defined by a quiet, unwavering authority. They don't need to shout to be in command; a single look is often enough. They are intensely observant and seem to be thinking several steps ahead of everyone else.
+\endcols
 
-**Motivation:** Wren is on a personal quest to find a legendary, lost star chart known as the "Celestial Navigator." This chart is the key to fulfilling a vow made long ago to a lost loved one. This goal is more important to them than the faction's interests, and they will take calculated risks to find it, even if it means putting the ship in harm's way.
+**Defining Characteristic(s):**
+- Quiet, unwavering authority. Never needs to shout.
+- Intensely observant, always several steps ahead
+- The ship reflects her: everything coiled, squared away, not a rope out of place
 
-**Flaw or Quirk:** Wren has a habit of silently tracing the constellations on any available surface—a tabletop, a map, or even the palm of their hand—when deep in thought. They also have an intense aversion to clutter and will often pause a conversation to straighten something that is out of place.
+**Motivation:**
+- Hunting the **Celestial Navigator**, a legendary lost star chart
+- Bound to it by a vow made long ago to someone she lost
+- Puts this above any faction's interests. Will take calculated risks with the ship to get closer.
+
+**Flaw or Quirk:**
+- Traces constellations on any surface when deep in thought: a tabletop, a map, her own palm
+- Can't stand clutter. Will stop mid-conversation to straighten something.
+
+**With the Crew:**
+- Judges by what people do, not what they say. Watches first, decides later.
+- Trusts Finn's instincts more than Finn's judgment
+- Lets Oz and Pip chase their obsessions, as long as the ship comes home
+
+**Sample Lines:**
+- "Sit. Tell me what happened. Slowly."
+- "Finn says you're lucky. I'd rather you were careful."
+- "Put that back where you found it."
+- "The sky doesn't lie. People do."
+
+**Seen in Play (Nerd Alert Campaign):**
+- **Session 2 (planned):** Says little when the crew first comes aboard.
 
 ---
 

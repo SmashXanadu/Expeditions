@@ -33,11 +33,13 @@ A colossal armada of ships lashed together by rope, chain, and makeshift platfor
 - **The Great Winch:** Colossal, groaning crank. Hauls in wrecks, derelicts, and new ships.
 - **The Lash Markets:** Stalls on every flat surface. Rope, chain, timber, salvage, fish, and things nobody admits stealing.
 - **Drywake Forges:** Foundries in ironclad hulls. Scrap reforged into tools, weapons, and hull plates.
+- **The Supple Skink:** A tailoring and leatherworking shop.
 
 ------------
 ### Places in the Driftworks
 
 - **[The Busted Maiden]({{site.baseurl}}/UnchartedWaters/Locations/Driftworks/BustedMaiden/#the-busted-maiden):** A tavern built across a merchant ship split in two. Never in the same place twice.
+- **The Crow's Nest:** An amphitheater assembled from salvaged ship parts and sails.
 
 ---
 

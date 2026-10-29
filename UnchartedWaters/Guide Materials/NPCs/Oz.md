@@ -5,21 +5,58 @@ permalink: /UnchartedWaters/NPCs/Oz/
 ---
 ### **Oz**
 
-![Oz](https://raw.githubusercontent.com/SmashXanadu/Expeditions/refs/heads/main/images/oz.png)
+\cols
+
+![Oz]({{site.baseurl}}/images/NPCs/Oz.png "maxheight:210")
+
+\col
 
 **Ship:** [The Emerald Dawn]({{site.baseurl}}/UnchartedWaters/Locations/Ships/TheEmeraldDawn/#the-emerald-dawn)
 **Ship Role:** Waystone Magus / Archivist
 **Faction:** None
+**Pronouns:** he/him
 
-**General Appearance:** Oz appears as an ageless figure of indeterminate gender, with smooth, almost porcelain-like skin and silver-white hair that seems to float around their head. Their eyes are a striking, deep blue, like polished lapis lazuli. They wear robes woven with shimmering, geometric patterns that subtly shift and glow. Their movements are graceful and precise.
+**General Appearance:**
+- Ageless. Nobody can guess how old he is.
+- Smooth, almost porcelain skin. Silver-white hair that seems to float.
+- Deep blue eyes, like polished lapis
+- Robes woven with geometric patterns that slowly shift and glow
+- Graceful, precise movements
 
-**Sounds Like:** Their voice is calm and melodious, with a faint, echoing quality, as if speaking from a great distance. They speak in a measured, slightly formal tone and often use very specific, academic language to describe magical phenomena.
+**Sounds Like:**
+- Calm and melodious, with a faint echo, as if speaking from far away
+- Measured and slightly formal
+- Uses exact, academic language for anything magical
 
-**Defining Characteristic(s):** Oz is entirely preoccupied with the Waystones and the magical anchor of The Emerald Dawn. They are the one who maintains the ship's magical systems and provides the stones for each expedition. They seem to view the world through a lens of magical equations and patterns, often talking to the Waystones themselves as if they were sentient.
+\endcols
 
-**Motivation:** Oz is not driven by the faction's goals, but by a consuming desire to understand and perfect the magical architecture of the world. They believe the Waystones and The Emerald Dawn are part of a larger, ancient network of magical ley lines. Their goal is to map this network and, in doing so, unlock a new form of instantaneous travel that could span across the entire world, not just back to the ship.
+**Defining Characteristic(s):**
+- Maintains the ship's magical systems and the Waystone anchored to the Emerald Dawn
+- The only one aboard who knows how to attune a Waystone
+- Talks to the Waystones as if they're listening. As far as Oz is concerned, they might be.
 
-**Flaw or Quirk:** Oz is highly detached from the practical, emotional concerns of the crew. They see people and their problems as variables in a larger magical equation. They also have a habit of meticulously cataloging and sketching every single Waystone and its unique energy signature, believing no two are ever truly alike.
+**Motivation:**
+- Believes the Waystones are part of a much larger, ancient ley-line network
+- Wants to map all of it
+- Dreams of travel that doesn't need the ship at all
+
+**Flaw or Quirk:**
+- Detached from the crew's practical and emotional concerns. People are variables in a larger equation.
+- Sketches and catalogs every Waystone's energy signature, convinced no two are alike
+
+**With the Crew:**
+- Will ask about the stone before asking how anyone is doing
+- Sincerely interested in any magic that behaves strangely
+- Gives the Waystone to the crew before each expedition and takes it back after
+
+**Sample Lines:**
+- "You've been somewhere loud."
+- "Fascinating. Do it again, and this time don't move."
+- "The stone remembers. It's the rest of us who forget."
+- "Your wellbeing is noted. Now, the stone."
+
+**Seen in Play (Nerd Alert Campaign):**
+- **Session 2 (planned):** Takes the Waystone before anyone offers it, turns it in the light, and talks to it.
 
 ---
 

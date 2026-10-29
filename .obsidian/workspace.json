@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fcc9a7b51ae7b9d0",
+            "id": "d94723455b79fab6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UnchartedWaters/Nerd Alert Campaign/Session 1 Guide.md",
+                "file": "UnchartedWaters/Nerd Alert Campaign/Session 2 Guide.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 1 Guide"
+              "title": "Session 2 Guide"
             }
           }
         ]
@@ -169,22 +169,31 @@
       "print:Print note": false
     }
   },
-  "active": "fcc9a7b51ae7b9d0",
+  "active": "d94723455b79fab6",
   "lastOpenFiles": [
-    "UnchartedWaters/Nerd Alert Campaign/sedikT4we",
-    "UnchartedWaters/Nerd Alert Campaign/sedkrxccE",
-    "UnchartedWaters/Nerd Alert Campaign/sedJLrORQ",
-    "UnchartedWaters/Guide Materials/NPCs/sedcESqGt",
-    "UnchartedWaters/Guide Materials/NPCs/Vane.md",
-    "UnchartedWaters/Nerd Alert Campaign/sed5UUdPd",
-    "UnchartedWaters/Locations/The Driftworks/sedZjVDQU",
-    "UnchartedWaters/Setting Guide/sedRv1XYB",
-    "UnchartedWaters/Nerd Alert Campaign/Session 0 Notes.md",
+    "UnchartedWaters/Nerd Alert Campaign/Campaign Plans.md",
+    "UnchartedWaters/Setting Guide/sed7BCImM",
+    "UnchartedWaters/Setting Guide/sedLPAyJy",
+    "UnchartedWaters/Nerd Alert Campaign/Session 2 Guide.md.tmp.11560.15242c65133e",
+    "UnchartedWaters/Nerd Alert Campaign/Session 1 Notes.md",
     "UnchartedWaters/Nerd Alert Campaign/Session 1 Guide.md",
-    "UnchartedWaters/Locations/sedev42dn",
-    "UnchartedWaters/Nerd Alert Campaign/sedWxQGDJ",
-    "UnchartedWaters/Nerd Alert Campaign/sedjzwFKl",
-    "UnchartedWaters/Nerd Alert Campaign/Session 1 Guide",
+    "UnchartedWaters/Nerd Alert Campaign/Session 2 Guide.md",
+    "UnchartedWaters/Nerd Alert Campaign/Session 0 Notes.md",
+    "images/NPCs/Vane.jpg",
+    "images/NPCs/Scarlet.jpg",
+    "UnchartedWaters/Guide Materials/NPCs/Scarlet.md",
+    "UnchartedWaters/Guide Materials/NPCs/Qcx8m2eu",
+    "UnchartedWaters/Guide Materials/NPCs/wFF4efkW",
+    "UnchartedWaters/Guide Materials/NPCs/2VVAy8cQ",
+    "UnchartedWaters/Guide Materials/NPCs/n5sIiOQI",
+    "UnchartedWaters/Guide Materials/NPCs/tinz8dRj",
+    "UnchartedWaters/Guide Materials/NPCs/445Ob9qh",
+    "UnchartedWaters/Guide Materials/NPCs/pxZX7W5g",
+    "images/NPCs/Wren.png",
+    "images/NPCs/Wrench.png",
+    "images/NPCs/Pip.png",
+    "images/NPCs/Oz.png",
+    "UnchartedWaters/Guide Materials/NPCs/Vane.md",
     "UnchartedWaters/Nerd Alert Campaign/Session 0.md",
     "images/Maps/BlankMap.png",
     "images/NPCs/Finn.jpg",
@@ -206,11 +215,7 @@
     "UnchartedWaters/Setting Guide/16 - Iron Legion.md",
     "UnchartedWaters/Setting Guide/15 - Horizon Chasers.md",
     "UnchartedWaters/Setting Guide/14 - Gilded Union.md",
-    "UnchartedWaters/Setting Guide/13 - Deep Crawlers.md",
-    "UnchartedWaters/Setting Guide/12 - Copper Coalition.md",
-    "UnchartedWaters/Setting Guide/02 - The World.md",
     "images/Maps/Blank Map.png",
-    "images/Maps/UnchartedWatersDepthCrawlNoNumbers.png",
-    "images/Maps/UnchartedWatersDepthCrawl.png"
+    "images/Maps/UnchartedWatersDepthCrawlNoNumbers.png"
   ]
 }

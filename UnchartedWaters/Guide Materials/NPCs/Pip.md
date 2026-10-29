@@ -5,21 +5,58 @@ permalink: /UnchartedWaters/NPCs/Pip/
 ---
 ### **Pip**
 
-![Pip](https://raw.githubusercontent.com/SmashXanadu/Expeditions/refs/heads/main/images/pip.png)
+\cols
+
+![Pip]({{site.baseurl}}/images/NPCs/Pip.png "maxheight:210")
+
+\col
 
 **Ship:** [The Emerald Dawn]({{site.baseurl}}/UnchartedWaters/Locations/Ships/TheEmeraldDawn/#the-emerald-dawn)
 **Ship Role:** Medic and Botanist
 **Faction:** None
+**Pronouns:** she/her
 
-**General Appearance:** Pip is small in stature with a perpetually earnest expression. Their bright, often wide, eyes are usually hidden behind a pair of smudged spectacles perched on their nose. They wear practical, stained overalls with many pockets overflowing with leaves, vials, or small digging tools. Their hair is a perpetually messy tangle of light brown curls.
+**General Appearance:**
+- Small, with a perpetually earnest expression
+- Bright, wide eyes behind smudged spectacles
+- Stained overalls, every pocket overflowing with leaves, vials, and digging tools
+- Messy tangle of light brown curls
 
-**Sounds Like:** Pip's voice is soft and a little reedy, often rising in pitch when excited about a new discovery. They tend to ramble slightly when explaining something fascinating, sometimes losing their train of thought mid-sentence.
+**Sounds Like:**
+- Soft and a little reedy
+- Pitch climbs when excited about a discovery
+- Rambles when explaining, loses the thread mid-sentence
 
-**Defining Characteristic(s):** Pip possesses an insatiable, almost childlike curiosity about the natural world, especially new and unusual biological specimens. They are deeply empathetic, genuinely distressed by any injury or discomfort among the crew, and will fuss over anyone feeling under the weather.
+\endcols
 
-**Motivation:** Pip is driven by the legacy of their disgraced mentor. They believe their mentor's radical theories about interconnected life forms and hidden energies in the natural world were unjustly dismissed. Pip is determined to find definitive proof in the uncharted waters, subtly guiding players towards unusual ecological sites or rare flora, sometimes at mild risk, to gather evidence that could vindicate their mentor's name and theories.
+**Defining Characteristic(s):**
+- Insatiable, almost childlike curiosity about the natural world
+- Deeply empathetic. Genuinely distressed by any injury or discomfort.
+- Fusses over anyone hurt or under the weather, whether they want it or not
 
-**Flaw or Quirk:** Pip is notoriously absent-minded, often forgetting basic tasks or conversations if something scientific catches their attention. They also have a habit of tasting unknown plant samples (after a quick sniff, of course) without always considering the immediate consequences.
+**Motivation:**
+- Someone Pip loves, back at the last real port before the Fog, is fading from a wasting sickness
+- Nothing in Pip's kit has touched it
+- Convinced the cure is out here, in some plant or creature nobody has catalogued yet
+- Nudges expeditions toward strange ecology, sometimes at mild risk
+
+**Flaw or Quirk:**
+- Absent-minded. Forgets basic tasks and conversations when something interesting appears.
+- Tastes unknown plants after a quick sniff, without thinking much about what happens next
+
+**With the Crew:**
+- Asks everyone about their magic with open curiosity. Wants to know how it *works*.
+- Treats every returning expedition as a sample delivery
+- First one at the rail when the Waystone brings the crew home
+
+**Sample Lines:**
+- "Hold still. No, stiller. That's a very interesting bruise."
+- "Did you bring anything back? Leaves? Spores? Anything?"
+- "It's probably not poisonous. Probably."
+- "How does it feel when you cast? Warm? Itchy? Be specific."
+
+**Seen in Play (Nerd Alert Campaign):**
+- **Session 2 (planned):** Fusses over Tork's head. Asks everyone about their magic.
 
 ---
 

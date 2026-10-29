@@ -15,6 +15,7 @@ permalink: /UnchartedWaters/NPCs/
 ## The Black Fleet
 
 - **[Captain Vane the Shadow]({{site.baseurl}}/UnchartedWaters/NPCs/Vane/#captain-vane-the-shadow)**: Captain of the Black Talon
+- **[Scarlet]({{site.baseurl}}/UnchartedWaters/NPCs/Scarlet/#scarlet)**: Quartermaster of the Black Talon
 
 ---
 

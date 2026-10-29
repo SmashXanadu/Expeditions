@@ -25,7 +25,7 @@ The Black Fleet is less a navy and more a ghost story. They strike through misdi
 
 A sleek, black-sailed schooner built for speed and stealth. It sits so low in the water it's nearly invisible at night or in heavy fog, and it's been stripped of every ounce of excess weight so it can close distance and board before its prey can react.
 
-- **Aboard:** Lean and cramped. A hidden **Smuggler's Hold** for stolen goods, a fast-access armory, and hammocks slung between the cannons because there's nowhere else to sleep.
+- **Aboard:** Lean and cramped. A hidden **Smuggler's Hold** for stolen goods, a fast-access armory, and hammocks slung in the hold because there's nowhere else to sleep.
 - **Scarlet:** Quartermaster. Polite, orderly, and absolutely never bluffing. Keeps the ship's ledger on a cord around her neck and divides every haul strictly by the pirate code. If the Fleet sends someone to talk to your players first, it's Scarlet.
 - **Ratty:** Lookout and rigger. Small, nimble, and fidgety, and can spot a merchant sail on the horizon miles before anyone else. Ratty also makes an excellent spy, mostly because nobody ever looks twice at Ratty.
 
@@ -54,7 +54,7 @@ A sleek, black-sailed schooner built for speed and stealth. It sits so low in th
 | 15 | Vane has sunk three Union flagships, and every one of their crews was found asleep in boats. |
 | 16 | The Verdant Circle lets Fleet ships shelter in its waters during storms, and asks nothing. |
 | 17 | A Fleet captain sold out Vane to the Union last year, then vanished before collecting. |
-| 18 | The Talon's crew sleeps in hammocks slung between the cannons. Nobody complains. |
+| 18 | The Talon's crew sleeps in hammocks slung down in the hold. Nobody complains. |
 | 19 | The Union's bounty on Vane is enough to buy a ship. Collecting it is another matter. |
 | 20 | The Fleet once returned a stolen cargo, unopened, with an apology. Nobody knows why. |
 
