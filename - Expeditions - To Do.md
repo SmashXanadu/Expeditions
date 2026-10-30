@@ -19,11 +19,8 @@ Idea Testing: Team attacks / combo attacks. Players already activate in any orde
 - [ ] Guide Rules booklet (GM-facing — currently rough outline)
 - [ ] Downtime procedures. `Guide Rules/07 - Downtime.md` is a stub. Needed before walking the Nerd Alert table through downtime (Session 3 or their first safe stop) and running it offline between sessions after that.
 
-## Phase 3: SNExpeditions
-- [ ] Create SNExpeditions: Snailfolk Starter Adventure and format for print
-
-
-## Phase 4: Tooling (Side Project)
+## Phase 4: Tooling (Side Projects)
+- [ ] Pipeline to publish epub/mobi versions of session notes for players, books, etc?
 - [ ] Update UI to WPF with XML layout definition — fork to general tool?
 
 ---
