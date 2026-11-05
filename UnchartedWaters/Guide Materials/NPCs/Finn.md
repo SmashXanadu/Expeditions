@@ -58,7 +58,8 @@ permalink: /UnchartedWaters/NPCs/Finn/
 **Seen in Play (Nerd Alert Campaign):**
 - **Session 0:** Brought a Waystone (won at dice) to the Busted Maiden. The Black Fleet took it. Tork lifted his **shark tooth**.
 - **Session 1:** Woke in the Talon's brig. Gave Oz's name up to Scarlet and offered to introduce the Fleet to him if they let everyone go. After the breakout, explained the Waystone ritual and begged the party to steal it back.
-- **Session 2 (planned):** Desperate to get the stone and go home together. Guilty about Oz.
+- **Session 2:** Stayed in his unlocked cell in the hold, waiting for the party to bring the Waystone. Tork turned his shark tooth into a dagger and gave it to Robyn.
+- **Session 3 (planned):** Still in the hold. Desperate to go home together. Guilty about Oz.
 
 ---
 

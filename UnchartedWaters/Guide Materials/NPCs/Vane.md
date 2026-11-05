@@ -55,7 +55,8 @@ permalink: /UnchartedWaters/NPCs/Vane/
 **Seen in Play (Nerd Alert Campaign):**
 - **Session 0:** Showed his scarred eye and "Black Talon" dagger. Lit the lantern. The bar slept.
 - **Session 1:** Above deck. Scarlet brought him Oz's name.
-- **Session 2 (planned):** At the wheel, turning the Talon toward the Emerald Dawn. Pleased with the new game.
+- **Session 2:** Not seen. Robyn got into his cabin, found signs of a dark ritual in one corner, and opened the chest holding his **black lantern** and 16 gold.
+- **Session 3 (planned):** Without his lantern for the first time. Wants it back more than the stone.
 
 ---
 

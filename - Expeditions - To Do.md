@@ -3,6 +3,16 @@
 Idea Testing: Holding Consequences for later. 1 max per player. chips poc
 Idea Testing: Gain experience on a critical fail
 Idea Testing: Team attacks / combo attacks. Players already activate in any order on their turn, so two or more can act together on the same target for a significant bonus. Formalize the trigger, the bonus, and the cost.
+Idea Testing: Critical success benefits. Right now a nat 20 is a "Critical Success with a Benefit" (Rules/2), and an attack crit deals 2 damage (Rules/3), but nothing says what the benefit actually is.
+  - Option: a crit on a skill check during combat also lets you make an attack that turn, even though you normally only get 1 action
+  - Open: does an attack crit get a benefit on top of the 2 damage? Does a crit on Evade/Resist get one (counterattack, ally gets advantage)?
+  - Maybe write a short menu of benefits to pick from so players aren't guessing (extra action, regain a charge, advantage for an ally, disarm)
+- [ ] Refine when abilities need a charge, a roll, or both. Too gray for players right now. Current text: the Guide decides basic (free) vs charged, and a charge "succeeds automatically without a roll" (Rules/3 and Rules/5).
+  - Do basic actions ever need a roll? Nothing says.
+  - Does a charged Attack auto-hit, skipping Defense/Resistance? The combat text implies yes.
+  - Can a player roll for a charged-tier effect instead of spending a charge (risk vs. certainty)? This would be the "both" case.
+  - Players can't plan around a call the Guide makes on the spot. Write a published test for what needs a charge (e.g. directly affects an enemy, beyond the ability's basic examples, something a non-magic person couldn't do).
+  - Test cases from Nerd Alert: the water sphere on Ratty's head and the wall of air (Session 1); Maris pulling the air from a deckhand's lungs, Heather's astral projection, Autumn's water mirror (Session 2)
 - [ ] Review and plan Guide Rules content stuff
 
 ## Phase 1: Create Print Materials

@@ -57,7 +57,8 @@ permalink: /UnchartedWaters/NPCs/Scarlet/
 **Seen in Play (Nerd Alert Campaign):**
 - **Session 0:** Led the shakedown at the Busted Maiden. Scooped the Waystone off the floor.
 - **Session 1:** Interviewed Robyn, who pointed her at Maris. Fetched Maris's amulet and tarot deck for a reading, then locked her back up. Got **Oz's name** out of Finn, along with his offer to make an introduction if the Fleet let them all go. Ran up to tell Vane.
-- **Session 2 (planned):** At the wheel with Vane, Waystone still at her hip. Finn's promise is in the ledger.
+- **Session 2:** On the main deck with the Waystone at her hip while the party fought its way up through the crew deck. Autumn spotted her through a gap in the floor.
+- **Session 3 (planned):** Coming down to take the stone back. Her crew is getting hurt. Nobody's dead yet.
 
 ---
 
