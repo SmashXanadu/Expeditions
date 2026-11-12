@@ -14,7 +14,7 @@ You'll sail aboard **The Emerald Dawn**, crewed by people worth getting to know:
 - **Captain Wren** — steady, observant, and always thinking three moves ahead. She traces constellations on tabletops when she's deep in thought.
 - **Finn** — the quartermaster, an expert at finding things that shouldn't be findable. Intensely superstitious. Never comfortable when the sea goes calm.
 - **Pip** — the ship's medic and botanist, endlessly curious and famously absent-minded. Will absolutely taste the unknown plant before asking if it's safe.
-- **Oz** — the Waystone Magus, ageless and precise, who maintains the ship's magical systems and talks to the stones as if they're listening.
+- **Oz** — the Waystone Magus, an ageless and precise birdfolk who maintains the ship's magical systems and talks to the stones as if they're listening.
 
 ---
 

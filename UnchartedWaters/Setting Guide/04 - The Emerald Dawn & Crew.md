@@ -35,7 +35,7 @@ permalink: /UnchartedWaters/Guide/4/
 ## Oz
 
 - **Role:** Waystone Magus / Archivist
-- **Behavior:** Calm, melodious, formal. Talks to the Waystones like they're listening, because as far as Oz is concerned, they might be.
+- **Behavior:** An ageless birdfolk, all beak and tiny glasses. Calm, melodious, formal. Talks to the Waystones like they're listening, because as far as Oz is concerned, they might be.
 - **Quirk:** Meticulously catalogs and sketches every Waystone's unique energy signature, convinced no two are ever alike.
 - **Drive:** Believes the Waystones are proof of a much larger, ancient ley-line network, and wants to map every inch of it, eventually unlocking travel that doesn't need the ship at all.
 - **Hook:** Anything arcane: unstable magic, ley-line distortions, ruins built around ancient devices. If a Waystone's acting strange, Oz already has a theory, and it's probably right.

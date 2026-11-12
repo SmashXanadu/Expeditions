@@ -56,7 +56,7 @@ permalink: /UnchartedWaters/NPCs/Vane/
 - **Session 0:** Showed his scarred eye and "Black Talon" dagger. Lit the lantern. The bar slept.
 - **Session 1:** Above deck. Scarlet brought him Oz's name.
 - **Session 2:** Not seen. Robyn got into his cabin, found signs of a dark ritual in one corner, and opened the chest holding his **black lantern** and 16 gold.
-- **Session 3 (planned):** Without his lantern for the first time. Wants it back more than the stone.
+- **Session 3:** Seen at the helm, chanting, with fog spewing from the neck of his hood, no lantern needed. Lost the lantern, the Waystone, and the Talon, which burned. Survived.
 
 ---
 

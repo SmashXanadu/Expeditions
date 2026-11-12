@@ -17,8 +17,9 @@ permalink: /UnchartedWaters/NPCs/Oz/
 **Pronouns:** he/him
 
 **General Appearance:**
+- Birdfolk, with a long, narrow beak and tiny round glasses perched at its very tip
 - Ageless. Nobody can guess how old he is.
-- Smooth, almost porcelain skin. Silver-white hair that seems to float.
+- Silver-white feathers that lift and settle as if in a breeze nobody else feels
 - Deep blue eyes, like polished lapis
 - Robes woven with geometric patterns that slowly shift and glow
 - Graceful, precise movements
@@ -56,7 +57,7 @@ permalink: /UnchartedWaters/NPCs/Oz/
 - "Your wellbeing is noted. Now, the stone."
 
 **Seen in Play (Nerd Alert Campaign):**
-- **Session 2 (planned):** Takes the Waystone before anyone offers it, turns it in the light, and talks to it.
+- **Session 3:** Met the party when the Waystone brought them home to the Dawn. Sensed something was wrong and sent Finn to tell Wren to leave the Driftworks. Treated Bugg's stab wounds while Maris watched to learn some basic alchemy.
 
 ---
 
