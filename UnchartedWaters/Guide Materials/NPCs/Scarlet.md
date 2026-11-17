@@ -37,6 +37,7 @@ permalink: /UnchartedWaters/NPCs/Scarlet/
 **Motivation:**
 - Keep the books balanced by the pirate code. Every share paid, fair to the copper.
 - The ledger holds every debt ever owed to the Fleet, and who promised what
+- Common knowledge on the water: the ledger always finds balance, and the Fleet always comes to collect
 - Believes in the code more than in any captain, including Vane
 
 **Flaw or Quirk:**

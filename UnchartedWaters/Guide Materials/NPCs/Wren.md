@@ -38,6 +38,8 @@ permalink: /UnchartedWaters/NPCs/Wren/
 - Hunting the **Celestial Navigator**, a legendary lost star chart
 - Bound to it by a vow made long ago to someone she lost
 - Puts this above any faction's interests. Will take calculated risks with the ship to get closer.
+- Spent years on another captain's crew with Finn, saving until they could buy the Emerald Dawn and chart their own course
+- Wants to rediscover the lands the cataclysm cut off, find what survived, and share in the fortunes the crew is "bound to discover"
 
 **Flaw or Quirk:**
 - Traces constellations on any surface when deep in thought: a tabletop, a map, her own palm
@@ -45,7 +47,8 @@ permalink: /UnchartedWaters/NPCs/Wren/
 
 **With the Crew:**
 - Judges by what people do, not what they say. Watches first, decides later.
-- Trusts Finn's instincts more than Finn's judgment
+- Trusts Finn's instincts more than Finn's judgment. Finn trusts her completely and calls her the brains of the operation.
+- Nobody aboard has ever seen her in a fight
 - Lets Oz and Pip chase their obsessions, as long as the ship comes home
 
 **Sample Lines:**
@@ -56,6 +59,7 @@ permalink: /UnchartedWaters/NPCs/Wren/
 
 **Seen in Play (Nerd Alert Campaign):**
 - **Session 2 (planned):** Says little when the crew first comes aboard.
+- **Downtime after Session 3 (with Bugg):** Whispered to Bugg about a star map from before the Fog that shows your position under starlight, and said she would do anything to get it. Pointed him to the Tidal Conclave at Siren's Rest and said she'd need his help coaxing information out of them. The first crew member to hear about the Celestial Navigator.
 
 ---
 

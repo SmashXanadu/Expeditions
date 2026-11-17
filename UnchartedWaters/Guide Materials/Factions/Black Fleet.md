@@ -12,6 +12,8 @@ permalink: /UnchartedWaters/Factions/TheBlackFleet/
 - **Home:** **The Driftworks.** Ships hidden in the tangle, stolen goods fenced through the markets. The Council pretends not to notice.
 - **Motivation:** Break the Gilded Union's grip on the ocean. Live free of any law or king.
 - **Pays in:** Shares, not wages. They remember favors for a long time. So do the people they rob.
+- **Reputation:** They always remember. Scarlet's ledger records every transaction, favor, and debt, and they always come to collect. Swift and silent, they sweep in at the dead of night and leave with the bounty. Their code says they never kill, and that is part of why local communities fear them so much.
+- **Lately:** Historically driven by greed. Now rumors say they are behind missing magical artifacts. Nobody knows why, and it is a change from their old pattern.
 
 ---
 

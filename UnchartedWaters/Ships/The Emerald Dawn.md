@@ -6,6 +6,8 @@ permalink: /UnchartedWaters/Locations/TheEmeraldDawn/
 # [The Emerald Dawn](#the-emerald-dawn)
 The Emerald Dawn is a sturdy exploration vessel, built for long journeys and navigating treacherous seas. She is home to our crew of adventurers as we sail into uncharted waters.
 
+Captain Wren and Finn crewed together under someone else for years, saved until they could buy the Dawn, and were hiring their own crew when the Driftworks trouble hit. Oz and Pip were the first two aboard. None of the four is a real fighter.
+
 -------
 ### Occupants
 

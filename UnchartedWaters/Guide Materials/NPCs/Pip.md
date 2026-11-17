@@ -21,6 +21,7 @@ permalink: /UnchartedWaters/NPCs/Pip/
 - Bright, wide eyes behind smudged spectacles
 - Stained overalls, every pocket overflowing with leaves, vials, and digging tools
 - Messy tangle of light brown curls
+- Only about four feet tall
 
 **Sounds Like:**
 - Soft and a little reedy
@@ -48,6 +49,7 @@ permalink: /UnchartedWaters/NPCs/Pip/
 - Asks everyone about their magic with open curiosity. Wants to know how it *works*.
 - Treats every returning expedition as a sample delivery
 - First one at the rail when the Waystone brings the crew home
+- One of Finn's two first hires, signed on just before the Driftworks. Not a fighter.
 
 **Sample Lines:**
 - "Hold still. No, stiller. That's a very interesting bruise."
@@ -57,6 +59,7 @@ permalink: /UnchartedWaters/NPCs/Pip/
 
 **Seen in Play (Nerd Alert Campaign):**
 - **Session 2 (planned):** Fusses over Tork's head. Asks everyone about their magic.
+- **Downtime after Session 3 (with Maris, in progress):** Skipped over, wiped her hands on her apron twice, and sat. Smells of crushed mint and something bitter. Has never done a downtime conversation before.
 
 ---
 
