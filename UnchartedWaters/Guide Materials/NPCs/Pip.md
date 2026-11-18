@@ -36,9 +36,8 @@ permalink: /UnchartedWaters/NPCs/Pip/
 - Fusses over anyone hurt or under the weather, whether they want it or not
 
 **Motivation:**
-- Someone Pip loves, back at the last real port before the Fog, is fading from a wasting sickness
-- Nothing in Pip's kit has touched it
-- Convinced the cure is out here, in some plant or creature nobody has catalogued yet
+- Insatiable curiosity: wants every plant, fungus, and creature out here catalogued
+- Treats every unknown leaf as a possible medicine
 - Nudges expeditions toward strange ecology, sometimes at mild risk
 
 **Flaw or Quirk:**
@@ -56,10 +55,6 @@ permalink: /UnchartedWaters/NPCs/Pip/
 - "Did you bring anything back? Leaves? Spores? Anything?"
 - "It's probably not poisonous. Probably."
 - "How does it feel when you cast? Warm? Itchy? Be specific."
-
-**Seen in Play (Nerd Alert Campaign):**
-- **Session 2 (planned):** Fusses over Tork's head. Asks everyone about their magic.
-- **Downtime after Session 3 (with Maris, in progress):** Skipped over, wiped her hands on her apron twice, and sat. Smells of crushed mint and something bitter. Has never done a downtime conversation before.
 
 ---
 

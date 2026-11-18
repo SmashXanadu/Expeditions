@@ -35,9 +35,8 @@ permalink: /UnchartedWaters/NPCs/Finn/
 - Uncanny knack for *finding* things: a missing tool, a forgotten snack, a trinket on the tide
 
 **Motivation:**
-- Believes an ancient sea spirit sleeps beneath these waters
-- Every expedition is part of a grand design to wake or appease it
-- Secretly collects odd artifacts and samples as offerings or clues
+- Reads every event as an omen and acts on the signs
+- Collects odd artifacts and samples as lucky charms
 - Quietly nudges the ship toward places that feel "blessed" or "cursed"
 
 **Backstory:**
@@ -61,14 +60,6 @@ permalink: /UnchartedWaters/NPCs/Finn/
 - "Fair shares, decent food, and a captain who doesn't shout. Mostly doesn't shout."
 - "Ha! No. No, I like you. That's a good sign, that is. Sit, sit."
 - "Can't leave a card face up on a tavern floor. Worst luck there is."
-
-**Seen in Play (Nerd Alert Campaign):**
-- **Session 0:** Brought a Waystone (won at dice) to the Busted Maiden. The Black Fleet took it. Tork lifted his **shark tooth**.
-- **Session 1:** Woke in the Talon's brig. Gave Oz's name up to Scarlet and offered to introduce the Fleet to him if they let everyone go. After the breakout, explained the Waystone ritual and begged the party to steal it back.
-- **Session 2:** Stayed in his unlocked cell in the hold, waiting for the party to bring the Waystone. Tork turned his shark tooth into a dagger and gave it to Robyn.
-- **Session 3:** Told everyone to grab hands for the ritual and made it home to the Dawn with the party. Oz sent him to tell Wren to leave the Driftworks. Tork followed him.
-- **Downtime after Session 3 (with Heather):** Joined her combat practice and told her the crew's history and plans. Apologized for dragging everyone into the Black Fleet mess. Admitted he is the only fighter aboard, and badly. Heather corrected his form and taught him battle basics. He thanked her and asked her to stay aboard the Dawn for a while.
-- **Downtime after Session 3 (with Autumn):** Told her what he knows of the Black Fleet: they always remember, Scarlet's ledger balances every debt and favor, and they strike swift and silent at night and never kill. Asked what the Fleet wants, he said they were always greedy, but lately rumors tie them to missing magical artifacts, and he has no idea why.
 
 ---
 

@@ -52,12 +52,6 @@ permalink: /UnchartedWaters/NPCs/Vane/
 - "Nobody owns the sea. Some people just haven't been told yet."
 - "Hush now. She's nearly asleep." *(about the lantern)*
 
-**Seen in Play (Nerd Alert Campaign):**
-- **Session 0:** Showed his scarred eye and "Black Talon" dagger. Lit the lantern. The bar slept.
-- **Session 1:** Above deck. Scarlet brought him Oz's name.
-- **Session 2:** Not seen. Robyn got into his cabin, found signs of a dark ritual in one corner, and opened the chest holding his **black lantern** and 16 gold.
-- **Session 3:** Seen at the helm, chanting, with fog spewing from the neck of his hood, no lantern needed. Lost the lantern, the Waystone, and the Talon, which burned. Survived.
-
 ---
 
 **[Back to NPCs]({{site.baseurl}}/UnchartedWaters/NPCs/#npcs)**

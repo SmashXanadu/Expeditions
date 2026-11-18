@@ -57,11 +57,6 @@ permalink: /UnchartedWaters/NPCs/Oz/
 - "The stone remembers. It's the rest of us who forget."
 - "Your wellbeing is noted. Now, the stone."
 
-**Seen in Play (Nerd Alert Campaign):**
-- **Session 3:** Met the party when the Waystone brought them home to the Dawn. Sensed something was wrong and sent Finn to tell Wren to leave the Driftworks. Treated Bugg's stab wounds while Maris watched to learn some basic alchemy.
-- **Downtime after Session 3 (with Tork):** Examined the storm scroll. Has heard legends of "the stormcallers" and asked to keep it.
-- **Downtime after Session 3 (with Robyn):** Wouldn't touch Vane's black lantern. Called it heavy with dark magic and asked her to set it down where he can look. Glad the Waystone saved them, and asked for it back.
-
 ---
 
 **[Back to NPCs]({{site.baseurl}}/UnchartedWaters/NPCs/#npcs)**

@@ -59,6 +59,10 @@ Idea Testing: Critical success benefits. Right now a nat 20 is a "Critical Succe
 - [ ] Refine Starting Location Options (embed images)
 - [ ] Write more runnable expeditions. Only "What Lies Beneath" is a complete adventure; the other 20 seeds in Expedition Concepts and the generator are one-liners, not session-ready
 
+- [ ] Read and incorporate West Marches ideas (feeds the open-table work, Setting Zine Ch. 21)
+- [ ] Read and incorporate the Lazy GM prep steps
+- [ ] Develop Bugg's homeland and people (Bugg is the ursine bard, Nate's character)
+
 ## Phase 2: Core World
 - [ ] 36x48 Hex Map
   - [ ] Define Key Locations

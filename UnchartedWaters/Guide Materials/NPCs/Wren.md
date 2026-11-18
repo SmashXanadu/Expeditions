@@ -57,10 +57,6 @@ permalink: /UnchartedWaters/NPCs/Wren/
 - "Put that back where you found it."
 - "The sky doesn't lie. People do."
 
-**Seen in Play (Nerd Alert Campaign):**
-- **Session 2 (planned):** Says little when the crew first comes aboard.
-- **Downtime after Session 3 (with Bugg):** Whispered to Bugg about a star map from before the Fog that shows your position under starlight, and said she would do anything to get it. Pointed him to the Tidal Conclave at Siren's Rest and said she'd need his help coaxing information out of them. The first crew member to hear about the Celestial Navigator.
-
 ---
 
 **[Back to NPCs]({{site.baseurl}}/UnchartedWaters/NPCs/#npcs)**
