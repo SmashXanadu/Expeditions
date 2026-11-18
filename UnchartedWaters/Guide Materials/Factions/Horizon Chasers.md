@@ -13,6 +13,7 @@ The Horizon Chasers are a daring fellowship of voyagers who believe the ocean ha
 - **Ship:** [The Cobalt Needle]({{site.baseurl}}/UnchartedWaters/Locations/Ships/TheCobaltNeedle/#the-cobalt-needle)
 - **Leader:** Chief Cartographer Elara, obsessed with filling the "blank spots" on the world map.
 - **Location:** **The Driftworks** — Unlike the pirates, the Chasers use the Driftworks as a mobile headquarters. Since the armada travels the open sea, it allows them to start their mapping expeditions from a different coordinate every month.
+- **Other holdings:** [Skyhook]({{site.baseurl}}/UnchartedWaters/Locations/Skyhook/#skyhook), [Hushwater]({{site.baseurl}}/UnchartedWaters/Locations/Hushwater/#hushwater), [Waystone Cairn]({{site.baseurl}}/UnchartedWaters/Locations/WaystoneCairn/#waystone-cairn)
 - **Motivation:** To document every island, reef, and current in the world to ensure safe passage for all.
 - **Hook:** Elara has found evidence of a "Hidden Continent" but needs a crew to venture beyond the mapped world to prove it exists.
 

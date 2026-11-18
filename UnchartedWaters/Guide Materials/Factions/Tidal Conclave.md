@@ -13,6 +13,7 @@ The Conclave is an elitist society of scholars and mystics who draw their power 
 - **Ship:** [The Silver Crescent]({{site.baseurl}}/UnchartedWaters/Locations/Ships/TheSilverCrescent/#the-silver-crescent)
 - **Leader:** High Oracle Selene, a blind seer who navigates purely by the pull of the tides.
 - **Location:** **The Siren's Rest** — The Conclave are the keepers of the pink-marbled ruins. They study the melodic resonance of the island and are the only ones who truly understand how to maintain the "Peace-Bond" enchantment.
+- **Other holdings:** [The Hollow Berg]({{site.baseurl}}/UnchartedWaters/Locations/TheHollowBerg/#the-hollow-berg), [The Tidebound Library]({{site.baseurl}}/UnchartedWaters/Locations/TheTideboundLibrary/#the-tidebound-library), [The Singing Reef]({{site.baseurl}}/UnchartedWaters/Locations/TheSingingReef/#the-singing-reef)
 - **Motivation:** To study the celestial alignments and harness the power of the moon to control the world's tides and currents.
 - **Hook:** The moon has turned blood-red, and the Silver Crescent is desperately seeking ancient star charts said to be held in a pirate-controlled archive.
 

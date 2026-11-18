@@ -10,6 +10,7 @@ permalink: /UnchartedWaters/Factions/TheBlackFleet/
 - **How they see themselves:** Not criminals. The only honest people on the water, because nobody can own the sea.
 - **Ship:** [The Black Talon]({{site.baseurl}}/UnchartedWaters/Locations/Ships/TheBlackTalon/#the-black-talon). Sleek, black-sailed schooner, sits low, nearly invisible at night or in fog.
 - **Home:** **The Driftworks.** Ships hidden in the tangle, stolen goods fenced through the markets. The Council pretends not to notice.
+- **Other holdings:** [Hollow Crown]({{site.baseurl}}/UnchartedWaters/Locations/HollowCrown/#hollow-crown), [Dreadmire Delta]({{site.baseurl}}/UnchartedWaters/Locations/DreadmireDelta/#dreadmire-delta), [The Carrion Court]({{site.baseurl}}/UnchartedWaters/Locations/TheCarrionCourt/#the-carrion-court)
 - **Motivation:** Break the Gilded Union's grip on the ocean. Live free of any law or king.
 - **Pays in:** Shares, not wages. They remember favors for a long time. So do the people they rob.
 - **Reputation:** They always remember. Scarlet's ledger records every transaction, favor, and debt, and they always come to collect. Swift and silent, they sweep in at the dead of night and leave with the bounty. Their code says they never kill, and that is part of why local communities fear them so much.

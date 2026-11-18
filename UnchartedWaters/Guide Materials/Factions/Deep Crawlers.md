@@ -13,6 +13,7 @@ The Crawlers view the ocean floor as a vast, unplundered museum. They are the pr
 - **Ship:** [The Azure Abyss]({{site.baseurl}}/UnchartedWaters/Locations/Ships/TheAzureAbyss/#the-azure-abyss)
 - **Leader:** Foreman Grogori, a man who spends more time in a brass diving suit than out of it.
 - **Location:** **Rustreach Crag** — The Crawlers control the "Abyssal Cradle" at the base of the Crag. They utilize the steep, submerged cliffs as a vertical highway, launching their bells and tethered explorers into the lightless belly of the stone where the ocean floor meets the foundations of the world.
+- **Other holdings:** [The Gullet]({{site.baseurl}}/UnchartedWaters/Locations/TheGullet/#the-gullet), [Glassdeep]({{site.baseurl}}/UnchartedWaters/Locations/Glassdeep/#glassdeep), [Maw of the Deep One]({{site.baseurl}}/UnchartedWaters/Locations/MawOfTheDeepOne/#maw-of-the-deep-one)
 - **Motivation:** To recover "Old World" technology and artifacts buried on the seafloor before they are lost to the silt forever.
 - **Hook:** A diver on the Azure Abyss found a sealed vault but went mad shortly after; the crew needs someone to enter the vault and retrieve the contents.
 

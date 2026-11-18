@@ -13,6 +13,7 @@ The Circle is a collective of guardians who view the ocean as a single living or
 - **Ship:** [The Verdant Wake]({{site.baseurl}}/UnchartedWaters/Locations/Ships/TheVerdantWake/#the-verdant-wake)
 - **Leader:** Arch-Druid Thalassa, a figure whose skin has begun to take on the texture of polished driftwood.
 - **Location:** **Weirwild Atoll** — The Circle resides within this massive living lattice of roots and glowing growths. They tend to the shadowed pools and ensure the dense canopy remains a sanctuary for the world's oldest sea-spirits.
+- **Other holdings:** [The Kelpmaze]({{site.baseurl}}/UnchartedWaters/Locations/TheKelpmaze/#the-kelpmaze), [Vinewreck]({{site.baseurl}}/UnchartedWaters/Locations/Vinewreck/#vinewreck), [Amberfall Grove]({{site.baseurl}}/UnchartedWaters/Locations/AmberfallGrove/#amberfall-grove)
 - **Motivation:** To restore the balance of the ocean by purging "dead-water" (pollution) and protecting endangered leviathans.
 - **Hook:** The Verdant Wake has been seen blockading a major trade route, claiming the migration of the Great Whales takes precedence over commerce.
 
